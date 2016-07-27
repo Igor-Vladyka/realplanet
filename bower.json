@@ -1,0 +1,21 @@
+{
+  "name": "realplanet",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Igor Vladyka"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Igor-Vladyka/realplanet",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/js/ext",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}

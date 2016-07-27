@@ -1,0 +1,18 @@
+{
+  "name": "realplanet",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Igor-Vladyka/realplanet.git"
+  },
+  "author": "Igor Vladyka",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Igor-Vladyka/realplanet/issues"
+  },
+  "homepage": "https://github.com/Igor-Vladyka/realplanet",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  }
+}
