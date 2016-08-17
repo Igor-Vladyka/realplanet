@@ -1,0 +1,9 @@
+a.wiki{
+  color: ghostwhite;
+  text-decoration: none;
+  font-size: 10px;
+  vertical-align: top;
+  float: right;
+  margin-right: 5px;
+  cursor: pointer;
+}

@@ -1,70 +1,123 @@
 <!DOCTYPE html>
-<html lang="en">
+
+<html ng-app="real.planet">
 	<head>
-	  	<meta charset="utf-8" />
-	  	<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-	  	<title>Explore our world</title>
-	  	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta name="author" content="Igor Vladyka">
+		<meta name="description" content="Easy to use map with information for real world.">
 
-	    <style type="text/css">
-		    body, html {
-		    	height: 100%;
-		    }
+    <title>World Map - Real Planet</title>
 
-		    body { margin: 0px; width: 100%; }
+	  <link href="libs/ext/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+ 		<link href="libs/ext/leaflet/dist/leaflet.css" rel="stylesheet" />
+ 		<link href="libs/ext/toastr/toastr.min.css" rel="stylesheet" />
 
-  			header > span.header {
-  				padding-top: 1em;
-  				text-align: center;
-  				color: #455a64;
-  			    font-family: serif;
-  			    font-size: 70px;
-  			    display: block;
-  			}
+		<link rel="stylesheet" href="css/main.css" >
 
-  			header > span.subheader{
-  				display: block;
-  				font-size: 25px;
-      			font-family: monospace;
-  				color: #ff6f00;
-  			}
+ 		<link href="libs/ext/world-flags-sprite/stylesheets/flags32.css" rel="stylesheet" />
 
-  			header {
-  				text-align: center;
-  				margin: 0 auto 2em auto;
-  			}
-
-  			footer{
-  				height: 30px;
-  				margin: 0;
-  				position: fixed;
-  				bottom: 0;
-  				width: 100%;
-  			}
-
-  			footer > .copyring{
-  			    text-align: center;
-  			    margin-left: auto;
-  			    margin-right: auto;
-  			}
-
-  			main {
-  				padding: 20px 5%;
-  			}
-
-	    </style>
+    <script src="libs/ext/respond/dest/respond.min.js"></script>
 	</head>
+	<body ng-controller="stateController" class="main-background">
+		<div class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			            <span class="sr-only">Toggle navigation</span>
+			            <span class="icon-bar"></span>
+			            <span class="icon-bar"></span>
+			            <span class="icon-bar"></span>
+			        </button>
+					<a class="navbar-brand" ui-sref="filter"><span class="white">Real</span><span class="divider-color">Planet</span></a>
+				</div>
+				<!--div id="navbar" class="collapse navbar-collapse" >
+		          	<ul class="nav navbar-nav">
+		            	<li ng-class="{'active': page == 'filter'}"  ng-disabled="page == 'filter'"><a ui-sref="filter"  ng-disabled="page == 'filter'">Filters</a></li>
+		            	<li ng-class="{'active': page == 'planner'}" ng-disabled="page == 'login'"><a  ng-disabled="page == 'login'" ui-sref="planner">Planner</a></li>
+		            	<li id="searchControl" style="width: 370px;"></li>
+		          	</ul>
+		          	<div id="header_external" class="pull-right header_external" ng-hide="currentUser.name" >
+						<ul class="nav navbar-right custom-external-login">
+							<li style="display: inline-block;"><button type="button" name="provider" value="Google" id="google" class="col-sm-12 fa fa-google-plus fa-2x" ng-click="login('google')"></button></li>
+							<li style="display: inline-block;"><button type="button" name="provider" value="Facebook" id="facebook" class="col-sm-12 fa fa-facebook fa-2x" ng-click="login('facebook')"></button></li>
+						</ul>
+					</div>
+					<ul class="nav navbar-nav pull-right" ng-show="currentUser.name">
+		            	<li ng-show="currentUser.name" class="dropdown">
+							<a data-toggle="dropdown" aria-expanded="true" href="#">{{currentUser.name}}<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a ui-sref="profile">{{currentUser.email}}</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a data-target="#" ng-click="logout()">Log off</a></li>
+							</ul>
+						</li>
+        	</ul>
+        </div-->
+			</div>
+			<div class="progress" id="progress" style="position: absolute; top: 0px; left: 0px; width: 100%; display: none; height: 50px;background-color:transparent;">
+				<div class="progress-bar progress-bar-success progress-bar-striped active" id="progress-line" role="progressbar" style="opacity: 0.2;"></div>
+			</div>
+		</div>
 
-	<body>
+		<div class="container-fluid fullheight nopadding" ui-view> <!-- ui-view-->
+			<div class="container fullheight">
+				<div class="landing-outer">
+					<div class="landing-inner">
+			        	<div class="cover-container">
+			          		<div class="inner cover">
+			            		<h1 class="cover-heading"><span class="white">Real</span><span class="divider-color">Planet</span></h1>
+		            			<p class="lead">easy to use service that allow you to choose best place to visit next, see public points of interest or even add your own and use them offline with any map navigation provider</p>
+			          		</div>
+			        	</div>
+		        	</div>
+		      	</div>
+			</div>
+		</div>
 
-		<header>
-			<span class="header">Real Planet</span>
-			<span class="subheader">Explore our world</span>
-		</header>
+		<!-- bower:js -->
+    <script src="libs/ext/jquery/dist/jquery.min.js"></script>
 
-  	<main></main>
+    <script src="libs/ext/toastr/toastr.min.js"></script>
 
-  	<footer><div class="copyring">© 2016 All rights reserved</div></footer>
+    <script src="libs/ext/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="libs/ext/angular/angular.min.js"></script>
+    <script src="libs/ext/angular-ui-router/release/angular-ui-router.min.js"></script>
+
+		<script src="libs/ext/leaflet/dist/leaflet.js"></script>
+		<script src="libs/ext/leaflet-providers/leaflet-providers.js"></script>
+
+    <script src="libs/ext/angular-leaflet-directive/dist/angular-leaflet-directive.min.js"></script>
+	    <!-- endbower -->
+
+		<script src="js/real.planet/real.planet.app.js"></script>
+
+		<script src="views/real.planet/real.planet.js"></script>
+		<script src="views/login/login.js"></script>
+
+		<script src="services/values/endpoints.js"></script>
+		<script src="services/auth_service.js"></script>
+		<script src="services/CRUD_service.js"></script>
+
+  	<script src="controls/filterModules.js"></script>
+		<script src="controls/filters/baseFilter.js"></script>
+		<script src="controls/filters/countries.js"></script>
+		<script src="controls/filters/budget.js"></script>
+		<script src="controls/filters/visa.js"></script>
+		<script src="controls/filters/tourist.js"></script>
+		<script src="controls/filters/safety.js"></script>
+		<script src="controls/filters/internet.js"></script>
+		<script src="controls/filters/weather.js"></script>
+
+		<script src="controls/kml.js"></script>
+		<script src="controls/dragDrop.js"></script>
+		<script src="controls/map_controls.js"></script>
+		<script src="controls/map.js"></script>
+
+		<script src="js/real.planet.general.js"></script>
 
 	</body>
 </html>
