@@ -1,10 +1,11 @@
 angular.module('real.planet', [
   'ui.router',
   'leaflet-directive'
-]).config(['$stateProvider','$httpProvider', '$urlRouterProvider', function($stateProvider, $httpProvider, $urlRouterProvider) {
+]).config(['$stateProvider','$httpProvider', '$urlRouterProvider', '$logProvider', function($stateProvider, $httpProvider, $urlRouterProvider, $logProvider) {
 
 	    //$httpProvider.interceptors.push('realPlanetHttpInterceptor');
 	    $urlRouterProvider.otherwise("/filter/")
+        $logProvider.debugEnabled(false);
 
 	  	$stateProvider
           .state('filter', {
