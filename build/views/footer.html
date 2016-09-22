@@ -1,0 +1,47 @@
+<div class="row-fluid footer-main">
+	<div class="col-lg-10 col-md-9 col-sm-8 nopadding">
+		<span class="footer-text">© <span id="currentYear"></span> <span class="white">Real</span><span class="divider-color">Planet</span>. All Rights Reserved.</span>
+		<span style="margin-left:25px;">
+			<span class="divider-color pointer" data-toggle="modal" data-target="#mapLegend">Map Legend</span>
+		</span>
+	</div>
+	<div class="col-lg-2 col-md-3 col-sm-4 hidden-xs">
+		<span class="footer-text pull-right white">version <span class="divider-color" id="appVersion">localhost</span></span>
+	</div>
+	<script>
+		$(document).ready(function(){
+			$("#currentYear").html(new Date().getFullYear());
+			if (Storage !== "undefined")
+		    {
+		    	if (localStorage["appVersion"] && localStorage["appVersion"] != $("#appVersion").text()){
+		    		localStorage.clear();
+		    	}
+		    	localStorage["appVersion"] = $("#appVersion").text();
+		    }
+		    $("body").addClass("footer");
+		})
+	</script>
+</div>
+
+<div class="modal fade" id="mapLegend" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel">Map Legend</h4>
+			</div>
+			<div class="modal-body">
+				<div class="alert legend-white-active" style="border-color:gray;">For weather only, indicates that the average monthly temperature is below zero.</div>
+				<div class="alert legend-blue-active">Best place to visit (cheap, safe country or it's very easy to find internet connection).</div>
+				<div class="alert legend-green-active">Top interesting places on earth for nomads (due to relatively cheap life or popular internet connection or easy to get visa or relatively safe place).</div>
+				<div class="alert legend-yellow-active">Popular tourist destinations or warm weather or middle budget place to live.</div>
+				<div class="alert legend-red-active">Worst option(absent internet, very expensive country or very dangerous place).</div>
+			</div>
+			<div class="modal-footer text-left">
+				<div class="alert legend-green-active">Highlighted countries when multiple filters is active.</div>
+				<div class="alert legend-orange-active">Country selection color.</div>
+				<div class="alert legend-gray-active">Currently no data available.</div>
+			</div>
+		</div>
+	</div>
+</div>

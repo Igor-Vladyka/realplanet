@@ -1,0 +1,53 @@
+<div ng-controller="filterController" class="fullheight main-background">
+	<div class="col-lg-2 col-md-3 col-sm-4 nopadding">
+		<div id="countryPanel" ng-if="moduleManager.country">
+			<div class="media">
+				<div class="media-left media-middle f32">
+					<i class="flag {{moduleManager.country.properties.ISO2.toLowerCase()}} pull-right" style="margin: 9px 0 0 25px;"></i>
+				</div>
+			  	<div class="media-body" style="height:50px;    vertical-align: bottom;">
+			    	<h2 class="media-heading white">{{moduleManager.country.properties.name}}</h2>
+				</div>
+			</div>
+			<hr class="divider-shadow" >
+		</div>
+		<div id="filtersPanel">
+	    	<div id='{{module.name}}' rw-module="{{module.name}}" ng-repeat="module in moduleManager.modules | orderBy:'order'" ng-if="module.options">
+	    		<div class="media" id="{{module.name}}Panel" ng-click="checkModule(module)" ng-class="{'pointer': !moduleManager.country}">
+				  <div class="media-body filter-text-container">
+				    	<span class="media-heading white filter-text-heading force-{{module.activeCountry.alias}}" ng-class="{'divider-color': highlightHeader(module)}">{{module.icon.text}}</span>
+				    	<div class="onoffswitch" ng-hide="module.activeCountry">
+						    <input type="checkbox" class="onoffswitch-checkbox" id="switch{{module.name}}" ng-click="checkModule(module)" ng-checked="highlightHeader(module)">
+						    <label class="onoffswitch-label" for="switch{{module.name}}">
+						        <span class="onoffswitch-inner"></span>
+						        <span class="onoffswitch-switch"></span>
+						    </label>
+						</div>
+						<i class="{{module.activeCountry.icon.class}} icon icon-big pull-right force-{{module.activeCountry.alias}}" ng-if="module.activeCountry" style="margin-right: 12px;" title="{{module.activeCountry.text}}"></i>
+				  </div>
+				</div>
+				<hr class="divider-shadow" ng-hide="module.activeCountry">
+				<div id="{{module.name}}Content" class="collapse in" aria-expanded="true"  ng-hide="module.activeCountry">
+					<div class="btn-group" data-toggle="buttons" style="width: 100%;">
+				    	<label class="btn white cell-hover divider-border-vertical" style="width: {{option.icon.cellWidth}};" ng-repeat="option in module.options"  ng-click="checkFilter(option)">
+				    		<input type="checkbox" name="multifilter" value="{{option.alias}}" ng-checked="option.checked">
+				  			<i class="{{option.icon.class}} icon icon-small {{option.alias}}" ng-if="option.icon.i" title="{{option.text}}"></i>
+				    	</label>
+				    </div>
+				</div>
+				<hr class="divider-shadow">
+				<div class="btn-group" role="group" id="monthPanel" aria-label="monthPanel" data-toggle="{{moduleManager.country ? 'no' : 'buttons'}}" style="display:none;" ng-if="module.months">
+				    <label class="btn white month border-radius-zero {{m.class}}" ng-repeat="m in module.months" ng-click="selectMount(m.index)" ng-class="{' cell-hover': !module.activeCountry, 'no-hover': module.activeCountry}">
+				    	<input type="radio" value="{{m.index}}" name="month" ng-hide="module.activeCountry"><span style="vertical-align: super;">{{m.name}}</span>
+				    	<i class="{{m.icon.icon.class}} icon icon-small force-{{m.alias}}" ng-if="m.icon" title="{{m.text}}"></i>
+				    </label>
+				</div>
+				<hr class="divider-shadow" ng-if="module.months">
+	    	</div>
+		</div>
+	</div>
+	<div class="col-lg-10 col-md-9 col-sm-8 nopadding fullheight">
+		<leaflet class="fullheight" center="center" maxbounds="maxbounds"></leaflet>
+		<footer/>
+	</div>
+</div>
