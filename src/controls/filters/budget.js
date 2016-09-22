@@ -7,7 +7,7 @@
     function budgetService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
-        self._file = "budget/round.world.budget.json";
+        self._file = "budget/real.planet.budget.json";
         self.name = "budget";
         self.icon = {i: true, class: "icon-budget-main", text: "Budget"};
         self.order = 2;

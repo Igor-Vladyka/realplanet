@@ -6,7 +6,7 @@
     function safetyService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
-		self._file = "safety/round.world.safety.json";
+		self._file = "safety/real.planet.safety.json";
 
 		self.name = "safety";
 

@@ -7,7 +7,7 @@
     function countriesService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
-        self.path = "country/round.world.countries.low.json";
+        self.path = "country/real.planet.countries.low.json";
 
         self.layer = {};
 

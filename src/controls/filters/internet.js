@@ -8,7 +8,7 @@
 
 		self.name = "internet";
 
-		self._file = "internet/round.world.internet.json";
+		self._file = "internet/real.planet.internet.json";
 
 		self.icon = {i: true, class: "icon-internet-main", text: "Internet"};
 

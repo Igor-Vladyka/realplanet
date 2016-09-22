@@ -6,7 +6,7 @@
     function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, weatherService){
         var self = this;
 
-        self._content = "//roundworlddata.bitbucket.org/";
+        self._content = "//igor-vladyka.github.io/realplanet/data/";
 
         function colorSelector(color){
             switch(color){

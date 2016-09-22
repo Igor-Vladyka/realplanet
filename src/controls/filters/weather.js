@@ -10,7 +10,7 @@
 
 		self.name = "weather";
 
-		self._file = "weather/round.world.weather.json";
+		self._file = "weather/real.planet.weather.json";
 
 		self.icon = {i: true, class: "icon-weather-main", text: "Weather"};
 

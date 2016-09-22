@@ -6,7 +6,7 @@
     function touristService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
-		self._file = "tourist/round.world.tourist.json";
+		self._file = "tourist/real.planet.tourist.json";
 
 		self.name = "tourist";
 
