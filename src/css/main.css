@@ -493,11 +493,11 @@ label.cell-hover:hover{
 /*Icons*/
 @font-face {
   font-family: 'icomoon';
-  src:url('/fonts/icomoon.eot?is65jd');
-  src:url('/fonts/icomoon.eot?#iefixis65jd') format('embedded-opentype'),
-    url('/fonts/icomoon.ttf?is65jd') format('truetype'),
-    url('/fonts/icomoon.woff?is65jd') format('woff'),
-    url('/fonts/icomoon.svg?is65jd#icomoon') format('svg');
+  src:url('../fonts/icomoon.eot?is65jd');
+  src:url('../fonts/icomoon.eot?#iefixis65jd') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?is65jd') format('truetype'),
+    url('../fonts/icomoon.woff?is65jd') format('woff'),
+    url('../fonts/icomoon.svg?is65jd#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
