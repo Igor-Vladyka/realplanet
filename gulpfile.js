@@ -1,8 +1,7 @@
-/// <binding BeforeBuild='staticFiles' AfterBuild='build' />
-
 "use strict";
 
 var gulp = require("gulp"),
+    injectVersion = require('gulp-inject-version'),
     argv = require('yargs').argv,
     series = require('stream-series'),
     rimraf = require("rimraf"),
@@ -13,8 +12,7 @@ var gulp = require("gulp"),
     uglify = require("gulp-uglify");
 
 var paths = {
-    webroot: "./build/",
-    build: "/build/"
+    webroot: "./build/"
 };
 
 paths.target = gulp.src('./src/index.html');
@@ -30,16 +28,23 @@ gulp.task('files', ["clean"], function ()
 {
     var filesToMove = [
             "./src/data/*.*",
-            "./src/views/*.html",
             "./src/views/**/*.html",
             "./src/views/**/**/*.html",
             "./src/fonts/*.*",
             "./src/favicon.ico"
     ];
 
-    gulp.src(filesToMove, { base: './src' })
-    .pipe(gulp.dest(paths.webroot));
+    return gulp.src(filesToMove, { base: './src' })
+                        .pipe(gulp.dest(paths.webroot));;
 });
+
+gulp.task('version', ["files"], function ()
+{
+    return gulp.src('./src/views/footer.html', { base: './src' })
+                            .pipe(injectVersion({replace: "localhost"}))
+                            .pipe(gulp.dest(paths.webroot));
+});
+
 
 var cssStream = gulp.src(
     [
@@ -75,7 +80,7 @@ var appStream = gulp.src(
         './src/controls/**/*.js'
     ]);
 
-gulp.task('app', ['files'], function ()
+gulp.task('app', ['version'], function ()
 {
     var libsCss = cssStream
                 .pipe(cssmin())
