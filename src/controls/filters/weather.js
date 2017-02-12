@@ -37,7 +37,11 @@
 				{index: 11, name: "Now", class:"width-34 divider-border-vertical-center"},
 				{index: 12, name: "Dec", class:"width-33 divider-border-vertical-left"}];
 
-		self.monthPanel = function(){return $("#monthPanel");};
+        self.initDefault = function(){
+            self.monthPanel().find("input:radio[value='" + self._selected+"']").parent().button("toggle");
+        }
+
+		self.monthPanel = function(){return $("#weatherMonthPanel");};
 
 		self.load = function (path){
 			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });

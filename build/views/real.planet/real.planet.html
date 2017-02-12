@@ -36,7 +36,7 @@
 				    </div>
 				</div>
 				<hr class="divider-shadow">
-				<div class="btn-group" role="group" id="monthPanel" aria-label="monthPanel" data-toggle="{{moduleManager.country ? 'no' : 'buttons'}}" style="display:none;" ng-if="module.months">
+				<div class="btn-group" role="group" id="{{module.name}}MonthPanel" aria-label="{{module.name}}MonthPanel" data-toggle="{{moduleManager.country ? 'no' : 'buttons'}}" style="display:none;" ng-if="module.months">
 				    <label class="btn white month border-radius-zero {{m.class}}" ng-repeat="m in module.months" ng-click="selectMount(m.index)" ng-class="{' cell-hover': !module.activeCountry, 'no-hover': module.activeCountry}">
 				    	<input type="radio" value="{{m.index}}" name="month" ng-hide="module.activeCountry"><span style="vertical-align: super;">{{m.name}}</span>
 				    	<i class="{{m.icon.icon.class}} icon icon-small force-{{m.alias}}" ng-if="m.icon" title="{{m.text}}"></i>

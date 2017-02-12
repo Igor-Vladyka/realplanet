@@ -37,14 +37,22 @@
 				{index: 11, name: "Now", class:"width-34 divider-border-vertical-center"},
 				{index: 12, name: "Dec", class:"width-33 divider-border-vertical-left"}];
 
-		self.rainPanel = function (){return $("#monthPanel");};
+        self.initDefault = function(){
+            self.rainPanel().find("input:radio[value='" + self._selected+"']").parent().button("toggle");
+        }
 
-        self.calculate = function (rainfall){
-            if(rainfall < 10){
+		self.rainPanel = function (){return $("#rainMonthPanel");};
+
+        self.calculate = function (rainfall, all){
+            if(rainfall < 1){
+                return "grey";
+            }
+
+            if(rainfall < 20){
                 return "red";
             }
 
-            if(rainfall < 50){
+            if(rainfall < 70){
                 return "yellow";
             }
 
@@ -56,23 +64,26 @@
             if(rainfall < 200){
                 return "blue";
             }
-
+            all.push(rainfall);
             return "white";
         }
 
         self.mapper = function(data){
+            var all = [];
             var newData = data.map(function(root){
                 return {
                     target: root.target,
                     months: root.months.map(function(m){
                         return {
                             number: m.number,
-                            alias: self.calculate(m.rainfall),
+                            alias: self.calculate(m.rainfall, all),
                             name: m.name
                         }
                     })
                 }
-            })
+            });
+
+            console.log("MAX: " + all.sort()[all.length - 1]);
             return data;
         }
 

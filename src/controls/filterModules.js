@@ -109,8 +109,8 @@
         self.initDefaults = function(country){
             setTimeout(function(){
                 $("input:checked").parent("label:not(.active)").button("toggle");
-                weatherService.monthPanel().find("input:radio[value='" + weatherService._selected+"']").parent().button("toggle");
-                rainService.rainPanel().find("input:radio[value='" + rainService._selected+"']").parent().button("toggle");
+                weatherService.initDefault();
+                rainService.initDefault();
                 if(country){
                     weatherService.monthPanel().show();
                     rainService.rainPanel().show();
