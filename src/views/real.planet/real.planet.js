@@ -70,10 +70,9 @@
 
         $scope.selectMount= function(index){
             if(filterModules.canChangeFilters()){
-                if($scope.moduleManager.weather._selected != index){
-                    $scope.moduleManager.weather._selected = index;
-                    filterModules.monthChanged();
-                }
+                $scope.moduleManager.weather._selected = index;
+                $scope.moduleManager.rain._selected = index;
+                filterModules.monthChanged();
             }
         };
 

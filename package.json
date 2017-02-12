@@ -23,5 +23,10 @@
     "rimraf": "^2.5.4",
     "stream-series": "^0.1.1",
     "yargs": "^5.0.0"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp build",
+	"bower": "bower install"
   }
 }

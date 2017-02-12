@@ -1,12 +1,12 @@
 (function() {
 
     angular.module('real.planet')
-        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "weatherService", filterModules]);
+        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "weatherService", "rainService", filterModules]);
 
-    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, weatherService){
+    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, weatherService, rainService){
         var self = this;
 
-        self._content = "//igor-vladyka.github.io/realplanet/data/";
+        self._content = "/data/";//"//igor-vladyka.github.io/realplanet/data/";
 
         function colorSelector(color){
             switch(color){
@@ -98,6 +98,11 @@
             self.moduleManager[weatherService.name] = weatherService;
             promises.push(weatherService.load(self._content));
 
+            resetOptions(rainService);
+            self.moduleManager.modules.push(rainService);
+            self.moduleManager[rainService.name] = rainService;
+            promises.push(rainService.load(self._content));
+
             return $q.all(promises);
         }
 
@@ -105,8 +110,10 @@
             setTimeout(function(){
                 $("input:checked").parent("label:not(.active)").button("toggle");
                 weatherService.monthPanel().find("input:radio[value='" + weatherService._selected+"']").parent().button("toggle");
+                rainService.rainPanel().find("input:radio[value='" + rainService._selected+"']").parent().button("toggle");
                 if(country){
                     weatherService.monthPanel().show();
+                    rainService.rainPanel().show();
                 }
             }, 100)
         }
