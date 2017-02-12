@@ -84,7 +84,7 @@
             });
 
             console.log("MAX: " + all.sort()[all.length - 1]);
-            return data;
+            return newData;
         }
 
 		self.load = function (path){
