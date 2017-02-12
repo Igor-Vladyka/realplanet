@@ -1,9 +1,9 @@
 (function() {
 
     angular.module('real.planet')
-        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "weatherService", "rainService", filterModules]);
+        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "temperatureService", "rainService", filterModules]);
 
-    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, weatherService, rainService){
+    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, temperatureService, rainService){
         var self = this;
 
         self._content = "//igor-vladyka.github.io/realplanet/data/";
@@ -93,10 +93,10 @@
             self.moduleManager[internetService.name] = internetService;
             promises.push(internetService.load(self._content));
 
-            resetOptions(weatherService);
-            self.moduleManager.modules.push(weatherService);
-            self.moduleManager[weatherService.name] = weatherService;
-            promises.push(weatherService.load(self._content));
+            resetOptions(temperatureService);
+            self.moduleManager.modules.push(temperatureService);
+            self.moduleManager[temperatureService.name] = temperatureService;
+            promises.push(temperatureService.load(self._content));
 
             resetOptions(rainService);
             self.moduleManager.modules.push(rainService);
@@ -109,10 +109,10 @@
         self.initDefaults = function(country){
             setTimeout(function(){
                 $("input:checked").parent("label:not(.active)").button("toggle");
-                weatherService.initDefault();
+                temperatureService.initDefault();
                 rainService.initDefault();
                 if(country){
-                    weatherService.monthPanel().show();
+                    temperatureService.monthPanel().show();
                     rainService.rainPanel().show();
                 }
             }, 100)

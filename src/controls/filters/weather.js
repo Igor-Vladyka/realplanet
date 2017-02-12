@@ -1,18 +1,18 @@
 
 (function() {
 
-    angular.module('real.planet').service('weatherService', ["$q", "baseFilterService", weatherService]);
+    angular.module('real.planet').service('temperatureService', ["$q", "baseFilterService", temperatureService]);
 
-    function weatherService($q, baseFilterService){
+    function temperatureService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
 		self._selected = new Date().getMonth() + 1;
 
-		self.name = "weather";
+		self.name = "temperature";
 
 		self._file = "weather/real.planet.weather.json";
 
-		self.icon = {i: true, class: "icon-weather-main", text: "Weather"};
+		self.icon = {i: true, class: "icon-weather-main", text: "Temperature"};
 
 		self.order = 6;
 
