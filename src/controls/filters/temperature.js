@@ -41,7 +41,7 @@
             self.monthPanel().find("input:radio[value='" + self._selected+"']").parent().button("toggle");
         }
 
-		self.monthPanel = function(){return $("#weatherMonthPanel");};
+		self.monthPanel = function(){return $("#" + self.name + "MonthPanel");};
 
 		self.load = function (path){
 			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });

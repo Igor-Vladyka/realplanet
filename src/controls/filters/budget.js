@@ -15,6 +15,19 @@
                 {alias:"yellow", text: "Can afford", checked: false, icon: {i: true, class: "icon-budget-orange-filter", cellWidth: "25%"}},
                 {alias:"red", text: "Highest costs", checked: false, icon: {i: true, class: "icon-budget-red-filter", cellWidth: "25%"}}
             ];
+
+        self.setupCountry = function (feature) {
+            return self.setup(feature);
+        };
+
+        self.setup = function (feature) {
+            var item = self.getDataItem(feature, self.data);
+            return item ? item.alias : 'gray';
+        };
+
+        self.evaluateCountry = function(feature){
+        	self.activeCountry = self.getCountryOption(feature, self.options, self.setup);
+        };
     }
 
 })();

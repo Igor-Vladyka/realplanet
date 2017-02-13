@@ -16,6 +16,19 @@
 				{alias:"red", text: "OMG no internet...", checked: false, icon: {i: true, class: "icon-internet-red-filter", cellWidth: "25%"}}
 			];
 
+        self.setupCountry = function (feature) {
+            return self.setup(feature);
+        };
+
+        self.setup = function (feature) {
+            var item = self.getDataItem(feature, self.data);
+            return item ? item.alias : 'gray';
+        };
+
+        self.evaluateCountry = function(feature){
+        	self.activeCountry = self.getCountryOption(feature, self.options, self.setup);
+        };
+
         self.calculate = function(item){
             if(item.index < 15) {
                 item.alias = "red";

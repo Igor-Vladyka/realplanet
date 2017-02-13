@@ -41,7 +41,7 @@
             self.rainPanel().find("input:radio[value='" + self._selected+"']").parent().button("toggle");
         }
 
-		self.rainPanel = function (){return $("#rainMonthPanel");};
+		self.rainPanel = function (){return $("#" + self.name + "MonthPanel");};
 
         self.calculate = function (rainfall){
 

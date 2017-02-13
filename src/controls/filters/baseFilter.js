@@ -75,19 +75,6 @@
 
             return opt;
         };
-
-        self.setupCountry = function (feature) {
-            return this.setup(feature);
-        };
-
-        self.setup = function (feature) {
-            var item = this.getDataItem(feature, this.data);
-            return item ? item.alias : 'gray';
-        };
-
-        self.evaluateCountry = function(feature){
-        	this.activeCountry = this.getCountryOption(feature, this.options, this.setup);
-        };
     }
 
 })();
