@@ -13,29 +13,35 @@
         }
 
         self.mapper = function (data) {
-            return this.calculate(data);
+            var base = this;
+            if(data[0]){
+                return data.map(base.calculate);
+            } else {
+                return data;
+            }
         }
 
         self.load = function (path){
             var child = this;
-            var filePath = self._fileTemplate.replace("{{name}}", child.name)
+            var filePath = child._fileTemplate.replace("{{name}}", child.name)
                                             .replace("{{name}}", child.name);
-            return self.initialLoad(path + filePath).then(function(data){ child.data = data; });
+            return child.initialLoad(path + filePath).then(function(data){ child.data = data; });
         };
 
         self.initialLoad = function (path){
+            var base = this;
             var deferred = $q.defer();
 
             if (Storage !== "undefined" && localStorage[path])
             {
                 var data = JSON.parse(localStorage[path]);
-                deferred.resolve(self.mapper(data));
+                deferred.resolve(base.mapper(data));
             } else {
                  $.getJSON(path, function(data) {
                     if(Storage !== "undefined"){
                         localStorage[path] = JSON.stringify(data);
                     }
-                    deferred.resolve(self.mapper(data));
+                    deferred.resolve(base.mapper(data));
                 });
             }
 

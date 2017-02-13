@@ -15,6 +15,23 @@
 				{alias:"yellow", text: "Wifi can be found", checked: false, icon: {i: true, class: "icon-internet-orange-filter", cellWidth: "25%"}},
 				{alias:"red", text: "OMG no internet...", checked: false, icon: {i: true, class: "icon-internet-red-filter", cellWidth: "25%"}}
 			];
+
+        self.calculate = function(item){
+            if(item.index < 15) {
+                item.alias = "red";
+            }
+            else if(item.index < 40) {
+                item.alias = "yellow";
+            }
+            else if(item.index < 75) {
+                item.alias = "green";
+            }
+            else {
+                item.alias = "blue";
+            }
+
+            return item;
+        }
 	}
 
 })();
