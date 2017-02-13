@@ -82,7 +82,9 @@
 
 			if (weather != null) {
 				var month = $.grep(weather.months, function (e) { return e.number === index; });
-				color = month[0].alias;
+                if(month.length) {
+                    color = month[0].alias;
+                }
 			}
 
 			return color;
