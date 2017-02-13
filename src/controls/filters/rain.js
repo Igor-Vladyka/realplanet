@@ -14,7 +14,7 @@
 
 		self.icon = {i: true, class: "icon-weather-main", text: "Rains"};
 
-		self.order = 6;
+		self.order = 7;
 
 		self.options = [
                 {alias:"red", text: "No raint at all", checked: false, icon: {i: true, class: "icon-fire", cellWidth: "20%"}},
@@ -43,52 +43,35 @@
 
 		self.rainPanel = function (){return $("#rainMonthPanel");};
 
-        self.calculate = function (rainfall, all){
-            if(rainfall < 1){
-                return "grey";
-            }
+        self.calculate = function (rainfall){
 
-            if(rainfall < 20){
-                return "red";
-            }
+            if(rainfall < 20) { return "red"; }
+            if(rainfall < 70) { return "yellow"; }
+            if(rainfall < 120) { return "green"; }
+            if(rainfall < 200) { return "blue"; }
 
-            if(rainfall < 70){
-                return "yellow";
-            }
-
-            if(rainfall < 120){
-                return "green";
-            }
-
-
-            if(rainfall < 200){
-                return "blue";
-            }
-            all.push(rainfall);
             return "white";
         }
 
         self.mapper = function(data){
-            var all = [];
             var newData = data.map(function(root){
                 return {
                     target: root.target,
                     months: root.months.map(function(m){
                         return {
                             number: m.number,
-                            alias: self.calculate(m.rainfall, all),
+                            alias: self.calculate(m.rainfall),
                             name: m.name
                         }
                     })
                 }
             });
 
-            console.log("MAX: " + all.sort()[all.length - 1]);
             return newData;
         }
 
 		self.load = function (path){
-			return self.initialLoad(path + self._file).then(function(data){ self.data = self.mapper(data); });
+			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });
 		};
 
 		self.setup = function (feature) {

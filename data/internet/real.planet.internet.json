@@ -1,862 +1,1058 @@
 [
   {
-    "target":"AFG",
-    "index":5.9
+    "target": "IND",
+    "index": 26
   },
   {
-    "target":"ALB",
-    "index":60.1
+    "target": "BGD",
+    "index": 14.4
   },
   {
-    "target":"DZA",
-    "index":16.5
+    "target": "PAK",
+    "index": 18
   },
   {
-    "target":"ASM",
-    "index":null
+    "target": "MEX",
+    "index": 57.4310429923633
   },
   {
-    "target":"ADO",
-    "index":94
+    "target": "VNM",
+    "index": 52.720000000055
   },
   {
-    "target":"AGO",
-    "index":19.1
+    "target": "PER",
+    "index": 40.9
   },
   {
-    "target":"ATG",
-    "index":63.4
+    "target": "COL",
+    "index": 55.9049725142924
   },
   {
-    "target":"ARG",
-    "index":59.9
+    "target": "PHL",
+    "index": 40.7
   },
   {
-    "target":"ARM",
-    "index":46.3
+    "target": "NPL",
+    "index": 17.58161800656
   },
   {
-    "target":"ABW",
-    "index":78.9
+    "target": "BRA",
+    "index": 59.079477910505
   },
   {
-    "target":"AUS",
-    "index":83
+    "target": "KHM",
+    "index": 19
   },
   {
-    "target":"AUT",
-    "index":80.6188
+    "target": "ECU",
+    "index": 48.9404337892669
   },
   {
-    "target":"AZE",
-    "index":58.7
+    "target": "BOL",
+    "index": 45.1
   },
   {
-    "target":"BHS",
-    "index":72
+    "target": "ETH",
+    "index": 11.6
   },
   {
-    "target":"BHR",
-    "index":90
+    "target": "PRY",
+    "index": 44.381596919184
   },
   {
-    "target":"BGD",
-    "index":6.5
+    "target": "NGA",
+    "index": 47.442550294429
   },
   {
-    "target":"BRB",
-    "index":75
+    "target": "IDN",
+    "index": 21.9760677113476
   },
   {
-    "target":"BLR",
-    "index":54.17
+    "target": "LKA",
+    "index": 29.988737549341
   },
   {
-    "target":"BEL",
-    "index":82.1702
+    "target": "AFG",
+    "index": 8.26
   },
   {
-    "target":"BLZ",
-    "index":31.7
+    "target": "MMR",
+    "index": 21.8
   },
   {
-    "target":"BEN",
-    "index":4.9
+    "target": "DOM",
+    "index": 51.9302327383135
   },
   {
-    "target":"BMU",
-    "index":95.3
+    "target": "CHN",
+    "index": 50.3
   },
   {
-    "target":"BTN",
-    "index":29.9
+    "target": "BTN",
+    "index": 39.8
   },
   {
-    "target":"BOL",
-    "index":39.5
+    "target": "GTM",
+    "index": 27.100000000275
   },
   {
-    "target":"BIH",
-    "index":67.9
+    "target": "NIC",
+    "index": 19.704291498993
   },
   {
-    "target":"BWA",
-    "index":15
+    "target": "CHL",
+    "index": 64.289
   },
   {
-    "target":"BRA",
-    "index":51.6
+    "target": "KEN",
+    "index": 45.6228006060586
   },
   {
-    "target":"BRN",
-    "index":64.5
+    "target": "HND",
+    "index": 20.356867428881
   },
   {
-    "target":"BGR",
-    "index":53.0615
+    "target": "BEN",
+    "index": 6.787702956098
   },
   {
-    "target":"BFA",
-    "index":4.4
+    "target": "AZE",
+    "index": 77
   },
   {
-    "target":"BDI",
-    "index":1.3
+    "target": "GHA",
+    "index": 23.478128435343
   },
   {
-    "target":"CPV",
-    "index":37.5
+    "target": "SLV",
+    "index": 26.915075328277
   },
   {
-    "target":"KHM",
-    "index":6
+    "target": "UGA",
+    "index": 19.221099634407
   },
   {
-    "target":"CMR",
-    "index":6.4
+    "target": "TZA",
+    "index": 5.355144064127
   },
   {
-    "target":"CAN",
-    "index":85.8
+    "target": "HTI",
+    "index": 12.197766377036
   },
   {
-    "target":"CYM",
-    "index":74.1
+    "target": "TGO",
+    "index": 7.12
   },
   {
-    "target":"CAF",
-    "index":3.5
+    "target": "SEN",
+    "index": 21.690264133037
   },
   {
-    "target":"TCD",
-    "index":2.3
+    "target": "ZAR",
+    "index": 3.799999507273
   },
   {
-    "target":"CHI",
-    "index":null
+    "target": "MDG",
+    "index": 4.173972190007
   },
   {
-    "target":"CHL",
-    "index":66.5
+    "target": "MNG",
+    "index": 21.4360311065255
   },
   {
-    "target":"CHN",
-    "index":45.8
+    "target": "NER",
+    "index": 2.220165349673
   },
   {
-    "target":"COL",
-    "index":51.7
+    "target": "MAR",
+    "index": 57.08
   },
   {
-    "target":"COM",
-    "index":6.5
+    "target": "CMR",
+    "index": 20.6801476606263
   },
   {
-    "target":"ZAR",
-    "index":2.2
+    "target": "BFA",
+    "index": 11.387646166247
   },
   {
-    "target":"COG",
-    "index":6.6
+    "target": "KGZ",
+    "index": 30.247042775311
   },
   {
-    "target":"CRI",
-    "index":45.96
+    "target": "EGY",
+    "index": 35.9
   },
   {
-    "target":"CIV",
-    "index":2.6
+    "target": "ARM",
+    "index": 58.2493322231746
   },
   {
-    "target":"HRV",
-    "index":66.7476
+    "target": "RWA",
+    "index": 18
   },
   {
-    "target":"CUB",
-    "index":25.70893209
+    "target": "ALB",
+    "index": 63.252932696931
   },
   {
-    "target":"CUW",
-    "index":null
+    "target": "DZA",
+    "index": 38.2
   },
   {
-    "target":"CYP",
-    "index":65.4548
+    "target": "ASM",
+    "index": null
   },
   {
-    "target":"CZE",
-    "index":74.1104
+    "target": "ADO",
+    "index": 96.91
   },
   {
-    "target":"DNK",
-    "index":94.6297
+    "target": "AGO",
+    "index": 12.4
   },
   {
-    "target":"DJI",
-    "index":9.5
+    "target": "ATG",
+    "index": 65.2
   },
   {
-    "target":"DMA",
-    "index":59
+    "target": "ARB",
+    "index": 39.5261540659397
   },
   {
-    "target":"DOM",
-    "index":45.9
+    "target": "ARG",
+    "index": 69.40092102179
   },
   {
-    "target":"ECU",
-    "index":40.35368423
+    "target": "ABW",
+    "index": 88.661226932496
   },
   {
-    "target":"EGY",
-    "index":49.56
+    "target": "AUS",
+    "index": 84.560519347399
   },
   {
-    "target":"SLV",
-    "index":23.1093
+    "target": "AUT",
+    "index": 83.9263
   },
   {
-    "target":"GNQ",
-    "index":16.4
+    "target": "BHS",
+    "index": 78
   },
   {
-    "target":"ERI",
-    "index":0.9
+    "target": "BHR",
+    "index": 93.4783011354165
   },
   {
-    "target":"EST",
-    "index":80.0043
+    "target": "BRB",
+    "index": 76.11
   },
   {
-    "target":"ETH",
-    "index":1.9
+    "target": "BLR",
+    "index": 62.230360906803
   },
   {
-    "target":"FRO",
-    "index":90
+    "target": "BEL",
+    "index": 85.0529
   },
   {
-    "target":"FJI",
-    "index":37.1
+    "target": "BLZ",
+    "index": 41.589999999835
   },
   {
-    "target":"FIN",
-    "index":91.5144
+    "target": "BMU",
+    "index": 98.3236096537251
   },
   {
-    "target":"FRA",
-    "index":81.9198
+    "target": "BIH",
+    "index": 65.065502803344
   },
   {
-    "target":"PYF",
-    "index":56.8
+    "target": "BWA",
+    "index": 27.5
   },
   {
-    "target":"GAB",
-    "index":9.2
+    "target": "VGB",
+    "index": null
   },
   {
-    "target":"GMB",
-    "index":14
+    "target": "BRN",
+    "index": 71.2
   },
   {
-    "target":"GEO",
-    "index":43.1
+    "target": "BGR",
+    "index": 56.6563
   },
   {
-    "target":"DEU",
-    "index":83.9614
+    "target": "BDI",
+    "index": 4.86622446359511
   },
   {
-    "target":"GHA",
-    "index":12.3
+    "target": "CPV",
+    "index": 43.019626357101
   },
   {
-    "target":"GRC",
-    "index":59.8663
+    "target": "CAN",
+    "index": 88.47
   },
   {
-    "target":"GRL",
-    "index":65.8
+    "target": "CSS",
+    "index": 51.9169995201878
   },
   {
-    "target":"GRD",
-    "index":35
+    "target": "CYM",
+    "index": 77
   },
   {
-    "target":"GUM",
-    "index":65.4
+    "target": "CAF",
+    "index": 4.563264351542
   },
   {
-    "target":"GTM",
-    "index":19.7
+    "target": "CEB",
+    "index": 68.1565862177866
   },
   {
-    "target":"GIN",
-    "index":1.6
+    "target": "TCD",
+    "index": 2.70000000055
   },
   {
-    "target":"GNB",
-    "index":3.1
+    "target": "CHI",
+    "index": null
   },
   {
-    "target":"GUY",
-    "index":33
+    "target": "COM",
+    "index": 7.459161385649
   },
   {
-    "target":"HTI",
-    "index":10.6
+    "target": "COG",
+    "index": 7.61597466209
   },
   {
-    "target":"HND",
-    "index":17.8
+    "target": "CRI",
+    "index": 59.7629501371681
   },
   {
-    "target":"HKG",
-    "index":74.2
+    "target": "CIV",
+    "index": 21
   },
   {
-    "target":"HUN",
-    "index":72.6439
+    "target": "HRV",
+    "index": 69.8031
   },
   {
-    "target":"ISL",
-    "index":96.5468
+    "target": "CUB",
+    "index": 31.107970210145
   },
   {
-    "target":"IND",
-    "index":15.1
+    "target": "CUW",
+    "index": null
   },
   {
-    "target":"IDN",
-    "index":15.82
+    "target": "CYP",
+    "index": 71.7159
   },
   {
-    "target":"IRN",
-    "index":31.4
+    "target": "CZE",
+    "index": 81.2986
   },
   {
-    "target":"IRQ",
-    "index":9.2
+    "target": "DNK",
+    "index": 96.3305
   },
   {
-    "target":"IRL",
-    "index":78.2477
+    "target": "DJI",
+    "index": 11.9224314345
   },
   {
-    "target":"IMY",
-    "index":null
+    "target": "DMA",
+    "index": 67.6
   },
   {
-    "target":"ISR",
-    "index":70.8
+    "target": "EAR",
+    "index": 29.7923425468531
   },
   {
-    "target":"ITA",
-    "index":58.4593
+    "target": "EAS",
+    "index": 49.8247157803774
   },
   {
-    "target":"JAM",
-    "index":37.8
+    "target": "EAP",
+    "index": 44.9820489707828
   },
   {
-    "target":"JPN",
-    "index":86.25
+    "target": "TEA",
+    "index": 44.9820489707828
   },
   {
-    "target":"JOR",
-    "index":44.2
+    "target": "GNQ",
+    "index": 21.319999985207
   },
   {
-    "target":"KAZ",
-    "index":54
+    "target": "ERI",
+    "index": 1.083733115675
   },
   {
-    "target":"KEN",
-    "index":39
+    "target": "EST",
+    "index": 88.4066
   },
   {
-    "target":"KIR",
-    "index":11.5
+    "target": "EMU",
+    "index": 80.280283969454
   },
   {
-    "target":"PRK",
-    "index":null
+    "target": "ECS",
+    "index": 71.7441292126694
   },
   {
-    "target":"KOR",
-    "index":84.77
+    "target": "ECA",
+    "index": 59.9320644594073
   },
   {
-    "target":"KSV",
-    "index":null
+    "target": "TEC",
+    "index": 60.7187464806964
   },
   {
-    "target":"KWT",
-    "index":75.46
+    "target": "EUU",
+    "index": 79.6258146075023
   },
   {
-    "target":"KGZ",
-    "index":23.4
+    "target": "FRO",
+    "index": 94.2
   },
   {
-    "target":"LAO",
-    "index":12.5
+    "target": "FJI",
+    "index": 46.32872894627
   },
   {
-    "target":"LVA",
-    "index":75.2344
+    "target": "FIN",
+    "index": 92.6513
   },
   {
-    "target":"LBN",
-    "index":70.5
+    "target": "FCS",
+    "index": 14.98630874699
   },
   {
-    "target":"LSO",
-    "index":5
+    "target": "FRA",
+    "index": 84.6945
   },
   {
-    "target":"LBR",
-    "index":4.6
+    "target": "PYF",
+    "index": 64.560209747212
   },
   {
-    "target":"LBY",
-    "index":16.5
+    "target": "GAB",
+    "index": 23.5
   },
   {
-    "target":"LIE",
-    "index":93.8
+    "target": "GMB",
+    "index": 17.119820502123
   },
   {
-    "target":"LTU",
-    "index":68.4529
+    "target": "GEO",
+    "index": 45.1583744140752
   },
   {
-    "target":"LUX",
-    "index":93.7765
+    "target": "DEU",
+    "index": 87.5898
   },
   {
-    "target":"MAC",
-    "index":65.8
+    "target": "GIB",
+    "index": null
   },
   {
-    "target":"MKD",
-    "index":61.2
+    "target": "GRC",
+    "index": 66.835
   },
   {
-    "target":"MDG",
-    "index":2.2
+    "target": "GRL",
+    "index": 67.600443481006
   },
   {
-    "target":"MWI",
-    "index":5.4
+    "target": "GRD",
+    "index": 53.81
   },
   {
-    "target":"MYS",
-    "index":66.97
+    "target": "GUM",
+    "index": 73.139999947043
   },
   {
-    "target":"MDV",
-    "index":44.1
+    "target": "GIN",
+    "index": 4.7
   },
   {
-    "target":"MLI",
-    "index":2.3
+    "target": "GNB",
+    "index": 3.540706917021
   },
   {
-    "target":"MLT",
-    "index":68.9138
+    "target": "GUY",
+    "index": 38.2
   },
   {
-    "target":"MHL",
-    "index":11.7
+    "target": "HPC",
+    "index": 12.1335183726839
   },
   {
-    "target":"MRT",
-    "index":6.2
+    "target": "HIC",
+    "index": 81.0147435830839
   },
   {
-    "target":"MUS",
-    "index":39
+    "target": "HKG",
+    "index": 84.9483529634062
   },
   {
-    "target":"MEX",
-    "index":43.46
+    "target": "HUN",
+    "index": 72.8347
   },
   {
-    "target":"FSM",
-    "index":27.8
+    "target": "IBD",
+    "index": 42.5624927917813
   },
   {
-    "target":"MDA",
-    "index":48.8
+    "target": "ISL",
+    "index": 98.2
   },
   {
-    "target":"MCO",
-    "index":90.7
+    "target": "IBT",
+    "index": 37.1141533061658
   },
   {
-    "target":"MNG",
-    "index":17.7
+    "target": "IDB",
+    "index": 35.0408617964624
   },
   {
-    "target":"MNE",
-    "index":56.8
+    "target": "IDX",
+    "index": 15.1737595007416
   },
   {
-    "target":"MAR",
-    "index":56
+    "target": "IDA",
+    "index": 22.23873864008
   },
   {
-    "target":"MOZ",
-    "index":5.4
+    "target": "IRN",
+    "index": 44.082875016875
   },
   {
-    "target":"MMR",
-    "index":1.2
+    "target": "IRQ",
+    "index": 17.22
   },
   {
-    "target":"NAM",
-    "index":13.9
+    "target": "IRL",
+    "index": 80.1224
   },
   {
-    "target":"NPL",
-    "index":13.3
+    "target": "IMY",
+    "index": null
   },
   {
-    "target":"NLD",
-    "index":93.9564
+    "target": "ISR",
+    "index": 78.88517910353
   },
   {
-    "target":"NCL",
-    "index":66
+    "target": "ITA",
+    "index": 65.5716
   },
   {
-    "target":"NZL",
-    "index":82.78
+    "target": "JAM",
+    "index": 43.1758971872
   },
   {
-    "target":"NIC",
-    "index":15.5
+    "target": "JPN",
+    "index": 93.329411063737
   },
   {
-    "target":"NER",
-    "index":1.7
+    "target": "JOR",
+    "index": 53.4
   },
   {
-    "target":"NGA",
-    "index":38
+    "target": "KAZ",
+    "index": 72.8660129673921
   },
   {
-    "target":"MNP",
-    "index":null
+    "target": "KIR",
+    "index": 12.99748389414
   },
   {
-    "target":"NOR",
-    "index":95.0534
+    "target": "PRK",
+    "index": null
   },
   {
-    "target":"OMN",
-    "index":66.45
+    "target": "KOR",
+    "index": 89.8962557995106
   },
   {
-    "target":"PAK",
-    "index":10.9
+    "target": "KSV",
+    "index": null
   },
   {
-    "target":"PLW",
-    "index":null
+    "target": "KWT",
+    "index": 82.0791147627883
   },
   {
-    "target":"PAN",
-    "index":42.9
+    "target": "LAO",
+    "index": 18.2
   },
   {
-    "target":"PNG",
-    "index":6.5
+    "target": "LTE",
+    "index": 54.0592557700003
   },
   {
-    "target":"PRY",
-    "index":36.9
+    "target": "LCN",
+    "index": 54.4583843034657
   },
   {
-    "target":"PER",
-    "index":39.2
+    "target": "LAC",
+    "index": 53.8839339917845
   },
   {
-    "target":"PHL",
-    "index":37
+    "target": "TLA",
+    "index": 54.7037176765572
   },
   {
-    "target":"POL",
-    "index":62.8492
+    "target": "LVA",
+    "index": 79.2006
   },
   {
-    "target":"PRT",
-    "index":62.0956
+    "target": "LDC",
+    "index": 12.628601218278
   },
   {
-    "target":"PRI",
-    "index":73.9
+    "target": "LBN",
+    "index": 74
   },
   {
-    "target":"QAT",
-    "index":85.3
+    "target": "LSO",
+    "index": 16.071707703394
   },
   {
-    "target":"ROM",
-    "index":49.7645
+    "target": "LBR",
+    "index": 5.903867602799
   },
   {
-    "target":"RUS",
-    "index":61.4
+    "target": "LBY",
+    "index": 19.016079781565
   },
   {
-    "target":"RWA",
-    "index":8.7
+    "target": "LIE",
+    "index": 96.6411950959488
   },
   {
-    "target":"WSM",
-    "index":15.3
+    "target": "LTU",
+    "index": 71.378
   },
   {
-    "target":"SMR",
-    "index":50.8
+    "target": "LMY",
+    "index": 36.7986475240125
   },
   {
-    "target":"STP",
-    "index":23
+    "target": "LIC",
+    "index": 9.46034205257496
   },
   {
-    "target":"SAU",
-    "index":60.5
+    "target": "LMC",
+    "index": 28.6320615312121
   },
   {
-    "target":"SEN",
-    "index":20.9
+    "target": "LUX",
+    "index": 97.3341
   },
   {
-    "target":"SRB",
-    "index":51.5
+    "target": "MAC",
+    "index": 77.6001318608868
   },
   {
-    "target":"SYC",
-    "index":50.4
+    "target": "MKD",
+    "index": 70.3802
   },
   {
-    "target":"SLE",
-    "index":1.7
+    "target": "MWI",
+    "index": 9.2981483471244
   },
   {
-    "target":"SGP",
-    "index":73
+    "target": "MYS",
+    "index": 71.0640678111957
   },
   {
-    "target":"SXM",
-    "index":null
+    "target": "MDV",
+    "index": 54.461955146942
   },
   {
-    "target":"SVK",
-    "index":77.8826
+    "target": "MLI",
+    "index": 10.33692498389
   },
   {
-    "target":"SVN",
-    "index":72.6756
+    "target": "MLT",
+    "index": 76.184
   },
   {
-    "target":"SLB",
-    "index":8
+    "target": "MHL",
+    "index": 19.282441803511
   },
   {
-    "target":"SOM",
-    "index":1.5
+    "target": "MRT",
+    "index": 15.199126690825
   },
   {
-    "target":"ZAF",
-    "index":48.9
+    "target": "MUS",
+    "index": 50.1393184766711
   },
   {
-    "target":"SSD",
-    "index":null
+    "target": "FSM",
+    "index": 31.501081275309
   },
   {
-    "target":"ESP",
-    "index":71.5719
+    "target": "MEA",
+    "index": 43.707533366815
   },
   {
-    "target":"LKA",
-    "index":21.9
+    "target": "MNA",
+    "index": 38.2062538479483
   },
   {
-    "target":"KNA",
-    "index":80
+    "target": "TMN",
+    "index": 37.9589815831978
   },
   {
-    "target":"LCA",
-    "index":35.2
+    "target": "MIC",
+    "index": 39.7963632949121
   },
   {
-    "target":"MAF",
-    "index":null
+    "target": "MDA",
+    "index": 49.8369395415
   },
   {
-    "target":"VCT",
-    "index":52
+    "target": "MCO",
+    "index": 93.3633020180933
   },
   {
-    "target":"SDN",
-    "index":22.7
+    "target": "MNE",
+    "index": 64.564993139872
   },
   {
-    "target":"SUR",
-    "index":37.4
+    "target": "MOZ",
+    "index": 9
   },
   {
-    "target":"SWZ",
-    "index":24.7
+    "target": "NAM",
+    "index": 22.3070147912325
   },
   {
-    "target":"SWE",
-    "index":94.7836
+    "target": "NRU",
+    "index": null
   },
   {
-    "target":"CHE",
-    "index":86.7
+    "target": "NLD",
+    "index": 93.0965
   },
   {
-    "target":"SYR",
-    "index":26.2
+    "target": "NCL",
+    "index": 74.00175279141
   },
   {
-    "target":"TWN",
-    "index":null
+    "target": "NZL",
+    "index": 88.22288881795
   },
   {
-    "target":"TJK",
-    "index":16
+    "target": "NAC",
+    "index": 75.9372515632806
   },
   {
-    "target":"TZA",
-    "index":4.4
+    "target": "MNP",
+    "index": null
   },
   {
-    "target":"THA",
-    "index":28.94
+    "target": "NOR",
+    "index": 96.8103
   },
   {
-    "target":"TMP",
-    "index":1.1
+    "target": "INX",
+    "index": null
   },
   {
-    "target":"TGO",
-    "index":4.5
+    "target": "OED",
+    "index": 77.243487456501
   },
   {
-    "target":"TON",
-    "index":35
+    "target": "OMN",
+    "index": 74.174165970433
   },
   {
-    "target":"TTO",
-    "index":63.8
+    "target": "OSS",
+    "index": 40.3955638254411
   },
   {
-    "target":"TUN",
-    "index":43.8
+    "target": "PSS",
+    "index": 29.7828414639424
   },
   {
-    "target":"TUR",
-    "index":46.25
+    "target": "PLW",
+    "index": null
   },
   {
-    "target":"TKM",
-    "index":9.6
+    "target": "PAN",
+    "index": 51.2054249948687
   },
   {
-    "target":"TCA",
-    "index":null
+    "target": "PNG",
+    "index": 7.9
   },
   {
-    "target":"TUV",
-    "index":37
+    "target": "POL",
+    "index": 67.997
   },
   {
-    "target":"UGA",
-    "index":16.2
+    "target": "PRT",
+    "index": 68.6329
   },
   {
-    "target":"UKR",
-    "index":41.8
+    "target": "PST",
+    "index": 79.7749533624375
   },
   {
-    "target":"ARE",
-    "index":88
+    "target": "PRE",
+    "index": 21.0710908041732
   },
   {
-    "target":"GBR",
-    "index":89.8441
+    "target": "PRI",
+    "index": 79.46876882531
   },
   {
-    "target":"USA",
-    "index":84.2
+    "target": "QAT",
+    "index": 92.8848264535481
   },
   {
-    "target":"URY",
-    "index":58.1
+    "target": "ROM",
+    "index": 55.7632
   },
   {
-    "target":"UZB",
-    "index":38.2
+    "target": "RUS",
+    "index": 73.41
   },
   {
-    "target":"VUT",
-    "index":11.3
+    "target": "WSM",
+    "index": 25.407009766593
   },
   {
-    "target":"VEN",
-    "index":54.9
+    "target": "SMR",
+    "index": null
   },
   {
-    "target":"VNM",
-    "index":43.9
+    "target": "STP",
+    "index": 25.822248798856
   },
   {
-    "target":"VIR",
-    "index":45.3
+    "target": "SAU",
+    "index": 69.6162358014004
   },
   {
-    "target":"WBG",
-    "index":46.6
+    "target": "SRB",
+    "index": 65.3170254003801
   },
   {
-    "target":"YEM",
-    "index":20
+    "target": "SYC",
+    "index": 58.118697567706
   },
   {
-    "target":"ZMB",
-    "index":15.4
+    "target": "SLE",
+    "index": 2.5
   },
   {
-    "target":"ZWE",
-    "index":18.5
+    "target": "SGP",
+    "index": 82.103
+  },
+  {
+    "target": "SXM",
+    "index": null
+  },
+  {
+    "target": "SVK",
+    "index": 85.019514056785
+  },
+  {
+    "target": "SVN",
+    "index": 73.0987
+  },
+  {
+    "target": "SST",
+    "index": 41.9345509745761
+  },
+  {
+    "target": "SLB",
+    "index": 10.000464982561
+  },
+  {
+    "target": "SOM",
+    "index": 1.76
+  },
+  {
+    "target": "ZAF",
+    "index": 51.919115722747
+  },
+  {
+    "target": "SAS",
+    "index": 23.6279411151014
+  },
+  {
+    "target": "TSA",
+    "index": 23.6279411151014
+  },
+  {
+    "target": "SSD",
+    "index": 17.9297872340426
+  },
+  {
+    "target": "ESP",
+    "index": 78.6896
+  },
+  {
+    "target": "KNA",
+    "index": 75.7
+  },
+  {
+    "target": "LCA",
+    "index": 52.35
+  },
+  {
+    "target": "MAF",
+    "index": null
+  },
+  {
+    "target": "VCT",
+    "index": 51.77
+  },
+  {
+    "target": "SSF",
+    "index": 22.3880597098621
+  },
+  {
+    "target": "SSA",
+    "index": 22.384664533935
+  },
+  {
+    "target": "TSS",
+    "index": 22.3880597098621
+  },
+  {
+    "target": "SDN",
+    "index": 26.614928545846
+  },
+  {
+    "target": "SUR",
+    "index": 42.763827782511
+  },
+  {
+    "target": "SWZ",
+    "index": 30.382700656117
+  },
+  {
+    "target": "SWE",
+    "index": 90.6102
+  },
+  {
+    "target": "CHE",
+    "index": 87.97
+  },
+  {
+    "target": "SYR",
+    "index": 29.979797235769
+  },
+  {
+    "target": "TJK",
+    "index": 18.980000000495
+  },
+  {
+    "target": "THA",
+    "index": 39.3161267365004
+  },
+  {
+    "target": "TMP",
+    "index": 13.4
+  },
+  {
+    "target": "TON",
+    "index": 44.999518833326
+  },
+  {
+    "target": "TTO",
+    "index": 69.198470608693
+  },
+  {
+    "target": "TUN",
+    "index": 48.519835991689
+  },
+  {
+    "target": "TUR",
+    "index": 53.7449791423583
+  },
+  {
+    "target": "TKM",
+    "index": 14.996774820447
+  },
+  {
+    "target": "TCA",
+    "index": null
+  },
+  {
+    "target": "TUV",
+    "index": 42.7
+  },
+  {
+    "target": "UKR",
+    "index": 49.26
+  },
+  {
+    "target": "ARE",
+    "index": 91.2434057753709
+  },
+  {
+    "target": "GBR",
+    "index": 92.0003
+  },
+  {
+    "target": "USA",
+    "index": 74.55
+  },
+  {
+    "target": "UMC",
+    "index": 52.1378691585815
+  },
+  {
+    "target": "URY",
+    "index": 64.6
+  },
+  {
+    "target": "UZB",
+    "index": 42.8
+  },
+  {
+    "target": "VUT",
+    "index": 22.351404582536
+  },
+  {
+    "target": "VEN",
+    "index": 61.869248094278
+  },
+  {
+    "target": "VIR",
+    "index": 54.839137296
+  },
+  {
+    "target": "WBG",
+    "index": 57.42419241388
+  },
+  {
+    "target": "WLD",
+    "index": 43.9983147914322
+  },
+  {
+    "target": "YEM",
+    "index": 25.09951439988
+  },
+  {
+    "target": "ZMB",
+    "index": 21
+  },
+  {
+    "target": "ZWE",
+    "index": 16.36
   }
 ]
