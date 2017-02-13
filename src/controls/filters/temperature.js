@@ -43,10 +43,6 @@
 
 		self.monthPanel = function(){return $("#" + self.name + "MonthPanel");};
 
-		self.load = function (path){
-			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });
-		};
-
         self.calculate = function (temperature){
             if(temperature <= 0) { return "white"; }
             if(temperature < 10) { return "blue"; }
@@ -63,9 +59,8 @@
                     months: root.months.map(function(m){
                         return {
                             number: m.number,
-                            alias: self.calculate(m.temperature),
-                            index: m.temperature,
-                            name: m.name
+                            alias: self.calculate(m.index),
+                            index: m.index
                         }
                     })
                 }
@@ -75,17 +70,7 @@
         };
 
 		self.setup = function (feature) {
-
-			var color = 'gray';
-
-			var weather = self.getDataItem(feature, self.data);
-
-			if (weather != null) {
-				var month = $.grep(weather.months, function (e) { return e.number === self._selected; });
-				color = month[0].alias;
-			}
-
-			return color;
+			return self.setupMonth(feature, self._selected);
 		};
 
 		self.setupMonth = function (feature, index) {
@@ -95,7 +80,9 @@
 
 			if (weather != null) {
 				var month = $.grep(weather.months, function (e) { return e.number === index; });
-				color = month[0].alias;
+                if(month.length) {
+                    color = month[0].alias;
+                }
 			}
 
 			return color;

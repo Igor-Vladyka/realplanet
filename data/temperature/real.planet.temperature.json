@@ -1,0 +1,11446 @@
+[
+  {
+    "target": "IND",
+    "months": [
+      {
+        "number": 1,
+        "index": 16.77494
+      },
+      {
+        "number": 2,
+        "index": 18.919302
+      },
+      {
+        "number": 3,
+        "index": 23.226759
+      },
+      {
+        "number": 4,
+        "index": 27.065495
+      },
+      {
+        "number": 5,
+        "index": 29.333054
+      },
+      {
+        "number": 6,
+        "index": 28.827402
+      },
+      {
+        "number": 7,
+        "index": 26.874523
+      },
+      {
+        "number": 8,
+        "index": 26.229746
+      },
+      {
+        "number": 9,
+        "index": 25.976925
+      },
+      {
+        "number": 10,
+        "index": 24.376797
+      },
+      {
+        "number": 11,
+        "index": 20.582417
+      },
+      {
+        "number": 12,
+        "index": 17.401814
+      }
+    ]
+  },
+  {
+    "target": "BGD",
+    "months": [
+      {
+        "number": 1,
+        "index": 18.400917
+      },
+      {
+        "number": 2,
+        "index": 20.626333
+      },
+      {
+        "number": 3,
+        "index": 24.89707
+      },
+      {
+        "number": 4,
+        "index": 27.452908
+      },
+      {
+        "number": 5,
+        "index": 27.996243
+      },
+      {
+        "number": 6,
+        "index": 28.001816
+      },
+      {
+        "number": 7,
+        "index": 27.849506
+      },
+      {
+        "number": 8,
+        "index": 27.900522
+      },
+      {
+        "number": 9,
+        "index": 27.89447
+      },
+      {
+        "number": 10,
+        "index": 26.683697
+      },
+      {
+        "number": 11,
+        "index": 23.1761
+      },
+      {
+        "number": 12,
+        "index": 19.479916
+      }
+    ]
+  },
+  {
+    "target": "PAK",
+    "months": [
+      {
+        "number": 1,
+        "index": 8.127531
+      },
+      {
+        "number": 2,
+        "index": 10.235663
+      },
+      {
+        "number": 3,
+        "index": 15.558725
+      },
+      {
+        "number": 4,
+        "index": 20.978806
+      },
+      {
+        "number": 5,
+        "index": 25.514336
+      },
+      {
+        "number": 6,
+        "index": 28.416286
+      },
+      {
+        "number": 7,
+        "index": 28.357555
+      },
+      {
+        "number": 8,
+        "index": 27.166416
+      },
+      {
+        "number": 9,
+        "index": 24.75347
+      },
+      {
+        "number": 10,
+        "index": 20.401512
+      },
+      {
+        "number": 11,
+        "index": 14.736856
+      },
+      {
+        "number": 12,
+        "index": 9.892018
+      }
+    ]
+  },
+  {
+    "target": "MEX",
+    "months": [
+      {
+        "number": 1,
+        "index": 15.468297
+      },
+      {
+        "number": 2,
+        "index": 16.766376
+      },
+      {
+        "number": 3,
+        "index": 18.783476
+      },
+      {
+        "number": 4,
+        "index": 21.458698
+      },
+      {
+        "number": 5,
+        "index": 23.697353
+      },
+      {
+        "number": 6,
+        "index": 25.30461
+      },
+      {
+        "number": 7,
+        "index": 25.397154
+      },
+      {
+        "number": 8,
+        "index": 25.301489
+      },
+      {
+        "number": 9,
+        "index": 24.188961
+      },
+      {
+        "number": 10,
+        "index": 21.68249
+      },
+      {
+        "number": 11,
+        "index": 18.210789
+      },
+      {
+        "number": 12,
+        "index": 15.786148
+      }
+    ]
+  },
+  {
+    "target": "VNM",
+    "months": [
+      {
+        "number": 1,
+        "index": 19.888786
+      },
+      {
+        "number": 2,
+        "index": 21.014923
+      },
+      {
+        "number": 3,
+        "index": 22.535172
+      },
+      {
+        "number": 4,
+        "index": 25.539387
+      },
+      {
+        "number": 5,
+        "index": 26.93465
+      },
+      {
+        "number": 6,
+        "index": 27.185022
+      },
+      {
+        "number": 7,
+        "index": 27.08493
+      },
+      {
+        "number": 8,
+        "index": 26.881191
+      },
+      {
+        "number": 9,
+        "index": 26.161106
+      },
+      {
+        "number": 10,
+        "index": 24.69953
+      },
+      {
+        "number": 11,
+        "index": 22.680689
+      },
+      {
+        "number": 12,
+        "index": 20.680256
+      }
+    ]
+  },
+  {
+    "target": "PER",
+    "months": [
+      {
+        "number": 1,
+        "index": 20.620125
+      },
+      {
+        "number": 2,
+        "index": 20.680883
+      },
+      {
+        "number": 3,
+        "index": 20.575397
+      },
+      {
+        "number": 4,
+        "index": 20.24538
+      },
+      {
+        "number": 5,
+        "index": 19.61715
+      },
+      {
+        "number": 6,
+        "index": 18.743914
+      },
+      {
+        "number": 7,
+        "index": 18.389517
+      },
+      {
+        "number": 8,
+        "index": 18.988218
+      },
+      {
+        "number": 9,
+        "index": 19.607347
+      },
+      {
+        "number": 10,
+        "index": 19.990652
+      },
+      {
+        "number": 11,
+        "index": 20.360397
+      },
+      {
+        "number": 12,
+        "index": 20.392017
+      }
+    ]
+  },
+  {
+    "target": "COL",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.814747
+      },
+      {
+        "number": 2,
+        "index": 25.15298
+      },
+      {
+        "number": 3,
+        "index": 25.3228
+      },
+      {
+        "number": 4,
+        "index": 25.014793
+      },
+      {
+        "number": 5,
+        "index": 24.5635
+      },
+      {
+        "number": 6,
+        "index": 24.112782
+      },
+      {
+        "number": 7,
+        "index": 24.008745
+      },
+      {
+        "number": 8,
+        "index": 24.281918
+      },
+      {
+        "number": 9,
+        "index": 24.52615
+      },
+      {
+        "number": 10,
+        "index": 24.597805
+      },
+      {
+        "number": 11,
+        "index": 24.66608
+      },
+      {
+        "number": 12,
+        "index": 24.645845
+      }
+    ]
+  },
+  {
+    "target": "PHL",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.714249
+      },
+      {
+        "number": 2,
+        "index": 24.818224
+      },
+      {
+        "number": 3,
+        "index": 25.62684
+      },
+      {
+        "number": 4,
+        "index": 26.584696
+      },
+      {
+        "number": 5,
+        "index": 26.938786
+      },
+      {
+        "number": 6,
+        "index": 26.512997
+      },
+      {
+        "number": 7,
+        "index": 26.069057
+      },
+      {
+        "number": 8,
+        "index": 26.07867
+      },
+      {
+        "number": 9,
+        "index": 25.948391
+      },
+      {
+        "number": 10,
+        "index": 25.85738
+      },
+      {
+        "number": 11,
+        "index": 25.490599
+      },
+      {
+        "number": 12,
+        "index": 25.019123
+      }
+    ]
+  },
+  {
+    "target": "NPL",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.8774166
+      },
+      {
+        "number": 2,
+        "index": 5.410737
+      },
+      {
+        "number": 3,
+        "index": 9.876257
+      },
+      {
+        "number": 4,
+        "index": 14.061562
+      },
+      {
+        "number": 5,
+        "index": 16.958927
+      },
+      {
+        "number": 6,
+        "index": 18.86283
+      },
+      {
+        "number": 7,
+        "index": 18.850256
+      },
+      {
+        "number": 8,
+        "index": 18.542341
+      },
+      {
+        "number": 9,
+        "index": 17.365139
+      },
+      {
+        "number": 10,
+        "index": 13.538821
+      },
+      {
+        "number": 11,
+        "index": 8.92719
+      },
+      {
+        "number": 12,
+        "index": 5.3368106
+      }
+    ]
+  },
+  {
+    "target": "BRA",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.587147
+      },
+      {
+        "number": 2,
+        "index": 25.648144
+      },
+      {
+        "number": 3,
+        "index": 25.45454
+      },
+      {
+        "number": 4,
+        "index": 24.97765
+      },
+      {
+        "number": 5,
+        "index": 24.120182
+      },
+      {
+        "number": 6,
+        "index": 23.315144
+      },
+      {
+        "number": 7,
+        "index": 23.201168
+      },
+      {
+        "number": 8,
+        "index": 24.085636
+      },
+      {
+        "number": 9,
+        "index": 25.049866
+      },
+      {
+        "number": 10,
+        "index": 25.613346
+      },
+      {
+        "number": 11,
+        "index": 25.64439
+      },
+      {
+        "number": 12,
+        "index": 25.635199
+      }
+    ]
+  },
+  {
+    "target": "KHM",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.751675
+      },
+      {
+        "number": 2,
+        "index": 26.2427
+      },
+      {
+        "number": 3,
+        "index": 27.480625
+      },
+      {
+        "number": 4,
+        "index": 28.764221
+      },
+      {
+        "number": 5,
+        "index": 28.375315
+      },
+      {
+        "number": 6,
+        "index": 27.678488
+      },
+      {
+        "number": 7,
+        "index": 27.209127
+      },
+      {
+        "number": 8,
+        "index": 27.22294
+      },
+      {
+        "number": 9,
+        "index": 26.89146
+      },
+      {
+        "number": 10,
+        "index": 26.465332
+      },
+      {
+        "number": 11,
+        "index": 25.688915
+      },
+      {
+        "number": 12,
+        "index": 24.690561
+      }
+    ]
+  },
+  {
+    "target": "ECU",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.333735
+      },
+      {
+        "number": 2,
+        "index": 22.483534
+      },
+      {
+        "number": 3,
+        "index": 22.584333
+      },
+      {
+        "number": 4,
+        "index": 22.566978
+      },
+      {
+        "number": 5,
+        "index": 22.119583
+      },
+      {
+        "number": 6,
+        "index": 21.368158
+      },
+      {
+        "number": 7,
+        "index": 20.922686
+      },
+      {
+        "number": 8,
+        "index": 21.165274
+      },
+      {
+        "number": 9,
+        "index": 21.452408
+      },
+      {
+        "number": 10,
+        "index": 21.693396
+      },
+      {
+        "number": 11,
+        "index": 21.82902
+      },
+      {
+        "number": 12,
+        "index": 22.041245
+      }
+    ]
+  },
+  {
+    "target": "BOL",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.506031
+      },
+      {
+        "number": 2,
+        "index": 22.40112
+      },
+      {
+        "number": 3,
+        "index": 21.954306
+      },
+      {
+        "number": 4,
+        "index": 20.84613
+      },
+      {
+        "number": 5,
+        "index": 19.04584
+      },
+      {
+        "number": 6,
+        "index": 17.64232
+      },
+      {
+        "number": 7,
+        "index": 17.575397
+      },
+      {
+        "number": 8,
+        "index": 19.13738
+      },
+      {
+        "number": 9,
+        "index": 21.28503
+      },
+      {
+        "number": 10,
+        "index": 22.216051
+      },
+      {
+        "number": 11,
+        "index": 22.653551
+      },
+      {
+        "number": 12,
+        "index": 22.640081
+      }
+    ]
+  },
+  {
+    "target": "ETH",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.726053
+      },
+      {
+        "number": 2,
+        "index": 22.867867
+      },
+      {
+        "number": 3,
+        "index": 24.000721
+      },
+      {
+        "number": 4,
+        "index": 24.447376
+      },
+      {
+        "number": 5,
+        "index": 24.336813
+      },
+      {
+        "number": 6,
+        "index": 23.93457
+      },
+      {
+        "number": 7,
+        "index": 23.004854
+      },
+      {
+        "number": 8,
+        "index": 22.730026
+      },
+      {
+        "number": 9,
+        "index": 23.197289
+      },
+      {
+        "number": 10,
+        "index": 22.739773
+      },
+      {
+        "number": 11,
+        "index": 21.94503
+      },
+      {
+        "number": 12,
+        "index": 21.400387
+      }
+    ]
+  },
+  {
+    "target": "PRY",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.726858
+      },
+      {
+        "number": 2,
+        "index": 27.057041
+      },
+      {
+        "number": 3,
+        "index": 25.8754
+      },
+      {
+        "number": 4,
+        "index": 23.090696
+      },
+      {
+        "number": 5,
+        "index": 20.184496
+      },
+      {
+        "number": 6,
+        "index": 18.57854
+      },
+      {
+        "number": 7,
+        "index": 18.395855
+      },
+      {
+        "number": 8,
+        "index": 20.378872
+      },
+      {
+        "number": 9,
+        "index": 22.548185
+      },
+      {
+        "number": 10,
+        "index": 24.547472
+      },
+      {
+        "number": 11,
+        "index": 25.948635
+      },
+      {
+        "number": 12,
+        "index": 27.277325
+      }
+    ]
+  },
+  {
+    "target": "NGA",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.738369
+      },
+      {
+        "number": 2,
+        "index": 27.088943
+      },
+      {
+        "number": 3,
+        "index": 29.261927
+      },
+      {
+        "number": 4,
+        "index": 30.038494
+      },
+      {
+        "number": 5,
+        "index": 29.095678
+      },
+      {
+        "number": 6,
+        "index": 27.49216
+      },
+      {
+        "number": 7,
+        "index": 25.965733
+      },
+      {
+        "number": 8,
+        "index": 25.316957
+      },
+      {
+        "number": 9,
+        "index": 26.043179
+      },
+      {
+        "number": 10,
+        "index": 26.935863
+      },
+      {
+        "number": 11,
+        "index": 26.28504
+      },
+      {
+        "number": 12,
+        "index": 24.897831
+      }
+    ]
+  },
+  {
+    "target": "IDN",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.78099
+      },
+      {
+        "number": 2,
+        "index": 25.867783
+      },
+      {
+        "number": 3,
+        "index": 26.067684
+      },
+      {
+        "number": 4,
+        "index": 26.243702
+      },
+      {
+        "number": 5,
+        "index": 26.228962
+      },
+      {
+        "number": 6,
+        "index": 25.814602
+      },
+      {
+        "number": 7,
+        "index": 25.490498
+      },
+      {
+        "number": 8,
+        "index": 25.587109
+      },
+      {
+        "number": 9,
+        "index": 25.81344
+      },
+      {
+        "number": 10,
+        "index": 26.198832
+      },
+      {
+        "number": 11,
+        "index": 26.24816
+      },
+      {
+        "number": 12,
+        "index": 26.015396
+      }
+    ]
+  },
+  {
+    "target": "LKA",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.157022
+      },
+      {
+        "number": 2,
+        "index": 25.965021
+      },
+      {
+        "number": 3,
+        "index": 27.151424
+      },
+      {
+        "number": 4,
+        "index": 27.871893
+      },
+      {
+        "number": 5,
+        "index": 28.15867
+      },
+      {
+        "number": 6,
+        "index": 27.756124
+      },
+      {
+        "number": 7,
+        "index": 27.509287
+      },
+      {
+        "number": 8,
+        "index": 27.30279
+      },
+      {
+        "number": 9,
+        "index": 27.28305
+      },
+      {
+        "number": 10,
+        "index": 26.685516
+      },
+      {
+        "number": 11,
+        "index": 25.921438
+      },
+      {
+        "number": 12,
+        "index": 25.358332
+      }
+    ]
+  },
+  {
+    "target": "AFG",
+    "months": [
+      {
+        "number": 1,
+        "index": 0.09617378
+      },
+      {
+        "number": 2,
+        "index": 2.245676
+      },
+      {
+        "number": 3,
+        "index": 7.380423
+      },
+      {
+        "number": 4,
+        "index": 13.161995
+      },
+      {
+        "number": 5,
+        "index": 18.253244
+      },
+      {
+        "number": 6,
+        "index": 23.077696
+      },
+      {
+        "number": 7,
+        "index": 25.175522
+      },
+      {
+        "number": 8,
+        "index": 23.819813
+      },
+      {
+        "number": 9,
+        "index": 19.105152
+      },
+      {
+        "number": 10,
+        "index": 13.177561
+      },
+      {
+        "number": 11,
+        "index": 6.9461336
+      },
+      {
+        "number": 12,
+        "index": 2.2441201
+      }
+    ]
+  },
+  {
+    "target": "MMR",
+    "months": [
+      {
+        "number": 1,
+        "index": 18.059391
+      },
+      {
+        "number": 2,
+        "index": 19.545027
+      },
+      {
+        "number": 3,
+        "index": 22.340397
+      },
+      {
+        "number": 4,
+        "index": 24.913074
+      },
+      {
+        "number": 5,
+        "index": 25.251888
+      },
+      {
+        "number": 6,
+        "index": 24.886461
+      },
+      {
+        "number": 7,
+        "index": 24.649075
+      },
+      {
+        "number": 8,
+        "index": 24.572184
+      },
+      {
+        "number": 9,
+        "index": 24.635298
+      },
+      {
+        "number": 10,
+        "index": 23.720793
+      },
+      {
+        "number": 11,
+        "index": 21.23452
+      },
+      {
+        "number": 12,
+        "index": 18.610628
+      }
+    ]
+  },
+  {
+    "target": "DOM",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.09512
+      },
+      {
+        "number": 2,
+        "index": 22.368814
+      },
+      {
+        "number": 3,
+        "index": 23.130676
+      },
+      {
+        "number": 4,
+        "index": 23.902231
+      },
+      {
+        "number": 5,
+        "index": 24.66631
+      },
+      {
+        "number": 6,
+        "index": 25.233608
+      },
+      {
+        "number": 7,
+        "index": 25.460255
+      },
+      {
+        "number": 8,
+        "index": 25.848354
+      },
+      {
+        "number": 9,
+        "index": 25.667942
+      },
+      {
+        "number": 10,
+        "index": 25.077343
+      },
+      {
+        "number": 11,
+        "index": 24.064308
+      },
+      {
+        "number": 12,
+        "index": 22.88911
+      }
+    ]
+  },
+  {
+    "target": "CHN",
+    "months": [
+      {
+        "number": 1,
+        "index": -8.627694
+      },
+      {
+        "number": 2,
+        "index": -5.76054
+      },
+      {
+        "number": 3,
+        "index": 0.39328176
+      },
+      {
+        "number": 4,
+        "index": 7.6225295
+      },
+      {
+        "number": 5,
+        "index": 13.06706
+      },
+      {
+        "number": 6,
+        "index": 17.241348
+      },
+      {
+        "number": 7,
+        "index": 19.591677
+      },
+      {
+        "number": 8,
+        "index": 18.660713
+      },
+      {
+        "number": 9,
+        "index": 14.127462
+      },
+      {
+        "number": 10,
+        "index": 7.538675
+      },
+      {
+        "number": 11,
+        "index": -0.4797562
+      },
+      {
+        "number": 12,
+        "index": -6.674736
+      }
+    ]
+  },
+  {
+    "target": "BTN",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.8243954
+      },
+      {
+        "number": 2,
+        "index": 5.499438
+      },
+      {
+        "number": 3,
+        "index": 9.203405
+      },
+      {
+        "number": 4,
+        "index": 12.048304
+      },
+      {
+        "number": 5,
+        "index": 14.613421
+      },
+      {
+        "number": 6,
+        "index": 17.139044
+      },
+      {
+        "number": 7,
+        "index": 17.637466
+      },
+      {
+        "number": 8,
+        "index": 17.513086
+      },
+      {
+        "number": 9,
+        "index": 16.386631
+      },
+      {
+        "number": 10,
+        "index": 13.088699
+      },
+      {
+        "number": 11,
+        "index": 8.6381
+      },
+      {
+        "number": 12,
+        "index": 5.3065004
+      }
+    ]
+  },
+  {
+    "target": "GTM",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.373981
+      },
+      {
+        "number": 2,
+        "index": 22.064686
+      },
+      {
+        "number": 3,
+        "index": 23.521538
+      },
+      {
+        "number": 4,
+        "index": 24.806408
+      },
+      {
+        "number": 5,
+        "index": 25.176907
+      },
+      {
+        "number": 6,
+        "index": 24.82769
+      },
+      {
+        "number": 7,
+        "index": 24.402937
+      },
+      {
+        "number": 8,
+        "index": 24.511936
+      },
+      {
+        "number": 9,
+        "index": 24.23715
+      },
+      {
+        "number": 10,
+        "index": 23.545712
+      },
+      {
+        "number": 11,
+        "index": 22.270405
+      },
+      {
+        "number": 12,
+        "index": 21.6134
+      }
+    ]
+  },
+  {
+    "target": "NIC",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.90341
+      },
+      {
+        "number": 2,
+        "index": 24.498028
+      },
+      {
+        "number": 3,
+        "index": 25.500326
+      },
+      {
+        "number": 4,
+        "index": 26.32219
+      },
+      {
+        "number": 5,
+        "index": 26.28957
+      },
+      {
+        "number": 6,
+        "index": 25.529787
+      },
+      {
+        "number": 7,
+        "index": 25.431004
+      },
+      {
+        "number": 8,
+        "index": 25.327276
+      },
+      {
+        "number": 9,
+        "index": 25.22914
+      },
+      {
+        "number": 10,
+        "index": 24.979998
+      },
+      {
+        "number": 11,
+        "index": 24.234661
+      },
+      {
+        "number": 12,
+        "index": 23.932148
+      }
+    ]
+  },
+  {
+    "target": "CHL",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.248655
+      },
+      {
+        "number": 2,
+        "index": 11.834747
+      },
+      {
+        "number": 3,
+        "index": 10.631454
+      },
+      {
+        "number": 4,
+        "index": 8.3960905
+      },
+      {
+        "number": 5,
+        "index": 6.02496
+      },
+      {
+        "number": 6,
+        "index": 4.274179
+      },
+      {
+        "number": 7,
+        "index": 3.8683898
+      },
+      {
+        "number": 8,
+        "index": 4.5411034
+      },
+      {
+        "number": 9,
+        "index": 6.0877028
+      },
+      {
+        "number": 10,
+        "index": 7.8253984
+      },
+      {
+        "number": 11,
+        "index": 9.59342
+      },
+      {
+        "number": 12,
+        "index": 11.257296
+      }
+    ]
+  },
+  {
+    "target": "KEN",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.99699
+      },
+      {
+        "number": 2,
+        "index": 25.799112
+      },
+      {
+        "number": 3,
+        "index": 26.17638
+      },
+      {
+        "number": 4,
+        "index": 25.545982
+      },
+      {
+        "number": 5,
+        "index": 24.621727
+      },
+      {
+        "number": 6,
+        "index": 23.515417
+      },
+      {
+        "number": 7,
+        "index": 22.898705
+      },
+      {
+        "number": 8,
+        "index": 23.219852
+      },
+      {
+        "number": 9,
+        "index": 24.01025
+      },
+      {
+        "number": 10,
+        "index": 24.838135
+      },
+      {
+        "number": 11,
+        "index": 24.699879
+      },
+      {
+        "number": 12,
+        "index": 24.702122
+      }
+    ]
+  },
+  {
+    "target": "HND",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.072206
+      },
+      {
+        "number": 2,
+        "index": 22.673147
+      },
+      {
+        "number": 3,
+        "index": 23.976229
+      },
+      {
+        "number": 4,
+        "index": 25.019894
+      },
+      {
+        "number": 5,
+        "index": 25.378029
+      },
+      {
+        "number": 6,
+        "index": 24.884787
+      },
+      {
+        "number": 7,
+        "index": 24.54185
+      },
+      {
+        "number": 8,
+        "index": 24.716167
+      },
+      {
+        "number": 9,
+        "index": 24.642506
+      },
+      {
+        "number": 10,
+        "index": 23.96793
+      },
+      {
+        "number": 11,
+        "index": 22.861256
+      },
+      {
+        "number": 12,
+        "index": 22.349146
+      }
+    ]
+  },
+  {
+    "target": "BEN",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.60736
+      },
+      {
+        "number": 2,
+        "index": 28.722021
+      },
+      {
+        "number": 3,
+        "index": 30.241001
+      },
+      {
+        "number": 4,
+        "index": 30.313465
+      },
+      {
+        "number": 5,
+        "index": 29.075344
+      },
+      {
+        "number": 6,
+        "index": 27.251266
+      },
+      {
+        "number": 7,
+        "index": 25.99493
+      },
+      {
+        "number": 8,
+        "index": 25.425426
+      },
+      {
+        "number": 9,
+        "index": 26.059332
+      },
+      {
+        "number": 10,
+        "index": 27.200542
+      },
+      {
+        "number": 11,
+        "index": 27.408848
+      },
+      {
+        "number": 12,
+        "index": 26.610403
+      }
+    ]
+  },
+  {
+    "target": "AZE",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.8331146
+      },
+      {
+        "number": 2,
+        "index": -0.5679828
+      },
+      {
+        "number": 3,
+        "index": 3.8407407
+      },
+      {
+        "number": 4,
+        "index": 10.312341
+      },
+      {
+        "number": 5,
+        "index": 15.733142
+      },
+      {
+        "number": 6,
+        "index": 20.755352
+      },
+      {
+        "number": 7,
+        "index": 23.941757
+      },
+      {
+        "number": 8,
+        "index": 23.60315
+      },
+      {
+        "number": 9,
+        "index": 19.031637
+      },
+      {
+        "number": 10,
+        "index": 12.363691
+      },
+      {
+        "number": 11,
+        "index": 6.0302095
+      },
+      {
+        "number": 12,
+        "index": 0.31989858
+      }
+    ]
+  },
+  {
+    "target": "GHA",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.858465
+      },
+      {
+        "number": 2,
+        "index": 28.940424
+      },
+      {
+        "number": 3,
+        "index": 29.48669
+      },
+      {
+        "number": 4,
+        "index": 29.184666
+      },
+      {
+        "number": 5,
+        "index": 28.177439
+      },
+      {
+        "number": 6,
+        "index": 26.647793
+      },
+      {
+        "number": 7,
+        "index": 25.691345
+      },
+      {
+        "number": 8,
+        "index": 25.361197
+      },
+      {
+        "number": 9,
+        "index": 25.87995
+      },
+      {
+        "number": 10,
+        "index": 26.791925
+      },
+      {
+        "number": 11,
+        "index": 27.29367
+      },
+      {
+        "number": 12,
+        "index": 26.552588
+      }
+    ]
+  },
+  {
+    "target": "SLV",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.942936
+      },
+      {
+        "number": 2,
+        "index": 24.412403
+      },
+      {
+        "number": 3,
+        "index": 25.693716
+      },
+      {
+        "number": 4,
+        "index": 26.378845
+      },
+      {
+        "number": 5,
+        "index": 25.912907
+      },
+      {
+        "number": 6,
+        "index": 24.965012
+      },
+      {
+        "number": 7,
+        "index": 25.255573
+      },
+      {
+        "number": 8,
+        "index": 25.04094
+      },
+      {
+        "number": 9,
+        "index": 24.43079
+      },
+      {
+        "number": 10,
+        "index": 24.260445
+      },
+      {
+        "number": 11,
+        "index": 23.730381
+      },
+      {
+        "number": 12,
+        "index": 23.56014
+      }
+    ]
+  },
+  {
+    "target": "UGA",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.283619
+      },
+      {
+        "number": 2,
+        "index": 23.855742
+      },
+      {
+        "number": 3,
+        "index": 23.754679
+      },
+      {
+        "number": 4,
+        "index": 23.15697
+      },
+      {
+        "number": 5,
+        "index": 22.597462
+      },
+      {
+        "number": 6,
+        "index": 22.031982
+      },
+      {
+        "number": 7,
+        "index": 21.566397
+      },
+      {
+        "number": 8,
+        "index": 21.785507
+      },
+      {
+        "number": 9,
+        "index": 22.158686
+      },
+      {
+        "number": 10,
+        "index": 22.51832
+      },
+      {
+        "number": 11,
+        "index": 22.685402
+      },
+      {
+        "number": 12,
+        "index": 22.7114
+      }
+    ]
+  },
+  {
+    "target": "TZA",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.25483
+      },
+      {
+        "number": 2,
+        "index": 23.443956
+      },
+      {
+        "number": 3,
+        "index": 23.389551
+      },
+      {
+        "number": 4,
+        "index": 22.870039
+      },
+      {
+        "number": 5,
+        "index": 21.995354
+      },
+      {
+        "number": 6,
+        "index": 20.637785
+      },
+      {
+        "number": 7,
+        "index": 20.281836
+      },
+      {
+        "number": 8,
+        "index": 21.205212
+      },
+      {
+        "number": 9,
+        "index": 22.461218
+      },
+      {
+        "number": 10,
+        "index": 23.613304
+      },
+      {
+        "number": 11,
+        "index": 23.753254
+      },
+      {
+        "number": 12,
+        "index": 23.410606
+      }
+    ]
+  },
+  {
+    "target": "HTI",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.547443
+      },
+      {
+        "number": 2,
+        "index": 22.783987
+      },
+      {
+        "number": 3,
+        "index": 23.533813
+      },
+      {
+        "number": 4,
+        "index": 24.264385
+      },
+      {
+        "number": 5,
+        "index": 25.114643
+      },
+      {
+        "number": 6,
+        "index": 25.847164
+      },
+      {
+        "number": 7,
+        "index": 26.04891
+      },
+      {
+        "number": 8,
+        "index": 26.28799
+      },
+      {
+        "number": 9,
+        "index": 26.062984
+      },
+      {
+        "number": 10,
+        "index": 25.477484
+      },
+      {
+        "number": 11,
+        "index": 24.336657
+      },
+      {
+        "number": 12,
+        "index": 23.172832
+      }
+    ]
+  },
+  {
+    "target": "TGO",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.931253
+      },
+      {
+        "number": 2,
+        "index": 28.809952
+      },
+      {
+        "number": 3,
+        "index": 29.728931
+      },
+      {
+        "number": 4,
+        "index": 29.322851
+      },
+      {
+        "number": 5,
+        "index": 28.120224
+      },
+      {
+        "number": 6,
+        "index": 26.459433
+      },
+      {
+        "number": 7,
+        "index": 25.435287
+      },
+      {
+        "number": 8,
+        "index": 25.118853
+      },
+      {
+        "number": 9,
+        "index": 25.713161
+      },
+      {
+        "number": 10,
+        "index": 26.681011
+      },
+      {
+        "number": 11,
+        "index": 27.263952
+      },
+      {
+        "number": 12,
+        "index": 26.70897
+      }
+    ]
+  },
+  {
+    "target": "SEN",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.350523
+      },
+      {
+        "number": 2,
+        "index": 26.260147
+      },
+      {
+        "number": 3,
+        "index": 28.280636
+      },
+      {
+        "number": 4,
+        "index": 29.972698
+      },
+      {
+        "number": 5,
+        "index": 30.923044
+      },
+      {
+        "number": 6,
+        "index": 30.18179
+      },
+      {
+        "number": 7,
+        "index": 28.524658
+      },
+      {
+        "number": 8,
+        "index": 27.64302
+      },
+      {
+        "number": 9,
+        "index": 27.858368
+      },
+      {
+        "number": 10,
+        "index": 28.739437
+      },
+      {
+        "number": 11,
+        "index": 27.194561
+      },
+      {
+        "number": 12,
+        "index": 24.522818
+      }
+    ]
+  },
+  {
+    "target": "ZAR",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.19653
+      },
+      {
+        "number": 2,
+        "index": 24.525284
+      },
+      {
+        "number": 3,
+        "index": 24.712467
+      },
+      {
+        "number": 4,
+        "index": 24.582584
+      },
+      {
+        "number": 5,
+        "index": 24.316914
+      },
+      {
+        "number": 6,
+        "index": 23.2464
+      },
+      {
+        "number": 7,
+        "index": 22.766983
+      },
+      {
+        "number": 8,
+        "index": 23.44299
+      },
+      {
+        "number": 9,
+        "index": 24.100864
+      },
+      {
+        "number": 10,
+        "index": 24.302727
+      },
+      {
+        "number": 11,
+        "index": 24.206036
+      },
+      {
+        "number": 12,
+        "index": 24.017864
+      }
+    ]
+  },
+  {
+    "target": "MDG",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.10679
+      },
+      {
+        "number": 2,
+        "index": 24.99214
+      },
+      {
+        "number": 3,
+        "index": 24.80653
+      },
+      {
+        "number": 4,
+        "index": 23.861353
+      },
+      {
+        "number": 5,
+        "index": 22.135952
+      },
+      {
+        "number": 6,
+        "index": 20.330902
+      },
+      {
+        "number": 7,
+        "index": 19.63956
+      },
+      {
+        "number": 8,
+        "index": 20.2255
+      },
+      {
+        "number": 9,
+        "index": 21.548716
+      },
+      {
+        "number": 10,
+        "index": 23.138744
+      },
+      {
+        "number": 11,
+        "index": 24.26284
+      },
+      {
+        "number": 12,
+        "index": 24.728394
+      }
+    ]
+  },
+  {
+    "target": "MNG",
+    "months": [
+      {
+        "number": 1,
+        "index": -21.235401
+      },
+      {
+        "number": 2,
+        "index": -17.95588
+      },
+      {
+        "number": 3,
+        "index": -9.257488
+      },
+      {
+        "number": 4,
+        "index": 1.7768781
+      },
+      {
+        "number": 5,
+        "index": 9.603489
+      },
+      {
+        "number": 6,
+        "index": 15.393059
+      },
+      {
+        "number": 7,
+        "index": 17.757744
+      },
+      {
+        "number": 8,
+        "index": 15.790916
+      },
+      {
+        "number": 9,
+        "index": 9.389232
+      },
+      {
+        "number": 10,
+        "index": 0.9404321
+      },
+      {
+        "number": 11,
+        "index": -10.582318
+      },
+      {
+        "number": 12,
+        "index": -18.784733
+      }
+    ]
+  },
+  {
+    "target": "NER",
+    "months": [
+      {
+        "number": 1,
+        "index": 19.23638
+      },
+      {
+        "number": 2,
+        "index": 22.211702
+      },
+      {
+        "number": 3,
+        "index": 26.295284
+      },
+      {
+        "number": 4,
+        "index": 30.379856
+      },
+      {
+        "number": 5,
+        "index": 32.70287
+      },
+      {
+        "number": 6,
+        "index": 32.698402
+      },
+      {
+        "number": 7,
+        "index": 31.190586
+      },
+      {
+        "number": 8,
+        "index": 30.030481
+      },
+      {
+        "number": 9,
+        "index": 30.187353
+      },
+      {
+        "number": 10,
+        "index": 28.563892
+      },
+      {
+        "number": 11,
+        "index": 24.146805
+      },
+      {
+        "number": 12,
+        "index": 20.342003
+      }
+    ]
+  },
+  {
+    "target": "MAR",
+    "months": [
+      {
+        "number": 1,
+        "index": 9.889163
+      },
+      {
+        "number": 2,
+        "index": 11.334067
+      },
+      {
+        "number": 3,
+        "index": 13.545851
+      },
+      {
+        "number": 4,
+        "index": 15.8319
+      },
+      {
+        "number": 5,
+        "index": 19.248304
+      },
+      {
+        "number": 6,
+        "index": 22.958578
+      },
+      {
+        "number": 7,
+        "index": 26.299412
+      },
+      {
+        "number": 8,
+        "index": 26.346857
+      },
+      {
+        "number": 9,
+        "index": 22.94875
+      },
+      {
+        "number": 10,
+        "index": 18.627516
+      },
+      {
+        "number": 11,
+        "index": 14.308594
+      },
+      {
+        "number": 12,
+        "index": 10.881398
+      }
+    ]
+  },
+  {
+    "target": "CMR",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.122929
+      },
+      {
+        "number": 2,
+        "index": 25.714558
+      },
+      {
+        "number": 3,
+        "index": 26.83192
+      },
+      {
+        "number": 4,
+        "index": 27.077219
+      },
+      {
+        "number": 5,
+        "index": 26.12348
+      },
+      {
+        "number": 6,
+        "index": 24.865734
+      },
+      {
+        "number": 7,
+        "index": 23.79921
+      },
+      {
+        "number": 8,
+        "index": 23.575397
+      },
+      {
+        "number": 9,
+        "index": 24.11028
+      },
+      {
+        "number": 10,
+        "index": 24.737364
+      },
+      {
+        "number": 11,
+        "index": 24.707067
+      },
+      {
+        "number": 12,
+        "index": 23.92406
+      }
+    ]
+  },
+  {
+    "target": "BFA",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.00895
+      },
+      {
+        "number": 2,
+        "index": 27.778927
+      },
+      {
+        "number": 3,
+        "index": 30.64985
+      },
+      {
+        "number": 4,
+        "index": 32.114037
+      },
+      {
+        "number": 5,
+        "index": 31.525183
+      },
+      {
+        "number": 6,
+        "index": 29.335026
+      },
+      {
+        "number": 7,
+        "index": 27.32893
+      },
+      {
+        "number": 8,
+        "index": 26.371262
+      },
+      {
+        "number": 9,
+        "index": 27.091038
+      },
+      {
+        "number": 10,
+        "index": 28.737278
+      },
+      {
+        "number": 11,
+        "index": 27.650463
+      },
+      {
+        "number": 12,
+        "index": 25.451948
+      }
+    ]
+  },
+  {
+    "target": "KGZ",
+    "months": [
+      {
+        "number": 1,
+        "index": -13.772987
+      },
+      {
+        "number": 2,
+        "index": -11.715096
+      },
+      {
+        "number": 3,
+        "index": -4.978586
+      },
+      {
+        "number": 4,
+        "index": 3.3346856
+      },
+      {
+        "number": 5,
+        "index": 8.021616
+      },
+      {
+        "number": 6,
+        "index": 11.94734
+      },
+      {
+        "number": 7,
+        "index": 14.9114685
+      },
+      {
+        "number": 8,
+        "index": 14.262711
+      },
+      {
+        "number": 9,
+        "index": 9.407025
+      },
+      {
+        "number": 10,
+        "index": 2.6396632
+      },
+      {
+        "number": 11,
+        "index": -5.0407667
+      },
+      {
+        "number": 12,
+        "index": -10.950083
+      }
+    ]
+  },
+  {
+    "target": "EGY",
+    "months": [
+      {
+        "number": 1,
+        "index": 13.43483
+      },
+      {
+        "number": 2,
+        "index": 15.014376
+      },
+      {
+        "number": 3,
+        "index": 18.070831
+      },
+      {
+        "number": 4,
+        "index": 22.572153
+      },
+      {
+        "number": 5,
+        "index": 26.587545
+      },
+      {
+        "number": 6,
+        "index": 28.948383
+      },
+      {
+        "number": 7,
+        "index": 29.518036
+      },
+      {
+        "number": 8,
+        "index": 29.586905
+      },
+      {
+        "number": 9,
+        "index": 27.658884
+      },
+      {
+        "number": 10,
+        "index": 24.726238
+      },
+      {
+        "number": 11,
+        "index": 19.40804
+      },
+      {
+        "number": 12,
+        "index": 14.883992
+      }
+    ]
+  },
+  {
+    "target": "ARM",
+    "months": [
+      {
+        "number": 1,
+        "index": -7.134692
+      },
+      {
+        "number": 2,
+        "index": -5.268277
+      },
+      {
+        "number": 3,
+        "index": 0.32056877
+      },
+      {
+        "number": 4,
+        "index": 7.3460646
+      },
+      {
+        "number": 5,
+        "index": 12.503009
+      },
+      {
+        "number": 6,
+        "index": 16.806042
+      },
+      {
+        "number": 7,
+        "index": 20.644306
+      },
+      {
+        "number": 8,
+        "index": 20.535563
+      },
+      {
+        "number": 9,
+        "index": 16.049255
+      },
+      {
+        "number": 10,
+        "index": 9.44216
+      },
+      {
+        "number": 11,
+        "index": 2.8169942
+      },
+      {
+        "number": 12,
+        "index": -3.8059623
+      }
+    ]
+  },
+  {
+    "target": "RWA",
+    "months": [
+      {
+        "number": 1,
+        "index": 18.875334
+      },
+      {
+        "number": 2,
+        "index": 19.144474
+      },
+      {
+        "number": 3,
+        "index": 19.03616
+      },
+      {
+        "number": 4,
+        "index": 18.94241
+      },
+      {
+        "number": 5,
+        "index": 18.74241
+      },
+      {
+        "number": 6,
+        "index": 18.389732
+      },
+      {
+        "number": 7,
+        "index": 18.290514
+      },
+      {
+        "number": 8,
+        "index": 19.000614
+      },
+      {
+        "number": 9,
+        "index": 19.117746
+      },
+      {
+        "number": 10,
+        "index": 18.982756
+      },
+      {
+        "number": 11,
+        "index": 18.743303
+      },
+      {
+        "number": 12,
+        "index": 18.73192
+      }
+    ]
+  },
+  {
+    "target": "ALB",
+    "months": [
+      {
+        "number": 1,
+        "index": 1.6372589
+      },
+      {
+        "number": 2,
+        "index": 2.7165608
+      },
+      {
+        "number": 3,
+        "index": 6.024615
+      },
+      {
+        "number": 4,
+        "index": 9.995722
+      },
+      {
+        "number": 5,
+        "index": 14.591192
+      },
+      {
+        "number": 6,
+        "index": 18.232206
+      },
+      {
+        "number": 7,
+        "index": 21.0772
+      },
+      {
+        "number": 8,
+        "index": 21.081392
+      },
+      {
+        "number": 9,
+        "index": 17.342278
+      },
+      {
+        "number": 10,
+        "index": 12.431776
+      },
+      {
+        "number": 11,
+        "index": 7.556615
+      },
+      {
+        "number": 12,
+        "index": 3.5563183
+      }
+    ]
+  },
+  {
+    "target": "DZA",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.062899
+      },
+      {
+        "number": 2,
+        "index": 14.645187
+      },
+      {
+        "number": 3,
+        "index": 18.057344
+      },
+      {
+        "number": 4,
+        "index": 22.07243
+      },
+      {
+        "number": 5,
+        "index": 26.438126
+      },
+      {
+        "number": 6,
+        "index": 30.746592
+      },
+      {
+        "number": 7,
+        "index": 32.447433
+      },
+      {
+        "number": 8,
+        "index": 31.79685
+      },
+      {
+        "number": 9,
+        "index": 28.77006
+      },
+      {
+        "number": 10,
+        "index": 23.466488
+      },
+      {
+        "number": 11,
+        "index": 17.579304
+      },
+      {
+        "number": 12,
+        "index": 13.184766
+      }
+    ]
+  },
+  {
+    "target": "ASM",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.16422
+      },
+      {
+        "number": 2,
+        "index": 27.196331
+      },
+      {
+        "number": 3,
+        "index": 27.2789
+      },
+      {
+        "number": 4,
+        "index": 27.190826
+      },
+      {
+        "number": 5,
+        "index": 26.642202
+      },
+      {
+        "number": 6,
+        "index": 26.211926
+      },
+      {
+        "number": 7,
+        "index": 25.844036
+      },
+      {
+        "number": 8,
+        "index": 25.85321
+      },
+      {
+        "number": 9,
+        "index": 26.130276
+      },
+      {
+        "number": 10,
+        "index": 26.422018
+      },
+      {
+        "number": 11,
+        "index": 26.679815
+      },
+      {
+        "number": 12,
+        "index": 26.877981
+      }
+    ]
+  },
+  {
+    "target": "ADO",
+    "months": [
+      {
+        "number": 1,
+        "index": 0.72316515
+      },
+      {
+        "number": 2,
+        "index": 1.5153669
+      },
+      {
+        "number": 3,
+        "index": 3.9947248
+      },
+      {
+        "number": 4,
+        "index": 6.1465597
+      },
+      {
+        "number": 5,
+        "index": 10.009863
+      },
+      {
+        "number": 6,
+        "index": 13.911926
+      },
+      {
+        "number": 7,
+        "index": 16.962385
+      },
+      {
+        "number": 8,
+        "index": 16.918577
+      },
+      {
+        "number": 9,
+        "index": 14.086009
+      },
+      {
+        "number": 10,
+        "index": 9.386009
+      },
+      {
+        "number": 11,
+        "index": 4.277293
+      },
+      {
+        "number": 12,
+        "index": 1.5502293
+      }
+    ]
+  },
+  {
+    "target": "AGO",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.897865
+      },
+      {
+        "number": 2,
+        "index": 22.98006
+      },
+      {
+        "number": 3,
+        "index": 22.99719
+      },
+      {
+        "number": 4,
+        "index": 22.504475
+      },
+      {
+        "number": 5,
+        "index": 21.06725
+      },
+      {
+        "number": 6,
+        "index": 18.741627
+      },
+      {
+        "number": 7,
+        "index": 18.224937
+      },
+      {
+        "number": 8,
+        "index": 20.075193
+      },
+      {
+        "number": 9,
+        "index": 22.265032
+      },
+      {
+        "number": 10,
+        "index": 23.31187
+      },
+      {
+        "number": 11,
+        "index": 23.03111
+      },
+      {
+        "number": 12,
+        "index": 22.853683
+      }
+    ]
+  },
+  {
+    "target": "ATG",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.663761
+      },
+      {
+        "number": 2,
+        "index": 24.630276
+      },
+      {
+        "number": 3,
+        "index": 24.898624
+      },
+      {
+        "number": 4,
+        "index": 25.28165
+      },
+      {
+        "number": 5,
+        "index": 25.99679
+      },
+      {
+        "number": 6,
+        "index": 26.456882
+      },
+      {
+        "number": 7,
+        "index": 26.691742
+      },
+      {
+        "number": 8,
+        "index": 26.968807
+      },
+      {
+        "number": 9,
+        "index": 26.910091
+      },
+      {
+        "number": 10,
+        "index": 26.708258
+      },
+      {
+        "number": 11,
+        "index": 26.226147
+      },
+      {
+        "number": 12,
+        "index": 25.33945
+      }
+    ]
+  },
+  {
+    "target": "ARB",
+    "months": []
+  },
+  {
+    "target": "ARG",
+    "months": [
+      {
+        "number": 1,
+        "index": 20.392338
+      },
+      {
+        "number": 2,
+        "index": 19.549664
+      },
+      {
+        "number": 3,
+        "index": 17.414013
+      },
+      {
+        "number": 4,
+        "index": 13.836169
+      },
+      {
+        "number": 5,
+        "index": 10.357084
+      },
+      {
+        "number": 6,
+        "index": 7.6981688
+      },
+      {
+        "number": 7,
+        "index": 7.270381
+      },
+      {
+        "number": 8,
+        "index": 8.83897
+      },
+      {
+        "number": 9,
+        "index": 11.42163
+      },
+      {
+        "number": 10,
+        "index": 14.298762
+      },
+      {
+        "number": 11,
+        "index": 17.054714
+      },
+      {
+        "number": 12,
+        "index": 19.33553
+      }
+    ]
+  },
+  {
+    "target": "ABW",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.491741
+      },
+      {
+        "number": 2,
+        "index": 26.674313
+      },
+      {
+        "number": 3,
+        "index": 27.219265
+      },
+      {
+        "number": 4,
+        "index": 27.641285
+      },
+      {
+        "number": 5,
+        "index": 28.247705
+      },
+      {
+        "number": 6,
+        "index": 28.43945
+      },
+      {
+        "number": 7,
+        "index": 28.566055
+      },
+      {
+        "number": 8,
+        "index": 28.795414
+      },
+      {
+        "number": 9,
+        "index": 28.838531
+      },
+      {
+        "number": 10,
+        "index": 28.363302
+      },
+      {
+        "number": 11,
+        "index": 27.787155
+      },
+      {
+        "number": 12,
+        "index": 27.090826
+      }
+    ]
+  },
+  {
+    "target": "AUS",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.395493
+      },
+      {
+        "number": 2,
+        "index": 26.850956
+      },
+      {
+        "number": 3,
+        "index": 25.066504
+      },
+      {
+        "number": 4,
+        "index": 21.66571
+      },
+      {
+        "number": 5,
+        "index": 17.81826
+      },
+      {
+        "number": 6,
+        "index": 14.896624
+      },
+      {
+        "number": 7,
+        "index": 14.075693
+      },
+      {
+        "number": 8,
+        "index": 15.757487
+      },
+      {
+        "number": 9,
+        "index": 18.887165
+      },
+      {
+        "number": 10,
+        "index": 22.17104
+      },
+      {
+        "number": 11,
+        "index": 24.850462
+      },
+      {
+        "number": 12,
+        "index": 26.560062
+      }
+    ]
+  },
+  {
+    "target": "AUT",
+    "months": [
+      {
+        "number": 1,
+        "index": -3.3326793
+      },
+      {
+        "number": 2,
+        "index": -2.0940516
+      },
+      {
+        "number": 3,
+        "index": 1.6723248
+      },
+      {
+        "number": 4,
+        "index": 5.712003
+      },
+      {
+        "number": 5,
+        "index": 10.429095
+      },
+      {
+        "number": 6,
+        "index": 13.527552
+      },
+      {
+        "number": 7,
+        "index": 15.46335
+      },
+      {
+        "number": 8,
+        "index": 15.149179
+      },
+      {
+        "number": 9,
+        "index": 11.926428
+      },
+      {
+        "number": 10,
+        "index": 7.31764
+      },
+      {
+        "number": 11,
+        "index": 1.7877128
+      },
+      {
+        "number": 12,
+        "index": -1.9500449
+      }
+    ]
+  },
+  {
+    "target": "BHS",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.030893
+      },
+      {
+        "number": 2,
+        "index": 21.317396
+      },
+      {
+        "number": 3,
+        "index": 22.556759
+      },
+      {
+        "number": 4,
+        "index": 23.935583
+      },
+      {
+        "number": 5,
+        "index": 25.53452
+      },
+      {
+        "number": 6,
+        "index": 27.111929
+      },
+      {
+        "number": 7,
+        "index": 27.766525
+      },
+      {
+        "number": 8,
+        "index": 27.841724
+      },
+      {
+        "number": 9,
+        "index": 27.5834
+      },
+      {
+        "number": 10,
+        "index": 26.123653
+      },
+      {
+        "number": 11,
+        "index": 23.829882
+      },
+      {
+        "number": 12,
+        "index": 22.00939
+      }
+    ]
+  },
+  {
+    "target": "BHR",
+    "months": [
+      {
+        "number": 1,
+        "index": 15.952678
+      },
+      {
+        "number": 2,
+        "index": 17.80759
+      },
+      {
+        "number": 3,
+        "index": 21.67701
+      },
+      {
+        "number": 4,
+        "index": 26.598438
+      },
+      {
+        "number": 5,
+        "index": 32.183258
+      },
+      {
+        "number": 6,
+        "index": 34.813393
+      },
+      {
+        "number": 7,
+        "index": 36.31607
+      },
+      {
+        "number": 8,
+        "index": 35.97344
+      },
+      {
+        "number": 9,
+        "index": 33.287945
+      },
+      {
+        "number": 10,
+        "index": 28.762945
+      },
+      {
+        "number": 11,
+        "index": 23.183928
+      },
+      {
+        "number": 12,
+        "index": 18.073885
+      }
+    ]
+  },
+  {
+    "target": "BRB",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.910091
+      },
+      {
+        "number": 2,
+        "index": 24.887615
+      },
+      {
+        "number": 3,
+        "index": 25.305964
+      },
+      {
+        "number": 4,
+        "index": 25.819723
+      },
+      {
+        "number": 5,
+        "index": 26.583487
+      },
+      {
+        "number": 6,
+        "index": 26.570642
+      },
+      {
+        "number": 7,
+        "index": 26.42844
+      },
+      {
+        "number": 8,
+        "index": 26.699081
+      },
+      {
+        "number": 9,
+        "index": 26.745413
+      },
+      {
+        "number": 10,
+        "index": 26.597706
+      },
+      {
+        "number": 11,
+        "index": 26.265137
+      },
+      {
+        "number": 12,
+        "index": 25.565596
+      }
+    ]
+  },
+  {
+    "target": "BLR",
+    "months": [
+      {
+        "number": 1,
+        "index": -6.079421
+      },
+      {
+        "number": 2,
+        "index": -5.4600897
+      },
+      {
+        "number": 3,
+        "index": -0.74375874
+      },
+      {
+        "number": 4,
+        "index": 6.943232
+      },
+      {
+        "number": 5,
+        "index": 13.20833
+      },
+      {
+        "number": 6,
+        "index": 16.602148
+      },
+      {
+        "number": 7,
+        "index": 18.326496
+      },
+      {
+        "number": 8,
+        "index": 17.291264
+      },
+      {
+        "number": 9,
+        "index": 12.6282215
+      },
+      {
+        "number": 10,
+        "index": 6.703083
+      },
+      {
+        "number": 11,
+        "index": 1.0312505
+      },
+      {
+        "number": 12,
+        "index": -3.6391327
+      }
+    ]
+  },
+  {
+    "target": "BEL",
+    "months": [
+      {
+        "number": 1,
+        "index": 2.1975498
+      },
+      {
+        "number": 2,
+        "index": 2.771473
+      },
+      {
+        "number": 3,
+        "index": 5.6724095
+      },
+      {
+        "number": 4,
+        "index": 8.62306
+      },
+      {
+        "number": 5,
+        "index": 12.788354
+      },
+      {
+        "number": 6,
+        "index": 15.60923
+      },
+      {
+        "number": 7,
+        "index": 17.462563
+      },
+      {
+        "number": 8,
+        "index": 17.289717
+      },
+      {
+        "number": 9,
+        "index": 14.468262
+      },
+      {
+        "number": 10,
+        "index": 10.3591585
+      },
+      {
+        "number": 11,
+        "index": 5.7969723
+      },
+      {
+        "number": 12,
+        "index": 3.1652353
+      }
+    ]
+  },
+  {
+    "target": "BLZ",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.602201
+      },
+      {
+        "number": 2,
+        "index": 23.275476
+      },
+      {
+        "number": 3,
+        "index": 24.758888
+      },
+      {
+        "number": 4,
+        "index": 26.26623
+      },
+      {
+        "number": 5,
+        "index": 27.08788
+      },
+      {
+        "number": 6,
+        "index": 27.196598
+      },
+      {
+        "number": 7,
+        "index": 26.689564
+      },
+      {
+        "number": 8,
+        "index": 26.92857
+      },
+      {
+        "number": 9,
+        "index": 26.865765
+      },
+      {
+        "number": 10,
+        "index": 25.765991
+      },
+      {
+        "number": 11,
+        "index": 23.674255
+      },
+      {
+        "number": 12,
+        "index": 22.863781
+      }
+    ]
+  },
+  {
+    "target": "BMU",
+    "months": [
+      {
+        "number": 1,
+        "index": 17.431192
+      },
+      {
+        "number": 2,
+        "index": 16.865139
+      },
+      {
+        "number": 3,
+        "index": 17.266056
+      },
+      {
+        "number": 4,
+        "index": 18.365139
+      },
+      {
+        "number": 5,
+        "index": 20.868809
+      },
+      {
+        "number": 6,
+        "index": 23.593578
+      },
+      {
+        "number": 7,
+        "index": 25.938532
+      },
+      {
+        "number": 8,
+        "index": 26.529358
+      },
+      {
+        "number": 9,
+        "index": 25.86789
+      },
+      {
+        "number": 10,
+        "index": 23.801834
+      },
+      {
+        "number": 11,
+        "index": 20.76422
+      },
+      {
+        "number": 12,
+        "index": 18.413761
+      }
+    ]
+  },
+  {
+    "target": "BIH",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.0714629
+      },
+      {
+        "number": 2,
+        "index": 0.3632919
+      },
+      {
+        "number": 3,
+        "index": 4.476967
+      },
+      {
+        "number": 4,
+        "index": 8.929559
+      },
+      {
+        "number": 5,
+        "index": 13.611038
+      },
+      {
+        "number": 6,
+        "index": 17.155777
+      },
+      {
+        "number": 7,
+        "index": 19.505257
+      },
+      {
+        "number": 8,
+        "index": 19.389984
+      },
+      {
+        "number": 9,
+        "index": 15.505979
+      },
+      {
+        "number": 10,
+        "index": 10.388612
+      },
+      {
+        "number": 11,
+        "index": 5.2180295
+      },
+      {
+        "number": 12,
+        "index": 1.3035986
+      }
+    ]
+  },
+  {
+    "target": "BWA",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.313492
+      },
+      {
+        "number": 2,
+        "index": 25.656698
+      },
+      {
+        "number": 3,
+        "index": 24.278164
+      },
+      {
+        "number": 4,
+        "index": 21.611168
+      },
+      {
+        "number": 5,
+        "index": 17.641043
+      },
+      {
+        "number": 6,
+        "index": 14.479787
+      },
+      {
+        "number": 7,
+        "index": 14.238727
+      },
+      {
+        "number": 8,
+        "index": 17.100134
+      },
+      {
+        "number": 9,
+        "index": 21.14522
+      },
+      {
+        "number": 10,
+        "index": 24.406277
+      },
+      {
+        "number": 11,
+        "index": 25.4891
+      },
+      {
+        "number": 12,
+        "index": 25.991337
+      }
+    ]
+  },
+  {
+    "target": "VGB",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.594496
+      },
+      {
+        "number": 2,
+        "index": 23.627522
+      },
+      {
+        "number": 3,
+        "index": 24.004587
+      },
+      {
+        "number": 4,
+        "index": 24.61468
+      },
+      {
+        "number": 5,
+        "index": 25.584404
+      },
+      {
+        "number": 6,
+        "index": 26.08257
+      },
+      {
+        "number": 7,
+        "index": 26.238531
+      },
+      {
+        "number": 8,
+        "index": 26.675228
+      },
+      {
+        "number": 9,
+        "index": 26.655964
+      },
+      {
+        "number": 10,
+        "index": 26.28532
+      },
+      {
+        "number": 11,
+        "index": 25.572477
+      },
+      {
+        "number": 12,
+        "index": 24.47523
+      }
+    ]
+  },
+  {
+    "target": "BRN",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.489264
+      },
+      {
+        "number": 2,
+        "index": 25.570047
+      },
+      {
+        "number": 3,
+        "index": 26.01875
+      },
+      {
+        "number": 4,
+        "index": 26.526361
+      },
+      {
+        "number": 5,
+        "index": 26.550488
+      },
+      {
+        "number": 6,
+        "index": 26.400257
+      },
+      {
+        "number": 7,
+        "index": 26.205612
+      },
+      {
+        "number": 8,
+        "index": 26.279423
+      },
+      {
+        "number": 9,
+        "index": 26.170471
+      },
+      {
+        "number": 10,
+        "index": 25.980783
+      },
+      {
+        "number": 11,
+        "index": 25.649979
+      },
+      {
+        "number": 12,
+        "index": 25.803827
+      }
+    ]
+  },
+  {
+    "target": "BGR",
+    "months": [
+      {
+        "number": 1,
+        "index": -0.6469165
+      },
+      {
+        "number": 2,
+        "index": 0.9578768
+      },
+      {
+        "number": 3,
+        "index": 5.072773
+      },
+      {
+        "number": 4,
+        "index": 10.28578
+      },
+      {
+        "number": 5,
+        "index": 15.480963
+      },
+      {
+        "number": 6,
+        "index": 19.216545
+      },
+      {
+        "number": 7,
+        "index": 21.669586
+      },
+      {
+        "number": 8,
+        "index": 21.36611
+      },
+      {
+        "number": 9,
+        "index": 17.297567
+      },
+      {
+        "number": 10,
+        "index": 12.062449
+      },
+      {
+        "number": 11,
+        "index": 6.278604
+      },
+      {
+        "number": 12,
+        "index": 1.595856
+      }
+    ]
+  },
+  {
+    "target": "BDI",
+    "months": [
+      {
+        "number": 1,
+        "index": 20.492207
+      },
+      {
+        "number": 2,
+        "index": 20.68555
+      },
+      {
+        "number": 3,
+        "index": 20.622288
+      },
+      {
+        "number": 4,
+        "index": 20.607136
+      },
+      {
+        "number": 5,
+        "index": 20.296206
+      },
+      {
+        "number": 6,
+        "index": 19.765099
+      },
+      {
+        "number": 7,
+        "index": 19.709734
+      },
+      {
+        "number": 8,
+        "index": 20.755451
+      },
+      {
+        "number": 9,
+        "index": 21.343172
+      },
+      {
+        "number": 10,
+        "index": 21.216335
+      },
+      {
+        "number": 11,
+        "index": 20.547396
+      },
+      {
+        "number": 12,
+        "index": 20.434305
+      }
+    ]
+  },
+  {
+    "target": "CPV",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.23881
+      },
+      {
+        "number": 2,
+        "index": 20.893572
+      },
+      {
+        "number": 3,
+        "index": 21.322947
+      },
+      {
+        "number": 4,
+        "index": 21.761814
+      },
+      {
+        "number": 5,
+        "index": 22.350388
+      },
+      {
+        "number": 6,
+        "index": 23.305655
+      },
+      {
+        "number": 7,
+        "index": 24.23113
+      },
+      {
+        "number": 8,
+        "index": 25.286993
+      },
+      {
+        "number": 9,
+        "index": 25.793186
+      },
+      {
+        "number": 10,
+        "index": 25.19741
+      },
+      {
+        "number": 11,
+        "index": 24.065208
+      },
+      {
+        "number": 12,
+        "index": 22.419703
+      }
+    ]
+  },
+  {
+    "target": "CAN",
+    "months": [
+      {
+        "number": 1,
+        "index": -24.660717
+      },
+      {
+        "number": 2,
+        "index": -23.691502
+      },
+      {
+        "number": 3,
+        "index": -19.197803
+      },
+      {
+        "number": 4,
+        "index": -10.452891
+      },
+      {
+        "number": 5,
+        "index": -0.9048363
+      },
+      {
+        "number": 6,
+        "index": 6.7404375
+      },
+      {
+        "number": 7,
+        "index": 10.750254
+      },
+      {
+        "number": 8,
+        "index": 9.166878
+      },
+      {
+        "number": 9,
+        "index": 3.3114586
+      },
+      {
+        "number": 10,
+        "index": -4.656958
+      },
+      {
+        "number": 11,
+        "index": -14.342758
+      },
+      {
+        "number": 12,
+        "index": -21.157711
+      }
+    ]
+  },
+  {
+    "target": "CSS",
+    "months": []
+  },
+  {
+    "target": "CYM",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.936697
+      },
+      {
+        "number": 2,
+        "index": 25.24587
+      },
+      {
+        "number": 3,
+        "index": 25.857798
+      },
+      {
+        "number": 4,
+        "index": 26.369724
+      },
+      {
+        "number": 5,
+        "index": 27.503668
+      },
+      {
+        "number": 6,
+        "index": 28.420185
+      },
+      {
+        "number": 7,
+        "index": 28.557796
+      },
+      {
+        "number": 8,
+        "index": 28.555044
+      },
+      {
+        "number": 9,
+        "index": 28.405506
+      },
+      {
+        "number": 10,
+        "index": 27.984402
+      },
+      {
+        "number": 11,
+        "index": 26.788992
+      },
+      {
+        "number": 12,
+        "index": 25.869724
+      }
+    ]
+  },
+  {
+    "target": "CAF",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.42284
+      },
+      {
+        "number": 2,
+        "index": 26.184528
+      },
+      {
+        "number": 3,
+        "index": 27.15423
+      },
+      {
+        "number": 4,
+        "index": 27.029903
+      },
+      {
+        "number": 5,
+        "index": 26.134487
+      },
+      {
+        "number": 6,
+        "index": 24.899399
+      },
+      {
+        "number": 7,
+        "index": 23.99718
+      },
+      {
+        "number": 8,
+        "index": 23.803404
+      },
+      {
+        "number": 9,
+        "index": 24.125153
+      },
+      {
+        "number": 10,
+        "index": 24.580994
+      },
+      {
+        "number": 11,
+        "index": 24.52952
+      },
+      {
+        "number": 12,
+        "index": 23.874767
+      }
+    ]
+  },
+  {
+    "target": "CEB",
+    "months": []
+  },
+  {
+    "target": "TCD",
+    "months": [
+      {
+        "number": 1,
+        "index": 20.613647
+      },
+      {
+        "number": 2,
+        "index": 23.127134
+      },
+      {
+        "number": 3,
+        "index": 26.48885
+      },
+      {
+        "number": 4,
+        "index": 29.514517
+      },
+      {
+        "number": 5,
+        "index": 30.955069
+      },
+      {
+        "number": 6,
+        "index": 30.718454
+      },
+      {
+        "number": 7,
+        "index": 29.29678
+      },
+      {
+        "number": 8,
+        "index": 28.18562
+      },
+      {
+        "number": 9,
+        "index": 28.326984
+      },
+      {
+        "number": 10,
+        "index": 27.278034
+      },
+      {
+        "number": 11,
+        "index": 23.95776
+      },
+      {
+        "number": 12,
+        "index": 21.29295
+      }
+    ]
+  },
+  {
+    "target": "CHI",
+    "months": []
+  },
+  {
+    "target": "COM",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.467052
+      },
+      {
+        "number": 2,
+        "index": 26.393885
+      },
+      {
+        "number": 3,
+        "index": 26.656473
+      },
+      {
+        "number": 4,
+        "index": 26.422232
+      },
+      {
+        "number": 5,
+        "index": 25.50634
+      },
+      {
+        "number": 6,
+        "index": 23.941204
+      },
+      {
+        "number": 7,
+        "index": 23.257456
+      },
+      {
+        "number": 8,
+        "index": 23.594822
+      },
+      {
+        "number": 9,
+        "index": 24.310982
+      },
+      {
+        "number": 10,
+        "index": 25.524242
+      },
+      {
+        "number": 11,
+        "index": 26.455713
+      },
+      {
+        "number": 12,
+        "index": 26.512411
+      }
+    ]
+  },
+  {
+    "target": "COG",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.848
+      },
+      {
+        "number": 2,
+        "index": 25.429203
+      },
+      {
+        "number": 3,
+        "index": 25.753925
+      },
+      {
+        "number": 4,
+        "index": 25.668222
+      },
+      {
+        "number": 5,
+        "index": 25.360834
+      },
+      {
+        "number": 6,
+        "index": 23.940098
+      },
+      {
+        "number": 7,
+        "index": 23.148796
+      },
+      {
+        "number": 8,
+        "index": 23.417263
+      },
+      {
+        "number": 9,
+        "index": 24.182396
+      },
+      {
+        "number": 10,
+        "index": 24.653608
+      },
+      {
+        "number": 11,
+        "index": 24.656227
+      },
+      {
+        "number": 12,
+        "index": 24.596886
+      }
+    ]
+  },
+  {
+    "target": "CRI",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.4625
+      },
+      {
+        "number": 2,
+        "index": 24.900076
+      },
+      {
+        "number": 3,
+        "index": 25.80665
+      },
+      {
+        "number": 4,
+        "index": 26.20814
+      },
+      {
+        "number": 5,
+        "index": 25.68363
+      },
+      {
+        "number": 6,
+        "index": 24.939058
+      },
+      {
+        "number": 7,
+        "index": 25.048485
+      },
+      {
+        "number": 8,
+        "index": 24.866076
+      },
+      {
+        "number": 9,
+        "index": 24.612514
+      },
+      {
+        "number": 10,
+        "index": 24.373112
+      },
+      {
+        "number": 11,
+        "index": 24.018946
+      },
+      {
+        "number": 12,
+        "index": 23.937218
+      }
+    ]
+  },
+  {
+    "target": "CIV",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.908178
+      },
+      {
+        "number": 2,
+        "index": 27.748844
+      },
+      {
+        "number": 3,
+        "index": 28.298542
+      },
+      {
+        "number": 4,
+        "index": 28.090113
+      },
+      {
+        "number": 5,
+        "index": 27.25332
+      },
+      {
+        "number": 6,
+        "index": 25.90831
+      },
+      {
+        "number": 7,
+        "index": 24.954948
+      },
+      {
+        "number": 8,
+        "index": 24.703165
+      },
+      {
+        "number": 9,
+        "index": 25.298588
+      },
+      {
+        "number": 10,
+        "index": 25.982883
+      },
+      {
+        "number": 11,
+        "index": 26.325115
+      },
+      {
+        "number": 12,
+        "index": 25.58441
+      }
+    ]
+  },
+  {
+    "target": "HRV",
+    "months": [
+      {
+        "number": 1,
+        "index": 0.7185339
+      },
+      {
+        "number": 2,
+        "index": 2.3186197
+      },
+      {
+        "number": 3,
+        "index": 6.275109
+      },
+      {
+        "number": 4,
+        "index": 10.548062
+      },
+      {
+        "number": 5,
+        "index": 15.168462
+      },
+      {
+        "number": 6,
+        "index": 18.628862
+      },
+      {
+        "number": 7,
+        "index": 20.911066
+      },
+      {
+        "number": 8,
+        "index": 20.598444
+      },
+      {
+        "number": 9,
+        "index": 16.892742
+      },
+      {
+        "number": 10,
+        "index": 11.9067955
+      },
+      {
+        "number": 11,
+        "index": 6.7133613
+      },
+      {
+        "number": 12,
+        "index": 2.6271615
+      }
+    ]
+  },
+  {
+    "target": "CUB",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.29809
+      },
+      {
+        "number": 2,
+        "index": 22.507835
+      },
+      {
+        "number": 3,
+        "index": 23.73882
+      },
+      {
+        "number": 4,
+        "index": 24.790043
+      },
+      {
+        "number": 5,
+        "index": 26.06103
+      },
+      {
+        "number": 6,
+        "index": 26.990345
+      },
+      {
+        "number": 7,
+        "index": 27.373692
+      },
+      {
+        "number": 8,
+        "index": 27.456167
+      },
+      {
+        "number": 9,
+        "index": 27.119701
+      },
+      {
+        "number": 10,
+        "index": 26.163437
+      },
+      {
+        "number": 11,
+        "index": 24.522861
+      },
+      {
+        "number": 12,
+        "index": 23.14307
+      }
+    ]
+  },
+  {
+    "target": "CUW",
+    "months": []
+  },
+  {
+    "target": "CYP",
+    "months": [
+      {
+        "number": 1,
+        "index": 10.265357
+      },
+      {
+        "number": 2,
+        "index": 10.7998905
+      },
+      {
+        "number": 3,
+        "index": 13.007887
+      },
+      {
+        "number": 4,
+        "index": 16.635536
+      },
+      {
+        "number": 5,
+        "index": 20.762241
+      },
+      {
+        "number": 6,
+        "index": 24.688662
+      },
+      {
+        "number": 7,
+        "index": 27.405396
+      },
+      {
+        "number": 8,
+        "index": 27.64881
+      },
+      {
+        "number": 9,
+        "index": 25.138126
+      },
+      {
+        "number": 10,
+        "index": 21.272985
+      },
+      {
+        "number": 11,
+        "index": 16.235823
+      },
+      {
+        "number": 12,
+        "index": 12.068949
+      }
+    ]
+  },
+  {
+    "target": "CZE",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.6573064
+      },
+      {
+        "number": 2,
+        "index": -1.3579634
+      },
+      {
+        "number": 3,
+        "index": 2.754628
+      },
+      {
+        "number": 4,
+        "index": 7.5761566
+      },
+      {
+        "number": 5,
+        "index": 12.519987
+      },
+      {
+        "number": 6,
+        "index": 15.566973
+      },
+      {
+        "number": 7,
+        "index": 17.438597
+      },
+      {
+        "number": 8,
+        "index": 17.039618
+      },
+      {
+        "number": 9,
+        "index": 13.400022
+      },
+      {
+        "number": 10,
+        "index": 8.284483
+      },
+      {
+        "number": 11,
+        "index": 2.7069855
+      },
+      {
+        "number": 12,
+        "index": -1.1499554
+      }
+    ]
+  },
+  {
+    "target": "DNK",
+    "months": [
+      {
+        "number": 1,
+        "index": -0.26206094
+      },
+      {
+        "number": 2,
+        "index": -0.2898539
+      },
+      {
+        "number": 3,
+        "index": 2.2076719
+      },
+      {
+        "number": 4,
+        "index": 6.303566
+      },
+      {
+        "number": 5,
+        "index": 11.067823
+      },
+      {
+        "number": 6,
+        "index": 14.528601
+      },
+      {
+        "number": 7,
+        "index": 16.723515
+      },
+      {
+        "number": 8,
+        "index": 16.282425
+      },
+      {
+        "number": 9,
+        "index": 13.088995
+      },
+      {
+        "number": 10,
+        "index": 8.8251295
+      },
+      {
+        "number": 11,
+        "index": 4.419141
+      },
+      {
+        "number": 12,
+        "index": 1.2443378
+      }
+    ]
+  },
+  {
+    "target": "DJI",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.69607
+      },
+      {
+        "number": 2,
+        "index": 24.66001
+      },
+      {
+        "number": 3,
+        "index": 26.280304
+      },
+      {
+        "number": 4,
+        "index": 27.958399
+      },
+      {
+        "number": 5,
+        "index": 29.675436
+      },
+      {
+        "number": 6,
+        "index": 31.604233
+      },
+      {
+        "number": 7,
+        "index": 32.23506
+      },
+      {
+        "number": 8,
+        "index": 31.519388
+      },
+      {
+        "number": 9,
+        "index": 30.263264
+      },
+      {
+        "number": 10,
+        "index": 27.696127
+      },
+      {
+        "number": 11,
+        "index": 25.554768
+      },
+      {
+        "number": 12,
+        "index": 23.98981
+      }
+    ]
+  },
+  {
+    "target": "DMA",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.166056
+      },
+      {
+        "number": 2,
+        "index": 20.865139
+      },
+      {
+        "number": 3,
+        "index": 21.113302
+      },
+      {
+        "number": 4,
+        "index": 21.564678
+      },
+      {
+        "number": 5,
+        "index": 22.615597
+      },
+      {
+        "number": 6,
+        "index": 23.17844
+      },
+      {
+        "number": 7,
+        "index": 23.221102
+      },
+      {
+        "number": 8,
+        "index": 23.429358
+      },
+      {
+        "number": 9,
+        "index": 23.279358
+      },
+      {
+        "number": 10,
+        "index": 22.973852
+      },
+      {
+        "number": 11,
+        "index": 22.533028
+      },
+      {
+        "number": 12,
+        "index": 21.762386
+      }
+    ]
+  },
+  {
+    "target": "EAR",
+    "months": []
+  },
+  {
+    "target": "EAS",
+    "months": []
+  },
+  {
+    "target": "EAP",
+    "months": []
+  },
+  {
+    "target": "TEA",
+    "months": []
+  },
+  {
+    "target": "GNQ",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.11021
+      },
+      {
+        "number": 2,
+        "index": 25.600958
+      },
+      {
+        "number": 3,
+        "index": 25.434168
+      },
+      {
+        "number": 4,
+        "index": 25.34959
+      },
+      {
+        "number": 5,
+        "index": 25.120152
+      },
+      {
+        "number": 6,
+        "index": 24.256306
+      },
+      {
+        "number": 7,
+        "index": 23.166306
+      },
+      {
+        "number": 8,
+        "index": 23.287128
+      },
+      {
+        "number": 9,
+        "index": 24.08874
+      },
+      {
+        "number": 10,
+        "index": 24.268414
+      },
+      {
+        "number": 11,
+        "index": 24.62045
+      },
+      {
+        "number": 12,
+        "index": 24.746603
+      }
+    ]
+  },
+  {
+    "target": "ERI",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.792479
+      },
+      {
+        "number": 2,
+        "index": 23.63928
+      },
+      {
+        "number": 3,
+        "index": 25.209665
+      },
+      {
+        "number": 4,
+        "index": 27.448084
+      },
+      {
+        "number": 5,
+        "index": 29.011398
+      },
+      {
+        "number": 6,
+        "index": 29.908346
+      },
+      {
+        "number": 7,
+        "index": 29.164667
+      },
+      {
+        "number": 8,
+        "index": 28.496449
+      },
+      {
+        "number": 9,
+        "index": 28.13345
+      },
+      {
+        "number": 10,
+        "index": 27.17503
+      },
+      {
+        "number": 11,
+        "index": 25.441948
+      },
+      {
+        "number": 12,
+        "index": 23.553226
+      }
+    ]
+  },
+  {
+    "target": "EST",
+    "months": [
+      {
+        "number": 1,
+        "index": -5.424954
+      },
+      {
+        "number": 2,
+        "index": -5.8028765
+      },
+      {
+        "number": 3,
+        "index": -2.2151089
+      },
+      {
+        "number": 4,
+        "index": 4.161221
+      },
+      {
+        "number": 5,
+        "index": 9.996335
+      },
+      {
+        "number": 6,
+        "index": 14.2653
+      },
+      {
+        "number": 7,
+        "index": 17.107775
+      },
+      {
+        "number": 8,
+        "index": 15.988512
+      },
+      {
+        "number": 9,
+        "index": 11.410322
+      },
+      {
+        "number": 10,
+        "index": 6.110081
+      },
+      {
+        "number": 11,
+        "index": 1.0195237
+      },
+      {
+        "number": 12,
+        "index": -3.0479574
+      }
+    ]
+  },
+  {
+    "target": "EMU",
+    "months": []
+  },
+  {
+    "target": "ECS",
+    "months": []
+  },
+  {
+    "target": "ECA",
+    "months": []
+  },
+  {
+    "target": "TEC",
+    "months": []
+  },
+  {
+    "target": "EUU",
+    "months": []
+  },
+  {
+    "target": "FRO",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.070357
+      },
+      {
+        "number": 2,
+        "index": 2.9653573
+      },
+      {
+        "number": 3,
+        "index": 3.4278572
+      },
+      {
+        "number": 4,
+        "index": 4.6464286
+      },
+      {
+        "number": 5,
+        "index": 6.6010714
+      },
+      {
+        "number": 6,
+        "index": 8.787024
+      },
+      {
+        "number": 7,
+        "index": 10.342203
+      },
+      {
+        "number": 8,
+        "index": 10.6
+      },
+      {
+        "number": 9,
+        "index": 9.209524
+      },
+      {
+        "number": 10,
+        "index": 7.1775002
+      },
+      {
+        "number": 11,
+        "index": 4.860774
+      },
+      {
+        "number": 12,
+        "index": 3.7129166
+      }
+    ]
+  },
+  {
+    "target": "FJI",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.72727
+      },
+      {
+        "number": 2,
+        "index": 26.054348
+      },
+      {
+        "number": 3,
+        "index": 25.860605
+      },
+      {
+        "number": 4,
+        "index": 25.26067
+      },
+      {
+        "number": 5,
+        "index": 23.904587
+      },
+      {
+        "number": 6,
+        "index": 23.102154
+      },
+      {
+        "number": 7,
+        "index": 22.280159
+      },
+      {
+        "number": 8,
+        "index": 22.498392
+      },
+      {
+        "number": 9,
+        "index": 22.929874
+      },
+      {
+        "number": 10,
+        "index": 23.719257
+      },
+      {
+        "number": 11,
+        "index": 24.542858
+      },
+      {
+        "number": 12,
+        "index": 25.204304
+      }
+    ]
+  },
+  {
+    "target": "FIN",
+    "months": [
+      {
+        "number": 1,
+        "index": -10.748751
+      },
+      {
+        "number": 2,
+        "index": -10.811792
+      },
+      {
+        "number": 3,
+        "index": -6.2595205
+      },
+      {
+        "number": 4,
+        "index": -0.023051424
+      },
+      {
+        "number": 5,
+        "index": 6.5197096
+      },
+      {
+        "number": 6,
+        "index": 12.269081
+      },
+      {
+        "number": 7,
+        "index": 15.338081
+      },
+      {
+        "number": 8,
+        "index": 13.26593
+      },
+      {
+        "number": 9,
+        "index": 8.076475
+      },
+      {
+        "number": 10,
+        "index": 1.8826134
+      },
+      {
+        "number": 11,
+        "index": -3.8635705
+      },
+      {
+        "number": 12,
+        "index": -8.211466
+      }
+    ]
+  },
+  {
+    "target": "FCS",
+    "months": []
+  },
+  {
+    "target": "FRA",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.351265
+      },
+      {
+        "number": 2,
+        "index": 4.1506233
+      },
+      {
+        "number": 3,
+        "index": 6.769156
+      },
+      {
+        "number": 4,
+        "index": 9.385042
+      },
+      {
+        "number": 5,
+        "index": 13.14492
+      },
+      {
+        "number": 6,
+        "index": 16.342558
+      },
+      {
+        "number": 7,
+        "index": 18.545862
+      },
+      {
+        "number": 8,
+        "index": 18.407234
+      },
+      {
+        "number": 9,
+        "index": 15.75828
+      },
+      {
+        "number": 10,
+        "index": 11.600126
+      },
+      {
+        "number": 11,
+        "index": 6.843684
+      },
+      {
+        "number": 12,
+        "index": 4.1763206
+      }
+    ]
+  },
+  {
+    "target": "PYF",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.573362
+      },
+      {
+        "number": 2,
+        "index": 25.717113
+      },
+      {
+        "number": 3,
+        "index": 25.886978
+      },
+      {
+        "number": 4,
+        "index": 25.707886
+      },
+      {
+        "number": 5,
+        "index": 24.9814
+      },
+      {
+        "number": 6,
+        "index": 24.277157
+      },
+      {
+        "number": 7,
+        "index": 23.774925
+      },
+      {
+        "number": 8,
+        "index": 23.67314
+      },
+      {
+        "number": 9,
+        "index": 23.952753
+      },
+      {
+        "number": 10,
+        "index": 24.460268
+      },
+      {
+        "number": 11,
+        "index": 25.028795
+      },
+      {
+        "number": 12,
+        "index": 25.384449
+      }
+    ]
+  },
+  {
+    "target": "GAB",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.737162
+      },
+      {
+        "number": 2,
+        "index": 25.951916
+      },
+      {
+        "number": 3,
+        "index": 26.175632
+      },
+      {
+        "number": 4,
+        "index": 26.086063
+      },
+      {
+        "number": 5,
+        "index": 25.76527
+      },
+      {
+        "number": 6,
+        "index": 24.173752
+      },
+      {
+        "number": 7,
+        "index": 23.048449
+      },
+      {
+        "number": 8,
+        "index": 23.38454
+      },
+      {
+        "number": 9,
+        "index": 24.575214
+      },
+      {
+        "number": 10,
+        "index": 25.174837
+      },
+      {
+        "number": 11,
+        "index": 25.122929
+      },
+      {
+        "number": 12,
+        "index": 25.095291
+      }
+    ]
+  },
+  {
+    "target": "GMB",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.336384
+      },
+      {
+        "number": 2,
+        "index": 26.50319
+      },
+      {
+        "number": 3,
+        "index": 28.300287
+      },
+      {
+        "number": 4,
+        "index": 29.71438
+      },
+      {
+        "number": 5,
+        "index": 30.273235
+      },
+      {
+        "number": 6,
+        "index": 29.49849
+      },
+      {
+        "number": 7,
+        "index": 27.80812
+      },
+      {
+        "number": 8,
+        "index": 27.0253
+      },
+      {
+        "number": 9,
+        "index": 27.14152
+      },
+      {
+        "number": 10,
+        "index": 28.151031
+      },
+      {
+        "number": 11,
+        "index": 26.988947
+      },
+      {
+        "number": 12,
+        "index": 24.430103
+      }
+    ]
+  },
+  {
+    "target": "GEO",
+    "months": [
+      {
+        "number": 1,
+        "index": -6.7329054
+      },
+      {
+        "number": 2,
+        "index": -5.603352
+      },
+      {
+        "number": 3,
+        "index": -0.84495336
+      },
+      {
+        "number": 4,
+        "index": 6.0286283
+      },
+      {
+        "number": 5,
+        "index": 11.18321
+      },
+      {
+        "number": 6,
+        "index": 14.751567
+      },
+      {
+        "number": 7,
+        "index": 17.87851
+      },
+      {
+        "number": 8,
+        "index": 17.875843
+      },
+      {
+        "number": 9,
+        "index": 13.702637
+      },
+      {
+        "number": 10,
+        "index": 7.917512
+      },
+      {
+        "number": 11,
+        "index": 1.8451626
+      },
+      {
+        "number": 12,
+        "index": -4.007554
+      }
+    ]
+  },
+  {
+    "target": "DEU",
+    "months": [
+      {
+        "number": 1,
+        "index": -0.40384316
+      },
+      {
+        "number": 2,
+        "index": 0.44368964
+      },
+      {
+        "number": 3,
+        "index": 3.9217591
+      },
+      {
+        "number": 4,
+        "index": 7.8590536
+      },
+      {
+        "number": 5,
+        "index": 12.441997
+      },
+      {
+        "number": 6,
+        "index": 15.463537
+      },
+      {
+        "number": 7,
+        "index": 17.349094
+      },
+      {
+        "number": 8,
+        "index": 16.965397
+      },
+      {
+        "number": 9,
+        "index": 13.73414
+      },
+      {
+        "number": 10,
+        "index": 9.000951
+      },
+      {
+        "number": 11,
+        "index": 4.086176
+      },
+      {
+        "number": 12,
+        "index": 0.8426736
+      }
+    ]
+  },
+  {
+    "target": "GIB",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.112844
+      },
+      {
+        "number": 2,
+        "index": 12.505505
+      },
+      {
+        "number": 3,
+        "index": 13.9862385
+      },
+      {
+        "number": 4,
+        "index": 15.614679
+      },
+      {
+        "number": 5,
+        "index": 18.088991
+      },
+      {
+        "number": 6,
+        "index": 21.21835
+      },
+      {
+        "number": 7,
+        "index": 23.7422
+      },
+      {
+        "number": 8,
+        "index": 24.409174
+      },
+      {
+        "number": 9,
+        "index": 22.514679
+      },
+      {
+        "number": 10,
+        "index": 18.977064
+      },
+      {
+        "number": 11,
+        "index": 15.151377
+      },
+      {
+        "number": 12,
+        "index": 12.9440365
+      }
+    ]
+  },
+  {
+    "target": "GRC",
+    "months": [
+      {
+        "number": 1,
+        "index": 6.1981897
+      },
+      {
+        "number": 2,
+        "index": 7.0346656
+      },
+      {
+        "number": 3,
+        "index": 9.367796
+      },
+      {
+        "number": 4,
+        "index": 12.979808
+      },
+      {
+        "number": 5,
+        "index": 17.402353
+      },
+      {
+        "number": 6,
+        "index": 21.608572
+      },
+      {
+        "number": 7,
+        "index": 24.379965
+      },
+      {
+        "number": 8,
+        "index": 24.35519
+      },
+      {
+        "number": 9,
+        "index": 20.879818
+      },
+      {
+        "number": 10,
+        "index": 16.385544
+      },
+      {
+        "number": 11,
+        "index": 11.801954
+      },
+      {
+        "number": 12,
+        "index": 7.847636
+      }
+    ]
+  },
+  {
+    "target": "GRL",
+    "months": [
+      {
+        "number": 1,
+        "index": -25.267117
+      },
+      {
+        "number": 2,
+        "index": -26.91561
+      },
+      {
+        "number": 3,
+        "index": -28.09312
+      },
+      {
+        "number": 4,
+        "index": -21.767223
+      },
+      {
+        "number": 5,
+        "index": -12.375917
+      },
+      {
+        "number": 6,
+        "index": -5.4377356
+      },
+      {
+        "number": 7,
+        "index": -2.2454634
+      },
+      {
+        "number": 8,
+        "index": -4.8241305
+      },
+      {
+        "number": 9,
+        "index": -12.179098
+      },
+      {
+        "number": 10,
+        "index": -18.721256
+      },
+      {
+        "number": 11,
+        "index": -23.740078
+      },
+      {
+        "number": 12,
+        "index": -25.515888
+      }
+    ]
+  },
+  {
+    "target": "GRD",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.13211
+      },
+      {
+        "number": 2,
+        "index": 25.13945
+      },
+      {
+        "number": 3,
+        "index": 25.763302
+      },
+      {
+        "number": 4,
+        "index": 26.56422
+      },
+      {
+        "number": 5,
+        "index": 27.450459
+      },
+      {
+        "number": 6,
+        "index": 27.406422
+      },
+      {
+        "number": 7,
+        "index": 27.104588
+      },
+      {
+        "number": 8,
+        "index": 27.326605
+      },
+      {
+        "number": 9,
+        "index": 27.33578
+      },
+      {
+        "number": 10,
+        "index": 27.137615
+      },
+      {
+        "number": 11,
+        "index": 26.691742
+      },
+      {
+        "number": 12,
+        "index": 25.772476
+      }
+    ]
+  },
+  {
+    "target": "GUM",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.61473
+      },
+      {
+        "number": 2,
+        "index": 26.590626
+      },
+      {
+        "number": 3,
+        "index": 26.85759
+      },
+      {
+        "number": 4,
+        "index": 27.392857
+      },
+      {
+        "number": 5,
+        "index": 27.735714
+      },
+      {
+        "number": 6,
+        "index": 28.081696
+      },
+      {
+        "number": 7,
+        "index": 27.84866
+      },
+      {
+        "number": 8,
+        "index": 27.61875
+      },
+      {
+        "number": 9,
+        "index": 27.855356
+      },
+      {
+        "number": 10,
+        "index": 27.83616
+      },
+      {
+        "number": 11,
+        "index": 27.625
+      },
+      {
+        "number": 12,
+        "index": 27.203571
+      }
+    ]
+  },
+  {
+    "target": "GIN",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.649113
+      },
+      {
+        "number": 2,
+        "index": 26.551828
+      },
+      {
+        "number": 3,
+        "index": 28.042255
+      },
+      {
+        "number": 4,
+        "index": 28.549387
+      },
+      {
+        "number": 5,
+        "index": 27.838787
+      },
+      {
+        "number": 6,
+        "index": 25.995438
+      },
+      {
+        "number": 7,
+        "index": 24.83363
+      },
+      {
+        "number": 8,
+        "index": 24.320457
+      },
+      {
+        "number": 9,
+        "index": 24.924631
+      },
+      {
+        "number": 10,
+        "index": 25.486996
+      },
+      {
+        "number": 11,
+        "index": 25.465471
+      },
+      {
+        "number": 12,
+        "index": 24.262762
+      }
+    ]
+  },
+  {
+    "target": "GNB",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.651972
+      },
+      {
+        "number": 2,
+        "index": 26.508854
+      },
+      {
+        "number": 3,
+        "index": 28.136087
+      },
+      {
+        "number": 4,
+        "index": 29.119976
+      },
+      {
+        "number": 5,
+        "index": 29.223698
+      },
+      {
+        "number": 6,
+        "index": 28.012686
+      },
+      {
+        "number": 7,
+        "index": 26.483072
+      },
+      {
+        "number": 8,
+        "index": 25.970535
+      },
+      {
+        "number": 9,
+        "index": 26.507477
+      },
+      {
+        "number": 10,
+        "index": 27.275259
+      },
+      {
+        "number": 11,
+        "index": 26.8827
+      },
+      {
+        "number": 12,
+        "index": 24.694122
+      }
+    ]
+  },
+  {
+    "target": "GUY",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.128056
+      },
+      {
+        "number": 2,
+        "index": 25.196507
+      },
+      {
+        "number": 3,
+        "index": 25.480824
+      },
+      {
+        "number": 4,
+        "index": 25.662146
+      },
+      {
+        "number": 5,
+        "index": 25.644125
+      },
+      {
+        "number": 6,
+        "index": 25.336306
+      },
+      {
+        "number": 7,
+        "index": 25.204128
+      },
+      {
+        "number": 8,
+        "index": 25.715021
+      },
+      {
+        "number": 9,
+        "index": 26.302227
+      },
+      {
+        "number": 10,
+        "index": 26.5953
+      },
+      {
+        "number": 11,
+        "index": 26.393805
+      },
+      {
+        "number": 12,
+        "index": 25.609415
+      }
+    ]
+  },
+  {
+    "target": "HPC",
+    "months": []
+  },
+  {
+    "target": "HIC",
+    "months": []
+  },
+  {
+    "target": "HKG",
+    "months": [
+      {
+        "number": 1,
+        "index": 15.412203
+      },
+      {
+        "number": 2,
+        "index": 15.789286
+      },
+      {
+        "number": 3,
+        "index": 18.532738
+      },
+      {
+        "number": 4,
+        "index": 22.404762
+      },
+      {
+        "number": 5,
+        "index": 25.96726
+      },
+      {
+        "number": 6,
+        "index": 27.632145
+      },
+      {
+        "number": 7,
+        "index": 28.444345
+      },
+      {
+        "number": 8,
+        "index": 28.362799
+      },
+      {
+        "number": 9,
+        "index": 27.50387
+      },
+      {
+        "number": 10,
+        "index": 24.790775
+      },
+      {
+        "number": 11,
+        "index": 20.947025
+      },
+      {
+        "number": 12,
+        "index": 16.91994
+      }
+    ]
+  },
+  {
+    "target": "HUN",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.8848374
+      },
+      {
+        "number": 2,
+        "index": 0.25047463
+      },
+      {
+        "number": 3,
+        "index": 5.148767
+      },
+      {
+        "number": 4,
+        "index": 10.475495
+      },
+      {
+        "number": 5,
+        "index": 15.426147
+      },
+      {
+        "number": 6,
+        "index": 18.63689
+      },
+      {
+        "number": 7,
+        "index": 20.44594
+      },
+      {
+        "number": 8,
+        "index": 19.948132
+      },
+      {
+        "number": 9,
+        "index": 15.978831
+      },
+      {
+        "number": 10,
+        "index": 10.558283
+      },
+      {
+        "number": 11,
+        "index": 4.791119
+      },
+      {
+        "number": 12,
+        "index": 0.17032793
+      }
+    ]
+  },
+  {
+    "target": "IBD",
+    "months": []
+  },
+  {
+    "target": "ISL",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.5551138
+      },
+      {
+        "number": 2,
+        "index": -2.5706522
+      },
+      {
+        "number": 3,
+        "index": -1.9730555
+      },
+      {
+        "number": 4,
+        "index": -0.09395046
+      },
+      {
+        "number": 5,
+        "index": 3.5561461
+      },
+      {
+        "number": 6,
+        "index": 6.8411493
+      },
+      {
+        "number": 7,
+        "index": 8.832794
+      },
+      {
+        "number": 8,
+        "index": 8.12615
+      },
+      {
+        "number": 9,
+        "index": 5.4064183
+      },
+      {
+        "number": 10,
+        "index": 1.8642042
+      },
+      {
+        "number": 11,
+        "index": -1.170599
+      },
+      {
+        "number": 12,
+        "index": -2.3106425
+      }
+    ]
+  },
+  {
+    "target": "IBT",
+    "months": []
+  },
+  {
+    "target": "IDB",
+    "months": []
+  },
+  {
+    "target": "IDX",
+    "months": []
+  },
+  {
+    "target": "IDA",
+    "months": []
+  },
+  {
+    "target": "IRN",
+    "months": [
+      {
+        "number": 1,
+        "index": 4.8412075
+      },
+      {
+        "number": 2,
+        "index": 6.902476
+      },
+      {
+        "number": 3,
+        "index": 11.438702
+      },
+      {
+        "number": 4,
+        "index": 16.968443
+      },
+      {
+        "number": 5,
+        "index": 22.29544
+      },
+      {
+        "number": 6,
+        "index": 26.714254
+      },
+      {
+        "number": 7,
+        "index": 28.764746
+      },
+      {
+        "number": 8,
+        "index": 27.677898
+      },
+      {
+        "number": 9,
+        "index": 23.858746
+      },
+      {
+        "number": 10,
+        "index": 18.317085
+      },
+      {
+        "number": 11,
+        "index": 12.034037
+      },
+      {
+        "number": 12,
+        "index": 6.793994
+      }
+    ]
+  },
+  {
+    "target": "IRQ",
+    "months": [
+      {
+        "number": 1,
+        "index": 8.613132
+      },
+      {
+        "number": 2,
+        "index": 10.67494
+      },
+      {
+        "number": 3,
+        "index": 14.641055
+      },
+      {
+        "number": 4,
+        "index": 20.324488
+      },
+      {
+        "number": 5,
+        "index": 26.17577
+      },
+      {
+        "number": 6,
+        "index": 30.430853
+      },
+      {
+        "number": 7,
+        "index": 32.89258
+      },
+      {
+        "number": 8,
+        "index": 32.72808
+      },
+      {
+        "number": 9,
+        "index": 29.175777
+      },
+      {
+        "number": 10,
+        "index": 23.537235
+      },
+      {
+        "number": 11,
+        "index": 16.015854
+      },
+      {
+        "number": 12,
+        "index": 10.249596
+      }
+    ]
+  },
+  {
+    "target": "IRL",
+    "months": [
+      {
+        "number": 1,
+        "index": 4.941451
+      },
+      {
+        "number": 2,
+        "index": 5.049791
+      },
+      {
+        "number": 3,
+        "index": 6.2485228
+      },
+      {
+        "number": 4,
+        "index": 7.9061904
+      },
+      {
+        "number": 5,
+        "index": 10.416128
+      },
+      {
+        "number": 6,
+        "index": 12.965464
+      },
+      {
+        "number": 7,
+        "index": 14.584889
+      },
+      {
+        "number": 8,
+        "index": 14.404764
+      },
+      {
+        "number": 9,
+        "index": 12.664339
+      },
+      {
+        "number": 10,
+        "index": 10.003481
+      },
+      {
+        "number": 11,
+        "index": 6.8925943
+      },
+      {
+        "number": 12,
+        "index": 5.542906
+      }
+    ]
+  },
+  {
+    "target": "IMY",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.739732
+      },
+      {
+        "number": 2,
+        "index": 3.7683036
+      },
+      {
+        "number": 3,
+        "index": 5.120536
+      },
+      {
+        "number": 4,
+        "index": 7.151339
+      },
+      {
+        "number": 5,
+        "index": 10.104017
+      },
+      {
+        "number": 6,
+        "index": 12.710268
+      },
+      {
+        "number": 7,
+        "index": 14.280803
+      },
+      {
+        "number": 8,
+        "index": 14.064285
+      },
+      {
+        "number": 9,
+        "index": 12.178125
+      },
+      {
+        "number": 10,
+        "index": 9.358929
+      },
+      {
+        "number": 11,
+        "index": 6.05
+      },
+      {
+        "number": 12,
+        "index": 4.4410715
+      }
+    ]
+  },
+  {
+    "target": "ISR",
+    "months": [
+      {
+        "number": 1,
+        "index": 11.337013
+      },
+      {
+        "number": 2,
+        "index": 12.244237
+      },
+      {
+        "number": 3,
+        "index": 14.526907
+      },
+      {
+        "number": 4,
+        "index": 18.326462
+      },
+      {
+        "number": 5,
+        "index": 21.950771
+      },
+      {
+        "number": 6,
+        "index": 24.686363
+      },
+      {
+        "number": 7,
+        "index": 26.537582
+      },
+      {
+        "number": 8,
+        "index": 26.925446
+      },
+      {
+        "number": 9,
+        "index": 25.296347
+      },
+      {
+        "number": 10,
+        "index": 22.467735
+      },
+      {
+        "number": 11,
+        "index": 17.576624
+      },
+      {
+        "number": 12,
+        "index": 13.1125
+      }
+    ]
+  },
+  {
+    "target": "ITA",
+    "months": [
+      {
+        "number": 1,
+        "index": 4.261962
+      },
+      {
+        "number": 2,
+        "index": 4.954588
+      },
+      {
+        "number": 3,
+        "index": 7.441755
+      },
+      {
+        "number": 4,
+        "index": 10.448172
+      },
+      {
+        "number": 5,
+        "index": 14.621475
+      },
+      {
+        "number": 6,
+        "index": 18.489254
+      },
+      {
+        "number": 7,
+        "index": 21.122929
+      },
+      {
+        "number": 8,
+        "index": 21.160656
+      },
+      {
+        "number": 9,
+        "index": 18.04299
+      },
+      {
+        "number": 10,
+        "index": 13.710591
+      },
+      {
+        "number": 11,
+        "index": 9.080622
+      },
+      {
+        "number": 12,
+        "index": 5.654943
+      }
+    ]
+  },
+  {
+    "target": "JAM",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.360281
+      },
+      {
+        "number": 2,
+        "index": 23.391453
+      },
+      {
+        "number": 3,
+        "index": 24.099426
+      },
+      {
+        "number": 4,
+        "index": 24.791874
+      },
+      {
+        "number": 5,
+        "index": 25.252016
+      },
+      {
+        "number": 6,
+        "index": 25.982502
+      },
+      {
+        "number": 7,
+        "index": 26.132818
+      },
+      {
+        "number": 8,
+        "index": 26.44519
+      },
+      {
+        "number": 9,
+        "index": 25.964005
+      },
+      {
+        "number": 10,
+        "index": 25.41412
+      },
+      {
+        "number": 11,
+        "index": 24.845867
+      },
+      {
+        "number": 12,
+        "index": 24.11968
+      }
+    ]
+  },
+  {
+    "target": "JPN",
+    "months": [
+      {
+        "number": 1,
+        "index": -0.105965436
+      },
+      {
+        "number": 2,
+        "index": 0.33215022
+      },
+      {
+        "number": 3,
+        "index": 3.6034336
+      },
+      {
+        "number": 4,
+        "index": 9.373735
+      },
+      {
+        "number": 5,
+        "index": 13.991274
+      },
+      {
+        "number": 6,
+        "index": 17.981733
+      },
+      {
+        "number": 7,
+        "index": 22.028456
+      },
+      {
+        "number": 8,
+        "index": 23.3261
+      },
+      {
+        "number": 9,
+        "index": 19.606895
+      },
+      {
+        "number": 10,
+        "index": 13.781488
+      },
+      {
+        "number": 11,
+        "index": 8.050784
+      },
+      {
+        "number": 12,
+        "index": 2.682054
+      }
+    ]
+  },
+  {
+    "target": "JOR",
+    "months": [
+      {
+        "number": 1,
+        "index": 8.765529
+      },
+      {
+        "number": 2,
+        "index": 10.275309
+      },
+      {
+        "number": 3,
+        "index": 13.420061
+      },
+      {
+        "number": 4,
+        "index": 17.993727
+      },
+      {
+        "number": 5,
+        "index": 22.40884
+      },
+      {
+        "number": 6,
+        "index": 25.443249
+      },
+      {
+        "number": 7,
+        "index": 27.20805
+      },
+      {
+        "number": 8,
+        "index": 27.493326
+      },
+      {
+        "number": 9,
+        "index": 25.325214
+      },
+      {
+        "number": 10,
+        "index": 21.410915
+      },
+      {
+        "number": 11,
+        "index": 15.413183
+      },
+      {
+        "number": 12,
+        "index": 10.434886
+      }
+    ]
+  },
+  {
+    "target": "KAZ",
+    "months": [
+      {
+        "number": 1,
+        "index": -12.686838
+      },
+      {
+        "number": 2,
+        "index": -11.770575
+      },
+      {
+        "number": 3,
+        "index": -4.662486
+      },
+      {
+        "number": 4,
+        "index": 7.560922
+      },
+      {
+        "number": 5,
+        "index": 15.404187
+      },
+      {
+        "number": 6,
+        "index": 20.61474
+      },
+      {
+        "number": 7,
+        "index": 22.888617
+      },
+      {
+        "number": 8,
+        "index": 20.913769
+      },
+      {
+        "number": 9,
+        "index": 14.75517
+      },
+      {
+        "number": 10,
+        "index": 6.443232
+      },
+      {
+        "number": 11,
+        "index": -2.6568198
+      },
+      {
+        "number": 12,
+        "index": -9.728348
+      }
+    ]
+  },
+  {
+    "target": "KIR",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.5
+      },
+      {
+        "number": 2,
+        "index": 27.549107
+      },
+      {
+        "number": 3,
+        "index": 27.749105
+      },
+      {
+        "number": 4,
+        "index": 27.77567
+      },
+      {
+        "number": 5,
+        "index": 27.748215
+      },
+      {
+        "number": 6,
+        "index": 27.547321
+      },
+      {
+        "number": 7,
+        "index": 27.299107
+      },
+      {
+        "number": 8,
+        "index": 27.300446
+      },
+      {
+        "number": 9,
+        "index": 27.200893
+      },
+      {
+        "number": 10,
+        "index": 27.30134
+      },
+      {
+        "number": 11,
+        "index": 27.501339
+      },
+      {
+        "number": 12,
+        "index": 27.60134
+      }
+    ]
+  },
+  {
+    "target": "PRK",
+    "months": [
+      {
+        "number": 1,
+        "index": -12.000346
+      },
+      {
+        "number": 2,
+        "index": -8.720927
+      },
+      {
+        "number": 3,
+        "index": -1.9054201
+      },
+      {
+        "number": 4,
+        "index": 6.4044733
+      },
+      {
+        "number": 5,
+        "index": 12.374562
+      },
+      {
+        "number": 6,
+        "index": 17.19257
+      },
+      {
+        "number": 7,
+        "index": 20.967733
+      },
+      {
+        "number": 8,
+        "index": 21.09256
+      },
+      {
+        "number": 9,
+        "index": 15.245508
+      },
+      {
+        "number": 10,
+        "index": 8.269211
+      },
+      {
+        "number": 11,
+        "index": -0.5224073
+      },
+      {
+        "number": 12,
+        "index": -8.931716
+      }
+    ]
+  },
+  {
+    "target": "KOR",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.549507
+      },
+      {
+        "number": 2,
+        "index": -0.6137467
+      },
+      {
+        "number": 3,
+        "index": 4.2128873
+      },
+      {
+        "number": 4,
+        "index": 10.464574
+      },
+      {
+        "number": 5,
+        "index": 15.45946
+      },
+      {
+        "number": 6,
+        "index": 19.95235
+      },
+      {
+        "number": 7,
+        "index": 23.609705
+      },
+      {
+        "number": 8,
+        "index": 24.236296
+      },
+      {
+        "number": 9,
+        "index": 19.404652
+      },
+      {
+        "number": 10,
+        "index": 13.337976
+      },
+      {
+        "number": 11,
+        "index": 6.557786
+      },
+      {
+        "number": 12,
+        "index": 0.14620553
+      }
+    ]
+  },
+  {
+    "target": "KSV",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.6478422
+      },
+      {
+        "number": 2,
+        "index": -1.1324404
+      },
+      {
+        "number": 3,
+        "index": 3.091146
+      },
+      {
+        "number": 4,
+        "index": 7.968899
+      },
+      {
+        "number": 5,
+        "index": 12.90439
+      },
+      {
+        "number": 6,
+        "index": 16.375372
+      },
+      {
+        "number": 7,
+        "index": 18.920015
+      },
+      {
+        "number": 8,
+        "index": 18.884747
+      },
+      {
+        "number": 9,
+        "index": 14.842113
+      },
+      {
+        "number": 10,
+        "index": 9.425893
+      },
+      {
+        "number": 11,
+        "index": 3.9666667
+      },
+      {
+        "number": 12,
+        "index": -0.37232143
+      }
+    ]
+  },
+  {
+    "target": "KWT",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.472579
+      },
+      {
+        "number": 2,
+        "index": 14.604584
+      },
+      {
+        "number": 3,
+        "index": 19.087627
+      },
+      {
+        "number": 4,
+        "index": 24.319906
+      },
+      {
+        "number": 5,
+        "index": 30.662266
+      },
+      {
+        "number": 6,
+        "index": 34.45655
+      },
+      {
+        "number": 7,
+        "index": 35.958492
+      },
+      {
+        "number": 8,
+        "index": 35.784676
+      },
+      {
+        "number": 9,
+        "index": 32.755928
+      },
+      {
+        "number": 10,
+        "index": 27.217443
+      },
+      {
+        "number": 11,
+        "index": 20.007635
+      },
+      {
+        "number": 12,
+        "index": 14.134381
+      }
+    ]
+  },
+  {
+    "target": "LAO",
+    "months": [
+      {
+        "number": 1,
+        "index": 19.315933
+      },
+      {
+        "number": 2,
+        "index": 21.083649
+      },
+      {
+        "number": 3,
+        "index": 23.421955
+      },
+      {
+        "number": 4,
+        "index": 25.664173
+      },
+      {
+        "number": 5,
+        "index": 26.258152
+      },
+      {
+        "number": 6,
+        "index": 26.156576
+      },
+      {
+        "number": 7,
+        "index": 25.766836
+      },
+      {
+        "number": 8,
+        "index": 25.551706
+      },
+      {
+        "number": 9,
+        "index": 25.209734
+      },
+      {
+        "number": 10,
+        "index": 23.95046
+      },
+      {
+        "number": 11,
+        "index": 21.764948
+      },
+      {
+        "number": 12,
+        "index": 19.566475
+      }
+    ]
+  },
+  {
+    "target": "LTE",
+    "months": []
+  },
+  {
+    "target": "LCN",
+    "months": []
+  },
+  {
+    "target": "LAC",
+    "months": []
+  },
+  {
+    "target": "TLA",
+    "months": []
+  },
+  {
+    "target": "LVA",
+    "months": [
+      {
+        "number": 1,
+        "index": -5.161258
+      },
+      {
+        "number": 2,
+        "index": -5.1513176
+      },
+      {
+        "number": 3,
+        "index": -1.452637
+      },
+      {
+        "number": 4,
+        "index": 5.160033
+      },
+      {
+        "number": 5,
+        "index": 11.028722
+      },
+      {
+        "number": 6,
+        "index": 14.841212
+      },
+      {
+        "number": 7,
+        "index": 17.210884
+      },
+      {
+        "number": 8,
+        "index": 16.296366
+      },
+      {
+        "number": 9,
+        "index": 11.812094
+      },
+      {
+        "number": 10,
+        "index": 6.441165
+      },
+      {
+        "number": 11,
+        "index": 1.2416666
+      },
+      {
+        "number": 12,
+        "index": -3.0318873
+      }
+    ]
+  },
+  {
+    "target": "LDC",
+    "months": []
+  },
+  {
+    "target": "LBN",
+    "months": [
+      {
+        "number": 1,
+        "index": 7.118861
+      },
+      {
+        "number": 2,
+        "index": 7.7972097
+      },
+      {
+        "number": 3,
+        "index": 10.366451
+      },
+      {
+        "number": 4,
+        "index": 14.243036
+      },
+      {
+        "number": 5,
+        "index": 18.22491
+      },
+      {
+        "number": 6,
+        "index": 21.654957
+      },
+      {
+        "number": 7,
+        "index": 23.939688
+      },
+      {
+        "number": 8,
+        "index": 24.45683
+      },
+      {
+        "number": 9,
+        "index": 22.422098
+      },
+      {
+        "number": 10,
+        "index": 18.960669
+      },
+      {
+        "number": 11,
+        "index": 13.390245
+      },
+      {
+        "number": 12,
+        "index": 8.618593
+      }
+    ]
+  },
+  {
+    "target": "LSO",
+    "months": [
+      {
+        "number": 1,
+        "index": 17.892414
+      },
+      {
+        "number": 2,
+        "index": 17.21444
+      },
+      {
+        "number": 3,
+        "index": 15.5744095
+      },
+      {
+        "number": 4,
+        "index": 12.254042
+      },
+      {
+        "number": 5,
+        "index": 8.933809
+      },
+      {
+        "number": 6,
+        "index": 6.256516
+      },
+      {
+        "number": 7,
+        "index": 6.479445
+      },
+      {
+        "number": 8,
+        "index": 8.464137
+      },
+      {
+        "number": 9,
+        "index": 11.910532
+      },
+      {
+        "number": 10,
+        "index": 13.701752
+      },
+      {
+        "number": 11,
+        "index": 15.1169615
+      },
+      {
+        "number": 12,
+        "index": 16.668076
+      }
+    ]
+  },
+  {
+    "target": "LBR",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.381884
+      },
+      {
+        "number": 2,
+        "index": 26.113644
+      },
+      {
+        "number": 3,
+        "index": 26.68519
+      },
+      {
+        "number": 4,
+        "index": 26.47929
+      },
+      {
+        "number": 5,
+        "index": 26.000538
+      },
+      {
+        "number": 6,
+        "index": 25.248646
+      },
+      {
+        "number": 7,
+        "index": 24.181469
+      },
+      {
+        "number": 8,
+        "index": 23.912832
+      },
+      {
+        "number": 9,
+        "index": 24.632328
+      },
+      {
+        "number": 10,
+        "index": 25.195696
+      },
+      {
+        "number": 11,
+        "index": 25.545528
+      },
+      {
+        "number": 12,
+        "index": 25.191874
+      }
+    ]
+  },
+  {
+    "target": "LBY",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.52262
+      },
+      {
+        "number": 2,
+        "index": 14.694948
+      },
+      {
+        "number": 3,
+        "index": 17.891094
+      },
+      {
+        "number": 4,
+        "index": 22.093075
+      },
+      {
+        "number": 5,
+        "index": 26.380741
+      },
+      {
+        "number": 6,
+        "index": 29.052948
+      },
+      {
+        "number": 7,
+        "index": 29.486765
+      },
+      {
+        "number": 8,
+        "index": 29.253653
+      },
+      {
+        "number": 9,
+        "index": 27.490265
+      },
+      {
+        "number": 10,
+        "index": 23.52545
+      },
+      {
+        "number": 11,
+        "index": 18.145191
+      },
+      {
+        "number": 12,
+        "index": 13.741341
+      }
+    ]
+  },
+  {
+    "target": "LIE",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.171101
+      },
+      {
+        "number": 2,
+        "index": -1.2
+      },
+      {
+        "number": 3,
+        "index": 2.298165
+      },
+      {
+        "number": 4,
+        "index": 5.775688
+      },
+      {
+        "number": 5,
+        "index": 10.153669
+      },
+      {
+        "number": 6,
+        "index": 13.297247
+      },
+      {
+        "number": 7,
+        "index": 15.183487
+      },
+      {
+        "number": 8,
+        "index": 14.716972
+      },
+      {
+        "number": 9,
+        "index": 11.783486
+      },
+      {
+        "number": 10,
+        "index": 7.198165
+      },
+      {
+        "number": 11,
+        "index": 2.1325688
+      },
+      {
+        "number": 12,
+        "index": -0.9912844
+      }
+    ]
+  },
+  {
+    "target": "LTU",
+    "months": [
+      {
+        "number": 1,
+        "index": -4.8281126
+      },
+      {
+        "number": 2,
+        "index": -4.408469
+      },
+      {
+        "number": 3,
+        "index": -0.42138618
+      },
+      {
+        "number": 4,
+        "index": 6.2473464
+      },
+      {
+        "number": 5,
+        "index": 12.113564
+      },
+      {
+        "number": 6,
+        "index": 15.554888
+      },
+      {
+        "number": 7,
+        "index": 17.623066
+      },
+      {
+        "number": 8,
+        "index": 16.844069
+      },
+      {
+        "number": 9,
+        "index": 12.47789
+      },
+      {
+        "number": 10,
+        "index": 7.0057716
+      },
+      {
+        "number": 11,
+        "index": 1.7177427
+      },
+      {
+        "number": 12,
+        "index": -2.56962
+      }
+    ]
+  },
+  {
+    "target": "LMY",
+    "months": []
+  },
+  {
+    "target": "LIC",
+    "months": []
+  },
+  {
+    "target": "LMC",
+    "months": []
+  },
+  {
+    "target": "LUX",
+    "months": [
+      {
+        "number": 1,
+        "index": 1.0388392
+      },
+      {
+        "number": 2,
+        "index": 1.9975765
+      },
+      {
+        "number": 3,
+        "index": 5.301403
+      },
+      {
+        "number": 4,
+        "index": 8.6539545
+      },
+      {
+        "number": 5,
+        "index": 12.998596
+      },
+      {
+        "number": 6,
+        "index": 15.916453
+      },
+      {
+        "number": 7,
+        "index": 17.66384
+      },
+      {
+        "number": 8,
+        "index": 17.2588
+      },
+      {
+        "number": 9,
+        "index": 14.181314
+      },
+      {
+        "number": 10,
+        "index": 9.810523
+      },
+      {
+        "number": 11,
+        "index": 4.9132013
+      },
+      {
+        "number": 12,
+        "index": 2.10625
+      }
+    ]
+  },
+  {
+    "target": "MAC",
+    "months": [
+      {
+        "number": 1,
+        "index": 15.617432
+      },
+      {
+        "number": 2,
+        "index": 16.033945
+      },
+      {
+        "number": 3,
+        "index": 18.716513
+      },
+      {
+        "number": 4,
+        "index": 22.600918
+      },
+      {
+        "number": 5,
+        "index": 26.237616
+      },
+      {
+        "number": 6,
+        "index": 27.890827
+      },
+      {
+        "number": 7,
+        "index": 28.702753
+      },
+      {
+        "number": 8,
+        "index": 28.545872
+      },
+      {
+        "number": 9,
+        "index": 27.755962
+      },
+      {
+        "number": 10,
+        "index": 25.025688
+      },
+      {
+        "number": 11,
+        "index": 21.134861
+      },
+      {
+        "number": 12,
+        "index": 17.110092
+      }
+    ]
+  },
+  {
+    "target": "MKD",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.2211479
+      },
+      {
+        "number": 2,
+        "index": 0.40864795
+      },
+      {
+        "number": 3,
+        "index": 4.329864
+      },
+      {
+        "number": 4,
+        "index": 8.8511305
+      },
+      {
+        "number": 5,
+        "index": 13.65034
+      },
+      {
+        "number": 6,
+        "index": 17.225647
+      },
+      {
+        "number": 7,
+        "index": 19.922806
+      },
+      {
+        "number": 8,
+        "index": 19.916403
+      },
+      {
+        "number": 9,
+        "index": 16.08938
+      },
+      {
+        "number": 10,
+        "index": 10.714209
+      },
+      {
+        "number": 11,
+        "index": 5.2863183
+      },
+      {
+        "number": 12,
+        "index": 0.7079847
+      }
+    ]
+  },
+  {
+    "target": "MWI",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.1957
+      },
+      {
+        "number": 2,
+        "index": 23.111834
+      },
+      {
+        "number": 3,
+        "index": 22.99789
+      },
+      {
+        "number": 4,
+        "index": 22.046886
+      },
+      {
+        "number": 5,
+        "index": 20.16465
+      },
+      {
+        "number": 6,
+        "index": 18.284325
+      },
+      {
+        "number": 7,
+        "index": 17.747217
+      },
+      {
+        "number": 8,
+        "index": 19.256859
+      },
+      {
+        "number": 9,
+        "index": 21.76717
+      },
+      {
+        "number": 10,
+        "index": 24.173893
+      },
+      {
+        "number": 11,
+        "index": 24.696478
+      },
+      {
+        "number": 12,
+        "index": 23.832039
+      }
+    ]
+  },
+  {
+    "target": "MYS",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.068142
+      },
+      {
+        "number": 2,
+        "index": 25.211327
+      },
+      {
+        "number": 3,
+        "index": 25.65504
+      },
+      {
+        "number": 4,
+        "index": 26.047552
+      },
+      {
+        "number": 5,
+        "index": 26.131113
+      },
+      {
+        "number": 6,
+        "index": 25.92244
+      },
+      {
+        "number": 7,
+        "index": 25.683752
+      },
+      {
+        "number": 8,
+        "index": 25.703043
+      },
+      {
+        "number": 9,
+        "index": 25.583126
+      },
+      {
+        "number": 10,
+        "index": 25.507933
+      },
+      {
+        "number": 11,
+        "index": 25.322155
+      },
+      {
+        "number": 12,
+        "index": 25.234
+      }
+    ]
+  },
+  {
+    "target": "MDV",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.42738
+      },
+      {
+        "number": 2,
+        "index": 27.90893
+      },
+      {
+        "number": 3,
+        "index": 28.234821
+      },
+      {
+        "number": 4,
+        "index": 28.62768
+      },
+      {
+        "number": 5,
+        "index": 28.37738
+      },
+      {
+        "number": 6,
+        "index": 27.95119
+      },
+      {
+        "number": 7,
+        "index": 27.599405
+      },
+      {
+        "number": 8,
+        "index": 27.555655
+      },
+      {
+        "number": 9,
+        "index": 27.46399
+      },
+      {
+        "number": 10,
+        "index": 27.45893
+      },
+      {
+        "number": 11,
+        "index": 27.440775
+      },
+      {
+        "number": 12,
+        "index": 27.372915
+      }
+    ]
+  },
+  {
+    "target": "MLI",
+    "months": [
+      {
+        "number": 1,
+        "index": 21.189978
+      },
+      {
+        "number": 2,
+        "index": 24.022583
+      },
+      {
+        "number": 3,
+        "index": 27.415503
+      },
+      {
+        "number": 4,
+        "index": 30.655178
+      },
+      {
+        "number": 5,
+        "index": 32.992203
+      },
+      {
+        "number": 6,
+        "index": 33.235813
+      },
+      {
+        "number": 7,
+        "index": 31.753052
+      },
+      {
+        "number": 8,
+        "index": 30.25524
+      },
+      {
+        "number": 9,
+        "index": 30.32836
+      },
+      {
+        "number": 10,
+        "index": 29.443417
+      },
+      {
+        "number": 11,
+        "index": 25.759548
+      },
+      {
+        "number": 12,
+        "index": 21.888311
+      }
+    ]
+  },
+  {
+    "target": "MLT",
+    "months": [
+      {
+        "number": 1,
+        "index": 12.507798
+      },
+      {
+        "number": 2,
+        "index": 12.69633
+      },
+      {
+        "number": 3,
+        "index": 13.897247
+      },
+      {
+        "number": 4,
+        "index": 15.972018
+      },
+      {
+        "number": 5,
+        "index": 19.079817
+      },
+      {
+        "number": 6,
+        "index": 22.85688
+      },
+      {
+        "number": 7,
+        "index": 25.569725
+      },
+      {
+        "number": 8,
+        "index": 26.316975
+      },
+      {
+        "number": 9,
+        "index": 24.532568
+      },
+      {
+        "number": 10,
+        "index": 21.269266
+      },
+      {
+        "number": 11,
+        "index": 17.481192
+      },
+      {
+        "number": 12,
+        "index": 14.134862
+      }
+    ]
+  },
+  {
+    "target": "MHL",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.37143
+      },
+      {
+        "number": 2,
+        "index": 27.431845
+      },
+      {
+        "number": 3,
+        "index": 27.58869
+      },
+      {
+        "number": 4,
+        "index": 27.78482
+      },
+      {
+        "number": 5,
+        "index": 27.86905
+      },
+      {
+        "number": 6,
+        "index": 27.920834
+      },
+      {
+        "number": 7,
+        "index": 27.903275
+      },
+      {
+        "number": 8,
+        "index": 27.961605
+      },
+      {
+        "number": 9,
+        "index": 27.89732
+      },
+      {
+        "number": 10,
+        "index": 27.858631
+      },
+      {
+        "number": 11,
+        "index": 27.815475
+      },
+      {
+        "number": 12,
+        "index": 27.624105
+      }
+    ]
+  },
+  {
+    "target": "MRT",
+    "months": [
+      {
+        "number": 1,
+        "index": 20.084991
+      },
+      {
+        "number": 2,
+        "index": 22.209673
+      },
+      {
+        "number": 3,
+        "index": 25.025404
+      },
+      {
+        "number": 4,
+        "index": 27.962225
+      },
+      {
+        "number": 5,
+        "index": 31.160492
+      },
+      {
+        "number": 6,
+        "index": 33.158173
+      },
+      {
+        "number": 7,
+        "index": 33.083305
+      },
+      {
+        "number": 8,
+        "index": 32.03254
+      },
+      {
+        "number": 9,
+        "index": 30.978827
+      },
+      {
+        "number": 10,
+        "index": 29.188446
+      },
+      {
+        "number": 11,
+        "index": 24.93648
+      },
+      {
+        "number": 12,
+        "index": 20.576458
+      }
+    ]
+  },
+  {
+    "target": "MUS",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.3825
+      },
+      {
+        "number": 2,
+        "index": 25.458927
+      },
+      {
+        "number": 3,
+        "index": 25.313305
+      },
+      {
+        "number": 4,
+        "index": 24.387857
+      },
+      {
+        "number": 5,
+        "index": 22.715715
+      },
+      {
+        "number": 6,
+        "index": 21.091875
+      },
+      {
+        "number": 7,
+        "index": 20.220268
+      },
+      {
+        "number": 8,
+        "index": 20.063305
+      },
+      {
+        "number": 9,
+        "index": 20.735714
+      },
+      {
+        "number": 10,
+        "index": 21.864553
+      },
+      {
+        "number": 11,
+        "index": 23.278393
+      },
+      {
+        "number": 12,
+        "index": 24.523214
+      }
+    ]
+  },
+  {
+    "target": "FSM",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.200596
+      },
+      {
+        "number": 2,
+        "index": 27.270239
+      },
+      {
+        "number": 3,
+        "index": 27.34762
+      },
+      {
+        "number": 4,
+        "index": 27.38482
+      },
+      {
+        "number": 5,
+        "index": 27.41012
+      },
+      {
+        "number": 6,
+        "index": 27.261011
+      },
+      {
+        "number": 7,
+        "index": 27.07113
+      },
+      {
+        "number": 8,
+        "index": 27.17381
+      },
+      {
+        "number": 9,
+        "index": 27.085714
+      },
+      {
+        "number": 10,
+        "index": 27.233929
+      },
+      {
+        "number": 11,
+        "index": 27.23244
+      },
+      {
+        "number": 12,
+        "index": 27.277975
+      }
+    ]
+  },
+  {
+    "target": "MEA",
+    "months": []
+  },
+  {
+    "target": "MNA",
+    "months": []
+  },
+  {
+    "target": "TMN",
+    "months": []
+  },
+  {
+    "target": "MIC",
+    "months": []
+  },
+  {
+    "target": "MDA",
+    "months": [
+      {
+        "number": 1,
+        "index": -3.1364477
+      },
+      {
+        "number": 2,
+        "index": -1.7578214
+      },
+      {
+        "number": 3,
+        "index": 3.0582647
+      },
+      {
+        "number": 4,
+        "index": 10.000623
+      },
+      {
+        "number": 5,
+        "index": 16.069315
+      },
+      {
+        "number": 6,
+        "index": 19.650005
+      },
+      {
+        "number": 7,
+        "index": 21.653732
+      },
+      {
+        "number": 8,
+        "index": 21.022795
+      },
+      {
+        "number": 9,
+        "index": 16.322803
+      },
+      {
+        "number": 10,
+        "index": 10.269518
+      },
+      {
+        "number": 11,
+        "index": 4.286142
+      },
+      {
+        "number": 12,
+        "index": -0.723785
+      }
+    ]
+  },
+  {
+    "target": "MCO",
+    "months": [
+      {
+        "number": 1,
+        "index": 5.872477
+      },
+      {
+        "number": 2,
+        "index": 6.3174314
+      },
+      {
+        "number": 3,
+        "index": 8.314679
+      },
+      {
+        "number": 4,
+        "index": 10.876146
+      },
+      {
+        "number": 5,
+        "index": 14.413762
+      },
+      {
+        "number": 6,
+        "index": 18.058716
+      },
+      {
+        "number": 7,
+        "index": 20.708256
+      },
+      {
+        "number": 8,
+        "index": 20.823853
+      },
+      {
+        "number": 9,
+        "index": 18.119267
+      },
+      {
+        "number": 10,
+        "index": 14.10734
+      },
+      {
+        "number": 11,
+        "index": 9.618349
+      },
+      {
+        "number": 12,
+        "index": 7.0779815
+      }
+    ]
+  },
+  {
+    "target": "MNE",
+    "months": [
+      {
+        "number": 1,
+        "index": -0.99291295
+      },
+      {
+        "number": 2,
+        "index": 0.110491075
+      },
+      {
+        "number": 3,
+        "index": 3.9475262
+      },
+      {
+        "number": 4,
+        "index": 8.296912
+      },
+      {
+        "number": 5,
+        "index": 13.060565
+      },
+      {
+        "number": 6,
+        "index": 16.646708
+      },
+      {
+        "number": 7,
+        "index": 19.347248
+      },
+      {
+        "number": 8,
+        "index": 19.325466
+      },
+      {
+        "number": 9,
+        "index": 15.410324
+      },
+      {
+        "number": 10,
+        "index": 10.255859
+      },
+      {
+        "number": 11,
+        "index": 5.170238
+      },
+      {
+        "number": 12,
+        "index": 1.3175037
+      }
+    ]
+  },
+  {
+    "target": "MOZ",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.00264
+      },
+      {
+        "number": 2,
+        "index": 25.870203
+      },
+      {
+        "number": 3,
+        "index": 25.459322
+      },
+      {
+        "number": 4,
+        "index": 24.14048
+      },
+      {
+        "number": 5,
+        "index": 22.073639
+      },
+      {
+        "number": 6,
+        "index": 20.050152
+      },
+      {
+        "number": 7,
+        "index": 19.515234
+      },
+      {
+        "number": 8,
+        "index": 20.893045
+      },
+      {
+        "number": 9,
+        "index": 23.118608
+      },
+      {
+        "number": 10,
+        "index": 25.227095
+      },
+      {
+        "number": 11,
+        "index": 26.141184
+      },
+      {
+        "number": 12,
+        "index": 26.101421
+      }
+    ]
+  },
+  {
+    "target": "NAM",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.208158
+      },
+      {
+        "number": 2,
+        "index": 23.68229
+      },
+      {
+        "number": 3,
+        "index": 22.716309
+      },
+      {
+        "number": 4,
+        "index": 20.609478
+      },
+      {
+        "number": 5,
+        "index": 17.354351
+      },
+      {
+        "number": 6,
+        "index": 14.797717
+      },
+      {
+        "number": 7,
+        "index": 14.3665285
+      },
+      {
+        "number": 8,
+        "index": 16.191744
+      },
+      {
+        "number": 9,
+        "index": 19.223759
+      },
+      {
+        "number": 10,
+        "index": 21.694698
+      },
+      {
+        "number": 11,
+        "index": 22.928589
+      },
+      {
+        "number": 12,
+        "index": 23.85888
+      }
+    ]
+  },
+  {
+    "target": "NRU",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.74679
+      },
+      {
+        "number": 2,
+        "index": 27.805506
+      },
+      {
+        "number": 3,
+        "index": 27.670643
+      },
+      {
+        "number": 4,
+        "index": 27.763302
+      },
+      {
+        "number": 5,
+        "index": 27.912846
+      },
+      {
+        "number": 6,
+        "index": 27.77156
+      },
+      {
+        "number": 7,
+        "index": 27.78532
+      },
+      {
+        "number": 8,
+        "index": 27.800919
+      },
+      {
+        "number": 9,
+        "index": 27.2789
+      },
+      {
+        "number": 10,
+        "index": 27.958715
+      },
+      {
+        "number": 11,
+        "index": 27.969723
+      },
+      {
+        "number": 12,
+        "index": 27.842203
+      }
+    ]
+  },
+  {
+    "target": "NLD",
+    "months": [
+      {
+        "number": 1,
+        "index": 2.398871
+      },
+      {
+        "number": 2,
+        "index": 2.7742648
+      },
+      {
+        "number": 3,
+        "index": 5.455252
+      },
+      {
+        "number": 4,
+        "index": 8.296429
+      },
+      {
+        "number": 5,
+        "index": 12.517936
+      },
+      {
+        "number": 6,
+        "index": 15.159218
+      },
+      {
+        "number": 7,
+        "index": 17.176445
+      },
+      {
+        "number": 8,
+        "index": 17.085346
+      },
+      {
+        "number": 9,
+        "index": 14.339943
+      },
+      {
+        "number": 10,
+        "index": 10.356854
+      },
+      {
+        "number": 11,
+        "index": 6.0705357
+      },
+      {
+        "number": 12,
+        "index": 3.581171
+      }
+    ]
+  },
+  {
+    "target": "NCL",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.11134
+      },
+      {
+        "number": 2,
+        "index": 25.219658
+      },
+      {
+        "number": 3,
+        "index": 24.679117
+      },
+      {
+        "number": 4,
+        "index": 23.267056
+      },
+      {
+        "number": 5,
+        "index": 21.616264
+      },
+      {
+        "number": 6,
+        "index": 20.31352
+      },
+      {
+        "number": 7,
+        "index": 19.283161
+      },
+      {
+        "number": 8,
+        "index": 19.30061
+      },
+      {
+        "number": 9,
+        "index": 20.054615
+      },
+      {
+        "number": 10,
+        "index": 21.586935
+      },
+      {
+        "number": 11,
+        "index": 23.04177
+      },
+      {
+        "number": 12,
+        "index": 24.228407
+      }
+    ]
+  },
+  {
+    "target": "NZL",
+    "months": [
+      {
+        "number": 1,
+        "index": 14.818802
+      },
+      {
+        "number": 2,
+        "index": 15.018147
+      },
+      {
+        "number": 3,
+        "index": 13.48588
+      },
+      {
+        "number": 4,
+        "index": 10.970954
+      },
+      {
+        "number": 5,
+        "index": 8.122658
+      },
+      {
+        "number": 6,
+        "index": 5.8924117
+      },
+      {
+        "number": 7,
+        "index": 5.122958
+      },
+      {
+        "number": 8,
+        "index": 6.108475
+      },
+      {
+        "number": 9,
+        "index": 7.923893
+      },
+      {
+        "number": 10,
+        "index": 9.864172
+      },
+      {
+        "number": 11,
+        "index": 11.559935
+      },
+      {
+        "number": 12,
+        "index": 13.456924
+      }
+    ]
+  },
+  {
+    "target": "NAC",
+    "months": []
+  },
+  {
+    "target": "MNP",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.211926
+      },
+      {
+        "number": 2,
+        "index": 26.027523
+      },
+      {
+        "number": 3,
+        "index": 26.402752
+      },
+      {
+        "number": 4,
+        "index": 27.130276
+      },
+      {
+        "number": 5,
+        "index": 27.63211
+      },
+      {
+        "number": 6,
+        "index": 28.257797
+      },
+      {
+        "number": 7,
+        "index": 28.134863
+      },
+      {
+        "number": 8,
+        "index": 27.908258
+      },
+      {
+        "number": 9,
+        "index": 28.136698
+      },
+      {
+        "number": 10,
+        "index": 28.027523
+      },
+      {
+        "number": 11,
+        "index": 27.715597
+      },
+      {
+        "number": 12,
+        "index": 26.936697
+      }
+    ]
+  },
+  {
+    "target": "NOR",
+    "months": [
+      {
+        "number": 1,
+        "index": -8.109874
+      },
+      {
+        "number": 2,
+        "index": -8.136138
+      },
+      {
+        "number": 3,
+        "index": -5.2397842
+      },
+      {
+        "number": 4,
+        "index": -0.84357405
+      },
+      {
+        "number": 5,
+        "index": 4.454733
+      },
+      {
+        "number": 6,
+        "index": 9.162099
+      },
+      {
+        "number": 7,
+        "index": 12.146734
+      },
+      {
+        "number": 8,
+        "index": 10.841938
+      },
+      {
+        "number": 9,
+        "index": 6.7770357
+      },
+      {
+        "number": 10,
+        "index": 1.4828413
+      },
+      {
+        "number": 11,
+        "index": -3.2144394
+      },
+      {
+        "number": 12,
+        "index": -6.240403
+      }
+    ]
+  },
+  {
+    "target": "INX",
+    "months": []
+  },
+  {
+    "target": "OED",
+    "months": []
+  },
+  {
+    "target": "OMN",
+    "months": [
+      {
+        "number": 1,
+        "index": 19.956554
+      },
+      {
+        "number": 2,
+        "index": 20.847885
+      },
+      {
+        "number": 3,
+        "index": 23.411777
+      },
+      {
+        "number": 4,
+        "index": 26.708261
+      },
+      {
+        "number": 5,
+        "index": 29.541037
+      },
+      {
+        "number": 6,
+        "index": 30.12234
+      },
+      {
+        "number": 7,
+        "index": 28.783514
+      },
+      {
+        "number": 8,
+        "index": 27.802624
+      },
+      {
+        "number": 9,
+        "index": 27.555725
+      },
+      {
+        "number": 10,
+        "index": 26.232067
+      },
+      {
+        "number": 11,
+        "index": 23.869596
+      },
+      {
+        "number": 12,
+        "index": 21.405636
+      }
+    ]
+  },
+  {
+    "target": "OSS",
+    "months": []
+  },
+  {
+    "target": "PSS",
+    "months": []
+  },
+  {
+    "target": "PLW",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.111927
+      },
+      {
+        "number": 2,
+        "index": 27.169113
+      },
+      {
+        "number": 3,
+        "index": 27.33425
+      },
+      {
+        "number": 4,
+        "index": 27.736088
+      },
+      {
+        "number": 5,
+        "index": 27.803364
+      },
+      {
+        "number": 6,
+        "index": 27.57156
+      },
+      {
+        "number": 7,
+        "index": 27.322323
+      },
+      {
+        "number": 8,
+        "index": 27.382874
+      },
+      {
+        "number": 9,
+        "index": 27.468195
+      },
+      {
+        "number": 10,
+        "index": 27.61529
+      },
+      {
+        "number": 11,
+        "index": 27.60673
+      },
+      {
+        "number": 12,
+        "index": 27.46789
+      }
+    ]
+  },
+  {
+    "target": "PAN",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.932056
+      },
+      {
+        "number": 2,
+        "index": 25.217741
+      },
+      {
+        "number": 3,
+        "index": 26.053751
+      },
+      {
+        "number": 4,
+        "index": 26.369608
+      },
+      {
+        "number": 5,
+        "index": 26.068075
+      },
+      {
+        "number": 6,
+        "index": 25.374636
+      },
+      {
+        "number": 7,
+        "index": 25.61001
+      },
+      {
+        "number": 8,
+        "index": 25.285387
+      },
+      {
+        "number": 9,
+        "index": 24.97701
+      },
+      {
+        "number": 10,
+        "index": 24.86408
+      },
+      {
+        "number": 11,
+        "index": 24.519773
+      },
+      {
+        "number": 12,
+        "index": 24.527119
+      }
+    ]
+  },
+  {
+    "target": "PNG",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.83984
+      },
+      {
+        "number": 2,
+        "index": 25.73493
+      },
+      {
+        "number": 3,
+        "index": 25.68098
+      },
+      {
+        "number": 4,
+        "index": 25.564297
+      },
+      {
+        "number": 5,
+        "index": 25.279926
+      },
+      {
+        "number": 6,
+        "index": 24.768135
+      },
+      {
+        "number": 7,
+        "index": 24.337368
+      },
+      {
+        "number": 8,
+        "index": 24.413464
+      },
+      {
+        "number": 9,
+        "index": 24.816372
+      },
+      {
+        "number": 10,
+        "index": 25.361609
+      },
+      {
+        "number": 11,
+        "index": 25.70571
+      },
+      {
+        "number": 12,
+        "index": 25.892307
+      }
+    ]
+  },
+  {
+    "target": "POL",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.6309242
+      },
+      {
+        "number": 2,
+        "index": -1.4862068
+      },
+      {
+        "number": 3,
+        "index": 2.4845738
+      },
+      {
+        "number": 4,
+        "index": 7.4602637
+      },
+      {
+        "number": 5,
+        "index": 13.005648
+      },
+      {
+        "number": 6,
+        "index": 15.95869
+      },
+      {
+        "number": 7,
+        "index": 17.989294
+      },
+      {
+        "number": 8,
+        "index": 17.392649
+      },
+      {
+        "number": 9,
+        "index": 13.386203
+      },
+      {
+        "number": 10,
+        "index": 8.411371
+      },
+      {
+        "number": 11,
+        "index": 3.1248708
+      },
+      {
+        "number": 12,
+        "index": -0.69153816
+      }
+    ]
+  },
+  {
+    "target": "PRT",
+    "months": [
+      {
+        "number": 1,
+        "index": 9.273903
+      },
+      {
+        "number": 2,
+        "index": 9.938265
+      },
+      {
+        "number": 3,
+        "index": 11.682998
+      },
+      {
+        "number": 4,
+        "index": 13.311829
+      },
+      {
+        "number": 5,
+        "index": 15.857968
+      },
+      {
+        "number": 6,
+        "index": 19.140528
+      },
+      {
+        "number": 7,
+        "index": 21.52129
+      },
+      {
+        "number": 8,
+        "index": 21.894182
+      },
+      {
+        "number": 9,
+        "index": 19.925985
+      },
+      {
+        "number": 10,
+        "index": 16.343023
+      },
+      {
+        "number": 11,
+        "index": 12.398671
+      },
+      {
+        "number": 12,
+        "index": 9.921191
+      }
+    ]
+  },
+  {
+    "target": "PST",
+    "months": []
+  },
+  {
+    "target": "PRE",
+    "months": []
+  },
+  {
+    "target": "PRI",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.986141
+      },
+      {
+        "number": 2,
+        "index": 22.996895
+      },
+      {
+        "number": 3,
+        "index": 23.468386
+      },
+      {
+        "number": 4,
+        "index": 24.098824
+      },
+      {
+        "number": 5,
+        "index": 25.255419
+      },
+      {
+        "number": 6,
+        "index": 25.807384
+      },
+      {
+        "number": 7,
+        "index": 25.92654
+      },
+      {
+        "number": 8,
+        "index": 26.2916
+      },
+      {
+        "number": 9,
+        "index": 26.198559
+      },
+      {
+        "number": 10,
+        "index": 25.818832
+      },
+      {
+        "number": 11,
+        "index": 25.035107
+      },
+      {
+        "number": 12,
+        "index": 23.933441
+      }
+    ]
+  },
+  {
+    "target": "QAT",
+    "months": [
+      {
+        "number": 1,
+        "index": 16.829494
+      },
+      {
+        "number": 2,
+        "index": 18.296844
+      },
+      {
+        "number": 3,
+        "index": 21.868183
+      },
+      {
+        "number": 4,
+        "index": 26.614523
+      },
+      {
+        "number": 5,
+        "index": 31.842203
+      },
+      {
+        "number": 6,
+        "index": 34.40464
+      },
+      {
+        "number": 7,
+        "index": 35.63729
+      },
+      {
+        "number": 8,
+        "index": 35.31131
+      },
+      {
+        "number": 9,
+        "index": 32.850895
+      },
+      {
+        "number": 10,
+        "index": 28.850208
+      },
+      {
+        "number": 11,
+        "index": 23.821636
+      },
+      {
+        "number": 12,
+        "index": 18.928751
+      }
+    ]
+  },
+  {
+    "target": "ROM",
+    "months": [
+      {
+        "number": 1,
+        "index": -3.039548
+      },
+      {
+        "number": 2,
+        "index": -1.2015418
+      },
+      {
+        "number": 3,
+        "index": 3.8071659
+      },
+      {
+        "number": 4,
+        "index": 9.767342
+      },
+      {
+        "number": 5,
+        "index": 15.04122
+      },
+      {
+        "number": 6,
+        "index": 18.407108
+      },
+      {
+        "number": 7,
+        "index": 20.300108
+      },
+      {
+        "number": 8,
+        "index": 19.816278
+      },
+      {
+        "number": 9,
+        "index": 15.685701
+      },
+      {
+        "number": 10,
+        "index": 10.185421
+      },
+      {
+        "number": 11,
+        "index": 4.4266806
+      },
+      {
+        "number": 12,
+        "index": -0.5243495
+      }
+    ]
+  },
+  {
+    "target": "RUS",
+    "months": [
+      {
+        "number": 1,
+        "index": -26.392725
+      },
+      {
+        "number": 2,
+        "index": -24.41398
+      },
+      {
+        "number": 3,
+        "index": -17.173244
+      },
+      {
+        "number": 4,
+        "index": -7.024545
+      },
+      {
+        "number": 5,
+        "index": 2.5323465
+      },
+      {
+        "number": 6,
+        "index": 10.722704
+      },
+      {
+        "number": 7,
+        "index": 14.468657
+      },
+      {
+        "number": 8,
+        "index": 11.932869
+      },
+      {
+        "number": 9,
+        "index": 5.5548244
+      },
+      {
+        "number": 10,
+        "index": -4.897644
+      },
+      {
+        "number": 11,
+        "index": -17.285553
+      },
+      {
+        "number": 12,
+        "index": -24.17677
+      }
+    ]
+  },
+  {
+    "target": "WSM",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.210638
+      },
+      {
+        "number": 2,
+        "index": 27.324183
+      },
+      {
+        "number": 3,
+        "index": 27.330433
+      },
+      {
+        "number": 4,
+        "index": 27.335415
+      },
+      {
+        "number": 5,
+        "index": 26.890476
+      },
+      {
+        "number": 6,
+        "index": 26.480433
+      },
+      {
+        "number": 7,
+        "index": 26.06979
+      },
+      {
+        "number": 8,
+        "index": 26.062872
+      },
+      {
+        "number": 9,
+        "index": 26.356918
+      },
+      {
+        "number": 10,
+        "index": 26.563467
+      },
+      {
+        "number": 11,
+        "index": 26.88765
+      },
+      {
+        "number": 12,
+        "index": 27.071875
+      }
+    ]
+  },
+  {
+    "target": "SMR",
+    "months": [
+      {
+        "number": 1,
+        "index": 1.8926605
+      },
+      {
+        "number": 2,
+        "index": 2.8344035
+      },
+      {
+        "number": 3,
+        "index": 5.53578
+      },
+      {
+        "number": 4,
+        "index": 9.014679
+      },
+      {
+        "number": 5,
+        "index": 13.784404
+      },
+      {
+        "number": 6,
+        "index": 17.781193
+      },
+      {
+        "number": 7,
+        "index": 20.343578
+      },
+      {
+        "number": 8,
+        "index": 20.244495
+      },
+      {
+        "number": 9,
+        "index": 16.36468
+      },
+      {
+        "number": 10,
+        "index": 11.731651
+      },
+      {
+        "number": 11,
+        "index": 7.177523
+      },
+      {
+        "number": 12,
+        "index": 3.244037
+      }
+    ]
+  },
+  {
+    "target": "STP",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.65387
+      },
+      {
+        "number": 2,
+        "index": 25.048214
+      },
+      {
+        "number": 3,
+        "index": 25.05506
+      },
+      {
+        "number": 4,
+        "index": 24.995237
+      },
+      {
+        "number": 5,
+        "index": 24.44137
+      },
+      {
+        "number": 6,
+        "index": 23.115774
+      },
+      {
+        "number": 7,
+        "index": 22.127678
+      },
+      {
+        "number": 8,
+        "index": 22.206547
+      },
+      {
+        "number": 9,
+        "index": 22.897024
+      },
+      {
+        "number": 10,
+        "index": 23.347025
+      },
+      {
+        "number": 11,
+        "index": 23.932142
+      },
+      {
+        "number": 12,
+        "index": 24.363392
+      }
+    ]
+  },
+  {
+    "target": "SAU",
+    "months": [
+      {
+        "number": 1,
+        "index": 15.524118
+      },
+      {
+        "number": 2,
+        "index": 17.182533
+      },
+      {
+        "number": 3,
+        "index": 20.480373
+      },
+      {
+        "number": 4,
+        "index": 24.516163
+      },
+      {
+        "number": 5,
+        "index": 28.95466
+      },
+      {
+        "number": 6,
+        "index": 31.503712
+      },
+      {
+        "number": 7,
+        "index": 31.954975
+      },
+      {
+        "number": 8,
+        "index": 32.125317
+      },
+      {
+        "number": 9,
+        "index": 30.188889
+      },
+      {
+        "number": 10,
+        "index": 25.942402
+      },
+      {
+        "number": 11,
+        "index": 21.026196
+      },
+      {
+        "number": 12,
+        "index": 16.918453
+      }
+    ]
+  },
+  {
+    "target": "SRB",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.5981281
+      },
+      {
+        "number": 2,
+        "index": 0.08323531
+      },
+      {
+        "number": 3,
+        "index": 4.7583013
+      },
+      {
+        "number": 4,
+        "index": 10.130596
+      },
+      {
+        "number": 5,
+        "index": 15.109471
+      },
+      {
+        "number": 6,
+        "index": 18.570501
+      },
+      {
+        "number": 7,
+        "index": 20.702
+      },
+      {
+        "number": 8,
+        "index": 20.533157
+      },
+      {
+        "number": 9,
+        "index": 16.491955
+      },
+      {
+        "number": 10,
+        "index": 10.958772
+      },
+      {
+        "number": 11,
+        "index": 5.2978005
+      },
+      {
+        "number": 12,
+        "index": 1.0357337
+      }
+    ]
+  },
+  {
+    "target": "SYC",
+    "months": [
+      {
+        "number": 1,
+        "index": 27.30015
+      },
+      {
+        "number": 2,
+        "index": 27.729761
+      },
+      {
+        "number": 3,
+        "index": 28.14613
+      },
+      {
+        "number": 4,
+        "index": 28.333035
+      },
+      {
+        "number": 5,
+        "index": 27.85744
+      },
+      {
+        "number": 6,
+        "index": 26.601786
+      },
+      {
+        "number": 7,
+        "index": 25.73765
+      },
+      {
+        "number": 8,
+        "index": 25.830505
+      },
+      {
+        "number": 9,
+        "index": 26.369196
+      },
+      {
+        "number": 10,
+        "index": 26.90595
+      },
+      {
+        "number": 11,
+        "index": 27.392115
+      },
+      {
+        "number": 12,
+        "index": 27.359821
+      }
+    ]
+  },
+  {
+    "target": "SLE",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.584732
+      },
+      {
+        "number": 2,
+        "index": 27.125162
+      },
+      {
+        "number": 3,
+        "index": 27.807657
+      },
+      {
+        "number": 4,
+        "index": 27.634495
+      },
+      {
+        "number": 5,
+        "index": 26.928925
+      },
+      {
+        "number": 6,
+        "index": 25.999445
+      },
+      {
+        "number": 7,
+        "index": 24.945675
+      },
+      {
+        "number": 8,
+        "index": 24.722599
+      },
+      {
+        "number": 9,
+        "index": 25.395329
+      },
+      {
+        "number": 10,
+        "index": 25.91138
+      },
+      {
+        "number": 11,
+        "index": 26.158096
+      },
+      {
+        "number": 12,
+        "index": 25.580011
+      }
+    ]
+  },
+  {
+    "target": "SGP",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.263302
+      },
+      {
+        "number": 2,
+        "index": 26.724771
+      },
+      {
+        "number": 3,
+        "index": 27.173395
+      },
+      {
+        "number": 4,
+        "index": 27.490826
+      },
+      {
+        "number": 5,
+        "index": 27.711008
+      },
+      {
+        "number": 6,
+        "index": 27.589909
+      },
+      {
+        "number": 7,
+        "index": 27.236698
+      },
+      {
+        "number": 8,
+        "index": 27.298166
+      },
+      {
+        "number": 9,
+        "index": 27.148624
+      },
+      {
+        "number": 10,
+        "index": 27.167889
+      },
+      {
+        "number": 11,
+        "index": 26.781652
+      },
+      {
+        "number": 12,
+        "index": 26.401834
+      }
+    ]
+  },
+  {
+    "target": "SXM",
+    "months": []
+  },
+  {
+    "target": "SVK",
+    "months": [
+      {
+        "number": 1,
+        "index": -3.5987363
+      },
+      {
+        "number": 2,
+        "index": -1.8066326
+      },
+      {
+        "number": 3,
+        "index": 2.6703115
+      },
+      {
+        "number": 4,
+        "index": 7.8955107
+      },
+      {
+        "number": 5,
+        "index": 12.924893
+      },
+      {
+        "number": 6,
+        "index": 15.9788
+      },
+      {
+        "number": 7,
+        "index": 17.826693
+      },
+      {
+        "number": 8,
+        "index": 17.355785
+      },
+      {
+        "number": 9,
+        "index": 13.490389
+      },
+      {
+        "number": 10,
+        "index": 8.412096
+      },
+      {
+        "number": 11,
+        "index": 2.7119744
+      },
+      {
+        "number": 12,
+        "index": -1.764418
+      }
+    ]
+  },
+  {
+    "target": "SVN",
+    "months": [
+      {
+        "number": 1,
+        "index": -1.0069841
+      },
+      {
+        "number": 2,
+        "index": 0.65000993
+      },
+      {
+        "number": 3,
+        "index": 4.5536966
+      },
+      {
+        "number": 4,
+        "index": 8.748871
+      },
+      {
+        "number": 5,
+        "index": 13.374265
+      },
+      {
+        "number": 6,
+        "index": 16.728075
+      },
+      {
+        "number": 7,
+        "index": 18.732298
+      },
+      {
+        "number": 8,
+        "index": 18.362186
+      },
+      {
+        "number": 9,
+        "index": 14.850774
+      },
+      {
+        "number": 10,
+        "index": 9.99226
+      },
+      {
+        "number": 11,
+        "index": 4.640859
+      },
+      {
+        "number": 12,
+        "index": 0.48651785
+      }
+    ]
+  },
+  {
+    "target": "SST",
+    "months": []
+  },
+  {
+    "target": "SLB",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.334568
+      },
+      {
+        "number": 2,
+        "index": 26.051214
+      },
+      {
+        "number": 3,
+        "index": 25.920628
+      },
+      {
+        "number": 4,
+        "index": 25.831448
+      },
+      {
+        "number": 5,
+        "index": 25.594858
+      },
+      {
+        "number": 6,
+        "index": 25.283634
+      },
+      {
+        "number": 7,
+        "index": 24.848852
+      },
+      {
+        "number": 8,
+        "index": 25.023783
+      },
+      {
+        "number": 9,
+        "index": 25.531061
+      },
+      {
+        "number": 10,
+        "index": 25.92727
+      },
+      {
+        "number": 11,
+        "index": 26.058187
+      },
+      {
+        "number": 12,
+        "index": 26.2353
+      }
+    ]
+  },
+  {
+    "target": "SOM",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.17408
+      },
+      {
+        "number": 2,
+        "index": 26.071081
+      },
+      {
+        "number": 3,
+        "index": 27.391886
+      },
+      {
+        "number": 4,
+        "index": 28.269669
+      },
+      {
+        "number": 5,
+        "index": 28.394459
+      },
+      {
+        "number": 6,
+        "index": 28.001118
+      },
+      {
+        "number": 7,
+        "index": 27.221302
+      },
+      {
+        "number": 8,
+        "index": 27.229055
+      },
+      {
+        "number": 9,
+        "index": 27.870647
+      },
+      {
+        "number": 10,
+        "index": 26.91565
+      },
+      {
+        "number": 11,
+        "index": 25.981283
+      },
+      {
+        "number": 12,
+        "index": 25.266474
+      }
+    ]
+  },
+  {
+    "target": "ZAF",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.991753
+      },
+      {
+        "number": 2,
+        "index": 22.725483
+      },
+      {
+        "number": 3,
+        "index": 21.06017
+      },
+      {
+        "number": 4,
+        "index": 17.963713
+      },
+      {
+        "number": 5,
+        "index": 14.434135
+      },
+      {
+        "number": 6,
+        "index": 11.525026
+      },
+      {
+        "number": 7,
+        "index": 11.308992
+      },
+      {
+        "number": 8,
+        "index": 13.119087
+      },
+      {
+        "number": 9,
+        "index": 15.917233
+      },
+      {
+        "number": 10,
+        "index": 18.452602
+      },
+      {
+        "number": 11,
+        "index": 20.391508
+      },
+      {
+        "number": 12,
+        "index": 22.082106
+      }
+    ]
+  },
+  {
+    "target": "SAS",
+    "months": []
+  },
+  {
+    "target": "TSA",
+    "months": []
+  },
+  {
+    "target": "SSD",
+    "months": []
+  },
+  {
+    "target": "ESP",
+    "months": [
+      {
+        "number": 1,
+        "index": 6.291456
+      },
+      {
+        "number": 2,
+        "index": 7.338598
+      },
+      {
+        "number": 3,
+        "index": 9.50577
+      },
+      {
+        "number": 4,
+        "index": 11.516542
+      },
+      {
+        "number": 5,
+        "index": 14.853701
+      },
+      {
+        "number": 6,
+        "index": 18.816353
+      },
+      {
+        "number": 7,
+        "index": 21.92217
+      },
+      {
+        "number": 8,
+        "index": 22.062016
+      },
+      {
+        "number": 9,
+        "index": 19.078846
+      },
+      {
+        "number": 10,
+        "index": 14.467189
+      },
+      {
+        "number": 11,
+        "index": 9.772955
+      },
+      {
+        "number": 12,
+        "index": 6.962533
+      }
+    ]
+  },
+  {
+    "target": "KNA",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.922018
+      },
+      {
+        "number": 2,
+        "index": 22.78165
+      },
+      {
+        "number": 3,
+        "index": 23.051376
+      },
+      {
+        "number": 4,
+        "index": 23.574312
+      },
+      {
+        "number": 5,
+        "index": 24.57156
+      },
+      {
+        "number": 6,
+        "index": 25.120182
+      },
+      {
+        "number": 7,
+        "index": 25.298166
+      },
+      {
+        "number": 8,
+        "index": 25.579817
+      },
+      {
+        "number": 9,
+        "index": 25.472477
+      },
+      {
+        "number": 10,
+        "index": 25.115597
+      },
+      {
+        "number": 11,
+        "index": 24.591743
+      },
+      {
+        "number": 12,
+        "index": 23.597248
+      }
+    ]
+  },
+  {
+    "target": "LCA",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.329817
+      },
+      {
+        "number": 2,
+        "index": 24.098623
+      },
+      {
+        "number": 3,
+        "index": 24.626606
+      },
+      {
+        "number": 4,
+        "index": 25.23578
+      },
+      {
+        "number": 5,
+        "index": 26.266514
+      },
+      {
+        "number": 6,
+        "index": 26.607798
+      },
+      {
+        "number": 7,
+        "index": 26.397247
+      },
+      {
+        "number": 8,
+        "index": 26.61147
+      },
+      {
+        "number": 9,
+        "index": 26.475687
+      },
+      {
+        "number": 10,
+        "index": 26.25413
+      },
+      {
+        "number": 11,
+        "index": 25.855045
+      },
+      {
+        "number": 12,
+        "index": 24.954586
+      }
+    ]
+  },
+  {
+    "target": "MAF",
+    "months": []
+  },
+  {
+    "target": "VCT",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.287157
+      },
+      {
+        "number": 2,
+        "index": 25.209173
+      },
+      {
+        "number": 3,
+        "index": 25.833944
+      },
+      {
+        "number": 4,
+        "index": 26.60642
+      },
+      {
+        "number": 5,
+        "index": 27.693579
+      },
+      {
+        "number": 6,
+        "index": 27.848623
+      },
+      {
+        "number": 7,
+        "index": 27.533945
+      },
+      {
+        "number": 8,
+        "index": 27.679815
+      },
+      {
+        "number": 9,
+        "index": 27.593578
+      },
+      {
+        "number": 10,
+        "index": 27.306421
+      },
+      {
+        "number": 11,
+        "index": 26.849543
+      },
+      {
+        "number": 12,
+        "index": 25.911007
+      }
+    ]
+  },
+  {
+    "target": "SSF",
+    "months": []
+  },
+  {
+    "target": "SSA",
+    "months": []
+  },
+  {
+    "target": "TSS",
+    "months": []
+  },
+  {
+    "target": "SDN",
+    "months": [
+      {
+        "number": 1,
+        "index": 22.079866
+      },
+      {
+        "number": 2,
+        "index": 23.750126
+      },
+      {
+        "number": 3,
+        "index": 26.362082
+      },
+      {
+        "number": 4,
+        "index": 28.76279
+      },
+      {
+        "number": 5,
+        "index": 30.065744
+      },
+      {
+        "number": 6,
+        "index": 29.99937
+      },
+      {
+        "number": 7,
+        "index": 28.786997
+      },
+      {
+        "number": 8,
+        "index": 28.31515
+      },
+      {
+        "number": 9,
+        "index": 28.421219
+      },
+      {
+        "number": 10,
+        "index": 27.883184
+      },
+      {
+        "number": 11,
+        "index": 25.093311
+      },
+      {
+        "number": 12,
+        "index": 22.606365
+      }
+    ]
+  },
+  {
+    "target": "SUR",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.064219
+      },
+      {
+        "number": 2,
+        "index": 25.021162
+      },
+      {
+        "number": 3,
+        "index": 25.322594
+      },
+      {
+        "number": 4,
+        "index": 25.561592
+      },
+      {
+        "number": 5,
+        "index": 25.676636
+      },
+      {
+        "number": 6,
+        "index": 25.570452
+      },
+      {
+        "number": 7,
+        "index": 25.537178
+      },
+      {
+        "number": 8,
+        "index": 26.028763
+      },
+      {
+        "number": 9,
+        "index": 26.489002
+      },
+      {
+        "number": 10,
+        "index": 26.72194
+      },
+      {
+        "number": 11,
+        "index": 26.467152
+      },
+      {
+        "number": 12,
+        "index": 25.622818
+      }
+    ]
+  },
+  {
+    "target": "SWZ",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.445671
+      },
+      {
+        "number": 2,
+        "index": 23.282085
+      },
+      {
+        "number": 3,
+        "index": 22.228275
+      },
+      {
+        "number": 4,
+        "index": 20.129202
+      },
+      {
+        "number": 5,
+        "index": 17.584608
+      },
+      {
+        "number": 6,
+        "index": 15.116539
+      },
+      {
+        "number": 7,
+        "index": 15.115866
+      },
+      {
+        "number": 8,
+        "index": 16.79847
+      },
+      {
+        "number": 9,
+        "index": 18.981802
+      },
+      {
+        "number": 10,
+        "index": 20.216404
+      },
+      {
+        "number": 11,
+        "index": 21.336197
+      },
+      {
+        "number": 12,
+        "index": 22.737982
+      }
+    ]
+  },
+  {
+    "target": "SWE",
+    "months": [
+      {
+        "number": 1,
+        "index": -8.793123
+      },
+      {
+        "number": 2,
+        "index": -8.3844185
+      },
+      {
+        "number": 3,
+        "index": -4.721192
+      },
+      {
+        "number": 4,
+        "index": 0.47401214
+      },
+      {
+        "number": 5,
+        "index": 6.2438917
+      },
+      {
+        "number": 6,
+        "index": 11.282265
+      },
+      {
+        "number": 7,
+        "index": 14.055145
+      },
+      {
+        "number": 8,
+        "index": 12.5060425
+      },
+      {
+        "number": 9,
+        "index": 8.020651
+      },
+      {
+        "number": 10,
+        "index": 2.559723
+      },
+      {
+        "number": 11,
+        "index": -3.1960998
+      },
+      {
+        "number": 12,
+        "index": -6.9367523
+      }
+    ]
+  },
+  {
+    "target": "CHE",
+    "months": [
+      {
+        "number": 1,
+        "index": -2.6386917
+      },
+      {
+        "number": 2,
+        "index": -1.8231974
+      },
+      {
+        "number": 3,
+        "index": 1.3053128
+      },
+      {
+        "number": 4,
+        "index": 4.6453805
+      },
+      {
+        "number": 5,
+        "index": 8.9763
+      },
+      {
+        "number": 6,
+        "index": 12.254578
+      },
+      {
+        "number": 7,
+        "index": 14.166199
+      },
+      {
+        "number": 8,
+        "index": 13.789207
+      },
+      {
+        "number": 9,
+        "index": 10.910398
+      },
+      {
+        "number": 10,
+        "index": 6.5687165
+      },
+      {
+        "number": 11,
+        "index": 1.6354532
+      },
+      {
+        "number": 12,
+        "index": -1.3291876
+      }
+    ]
+  },
+  {
+    "target": "SYR",
+    "months": [
+      {
+        "number": 1,
+        "index": 6.248657
+      },
+      {
+        "number": 2,
+        "index": 7.915181
+      },
+      {
+        "number": 3,
+        "index": 11.40337
+      },
+      {
+        "number": 4,
+        "index": 16.369259
+      },
+      {
+        "number": 5,
+        "index": 21.575268
+      },
+      {
+        "number": 6,
+        "index": 25.9461
+      },
+      {
+        "number": 7,
+        "index": 28.765263
+      },
+      {
+        "number": 8,
+        "index": 28.74714
+      },
+      {
+        "number": 9,
+        "index": 25.385609
+      },
+      {
+        "number": 10,
+        "index": 20.135172
+      },
+      {
+        "number": 11,
+        "index": 13.176204
+      },
+      {
+        "number": 12,
+        "index": 7.892316
+      }
+    ]
+  },
+  {
+    "target": "TJK",
+    "months": [
+      {
+        "number": 1,
+        "index": -9.520766
+      },
+      {
+        "number": 2,
+        "index": -7.779691
+      },
+      {
+        "number": 3,
+        "index": -2.397693
+      },
+      {
+        "number": 4,
+        "index": 4.190319
+      },
+      {
+        "number": 5,
+        "index": 8.626362
+      },
+      {
+        "number": 6,
+        "index": 13.195508
+      },
+      {
+        "number": 7,
+        "index": 16.414597
+      },
+      {
+        "number": 8,
+        "index": 15.760424
+      },
+      {
+        "number": 9,
+        "index": 11.100433
+      },
+      {
+        "number": 10,
+        "index": 4.8351545
+      },
+      {
+        "number": 11,
+        "index": -1.5464776
+      },
+      {
+        "number": 12,
+        "index": -6.60468
+      }
+    ]
+  },
+  {
+    "target": "THA",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.343704
+      },
+      {
+        "number": 2,
+        "index": 25.150795
+      },
+      {
+        "number": 3,
+        "index": 27.242218
+      },
+      {
+        "number": 4,
+        "index": 28.698391
+      },
+      {
+        "number": 5,
+        "index": 28.209482
+      },
+      {
+        "number": 6,
+        "index": 27.467484
+      },
+      {
+        "number": 7,
+        "index": 27.009995
+      },
+      {
+        "number": 8,
+        "index": 26.854847
+      },
+      {
+        "number": 9,
+        "index": 26.70174
+      },
+      {
+        "number": 10,
+        "index": 26.162918
+      },
+      {
+        "number": 11,
+        "index": 24.733213
+      },
+      {
+        "number": 12,
+        "index": 23.124678
+      }
+    ]
+  },
+  {
+    "target": "TMP",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.596113
+      },
+      {
+        "number": 2,
+        "index": 25.574139
+      },
+      {
+        "number": 3,
+        "index": 25.649673
+      },
+      {
+        "number": 4,
+        "index": 25.608738
+      },
+      {
+        "number": 5,
+        "index": 25.172434
+      },
+      {
+        "number": 6,
+        "index": 24.414036
+      },
+      {
+        "number": 7,
+        "index": 24.017902
+      },
+      {
+        "number": 8,
+        "index": 24.278263
+      },
+      {
+        "number": 9,
+        "index": 24.925676
+      },
+      {
+        "number": 10,
+        "index": 25.86477
+      },
+      {
+        "number": 11,
+        "index": 26.321217
+      },
+      {
+        "number": 12,
+        "index": 25.735296
+      }
+    ]
+  },
+  {
+    "target": "TON",
+    "months": [
+      {
+        "number": 1,
+        "index": 26.450893
+      },
+      {
+        "number": 2,
+        "index": 26.890179
+      },
+      {
+        "number": 3,
+        "index": 26.35268
+      },
+      {
+        "number": 4,
+        "index": 25.718155
+      },
+      {
+        "number": 5,
+        "index": 24.613392
+      },
+      {
+        "number": 6,
+        "index": 23.926785
+      },
+      {
+        "number": 7,
+        "index": 23.210714
+      },
+      {
+        "number": 8,
+        "index": 23.029167
+      },
+      {
+        "number": 9,
+        "index": 23.521725
+      },
+      {
+        "number": 10,
+        "index": 24.127975
+      },
+      {
+        "number": 11,
+        "index": 24.950298
+      },
+      {
+        "number": 12,
+        "index": 25.70893
+      }
+    ]
+  },
+  {
+    "target": "TTO",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.795
+      },
+      {
+        "number": 2,
+        "index": 24.915535
+      },
+      {
+        "number": 3,
+        "index": 25.445713
+      },
+      {
+        "number": 4,
+        "index": 26.219288
+      },
+      {
+        "number": 5,
+        "index": 26.784464
+      },
+      {
+        "number": 6,
+        "index": 26.422678
+      },
+      {
+        "number": 7,
+        "index": 26.19875
+      },
+      {
+        "number": 8,
+        "index": 26.497677
+      },
+      {
+        "number": 9,
+        "index": 26.67625
+      },
+      {
+        "number": 10,
+        "index": 26.578928
+      },
+      {
+        "number": 11,
+        "index": 26.129108
+      },
+      {
+        "number": 12,
+        "index": 25.299107
+      }
+    ]
+  },
+  {
+    "target": "TUN",
+    "months": [
+      {
+        "number": 1,
+        "index": 10.239565
+      },
+      {
+        "number": 2,
+        "index": 11.576739
+      },
+      {
+        "number": 3,
+        "index": 14.459531
+      },
+      {
+        "number": 4,
+        "index": 17.687132
+      },
+      {
+        "number": 5,
+        "index": 21.670462
+      },
+      {
+        "number": 6,
+        "index": 26.041798
+      },
+      {
+        "number": 7,
+        "index": 28.633968
+      },
+      {
+        "number": 8,
+        "index": 28.749126
+      },
+      {
+        "number": 9,
+        "index": 25.875525
+      },
+      {
+        "number": 10,
+        "index": 21.04827
+      },
+      {
+        "number": 11,
+        "index": 15.643389
+      },
+      {
+        "number": 12,
+        "index": 11.627062
+      }
+    ]
+  },
+  {
+    "target": "TUR",
+    "months": [
+      {
+        "number": 1,
+        "index": 0.05915284
+      },
+      {
+        "number": 2,
+        "index": 1.3149598
+      },
+      {
+        "number": 3,
+        "index": 5.0951185
+      },
+      {
+        "number": 4,
+        "index": 10.266313
+      },
+      {
+        "number": 5,
+        "index": 14.947832
+      },
+      {
+        "number": 6,
+        "index": 18.999374
+      },
+      {
+        "number": 7,
+        "index": 22.324322
+      },
+      {
+        "number": 8,
+        "index": 22.372915
+      },
+      {
+        "number": 9,
+        "index": 18.677189
+      },
+      {
+        "number": 10,
+        "index": 13.454915
+      },
+      {
+        "number": 11,
+        "index": 7.518997
+      },
+      {
+        "number": 12,
+        "index": 2.444662
+      }
+    ]
+  },
+  {
+    "target": "TKM",
+    "months": [
+      {
+        "number": 1,
+        "index": 0.9649124
+      },
+      {
+        "number": 2,
+        "index": 2.9651012
+      },
+      {
+        "number": 3,
+        "index": 8.239728
+      },
+      {
+        "number": 4,
+        "index": 15.629379
+      },
+      {
+        "number": 5,
+        "index": 21.81285
+      },
+      {
+        "number": 6,
+        "index": 26.521397
+      },
+      {
+        "number": 7,
+        "index": 28.981602
+      },
+      {
+        "number": 8,
+        "index": 27.342615
+      },
+      {
+        "number": 9,
+        "index": 21.73786
+      },
+      {
+        "number": 10,
+        "index": 14.66042
+      },
+      {
+        "number": 11,
+        "index": 8.0086975
+      },
+      {
+        "number": 12,
+        "index": 2.8297377
+      }
+    ]
+  },
+  {
+    "target": "TCA",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.084404
+      },
+      {
+        "number": 2,
+        "index": 23.379818
+      },
+      {
+        "number": 3,
+        "index": 24.021101
+      },
+      {
+        "number": 4,
+        "index": 24.838531
+      },
+      {
+        "number": 5,
+        "index": 25.860092
+      },
+      {
+        "number": 6,
+        "index": 27.024313
+      },
+      {
+        "number": 7,
+        "index": 27.479816
+      },
+      {
+        "number": 8,
+        "index": 27.697247
+      },
+      {
+        "number": 9,
+        "index": 27.652752
+      },
+      {
+        "number": 10,
+        "index": 26.966974
+      },
+      {
+        "number": 11,
+        "index": 25.298166
+      },
+      {
+        "number": 12,
+        "index": 23.951376
+      }
+    ]
+  },
+  {
+    "target": "TUV",
+    "months": [
+      {
+        "number": 1,
+        "index": 28.266308
+      },
+      {
+        "number": 2,
+        "index": 28.251785
+      },
+      {
+        "number": 3,
+        "index": 28.280893
+      },
+      {
+        "number": 4,
+        "index": 28.30994
+      },
+      {
+        "number": 5,
+        "index": 28.492085
+      },
+      {
+        "number": 6,
+        "index": 28.213215
+      },
+      {
+        "number": 7,
+        "index": 27.992203
+      },
+      {
+        "number": 8,
+        "index": 28.000477
+      },
+      {
+        "number": 9,
+        "index": 28.136963
+      },
+      {
+        "number": 10,
+        "index": 28.122858
+      },
+      {
+        "number": 11,
+        "index": 28.27143
+      },
+      {
+        "number": 12,
+        "index": 28.288036
+      }
+    ]
+  },
+  {
+    "target": "UKR",
+    "months": [
+      {
+        "number": 1,
+        "index": -4.652412
+      },
+      {
+        "number": 2,
+        "index": -3.7391124
+      },
+      {
+        "number": 3,
+        "index": 1.2453619
+      },
+      {
+        "number": 4,
+        "index": 8.896112
+      },
+      {
+        "number": 5,
+        "index": 15.097099
+      },
+      {
+        "number": 6,
+        "index": 18.675446
+      },
+      {
+        "number": 7,
+        "index": 20.612228
+      },
+      {
+        "number": 8,
+        "index": 19.78912
+      },
+      {
+        "number": 9,
+        "index": 14.9323635
+      },
+      {
+        "number": 10,
+        "index": 8.728827
+      },
+      {
+        "number": 11,
+        "index": 2.6919782
+      },
+      {
+        "number": 12,
+        "index": -2.2193742
+      }
+    ]
+  },
+  {
+    "target": "ARE",
+    "months": [
+      {
+        "number": 1,
+        "index": 18.185928
+      },
+      {
+        "number": 2,
+        "index": 19.206568
+      },
+      {
+        "number": 3,
+        "index": 22.369827
+      },
+      {
+        "number": 4,
+        "index": 26.534266
+      },
+      {
+        "number": 5,
+        "index": 30.749533
+      },
+      {
+        "number": 6,
+        "index": 32.592365
+      },
+      {
+        "number": 7,
+        "index": 33.783325
+      },
+      {
+        "number": 8,
+        "index": 33.48354
+      },
+      {
+        "number": 9,
+        "index": 31.565643
+      },
+      {
+        "number": 10,
+        "index": 28.101267
+      },
+      {
+        "number": 11,
+        "index": 23.868952
+      },
+      {
+        "number": 12,
+        "index": 20.102852
+      }
+    ]
+  },
+  {
+    "target": "GBR",
+    "months": [
+      {
+        "number": 1,
+        "index": 3.548619
+      },
+      {
+        "number": 2,
+        "index": 3.5809588
+      },
+      {
+        "number": 3,
+        "index": 5.064868
+      },
+      {
+        "number": 4,
+        "index": 7.073514
+      },
+      {
+        "number": 5,
+        "index": 10.003707
+      },
+      {
+        "number": 6,
+        "index": 12.657145
+      },
+      {
+        "number": 7,
+        "index": 14.396339
+      },
+      {
+        "number": 8,
+        "index": 14.28286
+      },
+      {
+        "number": 9,
+        "index": 12.310248
+      },
+      {
+        "number": 10,
+        "index": 9.353575
+      },
+      {
+        "number": 11,
+        "index": 5.982785
+      },
+      {
+        "number": 12,
+        "index": 4.198056
+      }
+    ]
+  },
+  {
+    "target": "USA",
+    "months": [
+      {
+        "number": 1,
+        "index": -5.6620183
+      },
+      {
+        "number": 2,
+        "index": -3.8577042
+      },
+      {
+        "number": 3,
+        "index": 0.051682897
+      },
+      {
+        "number": 4,
+        "index": 5.926177
+      },
+      {
+        "number": 5,
+        "index": 11.959194
+      },
+      {
+        "number": 6,
+        "index": 16.9164
+      },
+      {
+        "number": 7,
+        "index": 19.6669
+      },
+      {
+        "number": 8,
+        "index": 18.691568
+      },
+      {
+        "number": 9,
+        "index": 14.49659
+      },
+      {
+        "number": 10,
+        "index": 7.980858
+      },
+      {
+        "number": 11,
+        "index": 0.6838347
+      },
+      {
+        "number": 12,
+        "index": -4.223826
+      }
+    ]
+  },
+  {
+    "target": "UMC",
+    "months": []
+  },
+  {
+    "target": "URY",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.747364
+      },
+      {
+        "number": 2,
+        "index": 23.318165
+      },
+      {
+        "number": 3,
+        "index": 21.345388
+      },
+      {
+        "number": 4,
+        "index": 17.832386
+      },
+      {
+        "number": 5,
+        "index": 14.661255
+      },
+      {
+        "number": 6,
+        "index": 11.821828
+      },
+      {
+        "number": 7,
+        "index": 11.513647
+      },
+      {
+        "number": 8,
+        "index": 12.601488
+      },
+      {
+        "number": 9,
+        "index": 14.2456455
+      },
+      {
+        "number": 10,
+        "index": 16.7278
+      },
+      {
+        "number": 11,
+        "index": 19.546589
+      },
+      {
+        "number": 12,
+        "index": 22.194757
+      }
+    ]
+  },
+  {
+    "target": "UZB",
+    "months": [
+      {
+        "number": 1,
+        "index": -3.4299648
+      },
+      {
+        "number": 2,
+        "index": -1.5017186
+      },
+      {
+        "number": 3,
+        "index": 4.7952485
+      },
+      {
+        "number": 4,
+        "index": 13.455106
+      },
+      {
+        "number": 5,
+        "index": 19.795237
+      },
+      {
+        "number": 6,
+        "index": 24.570295
+      },
+      {
+        "number": 7,
+        "index": 26.933344
+      },
+      {
+        "number": 8,
+        "index": 25.0109
+      },
+      {
+        "number": 9,
+        "index": 19.068798
+      },
+      {
+        "number": 10,
+        "index": 11.60491
+      },
+      {
+        "number": 11,
+        "index": 4.361945
+      },
+      {
+        "number": 12,
+        "index": -1.194602
+      }
+    ]
+  },
+  {
+    "target": "VUT",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.29025
+      },
+      {
+        "number": 2,
+        "index": 25.33834
+      },
+      {
+        "number": 3,
+        "index": 25.10377
+      },
+      {
+        "number": 4,
+        "index": 24.408947
+      },
+      {
+        "number": 5,
+        "index": 23.43252
+      },
+      {
+        "number": 6,
+        "index": 22.758327
+      },
+      {
+        "number": 7,
+        "index": 22.19715
+      },
+      {
+        "number": 8,
+        "index": 22.148891
+      },
+      {
+        "number": 9,
+        "index": 22.42683
+      },
+      {
+        "number": 10,
+        "index": 23.242926
+      },
+      {
+        "number": 11,
+        "index": 24.168255
+      },
+      {
+        "number": 12,
+        "index": 24.73458
+      }
+    ]
+  },
+  {
+    "target": "VEN",
+    "months": [
+      {
+        "number": 1,
+        "index": 25.063915
+      },
+      {
+        "number": 2,
+        "index": 25.509228
+      },
+      {
+        "number": 3,
+        "index": 26.019526
+      },
+      {
+        "number": 4,
+        "index": 26.084158
+      },
+      {
+        "number": 5,
+        "index": 25.671717
+      },
+      {
+        "number": 6,
+        "index": 24.9804
+      },
+      {
+        "number": 7,
+        "index": 24.778812
+      },
+      {
+        "number": 8,
+        "index": 25.090502
+      },
+      {
+        "number": 9,
+        "index": 25.45298
+      },
+      {
+        "number": 10,
+        "index": 25.628986
+      },
+      {
+        "number": 11,
+        "index": 25.55774
+      },
+      {
+        "number": 12,
+        "index": 25.127514
+      }
+    ]
+  },
+  {
+    "target": "VIR",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.706423
+      },
+      {
+        "number": 2,
+        "index": 23.744038
+      },
+      {
+        "number": 3,
+        "index": 24.121101
+      },
+      {
+        "number": 4,
+        "index": 24.737614
+      },
+      {
+        "number": 5,
+        "index": 25.79358
+      },
+      {
+        "number": 6,
+        "index": 26.309174
+      },
+      {
+        "number": 7,
+        "index": 26.455044
+      },
+      {
+        "number": 8,
+        "index": 26.791742
+      },
+      {
+        "number": 9,
+        "index": 26.777063
+      },
+      {
+        "number": 10,
+        "index": 26.399082
+      },
+      {
+        "number": 11,
+        "index": 25.691742
+      },
+      {
+        "number": 12,
+        "index": 24.590826
+      }
+    ]
+  },
+  {
+    "target": "WBG",
+    "months": [
+      {
+        "number": 1,
+        "index": 11.455781
+      },
+      {
+        "number": 2,
+        "index": 12.249044
+      },
+      {
+        "number": 3,
+        "index": 14.315503
+      },
+      {
+        "number": 4,
+        "index": 17.911995
+      },
+      {
+        "number": 5,
+        "index": 21.385805
+      },
+      {
+        "number": 6,
+        "index": 24.082478
+      },
+      {
+        "number": 7,
+        "index": 25.976048
+      },
+      {
+        "number": 8,
+        "index": 26.415964
+      },
+      {
+        "number": 9,
+        "index": 24.970978
+      },
+      {
+        "number": 10,
+        "index": 22.379618
+      },
+      {
+        "number": 11,
+        "index": 17.657063
+      },
+      {
+        "number": 12,
+        "index": 13.309191
+      }
+    ]
+  },
+  {
+    "target": "WLD",
+    "months": []
+  },
+  {
+    "target": "YEM",
+    "months": [
+      {
+        "number": 1,
+        "index": 19.041183
+      },
+      {
+        "number": 2,
+        "index": 19.99136
+      },
+      {
+        "number": 3,
+        "index": 21.574444
+      },
+      {
+        "number": 4,
+        "index": 24.319454
+      },
+      {
+        "number": 5,
+        "index": 26.644146
+      },
+      {
+        "number": 6,
+        "index": 28.418537
+      },
+      {
+        "number": 7,
+        "index": 27.5772
+      },
+      {
+        "number": 8,
+        "index": 27.348507
+      },
+      {
+        "number": 9,
+        "index": 26.75362
+      },
+      {
+        "number": 10,
+        "index": 23.732489
+      },
+      {
+        "number": 11,
+        "index": 21.093744
+      },
+      {
+        "number": 12,
+        "index": 19.839506
+      }
+    ]
+  },
+  {
+    "target": "ZMB",
+    "months": [
+      {
+        "number": 1,
+        "index": 23.085789
+      },
+      {
+        "number": 2,
+        "index": 23.134222
+      },
+      {
+        "number": 3,
+        "index": 22.998844
+      },
+      {
+        "number": 4,
+        "index": 22.047308
+      },
+      {
+        "number": 5,
+        "index": 19.871374
+      },
+      {
+        "number": 6,
+        "index": 17.642282
+      },
+      {
+        "number": 7,
+        "index": 17.237728
+      },
+      {
+        "number": 8,
+        "index": 19.583303
+      },
+      {
+        "number": 9,
+        "index": 22.885237
+      },
+      {
+        "number": 10,
+        "index": 24.850248
+      },
+      {
+        "number": 11,
+        "index": 24.381836
+      },
+      {
+        "number": 12,
+        "index": 23.336737
+      }
+    ]
+  },
+  {
+    "target": "ZWE",
+    "months": [
+      {
+        "number": 1,
+        "index": 24.287998
+      },
+      {
+        "number": 2,
+        "index": 24.008379
+      },
+      {
+        "number": 3,
+        "index": 23.274633
+      },
+      {
+        "number": 4,
+        "index": 21.60394
+      },
+      {
+        "number": 5,
+        "index": 18.845552
+      },
+      {
+        "number": 6,
+        "index": 16.252794
+      },
+      {
+        "number": 7,
+        "index": 15.89092
+      },
+      {
+        "number": 8,
+        "index": 18.07438
+      },
+      {
+        "number": 9,
+        "index": 21.639664
+      },
+      {
+        "number": 10,
+        "index": 24.43671
+      },
+      {
+        "number": 11,
+        "index": 24.818043
+      },
+      {
+        "number": 12,
+        "index": 24.394295
+      }
+    ]
+  }
+]

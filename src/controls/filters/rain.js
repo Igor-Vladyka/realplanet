@@ -51,7 +51,7 @@
             if(rainfall < 200) { return "blue"; }
 
             return "white";
-        }
+        };
 
         self.mapper = function(data){
             var newData = data.map(function(root){
@@ -60,34 +60,20 @@
                     months: root.months.map(function(m){
                         return {
                             number: m.number,
-                            alias: self.calculate(m.rainfall),
-                            index: m.rainfall,
-                            name: m.name
+                            alias: self.calculate(m.index),
+                            index: m.index
                         }
                     })
                 }
             });
 
             return newData;
-        }
-
-		self.load = function (path){
-			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });
-		};
+        };
 
 		self.setup = function (feature) {
-
-			var color = 'gray';
-
-			var weather = self.getDataItem(feature, self.data);
-
-			if (weather != null) {
-				var month = $.grep(weather.months, function (e) { return e.number === self._selected; });
-				color = month[0].alias;
-			}
-
-			return color;
+			return self.setupMonth(feature, self._selected);
 		};
+
 
 		self.setupMonth = function (feature, index) {
 			var color = 'gray';

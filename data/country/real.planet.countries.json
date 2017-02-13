@@ -1,0 +1,1421 @@
+[
+  {
+    "target": "IND",
+    "ICO2": "IN",
+    "Wiki": "/wiki/India",
+    "Name": "India"
+  },
+  {
+    "target": "BGD",
+    "ICO2": "BD",
+    "Wiki": "/wiki/Bangladesh",
+    "Name": "Bangladesh"
+  },
+  {
+    "target": "PAK",
+    "ICO2": "PK",
+    "Wiki": "/wiki/Pakistan",
+    "Name": "Pakistan"
+  },
+  {
+    "target": "MEX",
+    "ICO2": "MX",
+    "Wiki": "/wiki/Mexico",
+    "Name": "Mexico"
+  },
+  {
+    "target": "VNM",
+    "ICO2": "VN",
+    "Wiki": "/wiki/Viet_Nam",
+    "Name": "Viet Nam"
+  },
+  {
+    "target": "PER",
+    "ICO2": "PE",
+    "Wiki": "/wiki/Peru",
+    "Name": "Peru"
+  },
+  {
+    "target": "COL",
+    "ICO2": "CO",
+    "Wiki": "/wiki/Colombia",
+    "Name": "Colombia"
+  },
+  {
+    "target": "PHL",
+    "ICO2": "PH",
+    "Wiki": "/wiki/Philippines",
+    "Name": "Philippines"
+  },
+  {
+    "target": "NPL",
+    "ICO2": "NP",
+    "Wiki": "/wiki/Nepal",
+    "Name": "Nepal"
+  },
+  {
+    "target": "BRA",
+    "ICO2": "BR",
+    "Wiki": "/wiki/Brazil",
+    "Name": "Brazil"
+  },
+  {
+    "target": "KHM",
+    "ICO2": "KH",
+    "Wiki": "/wiki/Cambodia",
+    "Name": "Cambodia"
+  },
+  {
+    "target": "ECU",
+    "ICO2": "EC",
+    "Wiki": "/wiki/Ecuador",
+    "Name": "Ecuador"
+  },
+  {
+    "target": "BOL",
+    "ICO2": "BO",
+    "Wiki": "/wiki/Bolivia_(Plurinational_State_of)",
+    "Name": "Bolivia (Plurinational State of)"
+  },
+  {
+    "target": "ETH",
+    "ICO2": "ET",
+    "Wiki": "/wiki/Ethiopia",
+    "Name": "Ethiopia"
+  },
+  {
+    "target": "PRY",
+    "ICO2": "PY",
+    "Wiki": "/wiki/Paraguay",
+    "Name": "Paraguay"
+  },
+  {
+    "target": "NGA",
+    "ICO2": "NG",
+    "Wiki": "/wiki/Nigeria",
+    "Name": "Nigeria"
+  },
+  {
+    "target": "IDN",
+    "ICO2": "ID",
+    "Wiki": "/wiki/Indonesia",
+    "Name": "Indonesia"
+  },
+  {
+    "target": "LKA",
+    "ICO2": "LK",
+    "Wiki": "/wiki/Sri_Lanka",
+    "Name": "Sri Lanka"
+  },
+  {
+    "target": "AFG",
+    "ICO2": "AF",
+    "Wiki": "/wiki/Afghanistan",
+    "Name": "Afghanistan"
+  },
+  {
+    "target": "MMR",
+    "ICO2": "MM",
+    "Wiki": "/wiki/Myanmar",
+    "Name": "Myanmar"
+  },
+  {
+    "target": "DOM",
+    "ICO2": "DO",
+    "Wiki": "/wiki/Dominican_Republic",
+    "Name": "Dominican Republic"
+  },
+  {
+    "target": "CHN",
+    "ICO2": "CN",
+    "Wiki": "/wiki/China",
+    "Name": "China"
+  },
+  {
+    "target": "BTN",
+    "ICO2": "BT",
+    "Wiki": "/wiki/Bhutan",
+    "Name": "Bhutan"
+  },
+  {
+    "target": "GTM",
+    "ICO2": "GT",
+    "Wiki": "/wiki/Guatemala",
+    "Name": "Guatemala"
+  },
+  {
+    "target": "NIC",
+    "ICO2": "NI",
+    "Wiki": "/wiki/Nicaragua",
+    "Name": "Nicaragua"
+  },
+  {
+    "target": "CHL",
+    "ICO2": "CL",
+    "Wiki": "/wiki/Chile",
+    "Name": "Chile"
+  },
+  {
+    "target": "KEN",
+    "ICO2": "KE",
+    "Wiki": "/wiki/Kenya",
+    "Name": "Kenya"
+  },
+  {
+    "target": "HND",
+    "ICO2": "HN",
+    "Wiki": "/wiki/Honduras",
+    "Name": "Honduras"
+  },
+  {
+    "target": "BEN",
+    "ICO2": "BJ",
+    "Wiki": "/wiki/Benin",
+    "Name": "Benin"
+  },
+  {
+    "target": "AZE",
+    "ICO2": "AZ",
+    "Wiki": "/wiki/Azerbaijan",
+    "Name": "Azerbaijan"
+  },
+  {
+    "target": "GHA",
+    "ICO2": "GH",
+    "Wiki": "/wiki/Ghana",
+    "Name": "Ghana"
+  },
+  {
+    "target": "SLV",
+    "ICO2": "SV",
+    "Wiki": "/wiki/El_Salvador",
+    "Name": "El Salvador"
+  },
+  {
+    "target": "UGA",
+    "ICO2": "UG",
+    "Wiki": "/wiki/Uganda",
+    "Name": "Uganda"
+  },
+  {
+    "target": "TZA",
+    "ICO2": "TZ",
+    "Wiki": "/wiki/Tanzania,_United_Republic_of",
+    "Name": "Tanzania, United Republic of"
+  },
+  {
+    "target": "HTI",
+    "ICO2": "HT",
+    "Wiki": "/wiki/Haiti",
+    "Name": "Haiti"
+  },
+  {
+    "target": "TGO",
+    "ICO2": "TG",
+    "Wiki": "/wiki/Togo",
+    "Name": "Togo"
+  },
+  {
+    "target": "SEN",
+    "ICO2": "SN",
+    "Wiki": "/wiki/Senegal",
+    "Name": "Senegal"
+  },
+  {
+    "target": "ZAR"
+  },
+  {
+    "target": "MDG",
+    "ICO2": "MG",
+    "Wiki": "/wiki/Madagascar",
+    "Name": "Madagascar"
+  },
+  {
+    "target": "MNG",
+    "ICO2": "MN",
+    "Wiki": "/wiki/Mongolia",
+    "Name": "Mongolia"
+  },
+  {
+    "target": "NER",
+    "ICO2": "NE",
+    "Wiki": "/wiki/Niger",
+    "Name": "Niger"
+  },
+  {
+    "target": "MAR",
+    "ICO2": "MA",
+    "Wiki": "/wiki/Morocco",
+    "Name": "Morocco"
+  },
+  {
+    "target": "CMR",
+    "ICO2": "CM",
+    "Wiki": "/wiki/Cameroon",
+    "Name": "Cameroon"
+  },
+  {
+    "target": "BFA",
+    "ICO2": "BF",
+    "Wiki": "/wiki/Burkina_Faso",
+    "Name": "Burkina Faso"
+  },
+  {
+    "target": "KGZ",
+    "ICO2": "KG",
+    "Wiki": "/wiki/Kyrgyzstan",
+    "Name": "Kyrgyzstan"
+  },
+  {
+    "target": "EGY",
+    "ICO2": "EG",
+    "Wiki": "/wiki/Egypt",
+    "Name": "Egypt"
+  },
+  {
+    "target": "ARM",
+    "ICO2": "AM",
+    "Wiki": "/wiki/Armenia",
+    "Name": "Armenia"
+  },
+  {
+    "target": "RWA",
+    "ICO2": "RW",
+    "Wiki": "/wiki/Rwanda",
+    "Name": "Rwanda"
+  },
+  {
+    "target": "ALB",
+    "ICO2": "AL",
+    "Wiki": "/wiki/Albania",
+    "Name": "Albania"
+  },
+  {
+    "target": "DZA",
+    "ICO2": "DZ",
+    "Wiki": "/wiki/Algeria",
+    "Name": "Algeria"
+  },
+  {
+    "target": "ASM",
+    "ICO2": "AS",
+    "Wiki": "/wiki/American_Samoa",
+    "Name": "American Samoa"
+  },
+  {
+    "target": "ADO"
+  },
+  {
+    "target": "AGO",
+    "ICO2": "AO",
+    "Wiki": "/wiki/Angola",
+    "Name": "Angola"
+  },
+  {
+    "target": "ATG",
+    "ICO2": "AG",
+    "Wiki": "/wiki/Antigua_and_Barbuda",
+    "Name": "Antigua and Barbuda"
+  },
+  {
+    "target": "ARB"
+  },
+  {
+    "target": "ARG",
+    "ICO2": "AR",
+    "Wiki": "/wiki/Argentina",
+    "Name": "Argentina"
+  },
+  {
+    "target": "ABW",
+    "ICO2": "AW",
+    "Wiki": "/wiki/Aruba",
+    "Name": "Aruba"
+  },
+  {
+    "target": "AUS",
+    "ICO2": "AU",
+    "Wiki": "/wiki/Australia",
+    "Name": "Australia"
+  },
+  {
+    "target": "AUT",
+    "ICO2": "AT",
+    "Wiki": "/wiki/Austria",
+    "Name": "Austria"
+  },
+  {
+    "target": "BHS",
+    "ICO2": "BS",
+    "Wiki": "/wiki/Bahamas",
+    "Name": "Bahamas"
+  },
+  {
+    "target": "BHR",
+    "ICO2": "BH",
+    "Wiki": "/wiki/Bahrain",
+    "Name": "Bahrain"
+  },
+  {
+    "target": "BRB",
+    "ICO2": "BB",
+    "Wiki": "/wiki/Barbados",
+    "Name": "Barbados"
+  },
+  {
+    "target": "BLR",
+    "ICO2": "BY",
+    "Wiki": "/wiki/Belarus",
+    "Name": "Belarus"
+  },
+  {
+    "target": "BEL",
+    "ICO2": "BE",
+    "Wiki": "/wiki/Belgium",
+    "Name": "Belgium"
+  },
+  {
+    "target": "BLZ",
+    "ICO2": "BZ",
+    "Wiki": "/wiki/Belize",
+    "Name": "Belize"
+  },
+  {
+    "target": "BMU",
+    "ICO2": "BM",
+    "Wiki": "/wiki/Bermuda",
+    "Name": "Bermuda"
+  },
+  {
+    "target": "BIH",
+    "ICO2": "BA",
+    "Wiki": "/wiki/Bosnia_and_Herzegovina",
+    "Name": "Bosnia and Herzegovina"
+  },
+  {
+    "target": "BWA",
+    "ICO2": "BW",
+    "Wiki": "/wiki/Botswana",
+    "Name": "Botswana"
+  },
+  {
+    "target": "VGB",
+    "ICO2": "VG",
+    "Wiki": "/wiki/British_Virgin_Islands",
+    "Name": "British Virgin Islands"
+  },
+  {
+    "target": "BRN",
+    "ICO2": "BN",
+    "Wiki": "/wiki/Brunei_Darussalam",
+    "Name": "Brunei Darussalam"
+  },
+  {
+    "target": "BGR",
+    "ICO2": "BG",
+    "Wiki": "/wiki/Bulgaria",
+    "Name": "Bulgaria"
+  },
+  {
+    "target": "BDI",
+    "ICO2": "BI",
+    "Wiki": "/wiki/Burundi",
+    "Name": "Burundi"
+  },
+  {
+    "target": "CPV",
+    "ICO2": "CV",
+    "Wiki": "/wiki/Cabo_Verde",
+    "Name": "Cabo Verde"
+  },
+  {
+    "target": "CAN",
+    "ICO2": "CA",
+    "Wiki": "/wiki/Canada",
+    "Name": "Canada"
+  },
+  {
+    "target": "CSS"
+  },
+  {
+    "target": "CYM",
+    "ICO2": "KY",
+    "Wiki": "/wiki/Cayman_Islands",
+    "Name": "Cayman Islands"
+  },
+  {
+    "target": "CAF",
+    "ICO2": "CF",
+    "Wiki": "/wiki/Central_African_Republic",
+    "Name": "Central African Republic"
+  },
+  {
+    "target": "CEB"
+  },
+  {
+    "target": "TCD",
+    "ICO2": "TD",
+    "Wiki": "/wiki/Chad",
+    "Name": "Chad"
+  },
+  {
+    "target": "CHI"
+  },
+  {
+    "target": "COM",
+    "ICO2": "KM",
+    "Wiki": "/wiki/Comoros",
+    "Name": "Comoros"
+  },
+  {
+    "target": "COG",
+    "ICO2": "CG",
+    "Wiki": "/wiki/Republic_of_the_Congo",
+    "Name": "Republic of the Congo"
+  },
+  {
+    "target": "CRI",
+    "ICO2": "CR",
+    "Wiki": "/wiki/Costa_Rica",
+    "Name": "Costa Rica"
+  },
+  {
+    "target": "CIV",
+    "ICO2": "CI",
+    "Wiki": "/wiki/C%C3%B4te_d%27Ivoire",
+    "Name": "Côte d'Ivoire"
+  },
+  {
+    "target": "HRV",
+    "ICO2": "HR",
+    "Wiki": "/wiki/Croatia",
+    "Name": "Croatia"
+  },
+  {
+    "target": "CUB",
+    "ICO2": "CU",
+    "Wiki": "/wiki/Cuba",
+    "Name": "Cuba"
+  },
+  {
+    "target": "CUW",
+    "ICO2": "CW",
+    "Wiki": "/wiki/Cura%C3%A7ao",
+    "Name": "Curaçao"
+  },
+  {
+    "target": "CYP",
+    "ICO2": "CY",
+    "Wiki": "/wiki/Cyprus",
+    "Name": "Cyprus"
+  },
+  {
+    "target": "CZE",
+    "ICO2": "CZ",
+    "Wiki": "/wiki/Czech_Republic",
+    "Name": "Czech Republic"
+  },
+  {
+    "target": "DNK",
+    "ICO2": "DK",
+    "Wiki": "/wiki/Denmark",
+    "Name": "Denmark"
+  },
+  {
+    "target": "DJI",
+    "ICO2": "DJ",
+    "Wiki": "/wiki/Djibouti",
+    "Name": "Djibouti"
+  },
+  {
+    "target": "DMA",
+    "ICO2": "DM",
+    "Wiki": "/wiki/Dominica",
+    "Name": "Dominica"
+  },
+  {
+    "target": "EAR"
+  },
+  {
+    "target": "EAS"
+  },
+  {
+    "target": "EAP"
+  },
+  {
+    "target": "TEA"
+  },
+  {
+    "target": "GNQ",
+    "ICO2": "GQ",
+    "Wiki": "/wiki/Equatorial_Guinea",
+    "Name": "Equatorial Guinea"
+  },
+  {
+    "target": "ERI",
+    "ICO2": "ER",
+    "Wiki": "/wiki/Eritrea",
+    "Name": "Eritrea"
+  },
+  {
+    "target": "EST",
+    "ICO2": "EE",
+    "Wiki": "/wiki/Estonia",
+    "Name": "Estonia"
+  },
+  {
+    "target": "EMU"
+  },
+  {
+    "target": "ECS"
+  },
+  {
+    "target": "ECA"
+  },
+  {
+    "target": "TEC"
+  },
+  {
+    "target": "EUU"
+  },
+  {
+    "target": "FRO",
+    "ICO2": "FO",
+    "Wiki": "/wiki/Faroe_Islands",
+    "Name": "Faroe Islands"
+  },
+  {
+    "target": "FJI",
+    "ICO2": "FJ",
+    "Wiki": "/wiki/Fiji",
+    "Name": "Fiji"
+  },
+  {
+    "target": "FIN",
+    "ICO2": "FI",
+    "Wiki": "/wiki/Finland",
+    "Name": "Finland"
+  },
+  {
+    "target": "FCS"
+  },
+  {
+    "target": "FRA",
+    "ICO2": "FR",
+    "Wiki": "/wiki/France",
+    "Name": "France"
+  },
+  {
+    "target": "PYF",
+    "ICO2": "PF",
+    "Wiki": "/wiki/French_Polynesia",
+    "Name": "French Polynesia"
+  },
+  {
+    "target": "GAB",
+    "ICO2": "GA",
+    "Wiki": "/wiki/Gabon",
+    "Name": "Gabon"
+  },
+  {
+    "target": "GMB",
+    "ICO2": "GM",
+    "Wiki": "/wiki/Gambia",
+    "Name": "Gambia"
+  },
+  {
+    "target": "GEO",
+    "ICO2": "GE",
+    "Wiki": "/wiki/Georgia_(country)",
+    "Name": "Georgia (country)"
+  },
+  {
+    "target": "DEU",
+    "ICO2": "DE",
+    "Wiki": "/wiki/Germany",
+    "Name": "Germany"
+  },
+  {
+    "target": "GIB",
+    "ICO2": "GI",
+    "Wiki": "/wiki/Gibraltar",
+    "Name": "Gibraltar"
+  },
+  {
+    "target": "GRC",
+    "ICO2": "GR",
+    "Wiki": "/wiki/Greece",
+    "Name": "Greece"
+  },
+  {
+    "target": "GRL",
+    "ICO2": "GL",
+    "Wiki": "/wiki/Greenland",
+    "Name": "Greenland"
+  },
+  {
+    "target": "GRD",
+    "ICO2": "GD",
+    "Wiki": "/wiki/Grenada",
+    "Name": "Grenada"
+  },
+  {
+    "target": "GUM",
+    "ICO2": "GU",
+    "Wiki": "/wiki/Guam",
+    "Name": "Guam"
+  },
+  {
+    "target": "GIN",
+    "ICO2": "GN",
+    "Wiki": "/wiki/Guinea",
+    "Name": "Guinea"
+  },
+  {
+    "target": "GNB",
+    "ICO2": "GW",
+    "Wiki": "/wiki/Guinea-Bissau",
+    "Name": "Guinea-Bissau"
+  },
+  {
+    "target": "GUY",
+    "ICO2": "GY",
+    "Wiki": "/wiki/Guyana",
+    "Name": "Guyana"
+  },
+  {
+    "target": "HPC"
+  },
+  {
+    "target": "HIC"
+  },
+  {
+    "target": "HKG",
+    "ICO2": "HK",
+    "Wiki": "/wiki/Hong_Kong",
+    "Name": "Hong Kong"
+  },
+  {
+    "target": "HUN",
+    "ICO2": "HU",
+    "Wiki": "/wiki/Hungary",
+    "Name": "Hungary"
+  },
+  {
+    "target": "IBD"
+  },
+  {
+    "target": "ISL",
+    "ICO2": "IS",
+    "Wiki": "/wiki/Iceland",
+    "Name": "Iceland"
+  },
+  {
+    "target": "IBT"
+  },
+  {
+    "target": "IDB"
+  },
+  {
+    "target": "IDX"
+  },
+  {
+    "target": "IDA"
+  },
+  {
+    "target": "IRN",
+    "ICO2": "IR",
+    "Wiki": "/wiki/Iran_(Islamic_Republic_of)",
+    "Name": "Iran (Islamic Republic of)"
+  },
+  {
+    "target": "IRQ",
+    "ICO2": "IQ",
+    "Wiki": "/wiki/Iraq",
+    "Name": "Iraq"
+  },
+  {
+    "target": "IRL",
+    "ICO2": "IE",
+    "Wiki": "/wiki/Republic_of_Ireland",
+    "Name": "Republic of Ireland"
+  },
+  {
+    "target": "IMY"
+  },
+  {
+    "target": "ISR",
+    "ICO2": "IL",
+    "Wiki": "/wiki/Israel",
+    "Name": "Israel"
+  },
+  {
+    "target": "ITA",
+    "ICO2": "IT",
+    "Wiki": "/wiki/Italy",
+    "Name": "Italy"
+  },
+  {
+    "target": "JAM",
+    "ICO2": "JM",
+    "Wiki": "/wiki/Jamaica",
+    "Name": "Jamaica"
+  },
+  {
+    "target": "JPN",
+    "ICO2": "JP",
+    "Wiki": "/wiki/Japan",
+    "Name": "Japan"
+  },
+  {
+    "target": "JOR",
+    "ICO2": "JO",
+    "Wiki": "/wiki/Jordan",
+    "Name": "Jordan"
+  },
+  {
+    "target": "KAZ",
+    "ICO2": "KZ",
+    "Wiki": "/wiki/Kazakhstan",
+    "Name": "Kazakhstan"
+  },
+  {
+    "target": "KIR",
+    "ICO2": "KI",
+    "Wiki": "/wiki/Kiribati",
+    "Name": "Kiribati"
+  },
+  {
+    "target": "PRK",
+    "ICO2": "KP",
+    "Wiki": "/wiki/North_Korea",
+    "Name": "North Korea"
+  },
+  {
+    "target": "KOR",
+    "ICO2": "KR",
+    "Wiki": "/wiki/Korea_(Republic_of)",
+    "Name": "Korea (Republic of)"
+  },
+  {
+    "target": "KSV"
+  },
+  {
+    "target": "KWT",
+    "ICO2": "KW",
+    "Wiki": "/wiki/Kuwait",
+    "Name": "Kuwait"
+  },
+  {
+    "target": "LAO",
+    "ICO2": "LA",
+    "Wiki": "/wiki/Lao_People%27s_Democratic_Republic",
+    "Name": "Lao People's Democratic Republic"
+  },
+  {
+    "target": "LTE"
+  },
+  {
+    "target": "LCN"
+  },
+  {
+    "target": "LAC"
+  },
+  {
+    "target": "TLA"
+  },
+  {
+    "target": "LVA",
+    "ICO2": "LV",
+    "Wiki": "/wiki/Latvia",
+    "Name": "Latvia"
+  },
+  {
+    "target": "LDC"
+  },
+  {
+    "target": "LBN",
+    "ICO2": "LB",
+    "Wiki": "/wiki/Lebanon",
+    "Name": "Lebanon"
+  },
+  {
+    "target": "LSO",
+    "ICO2": "LS",
+    "Wiki": "/wiki/Lesotho",
+    "Name": "Lesotho"
+  },
+  {
+    "target": "LBR",
+    "ICO2": "LR",
+    "Wiki": "/wiki/Liberia",
+    "Name": "Liberia"
+  },
+  {
+    "target": "LBY",
+    "ICO2": "LY",
+    "Wiki": "/wiki/Libya",
+    "Name": "Libya"
+  },
+  {
+    "target": "LIE",
+    "ICO2": "LI",
+    "Wiki": "/wiki/Liechtenstein",
+    "Name": "Liechtenstein"
+  },
+  {
+    "target": "LTU",
+    "ICO2": "LT",
+    "Wiki": "/wiki/Lithuania",
+    "Name": "Lithuania"
+  },
+  {
+    "target": "LMY"
+  },
+  {
+    "target": "LIC"
+  },
+  {
+    "target": "LMC"
+  },
+  {
+    "target": "LUX",
+    "ICO2": "LU",
+    "Wiki": "/wiki/Luxembourg",
+    "Name": "Luxembourg"
+  },
+  {
+    "target": "MAC",
+    "ICO2": "MO",
+    "Wiki": "/wiki/Macao",
+    "Name": "Macao"
+  },
+  {
+    "target": "MKD",
+    "ICO2": "MK",
+    "Wiki": "/wiki/Republic_of_Macedonia",
+    "Name": "Republic of Macedonia"
+  },
+  {
+    "target": "MWI",
+    "ICO2": "MW",
+    "Wiki": "/wiki/Malawi",
+    "Name": "Malawi"
+  },
+  {
+    "target": "MYS",
+    "ICO2": "MY",
+    "Wiki": "/wiki/Malaysia",
+    "Name": "Malaysia"
+  },
+  {
+    "target": "MDV",
+    "ICO2": "MV",
+    "Wiki": "/wiki/Maldives",
+    "Name": "Maldives"
+  },
+  {
+    "target": "MLI",
+    "ICO2": "ML",
+    "Wiki": "/wiki/Mali",
+    "Name": "Mali"
+  },
+  {
+    "target": "MLT",
+    "ICO2": "MT",
+    "Wiki": "/wiki/Malta",
+    "Name": "Malta"
+  },
+  {
+    "target": "MHL",
+    "ICO2": "MH",
+    "Wiki": "/wiki/Marshall_Islands",
+    "Name": "Marshall Islands"
+  },
+  {
+    "target": "MRT",
+    "ICO2": "MR",
+    "Wiki": "/wiki/Mauritania",
+    "Name": "Mauritania"
+  },
+  {
+    "target": "MUS",
+    "ICO2": "MU",
+    "Wiki": "/wiki/Mauritius",
+    "Name": "Mauritius"
+  },
+  {
+    "target": "FSM",
+    "ICO2": "FM",
+    "Wiki": "/wiki/Micronesia_(Federated_States_of)",
+    "Name": "Micronesia (Federated States of)"
+  },
+  {
+    "target": "MEA"
+  },
+  {
+    "target": "MNA"
+  },
+  {
+    "target": "TMN"
+  },
+  {
+    "target": "MIC"
+  },
+  {
+    "target": "MDA",
+    "ICO2": "MD",
+    "Wiki": "/wiki/Moldova_(Republic_of)",
+    "Name": "Moldova (Republic of)"
+  },
+  {
+    "target": "MCO",
+    "ICO2": "MC",
+    "Wiki": "/wiki/Monaco",
+    "Name": "Monaco"
+  },
+  {
+    "target": "MNE",
+    "ICO2": "ME",
+    "Wiki": "/wiki/Montenegro",
+    "Name": "Montenegro"
+  },
+  {
+    "target": "MOZ",
+    "ICO2": "MZ",
+    "Wiki": "/wiki/Mozambique",
+    "Name": "Mozambique"
+  },
+  {
+    "target": "NAM",
+    "ICO2": "NA",
+    "Wiki": "/wiki/Namibia",
+    "Name": "Namibia"
+  },
+  {
+    "target": "NRU",
+    "ICO2": "NR",
+    "Wiki": "/wiki/Nauru",
+    "Name": "Nauru"
+  },
+  {
+    "target": "NLD",
+    "ICO2": "NL",
+    "Wiki": "/wiki/Netherlands",
+    "Name": "Netherlands"
+  },
+  {
+    "target": "NCL",
+    "ICO2": "NC",
+    "Wiki": "/wiki/New_Caledonia",
+    "Name": "New Caledonia"
+  },
+  {
+    "target": "NZL",
+    "ICO2": "NZ",
+    "Wiki": "/wiki/New_Zealand",
+    "Name": "New Zealand"
+  },
+  {
+    "target": "NAC"
+  },
+  {
+    "target": "MNP",
+    "ICO2": "MP",
+    "Wiki": "/wiki/Northern_Mariana_Islands",
+    "Name": "Northern Mariana Islands"
+  },
+  {
+    "target": "NOR",
+    "ICO2": "NO",
+    "Wiki": "/wiki/Norway",
+    "Name": "Norway"
+  },
+  {
+    "target": "INX"
+  },
+  {
+    "target": "OED"
+  },
+  {
+    "target": "OMN",
+    "ICO2": "OM",
+    "Wiki": "/wiki/Oman",
+    "Name": "Oman"
+  },
+  {
+    "target": "OSS"
+  },
+  {
+    "target": "PSS"
+  },
+  {
+    "target": "PLW",
+    "ICO2": "PW",
+    "Wiki": "/wiki/Palau",
+    "Name": "Palau"
+  },
+  {
+    "target": "PAN",
+    "ICO2": "PA",
+    "Wiki": "/wiki/Panama",
+    "Name": "Panama"
+  },
+  {
+    "target": "PNG",
+    "ICO2": "PG",
+    "Wiki": "/wiki/Papua_New_Guinea",
+    "Name": "Papua New Guinea"
+  },
+  {
+    "target": "POL",
+    "ICO2": "PL",
+    "Wiki": "/wiki/Poland",
+    "Name": "Poland"
+  },
+  {
+    "target": "PRT",
+    "ICO2": "PT",
+    "Wiki": "/wiki/Portugal",
+    "Name": "Portugal"
+  },
+  {
+    "target": "PST"
+  },
+  {
+    "target": "PRE"
+  },
+  {
+    "target": "PRI",
+    "ICO2": "PR",
+    "Wiki": "/wiki/Puerto_Rico",
+    "Name": "Puerto Rico"
+  },
+  {
+    "target": "QAT",
+    "ICO2": "QA",
+    "Wiki": "/wiki/Qatar",
+    "Name": "Qatar"
+  },
+  {
+    "target": "ROM"
+  },
+  {
+    "target": "RUS",
+    "ICO2": "RU",
+    "Wiki": "/wiki/Russian_Federation",
+    "Name": "Russian Federation"
+  },
+  {
+    "target": "WSM",
+    "ICO2": "WS",
+    "Wiki": "/wiki/Samoa",
+    "Name": "Samoa"
+  },
+  {
+    "target": "SMR",
+    "ICO2": "SM",
+    "Wiki": "/wiki/San_Marino",
+    "Name": "San Marino"
+  },
+  {
+    "target": "STP",
+    "ICO2": "ST",
+    "Wiki": "/wiki/Sao_Tome_and_Principe",
+    "Name": "Sao Tome and Principe"
+  },
+  {
+    "target": "SAU",
+    "ICO2": "SA",
+    "Wiki": "/wiki/Saudi_Arabia",
+    "Name": "Saudi Arabia"
+  },
+  {
+    "target": "SRB",
+    "ICO2": "RS",
+    "Wiki": "/wiki/Serbia",
+    "Name": "Serbia"
+  },
+  {
+    "target": "SYC",
+    "ICO2": "SC",
+    "Wiki": "/wiki/Seychelles",
+    "Name": "Seychelles"
+  },
+  {
+    "target": "SLE",
+    "ICO2": "SL",
+    "Wiki": "/wiki/Sierra_Leone",
+    "Name": "Sierra Leone"
+  },
+  {
+    "target": "SGP",
+    "ICO2": "SG",
+    "Wiki": "/wiki/Singapore",
+    "Name": "Singapore"
+  },
+  {
+    "target": "SXM",
+    "ICO2": "SX",
+    "Wiki": "/wiki/Sint_Maarten_(Dutch_part)",
+    "Name": "Sint Maarten (Dutch part)"
+  },
+  {
+    "target": "SVK",
+    "ICO2": "SK",
+    "Wiki": "/wiki/Slovakia",
+    "Name": "Slovakia"
+  },
+  {
+    "target": "SVN",
+    "ICO2": "SI",
+    "Wiki": "/wiki/Slovenia",
+    "Name": "Slovenia"
+  },
+  {
+    "target": "SST"
+  },
+  {
+    "target": "SLB",
+    "ICO2": "SB",
+    "Wiki": "/wiki/Solomon_Islands",
+    "Name": "Solomon Islands"
+  },
+  {
+    "target": "SOM",
+    "ICO2": "SO",
+    "Wiki": "/wiki/Somalia",
+    "Name": "Somalia"
+  },
+  {
+    "target": "ZAF",
+    "ICO2": "ZA",
+    "Wiki": "/wiki/South_Africa",
+    "Name": "South Africa"
+  },
+  {
+    "target": "SAS"
+  },
+  {
+    "target": "TSA"
+  },
+  {
+    "target": "SSD",
+    "ICO2": "SS",
+    "Wiki": "/wiki/South_Sudan",
+    "Name": "South Sudan"
+  },
+  {
+    "target": "ESP",
+    "ICO2": "ES",
+    "Wiki": "/wiki/Spain",
+    "Name": "Spain"
+  },
+  {
+    "target": "KNA",
+    "ICO2": "KN",
+    "Wiki": "/wiki/Saint_Kitts_and_Nevis",
+    "Name": "Saint Kitts and Nevis"
+  },
+  {
+    "target": "LCA",
+    "ICO2": "LC",
+    "Wiki": "/wiki/Saint_Lucia",
+    "Name": "Saint Lucia"
+  },
+  {
+    "target": "MAF",
+    "ICO2": "MF",
+    "Wiki": "/wiki/Saint_Martin_(French_part)",
+    "Name": "Saint Martin (French part)"
+  },
+  {
+    "target": "VCT",
+    "ICO2": "VC",
+    "Wiki": "/wiki/Saint_Vincent_and_the_Grenadines",
+    "Name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "target": "SSF"
+  },
+  {
+    "target": "SSA"
+  },
+  {
+    "target": "TSS"
+  },
+  {
+    "target": "SDN",
+    "ICO2": "SD",
+    "Wiki": "/wiki/Sudan",
+    "Name": "Sudan"
+  },
+  {
+    "target": "SUR",
+    "ICO2": "SR",
+    "Wiki": "/wiki/Suriname",
+    "Name": "Suriname"
+  },
+  {
+    "target": "SWZ",
+    "ICO2": "SZ",
+    "Wiki": "/wiki/Swaziland",
+    "Name": "Swaziland"
+  },
+  {
+    "target": "SWE",
+    "ICO2": "SE",
+    "Wiki": "/wiki/Sweden",
+    "Name": "Sweden"
+  },
+  {
+    "target": "CHE",
+    "ICO2": "CH",
+    "Wiki": "/wiki/Switzerland",
+    "Name": "Switzerland"
+  },
+  {
+    "target": "SYR",
+    "ICO2": "SY",
+    "Wiki": "/wiki/Syrian_Arab_Republic",
+    "Name": "Syrian Arab Republic"
+  },
+  {
+    "target": "TJK",
+    "ICO2": "TJ",
+    "Wiki": "/wiki/Tajikistan",
+    "Name": "Tajikistan"
+  },
+  {
+    "target": "THA",
+    "ICO2": "TH",
+    "Wiki": "/wiki/Thailand",
+    "Name": "Thailand"
+  },
+  {
+    "target": "TMP"
+  },
+  {
+    "target": "TON",
+    "ICO2": "TO",
+    "Wiki": "/wiki/Tonga",
+    "Name": "Tonga"
+  },
+  {
+    "target": "TTO",
+    "ICO2": "TT",
+    "Wiki": "/wiki/Trinidad_and_Tobago",
+    "Name": "Trinidad and Tobago"
+  },
+  {
+    "target": "TUN",
+    "ICO2": "TN",
+    "Wiki": "/wiki/Tunisia",
+    "Name": "Tunisia"
+  },
+  {
+    "target": "TUR",
+    "ICO2": "TR",
+    "Wiki": "/wiki/Turkey",
+    "Name": "Turkey"
+  },
+  {
+    "target": "TKM",
+    "ICO2": "TM",
+    "Wiki": "/wiki/Turkmenistan",
+    "Name": "Turkmenistan"
+  },
+  {
+    "target": "TCA",
+    "ICO2": "TC",
+    "Wiki": "/wiki/Turks_and_Caicos_Islands",
+    "Name": "Turks and Caicos Islands"
+  },
+  {
+    "target": "TUV",
+    "ICO2": "TV",
+    "Wiki": "/wiki/Tuvalu",
+    "Name": "Tuvalu"
+  },
+  {
+    "target": "UKR",
+    "ICO2": "UA",
+    "Wiki": "/wiki/Ukraine",
+    "Name": "Ukraine"
+  },
+  {
+    "target": "ARE",
+    "ICO2": "AE",
+    "Wiki": "/wiki/United_Arab_Emirates",
+    "Name": "United Arab Emirates"
+  },
+  {
+    "target": "GBR",
+    "ICO2": "GB",
+    "Wiki": "/wiki/United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+    "Name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "target": "USA",
+    "ICO2": "US",
+    "Wiki": "/wiki/United_States_of_America",
+    "Name": "United States of America"
+  },
+  {
+    "target": "UMC"
+  },
+  {
+    "target": "URY",
+    "ICO2": "UY",
+    "Wiki": "/wiki/Uruguay",
+    "Name": "Uruguay"
+  },
+  {
+    "target": "UZB",
+    "ICO2": "UZ",
+    "Wiki": "/wiki/Uzbekistan",
+    "Name": "Uzbekistan"
+  },
+  {
+    "target": "VUT",
+    "ICO2": "VU",
+    "Wiki": "/wiki/Vanuatu",
+    "Name": "Vanuatu"
+  },
+  {
+    "target": "VEN",
+    "ICO2": "VE",
+    "Wiki": "/wiki/Venezuela_(Bolivarian_Republic_of)",
+    "Name": "Venezuela (Bolivarian Republic of)"
+  },
+  {
+    "target": "VIR",
+    "ICO2": "VI",
+    "Wiki": "/wiki/United_States_Virgin_Islands",
+    "Name": "United States Virgin Islands"
+  },
+  {
+    "target": "WBG"
+  },
+  {
+    "target": "WLD"
+  },
+  {
+    "target": "YEM",
+    "ICO2": "YE",
+    "Wiki": "/wiki/Yemen",
+    "Name": "Yemen"
+  },
+  {
+    "target": "ZMB",
+    "ICO2": "ZM",
+    "Wiki": "/wiki/Zambia",
+    "Name": "Zambia"
+  },
+  {
+    "target": "ZWE",
+    "ICO2": "ZW",
+    "Wiki": "/wiki/Zimbabwe",
+    "Name": "Zimbabwe"
+  }
+]
