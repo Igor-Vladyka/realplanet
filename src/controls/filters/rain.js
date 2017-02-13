@@ -45,8 +45,8 @@
 
         self.calculate = function (rainfall){
 
-            if(rainfall < 20) { return "red"; }
-            if(rainfall < 70) { return "yellow"; }
+            if(rainfall < 30) { return "red"; }
+            if(rainfall < 80) { return "yellow"; }
             if(rainfall < 120) { return "green"; }
             if(rainfall < 200) { return "blue"; }
 
@@ -61,6 +61,7 @@
                         return {
                             number: m.number,
                             alias: self.calculate(m.rainfall),
+                            index: m.rainfall,
                             name: m.name
                         }
                     })

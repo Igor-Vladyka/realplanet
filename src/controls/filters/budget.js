@@ -28,6 +28,23 @@
         self.evaluateCountry = function(feature){
         	self.activeCountry = self.getCountryOption(feature, self.options, self.setup);
         };
+
+        self.calculate = function(item){
+            if(item.index < 0.43) {
+                item.alias = "blue";
+            }
+            else if(item.index < 0.61) {
+                item.alias = "green";
+            }
+            else if(item.index < 0.86) {
+                item.alias = "yellow";
+            }
+            else {
+                item.alias = "red";
+            }
+
+            return item;
+        };
     }
 
 })();

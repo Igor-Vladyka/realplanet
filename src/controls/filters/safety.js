@@ -27,6 +27,20 @@
         self.evaluateCountry = function(feature){
         	self.activeCountry = self.getCountryOption(feature, self.options, self.setup);
         };
+
+        self.calculate = function(item){
+            if(item.index < 1.7) {
+                item.alias = "green";
+            }
+            else if(item.index < 2.4) {
+                item.alias = "yellow";
+            }
+            else {
+                item.alias = "red";
+            }
+
+            return item;
+        };
 	}
 
 })();

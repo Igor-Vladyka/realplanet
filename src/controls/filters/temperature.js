@@ -47,6 +47,33 @@
 			return self.initialLoad(path + self._file).then(function(data){ self.data = data; });
 		};
 
+        self.calculate = function (temperature){
+            if(temperature <= 0) { return "white"; }
+            if(temperature < 10) { return "blue"; }
+            if(temperature < 19) { return "yellow"; }
+            if(temperature < 27) { return "green"; }
+
+            return "red";
+        };
+
+        self.mapper = function(data){
+            var newData = data.map(function(root){
+                return {
+                    target: root.target,
+                    months: root.months.map(function(m){
+                        return {
+                            number: m.number,
+                            alias: self.calculate(m.temperature),
+                            index: m.temperature,
+                            name: m.name
+                        }
+                    })
+                }
+            });
+
+            return newData;
+        };
+
 		self.setup = function (feature) {
 
 			var color = 'gray';
