@@ -74,7 +74,6 @@
 			return self.setupMonth(feature, self._selected);
 		};
 
-
 		self.setupMonth = function (feature, index) {
 			var color = 'gray';
 
