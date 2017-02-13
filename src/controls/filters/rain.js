@@ -44,7 +44,7 @@
 		self.rainPanel = function (){return $("#" + self.name + "MonthPanel");};
 
         self.calculate = function (rainfall){
-
+            if(!rainfall) { return "gray"; }
             if(rainfall < 30) { return "red"; }
             if(rainfall < 80) { return "yellow"; }
             if(rainfall < 120) { return "green"; }

@@ -31,7 +31,12 @@
 
         self.calculate = function(item){
 
-            if(item.index < 0.2) {
+            item.index = item.population && item.tourists ? item.tourists / item.population : 0;
+            
+            if(item.index === 0) {
+                item.alias = "gray";
+            }
+            else if(item.index < 0.2) {
                 item.alias = "blue";
             }
             else if(item.index < 0.6) {

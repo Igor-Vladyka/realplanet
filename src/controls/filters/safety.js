@@ -29,7 +29,10 @@
         };
 
         self.calculate = function(item){
-            if(item.index < 1.7) {
+            if(item.index === 0) {
+                item.alias = "gray";
+            }
+            else if(item.index < 1.7) {
                 item.alias = "green";
             }
             else if(item.index < 2.4) {

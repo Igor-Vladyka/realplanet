@@ -30,7 +30,10 @@
         };
 
         self.calculate = function(item){
-            if(item.index < 15) {
+            if(item.index === 0) {
+                item.alias = "gray";
+            }
+            else if(item.index < 15) {
                 item.alias = "red";
             }
             else if(item.index < 40) {
