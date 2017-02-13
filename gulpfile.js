@@ -31,7 +31,8 @@ gulp.task('files', ["clean"], function ()
             "./src/views/**/*.html",
             "./src/views/**/**/*.html",
             "./src/fonts/*.*",
-            "./src/favicon.ico"
+            "./src/favicon.ico",
+            "./src/images/flags32.png"
     ];
 
     return gulp.src(filesToMove, { base: './src' })
