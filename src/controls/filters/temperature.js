@@ -46,8 +46,8 @@
         self.calculate = function (temperature){
             if(temperature <= 0) { return "white"; }
             if(temperature < 10) { return "blue"; }
-            if(temperature < 19) { return "yellow"; }
-            if(temperature < 27) { return "green"; }
+            if(temperature < 19) { return "green"; }
+            if(temperature < 27) { return "yellow"; }
 
             return "red";
         };
