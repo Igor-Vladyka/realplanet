@@ -15,3 +15,6 @@ Preinstall npm. Then in cmd:
 + npm install - to install build dependencies
 + bower install - to install app dependencies
 + gulp --build - to build product version [site](/build/index.html)
+
+## Used data for filters
+> [Wiki](https://github.com/Igor-Vladyka/realplanet/wiki/Filters)
