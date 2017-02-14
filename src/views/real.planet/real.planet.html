@@ -15,7 +15,7 @@
 	    	<div id='{{module.name}}' rw-module="{{module.name}}" ng-repeat="module in moduleManager.modules | orderBy:'order'" ng-if="module.options">
 	    		<div class="media" id="{{module.name}}Panel" ng-click="checkModule(module)" ng-class="{'pointer': !moduleManager.country}">
 				  <div class="media-body filter-text-container">
-				    	<span class="media-heading white filter-text-heading force-{{module.activeCountry.alias}}" ng-class="{'divider-color': highlightHeader(module)}">{{module.icon.text}}</span>
+				    	<span class="media-heading white filter-text-heading force-{{module.activeCountry.alias}}" ng-class="{'divider-color': highlightHeader(module)}">{{module.icon.text}} <span class="timatic-link" ng-show="module.activeCountry && module.name == 'visa' && moduleManager.dataService.canShowTimaticLink(moduleManager.visa._country, moduleManager.country.properties.ISO2)" ng-click="moduleManager.dataService.showTimatic(moduleManager.visa._country, moduleManager.country.properties.ISO2)">timatic</span></span>
 				    	<div class="onoffswitch" ng-hide="module.activeCountry">
 						    <input type="checkbox" class="onoffswitch-checkbox" id="switch{{module.name}}" ng-click="checkModule(module)" ng-checked="highlightHeader(module)">
 						    <label class="onoffswitch-label" for="switch{{module.name}}">

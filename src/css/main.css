@@ -2459,3 +2459,8 @@ label.cell-hover:hover > i.icon-safety-red-filter{
 .leaflet-control-layers-toggle {
 	background-image: url(../images/unesco.png) !important;
 }
+
+.timatic-link{
+	cursor: pointer;
+	font-size: 10px;
+}

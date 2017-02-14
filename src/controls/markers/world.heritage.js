@@ -34,7 +34,7 @@
         }
 
         self.createLayer = function(style){
-            return L.markerClusterGroup({iconCreateFunction: self.markerClusterFunction, style: style, spiderfyOnMaxZoom: false, showCoverageOnHover: false});
+            return L.markerClusterGroup({iconCreateFunction: self.markerClusterFunction, style: style, spiderfyOnMaxZoom: false, showCoverageOnHover: false, disableClusteringAtZoom: 10});
         }
 
         self.mapper = function(data){

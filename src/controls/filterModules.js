@@ -1,12 +1,34 @@
 (function() {
 
     angular.module('real.planet')
-        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "temperatureService", "rainService", "worldHeritageService", filterModules]);
+        .service('filterModules', ["$q", "$state",
+        "dataService",
+        "countriesService",
+        "budgetService",
+        "visaService",
+        "touristService",
+        "safetyService",
+        "internetService",
+        "temperatureService",
+        "rainService",
+        "worldHeritageService",
+        filterModules]);
 
-    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, temperatureService, rainService, worldHeritageService){
+    function filterModules($q, $state,
+        dataService,
+        countriesService,
+        budgetService,
+        visaService,
+        touristService,
+        safetyService,
+        internetService,
+        temperatureService,
+        rainService,
+        worldHeritageService){
+
         var self = this;
 
-        self._content = "//igor-vladyka.github.io/realplanet/data/";
+        self._content = "../data/";
 
         function colorSelector(color){
             switch(color){
@@ -55,6 +77,10 @@
             self.boundsMap = map;
 
             var promises = [];
+
+            var dataServicePromise = dataService.load(self._content);
+            self.moduleManager.dataService = dataService;
+            promises.push(dataServicePromise);
 
             var worldHeritagePromise = worldHeritageService.load(map, self._content);
             promises.push(worldHeritagePromise);
