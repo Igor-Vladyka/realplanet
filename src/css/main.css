@@ -2407,9 +2407,9 @@ label.cell-hover.month:hover{
   box-shadow: none;
 }
 
-label.cell-hover:hover > i.icon-safety-red-filter{
-  color: purple;
-}
+/*label.cell-hover:hover > i.icon-safety-red-filter{
+  color: white;
+}*/
 
 .footer-text{
   padding: 0 10px;
