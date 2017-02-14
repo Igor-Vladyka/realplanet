@@ -183,7 +183,13 @@
             $(self.activeFilters).each(function(){
                 var mod = this;
                 var resultFromSection = mod.origin.setup(feature);
-                result = $.inArray(resultFromSection, mod.aliases) != -1;
+
+                var mapArray = JSON.parse(JSON.stringify(mod.aliases));
+
+                // Adding support for multifilter for countries where we don't have data for;
+                mapArray.push("gray");
+
+                result = $.inArray(resultFromSection, mapArray) != -1;
                 return result;
             });
 
