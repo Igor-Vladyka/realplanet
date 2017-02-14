@@ -62,11 +62,16 @@
             var countryPromise = countriesService.load(map, self._content, self.style.country_default, self.activateCountry);
             promises.push(countryPromise);
 
+            visaService.initUserSettings(false, false, "UKR");
+            self.moduleManager.modules.push(visaService);
+            self.moduleManager[visaService.name] = visaService;
+            promises.push(visaService.load(self._content));
+
             resetOptions(budgetService);
             self.moduleManager.modules.push(budgetService);
             self.moduleManager[budgetService.name] = budgetService;
             promises.push(budgetService.load(self._content));
-
+/*
             if(user.homeCountry){
                 visaService.initUserSettings(user.schengenVisa, user.usaVisa, user.homeCountry);
                 self.moduleManager.modules.push(visaService);
@@ -80,7 +85,7 @@
                 });
 
             }
-
+*/
             resetOptions(touristService);
             self.moduleManager.modules.push(touristService);
             self.moduleManager[touristService.name] = touristService;
