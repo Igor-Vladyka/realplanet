@@ -9,7 +9,7 @@
 
         self._schengen = self._usa = false,
 
-        self._file = "visa/{country}/round.world.visa.{country}.json",
+        self._file = "visa/round.world.visa.{country}.json",
 
         self.name = "visa",
 
@@ -31,7 +31,7 @@
         }
 
         self.load = function (path){
-            var filePath = self._file.replace("{country}", self._country).replace("{country}", self._country);
+            var filePath = self._file.replace("{country}", self._country);
             return self.initialLoad(path + filePath).then(function(data){ self.data = data; });
         };
 
@@ -77,6 +77,35 @@
                 }
             }
         };
+
+        self.canShowTimaticLink = function(target){
+            return self._country.toLowerCase() !== target.toLowerCase();
+        };
+
+        self.showTimatic = function(target){
+            var info = null;
+            var visaInfos = self.data.filter(function(f){ return f.target == target; });
+
+            if(self.timaticWindow){
+                self.timaticWindow.close();
+                self.timaticWindow = null;
+            }
+
+            if(visaInfos.length == 1){
+                var x = screen.width/2 - 300/2;
+                var y = screen.height/2 - 500/2;
+                self.timaticWindow = window.open("", "Detailed Visa Information", "location=0,menubar=0,status=0,titlebar=0,toolbar=0,width=300px,height=535px,left=" + x +"px,top=" + y +"px");
+                self.timaticWindow.document.write(self.constructChildWindow(visaInfos[0]));
+            }
+        };
+
+        self.constructChildWindow = function(data){
+            return data.shortInfo
+                    + "<hr>" +
+                    data.longInfo
+                    + "<hr>" +
+                    data.vaccination;
+        }
     }
 
 })();

@@ -35,6 +35,7 @@
             return deferred.promise;
         };
 
+        // obsolete
         self.canShowTimaticLink = function(home, target){
             var home = self.data.filter(function(f){ return f.target.toLowerCase() == home.toLowerCase()});
 
@@ -45,6 +46,7 @@
             return home.length == target.length && home.toLowerCase() !== target.toLowerCase();
         }
 
+        // obsolete
         self.showTimatic = function(home, target){
 
             var home = self.data.filter(function(f){ return f.target.toLowerCase() == home.toLowerCase()});
