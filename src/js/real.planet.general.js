@@ -37,4 +37,5 @@ Array.prototype.removeAll = function(key){
     this.splice(index, 1);
     this.removeAll(key);
 }
-L.Icon.Default.imagePath = "/images/markers";
+
+L.Icon.Default.imagePath = "/build/images/markers/";

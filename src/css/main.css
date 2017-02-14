@@ -18,6 +18,11 @@ body.footer{
 	resize: none;
 }
 
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
 .footer-main{
     background-color: #222533;
     border-color: #080808;
@@ -48,6 +53,10 @@ body.footer{
   font-size: 20px;
   font-weight: 300;
   text-anchor: middle;
+}
+
+.text-center {
+	text-align: center;
 }
 
 .nopadding {
@@ -389,6 +398,9 @@ input.search-input{
 .marker-cluster-red div {
   background-color: rgba(231, 34, 49, 0.6);
   }
+.name-cluster-red {
+	color: rgba(231, 34, 49, 0.6);
+}
 
 
 /* marker cluster*/
@@ -398,6 +410,9 @@ input.search-input{
 .marker-cluster-yellow div {
   background-color: rgba(248, 237, 51, 0.6);
   }
+.name-cluster-yellow {
+	color: rgba(248, 237, 51, 0.6);
+}
 
 
 /* marker cluster*/
@@ -407,6 +422,9 @@ input.search-input{
 .marker-cluster-green div {
   background-color: rgba(106, 174, 124, 0.6);
   }
+.name-cluster-green {
+	color: rgba(106, 174, 124, 0.6);
+}
 
 
 /* marker cluster*/
@@ -416,6 +434,9 @@ input.search-input{
 .marker-cluster-orange div {
   background-color: rgba(241, 146, 38, 0.6);
   }
+.name-cluster-orange {
+	color: rgba(241, 146, 38, 0.6);
+}
 
 
 /* marker cluster*/
@@ -2433,4 +2454,8 @@ label.cell-hover:hover > i.icon-safety-red-filter{
 
 .white.no-hover:hover{
   color: white;
+}
+
+.leaflet-control-layers-toggle {
+	background-image: url(/build/images/unesco.png) !important;
 }

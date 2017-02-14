@@ -51,7 +51,7 @@
 
                 $(targetModule.options).filter(function(){
                     this.checked = active.length == 0;
-                    var current = $("[rw-module='" +targetModule.name+"'] input[value='"+this.alias+"']");
+                    var current = $("#" + targetModule.name + " input[value='" + this.alias + "']");
                     if(this.checked){
                         if(!current.parent().is(".active")){
                             current.parent().button("toggle");
@@ -68,7 +68,7 @@
             }
         };
 
-        $scope.selectMount= function(index){
+        $scope.selectMount = function(index){
             if(filterModules.canChangeFilters()){
                 $scope.moduleManager.temperature._selected = index;
                 $scope.moduleManager.temperature.initDefault();

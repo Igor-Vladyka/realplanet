@@ -1,9 +1,9 @@
 (function() {
 
     angular.module('real.planet')
-        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "temperatureService", "rainService", filterModules]);
+        .service('filterModules', ["$q", "$state", "countriesService", "budgetService", "visaService", "touristService", "safetyService", "internetService", "temperatureService", "rainService", "worldHeritageService", filterModules]);
 
-    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, temperatureService, rainService){
+    function filterModules($q, $state, countriesService, budgetService, visaService, touristService, safetyService, internetService, temperatureService, rainService, worldHeritageService){
         var self = this;
 
         self._content = "//igor-vladyka.github.io/realplanet/data/";
@@ -58,6 +58,9 @@
 
             var countryPromise = countriesService.load(map, self._content, self.style.country_default, self.activateCountry);
             promises.push(countryPromise);
+
+            var worldHeritagePromise = worldHeritageService.load(map, self._content);
+            promises.push(worldHeritagePromise);
 
             resetOptions(budgetService);
             self.moduleManager.modules.push(budgetService);

@@ -32,7 +32,9 @@ gulp.task('files', ["clean"], function ()
             "./src/views/**/**/*.html",
             "./src/fonts/*.*",
             "./src/favicon.ico",
-            "./src/images/flags32.png"
+            "./src/images/flags32.png",
+            "./src/images/unesco.png",
+            "./src/images/markers/*.png"
     ];
 
     return gulp.src(filesToMove, { base: './src' })
@@ -53,7 +55,9 @@ var cssStream = gulp.src(
         "./src/libs/ext/leaflet/dist/leaflet.css",
         "./src/libs/ext/toastr/toastr.min.css",
         "./src/libs/ext/world-flags-sprite/stylesheets/flags32.css",
-        "./src/css/main.css"
+        "./src/libs/ext/leaflet.markercluster/dist/MarkerCluster.css",
+        "./src/libs/ext/leaflet.markercluster/dist/MarkerCluster.Default.css",
+        "./src/css/main.css",
     ]);
 
 var libsStream = gulp.src(
@@ -66,7 +70,8 @@ var libsStream = gulp.src(
       "./src/libs/ext/angular-ui-router/release/angular-ui-router.min.js",
       "./src/libs/ext/leaflet/dist/leaflet.js",
       "./src/libs/ext/leaflet-providers/leaflet-providers.js",
-      "./src/libs/ext/angular-leaflet-directive/dist/angular-leaflet-directive.min.js"
+      "./src/libs/ext/angular-leaflet-directive/dist/angular-leaflet-directive.min.js",
+      "./src/libs/ext/leaflet.markercluster/dist/leaflet.markercluster.js"
   ]);
 
 var appStream = gulp.src(
