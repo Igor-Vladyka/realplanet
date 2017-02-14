@@ -19,6 +19,7 @@
     "gulp-if": "^2.0.1",
     "gulp-inject": "^4.1.0",
     "gulp-inject-version": "^1.0.1",
+    "gulp-string-replace": "^0.4.0",
     "gulp-uglify": "^2.0.0",
     "rimraf": "^2.5.4",
     "stream-series": "^0.1.1",

@@ -2457,5 +2457,5 @@ label.cell-hover:hover > i.icon-safety-red-filter{
 }
 
 .leaflet-control-layers-toggle {
-	background-image: url(/build/images/unesco.png) !important;
+	background-image: url(../images/unesco.png) !important;
 }

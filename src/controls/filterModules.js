@@ -56,11 +56,11 @@
 
             var promises = [];
 
-            var countryPromise = countriesService.load(map, self._content, self.style.country_default, self.activateCountry);
-            promises.push(countryPromise);
-
             var worldHeritagePromise = worldHeritageService.load(map, self._content);
             promises.push(worldHeritagePromise);
+
+            var countryPromise = countriesService.load(map, self._content, self.style.country_default, self.activateCountry);
+            promises.push(countryPromise);
 
             resetOptions(budgetService);
             self.moduleManager.modules.push(budgetService);

@@ -38,4 +38,4 @@ Array.prototype.removeAll = function(key){
     this.removeAll(key);
 }
 
-L.Icon.Default.imagePath = "/build/images/markers/";
+L.Icon.Default.imagePath = "images/markers/";

@@ -11,8 +11,8 @@
             searchControl: false,
             mapProvider: "Esri.OceanBasemap",//"Stamen.Watercolor",//"OpenMapSurfer.Grayscale",
             mapOpt:{
-                click: function(){
-                        filterModules.deactivateCountry();
+                click: function(e){
+                        //filterModules.deactivateCountry();
                     }
                 }
             });

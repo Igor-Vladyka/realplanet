@@ -9,7 +9,8 @@ var gulp = require("gulp"),
     concat = require("gulp-concat"),
     cssmin = require("gulp-cssmin"),
     inject = require("gulp-inject"),
-    uglify = require("gulp-uglify");
+    uglify = require("gulp-uglify"),
+    replace = require('gulp-string-replace');
 
 var paths = {
     webroot: "./build/"
@@ -27,7 +28,6 @@ gulp.task("clean", function (cb)
 gulp.task('files', ["clean"], function ()
 {
     var filesToMove = [
-            "./src/data/*.*",
             "./src/views/**/*.html",
             "./src/views/**/**/*.html",
             "./src/fonts/*.*",
@@ -108,6 +108,7 @@ gulp.task('app', ['version'], function ()
             ignorePath: "/build/",
             addRootSlash: false
         }))
+        //.pipe(gulpif(argv.build, replace('<base href="/build/">', '<base href="/realplanet/build/">')))
         .pipe(gulp.dest(paths.webroot));
 });
 
