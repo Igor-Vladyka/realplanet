@@ -88,7 +88,7 @@
             var countryPromise = countriesService.load(map, self._content, self.style.country_default, self.activateCountry);
             promises.push(countryPromise);
 
-            visaService.initUserSettings(false, false, "UKR");
+            visaService.initUserSettings("UKR");
             self.moduleManager.modules.push(visaService);
             self.moduleManager[visaService.name] = visaService;
             promises.push(visaService.load(self._content));

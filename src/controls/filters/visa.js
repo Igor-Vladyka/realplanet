@@ -7,9 +7,7 @@
     function visaService($q, baseFilterService){
         var self = angular.extend(this, baseFilterService);
 
-        self._schengen = self._usa = false,
-
-        self._file = "visa/round.world.visa.{country}.json",
+        self._file = "visa/real.planet.{country}.json",
 
         self.name = "visa",
 
@@ -24,40 +22,18 @@
                 {alias:"red", text: "Required", checked: true, icon: {i: true, class: "icon-visa-red-filter", cellWidth: "25%"}}
             ],
 
-        self.initUserSettings = function(schengen, usa, country){
-            self._schengen = schengen;
-            self._usa = usa;
+        self.initUserSettings = function(country){
             self._country = country;
+            self._fileTemplate = self._file.replace("{country}", country);
         }
-
-        self.load = function (path){
-            var filePath = self._file.replace("{country}", self._country);
-            return self.initialLoad(path + filePath).then(function(data){ self.data = data; });
-        };
 
         self.setupCountry = function (feature) {
             return self.setup(feature);
         };
 
         self.setup = function (feature) {
-            var visa = self.getDataItem(feature, self.data);
-            var color = 'gray';
-
-            if (visa != null) {
-                if(self._schengen && visa.alias.schengen === "green"){
-                    color = visa.alias.schengen;
-                }
-
-                if(self._usa && visa.alias.usa === "green"){
-                    color = visa.alias.usa;
-                }
-
-                if(color != "green"){
-                    color = visa.alias.general;
-                }
-            }
-
-            return color;
+            var item = self.getDataItem(feature, self.data);
+            return item ? item.alias : 'gray';
         };
 
         self.addEvents = function(){
@@ -78,6 +54,27 @@
             }
         };
 
+        self.calculate = function(item){
+
+            if(item.index === "HomeCountry") {
+                item.alias = "blue";
+            }
+
+            if(item.index === "NotRequired") {
+                item.alias = "green";
+            }
+
+            if(item.index === "OnArrival") {
+                item.alias = "yellow";
+            }
+
+            if(item.index === "Required") {
+                item.alias = "red";
+            }
+
+            return item;
+        };
+
         self.canShowTimaticLink = function(target){
             return self._country.toLowerCase() !== target.toLowerCase();
         };
@@ -92,19 +89,17 @@
             }
 
             if(visaInfos.length == 1){
-                var x = screen.width/2 - 300/2;
-                var y = screen.height/2 - 500/2;
-                self.timaticWindow = window.open("", "Detailed Visa Information", "location=0,menubar=0,status=0,titlebar=0,toolbar=0,width=300px,height=535px,left=" + x +"px,top=" + y +"px");
+                var width = 500;
+                var height = 700;
+                var x = screen.width/2 - width/2;
+                var y = screen.height/2 - height/2;
+                self.timaticWindow = window.open("", "Detailed Visa Information", "location=0,menubar=0,status=0,titlebar=0,toolbar=0,width=" + width + "px,height=" + height + "px,left=" + x +"px,top=" + y +"px");
                 self.timaticWindow.document.write(self.constructChildWindow(visaInfos[0]));
             }
         };
 
         self.constructChildWindow = function(data){
-            return data.shortInfo
-                    + "<hr>" +
-                    data.longInfo
-                    + "<hr>" +
-                    data.vaccination;
+            return "<style> h2{color: #222533} .trip{display:block;}</style>"+ data.fullText + "<hr>";
         }
     }
 
