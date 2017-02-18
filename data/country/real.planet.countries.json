@@ -1,1421 +1,2884 @@
 [
   {
-    "target": "IND",
+    "target": "IN",
     "ICO2": "IN",
     "Wiki": "/wiki/India",
-    "Name": "India"
+    "Name": "India",
+    "ICO3": "IND",
+    "Top Level Domain": "in",
+    "Capital": "New Delhi",
+    "Time Zone in Capital": "Asia/Kolkata",
+    "Currency": "Rupee",
+    "Languages": "Hindi 41%, Bengali 8.1%, Telugu 7.2%, Marathi 7%, Tamil 5.9%, Urdu 5%, Gujarati 4.5%, Kannada 3.7%, Malayalam 3.2%, Oriya 3.2%, Punjabi 2.8%, Assamese 1.3%, Maithili 1.2%, other 5.9%",
+    "Area KM2": 3287590
   },
   {
-    "target": "BGD",
+    "target": "BD",
     "ICO2": "BD",
     "Wiki": "/wiki/Bangladesh",
-    "Name": "Bangladesh"
+    "Name": "Bangladesh",
+    "ICO3": "BGD",
+    "Top Level Domain": "bd",
+    "Capital": "Dhaka",
+    "Time Zone in Capital": "Asia/Dhaka",
+    "Currency": "Taka",
+    "Languages": "Bangla (official, also known as Bengali), English",
+    "Area KM2": 144000
   },
   {
-    "target": "PAK",
+    "target": "PK",
     "ICO2": "PK",
     "Wiki": "/wiki/Pakistan",
-    "Name": "Pakistan"
+    "Name": "Pakistan",
+    "ICO3": "PAK",
+    "Top Level Domain": "pk",
+    "Capital": "Islamabad",
+    "Time Zone in Capital": "Asia/Karachi",
+    "Currency": "Rupee",
+    "Languages": "Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%",
+    "Area KM2": 803940
   },
   {
-    "target": "MEX",
+    "target": "MX",
     "ICO2": "MX",
     "Wiki": "/wiki/Mexico",
-    "Name": "Mexico"
+    "Name": "Mexico",
+    "ICO3": "MEX",
+    "Top Level Domain": "mx",
+    "Capital": "Mexico City",
+    "Time Zone in Capital": "America/Mexico_City",
+    "Currency": "Peso",
+    "Languages": "Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%",
+    "Area KM2": 1972550
   },
   {
-    "target": "VNM",
+    "target": "VN",
     "ICO2": "VN",
     "Wiki": "/wiki/Viet_Nam",
-    "Name": "Viet Nam"
+    "Name": "Viet Nam",
+    "ICO3": "VNM",
+    "Top Level Domain": "vn",
+    "Capital": "Hanoi",
+    "Time Zone in Capital": "Asia/Ho_Chi_Minh",
+    "Currency": "Dong",
+    "Languages": "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)",
+    "Area KM2": 329560
   },
   {
-    "target": "PER",
+    "target": "PE",
     "ICO2": "PE",
     "Wiki": "/wiki/Peru",
-    "Name": "Peru"
+    "Name": "Peru",
+    "ICO3": "PER",
+    "Top Level Domain": "pe",
+    "Capital": "Lima",
+    "Time Zone in Capital": "America/Lima",
+    "Currency": "Sol",
+    "Languages": "Spanish (official) 84.1%, Quechua (official) 13%, Aymara (official) 1.7%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.7%, other (includes foreign languages and sign language) 0.2% (2007 est.)",
+    "Area KM2": 1285220
   },
   {
-    "target": "COL",
+    "target": "CO",
     "ICO2": "CO",
     "Wiki": "/wiki/Colombia",
-    "Name": "Colombia"
+    "Name": "Colombia",
+    "ICO3": "COL",
+    "Top Level Domain": "co",
+    "Capital": "Bogota",
+    "Time Zone in Capital": "America/Bogota",
+    "Currency": "Peso",
+    "Languages": "Spanish (official)",
+    "Area KM2": 1138910
   },
   {
-    "target": "PHL",
+    "target": "PH",
     "ICO2": "PH",
     "Wiki": "/wiki/Philippines",
-    "Name": "Philippines"
+    "Name": "Philippines",
+    "ICO3": "PHL",
+    "Top Level Domain": "ph",
+    "Capital": "Manila",
+    "Time Zone in Capital": "Asia/Manila",
+    "Currency": "Peso",
+    "Languages": "Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan",
+    "Area KM2": 300000
   },
   {
-    "target": "NPL",
+    "target": "NP",
     "ICO2": "NP",
     "Wiki": "/wiki/Nepal",
-    "Name": "Nepal"
+    "Name": "Nepal",
+    "ICO3": "NPL",
+    "Top Level Domain": "np",
+    "Capital": "Kathmandu",
+    "Time Zone in Capital": "Asia/Kathmandu",
+    "Currency": "Rupee",
+    "Languages": "Nepali (official) 44.6%, Maithali 11.7%, Bhojpuri 6%, Tharu 5.8%, Tamang 5.1%, Newar 3.2%, Magar 3%, Bajjika 3%, Urdu 2.6%, Avadhi 1.9%, Limbu 1.3%, Gurung 1.2%, other 10.4%, unspecified 0.2%",
+    "Area KM2": 140800
   },
   {
-    "target": "BRA",
+    "target": "BR",
     "ICO2": "BR",
     "Wiki": "/wiki/Brazil",
-    "Name": "Brazil"
+    "Name": "Brazil",
+    "ICO3": "BRA",
+    "Top Level Domain": "br",
+    "Capital": "Brasilia",
+    "Time Zone in Capital": "America/Sao_Paulo",
+    "Currency": "Real",
+    "Languages": "Portuguese (official and most widely spoken language)",
+    "Area KM2": 8511965
   },
   {
-    "target": "KHM",
+    "target": "KH",
     "ICO2": "KH",
     "Wiki": "/wiki/Cambodia",
-    "Name": "Cambodia"
+    "Name": "Cambodia",
+    "ICO3": "KHM",
+    "Top Level Domain": "kh",
+    "Capital": "Phnom Penh",
+    "Time Zone in Capital": "Asia/Phnom_Penh",
+    "Currency": "Riels",
+    "Languages": "Khmer (official) 96.3%, other 3.7% (2008 est.)",
+    "Area KM2": 181040
   },
   {
-    "target": "ECU",
+    "target": "EC",
     "ICO2": "EC",
     "Wiki": "/wiki/Ecuador",
-    "Name": "Ecuador"
+    "Name": "Ecuador",
+    "ICO3": "ECU",
+    "Top Level Domain": "ec",
+    "Capital": "Quito",
+    "Time Zone in Capital": "America/Guayaquil",
+    "Currency": "Dollar",
+    "Languages": "Spanish (Castillian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%",
+    "Area KM2": 283560
   },
   {
-    "target": "BOL",
+    "target": "BO",
     "ICO2": "BO",
     "Wiki": "/wiki/Bolivia_(Plurinational_State_of)",
-    "Name": "Bolivia (Plurinational State of)"
+    "Name": "Bolivia (Plurinational State of)",
+    "ICO3": "BOL",
+    "Top Level Domain": "bo",
+    "Capital": "Sucre",
+    "Time Zone in Capital": "America/La_Paz",
+    "Currency": "Boliviano",
+    "Languages": "Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official), foreign languages 2.4%, other 1.2%",
+    "Area KM2": 1098580
   },
   {
-    "target": "ETH",
+    "target": "ET",
     "ICO2": "ET",
     "Wiki": "/wiki/Ethiopia",
-    "Name": "Ethiopia"
+    "Name": "Ethiopia",
+    "ICO3": "ETH",
+    "Top Level Domain": "et",
+    "Capital": "Addis Ababa",
+    "Time Zone in Capital": "Africa/Addis_Ababa",
+    "Currency": "Birr",
+    "Languages": "Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)",
+    "Area KM2": 1127127
   },
   {
-    "target": "PRY",
+    "target": "PY",
     "ICO2": "PY",
     "Wiki": "/wiki/Paraguay",
-    "Name": "Paraguay"
+    "Name": "Paraguay",
+    "ICO3": "PRY",
+    "Top Level Domain": "py",
+    "Capital": "Asuncion",
+    "Time Zone in Capital": "America/Asuncion",
+    "Currency": "Guarani",
+    "Languages": "Spanish (official), Guarani (official)",
+    "Area KM2": 406750
   },
   {
-    "target": "NGA",
+    "target": "NG",
     "ICO2": "NG",
     "Wiki": "/wiki/Nigeria",
-    "Name": "Nigeria"
+    "Name": "Nigeria",
+    "ICO3": "NGA",
+    "Top Level Domain": "ng",
+    "Capital": "Abuja",
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Naira",
+    "Languages": "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages",
+    "Area KM2": 923768
   },
   {
-    "target": "IDN",
+    "target": "ID",
     "ICO2": "ID",
     "Wiki": "/wiki/Indonesia",
-    "Name": "Indonesia"
+    "Name": "Indonesia",
+    "ICO3": "IDN",
+    "Top Level Domain": "id",
+    "Capital": "Jakarta",
+    "Time Zone in Capital": "Asia/Jakarta",
+    "Currency": "Rupiah",
+    "Languages": "Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese)",
+    "Area KM2": 1919440
   },
   {
-    "target": "LKA",
+    "target": "LK",
     "ICO2": "LK",
     "Wiki": "/wiki/Sri_Lanka",
-    "Name": "Sri Lanka"
+    "Name": "Sri Lanka",
+    "ICO3": "LKA",
+    "Top Level Domain": "lk",
+    "Capital": "Colombo",
+    "Time Zone in Capital": "Asia/Colombo",
+    "Currency": "Rupee",
+    "Languages": "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
+    "Area KM2": 65610
   },
   {
-    "target": "AFG",
+    "target": "AF",
     "ICO2": "AF",
     "Wiki": "/wiki/Afghanistan",
-    "Name": "Afghanistan"
+    "Name": "Afghanistan",
+    "ICO3": "AFG",
+    "Top Level Domain": "af",
+    "Capital": "Kabul",
+    "Time Zone in Capital": "Asia/Kabul",
+    "Currency": "Afghani",
+    "Languages": "Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism, but Dari functions as the lingua franca",
+    "Area KM2": 647500
   },
   {
-    "target": "MMR",
+    "target": "MM",
     "ICO2": "MM",
     "Wiki": "/wiki/Myanmar",
-    "Name": "Myanmar"
+    "Name": "Myanmar",
+    "ICO3": "MMR",
+    "Top Level Domain": "mm",
+    "Capital": "Nay Pyi Taw",
+    "Time Zone in Capital": "Asia/Rangoon",
+    "Currency": "Kyat",
+    "Languages": "Burmese (official)",
+    "Area KM2": 678500
   },
   {
-    "target": "DOM",
+    "target": "DO",
     "ICO2": "DO",
     "Wiki": "/wiki/Dominican_Republic",
-    "Name": "Dominican Republic"
+    "Name": "Dominican Republic",
+    "ICO3": "DOM",
+    "Top Level Domain": "do",
+    "Capital": "Santo Domingo",
+    "Time Zone in Capital": "America/Santo_Domingo",
+    "Currency": "Peso",
+    "Languages": "Spanish (official)",
+    "Area KM2": 48730
   },
   {
-    "target": "CHN",
+    "target": "CN",
     "ICO2": "CN",
     "Wiki": "/wiki/China",
-    "Name": "China"
+    "Name": "China",
+    "ICO3": "CHN",
+    "Top Level Domain": "cn",
+    "Capital": "Beijing",
+    "Time Zone in Capital": "Asia/Shanghai",
+    "Currency": "Yuan Renminbi",
+    "Languages": "Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages",
+    "Area KM2": 9596960
   },
   {
-    "target": "BTN",
+    "target": "BT",
     "ICO2": "BT",
     "Wiki": "/wiki/Bhutan",
-    "Name": "Bhutan"
+    "Name": "Bhutan",
+    "ICO3": "BTN",
+    "Top Level Domain": "bt",
+    "Capital": "Thimphu",
+    "Time Zone in Capital": "Asia/Thimphu",
+    "Currency": "Ngultrum",
+    "Languages": "Sharchhopka 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes foreign languages) (2005 est.)",
+    "Area KM2": 47000
   },
   {
-    "target": "GTM",
+    "target": "GT",
     "ICO2": "GT",
     "Wiki": "/wiki/Guatemala",
-    "Name": "Guatemala"
+    "Name": "Guatemala",
+    "ICO3": "GTM",
+    "Top Level Domain": "gt",
+    "Capital": "Guatemala City",
+    "Time Zone in Capital": "America/Guatemala",
+    "Currency": "Quetzal",
+    "Languages": "Spanish (official) 60%, Amerindian languages 40%",
+    "Area KM2": 108890
   },
   {
-    "target": "NIC",
+    "target": "NI",
     "ICO2": "NI",
     "Wiki": "/wiki/Nicaragua",
-    "Name": "Nicaragua"
+    "Name": "Nicaragua",
+    "ICO3": "NIC",
+    "Top Level Domain": "ni",
+    "Capital": "Managua",
+    "Time Zone in Capital": "America/Managua",
+    "Currency": "Cordoba",
+    "Languages": "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%",
+    "Area KM2": 129494
   },
   {
-    "target": "CHL",
+    "target": "CL",
     "ICO2": "CL",
     "Wiki": "/wiki/Chile",
-    "Name": "Chile"
+    "Name": "Chile",
+    "ICO3": "CHL",
+    "Top Level Domain": "cl",
+    "Capital": "Santiago",
+    "Time Zone in Capital": "America/Santiago",
+    "Currency": "Peso",
+    "Languages": "Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%",
+    "Area KM2": 756950
   },
   {
-    "target": "KEN",
+    "target": "KE",
     "ICO2": "KE",
     "Wiki": "/wiki/Kenya",
-    "Name": "Kenya"
+    "Name": "Kenya",
+    "ICO3": "KEN",
+    "Top Level Domain": "ke",
+    "Capital": "Nairobi",
+    "Time Zone in Capital": "Africa/Nairobi",
+    "Currency": "Shilling",
+    "Languages": "English (official), Kiswahili (official), numerous indigenous languages",
+    "Area KM2": 582650
   },
   {
-    "target": "HND",
+    "target": "HN",
     "ICO2": "HN",
     "Wiki": "/wiki/Honduras",
-    "Name": "Honduras"
+    "Name": "Honduras",
+    "ICO3": "HND",
+    "Top Level Domain": "hn",
+    "Capital": "Tegucigalpa",
+    "Time Zone in Capital": "America/Tegucigalpa",
+    "Currency": "Lempira",
+    "Languages": "Spanish (official), Amerindian dialects",
+    "Area KM2": 112090
   },
   {
-    "target": "BEN",
+    "target": "BJ",
     "ICO2": "BJ",
     "Wiki": "/wiki/Benin",
-    "Name": "Benin"
+    "Name": "Benin",
+    "ICO3": "BEN",
+    "Top Level Domain": "bj",
+    "Capital": "Porto-Novo",
+    "Time Zone in Capital": "Africa/Porto-Novo",
+    "Currency": "Franc",
+    "Languages": "French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)",
+    "Area KM2": 112620
   },
   {
-    "target": "AZE",
+    "target": "AZ",
     "ICO2": "AZ",
     "Wiki": "/wiki/Azerbaijan",
-    "Name": "Azerbaijan"
+    "Name": "Azerbaijan",
+    "ICO3": "AZE",
+    "Top Level Domain": "az",
+    "Capital": "Baku",
+    "Time Zone in Capital": "Asia/Baku",
+    "Currency": "Manat",
+    "Languages": "Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)",
+    "Area KM2": 86600
   },
   {
-    "target": "GHA",
+    "target": "GH",
     "ICO2": "GH",
     "Wiki": "/wiki/Ghana",
-    "Name": "Ghana"
+    "Name": "Ghana",
+    "ICO3": "GHA",
+    "Top Level Domain": "gh",
+    "Capital": "Accra",
+    "Time Zone in Capital": "Africa/Accra",
+    "Currency": "Cedi",
+    "Languages": "Asante 14.8%, Ewe 12.7%, Fante 9.9%, Boron (Brong) 4.6%, Dagomba 4.3%, Dangme 4.3%, Dagarte (Dagaba) 3.7%, Akyem 3.4%, Ga 3.4%, Akuapem 2.9%, other (includes English (official)) 36.1% (2000 census)",
+    "Area KM2": 239460
   },
   {
-    "target": "SLV",
+    "target": "SV",
     "ICO2": "SV",
     "Wiki": "/wiki/El_Salvador",
-    "Name": "El Salvador"
+    "Name": "El Salvador",
+    "ICO3": "SLV",
+    "Top Level Domain": "sv",
+    "Capital": "San Salvador",
+    "Time Zone in Capital": "America/El_Salvador",
+    "Currency": "Dollar",
+    "Languages": "Spanish (official), Nahua (among some Amerindians)",
+    "Area KM2": 21040
   },
   {
-    "target": "UGA",
+    "target": "UG",
     "ICO2": "UG",
     "Wiki": "/wiki/Uganda",
-    "Name": "Uganda"
+    "Name": "Uganda",
+    "ICO3": "UGA",
+    "Top Level Domain": "ug",
+    "Capital": "Kampala",
+    "Time Zone in Capital": "Africa/Kampala",
+    "Currency": "Shilling",
+    "Languages": "English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",
+    "Area KM2": 236040
   },
   {
-    "target": "TZA",
+    "target": "TZ",
     "ICO2": "TZ",
     "Wiki": "/wiki/Tanzania,_United_Republic_of",
-    "Name": "Tanzania, United Republic of"
+    "Name": "Tanzania, United Republic of",
+    "ICO3": "TZA",
+    "Top Level Domain": "tz",
+    "Capital": "Dodoma",
+    "Time Zone in Capital": "Africa/Dar_es_Salaam",
+    "Currency": "Shilling",
+    "Languages": "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
+    "Area KM2": 945087
   },
   {
-    "target": "HTI",
+    "target": "HT",
     "ICO2": "HT",
     "Wiki": "/wiki/Haiti",
-    "Name": "Haiti"
+    "Name": "Haiti",
+    "ICO3": "HTI",
+    "Top Level Domain": "ht",
+    "Capital": "Port-au-Prince",
+    "Time Zone in Capital": "America/Port-au-Prince",
+    "Currency": "Gourde",
+    "Languages": "French (official), Creole (official)",
+    "Area KM2": 27750
   },
   {
-    "target": "TGO",
+    "target": "TG",
     "ICO2": "TG",
     "Wiki": "/wiki/Togo",
-    "Name": "Togo"
+    "Name": "Togo",
+    "ICO3": "TGO",
+    "Top Level Domain": "tg",
+    "Capital": "Lome",
+    "Time Zone in Capital": "Africa/Lome",
+    "Currency": "Franc",
+    "Languages": "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)",
+    "Area KM2": 56785
   },
   {
-    "target": "SEN",
+    "target": "SN",
     "ICO2": "SN",
     "Wiki": "/wiki/Senegal",
-    "Name": "Senegal"
+    "Name": "Senegal",
+    "ICO3": "SEN",
+    "Top Level Domain": "sn",
+    "Capital": "Dakar",
+    "Time Zone in Capital": "Africa/Dakar",
+    "Currency": "Franc",
+    "Languages": "French (official), Wolof, Pulaar, Jola, Mandinka",
+    "Area KM2": 196190
   },
   {
-    "target": "ZAR"
+    "ICO3": "ZAR"
   },
   {
-    "target": "MDG",
+    "target": "MG",
     "ICO2": "MG",
     "Wiki": "/wiki/Madagascar",
-    "Name": "Madagascar"
+    "Name": "Madagascar",
+    "ICO3": "MDG",
+    "Top Level Domain": "mg",
+    "Capital": "Antananarivo",
+    "Time Zone in Capital": "Indian/Antananarivo",
+    "Currency": "Ariary",
+    "Languages": "French (official), Malagasy (official), English",
+    "Area KM2": 587040
   },
   {
-    "target": "MNG",
+    "target": "MN",
     "ICO2": "MN",
     "Wiki": "/wiki/Mongolia",
-    "Name": "Mongolia"
+    "Name": "Mongolia",
+    "ICO3": "MNG",
+    "Top Level Domain": "mn",
+    "Capital": "Ulan Bator",
+    "Time Zone in Capital": "Asia/Ulaanbaatar",
+    "Currency": "Tugrik",
+    "Languages": "Khalkha Mongol 90% (official), Turkic, Russian (1999)",
+    "Area KM2": 1565000
   },
   {
-    "target": "NER",
+    "target": "NE",
     "ICO2": "NE",
     "Wiki": "/wiki/Niger",
-    "Name": "Niger"
+    "Name": "Niger",
+    "ICO3": "NER",
+    "Top Level Domain": "ne",
+    "Capital": "Niamey",
+    "Time Zone in Capital": "Africa/Niamey",
+    "Currency": "Franc",
+    "Languages": "French (official), Hausa, Djerma",
+    "Area KM2": 1267000
   },
   {
-    "target": "MAR",
+    "target": "MA",
     "ICO2": "MA",
     "Wiki": "/wiki/Morocco",
-    "Name": "Morocco"
+    "Name": "Morocco",
+    "ICO3": "MAR",
+    "Top Level Domain": "ma",
+    "Capital": "Rabat",
+    "Time Zone in Capital": "Africa/Casablanca",
+    "Currency": "Dirham",
+    "Languages": "Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy)",
+    "Area KM2": 446550
   },
   {
-    "target": "CMR",
+    "target": "CM",
     "ICO2": "CM",
     "Wiki": "/wiki/Cameroon",
-    "Name": "Cameroon"
+    "Name": "Cameroon",
+    "ICO3": "CMR",
+    "Top Level Domain": "cm",
+    "Capital": "Yaounde",
+    "Time Zone in Capital": "Africa/Douala",
+    "Currency": "Franc",
+    "Languages": "24 major African language groups, English (official), French (official)",
+    "Area KM2": 475440
   },
   {
-    "target": "BFA",
+    "target": "BF",
     "ICO2": "BF",
     "Wiki": "/wiki/Burkina_Faso",
-    "Name": "Burkina Faso"
+    "Name": "Burkina Faso",
+    "ICO3": "BFA",
+    "Top Level Domain": "bf",
+    "Capital": "Ouagadougou",
+    "Time Zone in Capital": "Africa/Ouagadougou",
+    "Currency": "Franc",
+    "Languages": "French (official), native African languages belonging to Sudanic family spoken by 90% of the population",
+    "Area KM2": 274200
   },
   {
-    "target": "KGZ",
+    "target": "KG",
     "ICO2": "KG",
     "Wiki": "/wiki/Kyrgyzstan",
-    "Name": "Kyrgyzstan"
+    "Name": "Kyrgyzstan",
+    "ICO3": "KGZ",
+    "Top Level Domain": "kg",
+    "Capital": "Bishkek",
+    "Time Zone in Capital": "Asia/Bishkek",
+    "Currency": "Som",
+    "Languages": "Kyrgyz (official) 64.7%, Uzbek 13.6%, Russian (official) 12.5%, Dungun 1%, other 8.2% (1999 census)",
+    "Area KM2": 198500
   },
   {
-    "target": "EGY",
+    "target": "EG",
     "ICO2": "EG",
     "Wiki": "/wiki/Egypt",
-    "Name": "Egypt"
+    "Name": "Egypt",
+    "ICO3": "EGY",
+    "Top Level Domain": "eg",
+    "Capital": "Cairo",
+    "Time Zone in Capital": "Africa/Cairo",
+    "Currency": "Pound",
+    "Languages": "Arabic (official), English and French widely understood by educated classes",
+    "Area KM2": 1001450
   },
   {
-    "target": "ARM",
+    "target": "AM",
     "ICO2": "AM",
     "Wiki": "/wiki/Armenia",
-    "Name": "Armenia"
+    "Name": "Armenia",
+    "ICO3": "ARM",
+    "Top Level Domain": "am",
+    "Capital": "Yerevan",
+    "Time Zone in Capital": "Asia/Yerevan",
+    "Currency": "Dram",
+    "Languages": "Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1% (2011 est.)",
+    "Area KM2": 29800
   },
   {
-    "target": "RWA",
+    "target": "RW",
     "ICO2": "RW",
     "Wiki": "/wiki/Rwanda",
-    "Name": "Rwanda"
+    "Name": "Rwanda",
+    "ICO3": "RWA",
+    "Top Level Domain": "rw",
+    "Capital": "Kigali",
+    "Time Zone in Capital": "Africa/Kigali",
+    "Currency": "Franc",
+    "Languages": "Kinyarwanda only (official, universal Bantu vernacular) 93.2%, Kinyarwanda and other language(s) 6.2%, French (official) and other language(s) 0.1%, English (official) and other language(s) 0.1%, Swahili (or Kiswahili, used in commercial centers) 0.02%, other 0.03%, unspecified 0.3% (2002 est.)",
+    "Area KM2": 26338
   },
   {
-    "target": "ALB",
+    "target": "AL",
     "ICO2": "AL",
     "Wiki": "/wiki/Albania",
-    "Name": "Albania"
+    "Name": "Albania",
+    "ICO3": "ALB",
+    "Top Level Domain": "al",
+    "Capital": "Tirana",
+    "Time Zone in Capital": "Europe/Tirane",
+    "Currency": "Lek",
+    "Languages": "Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Roma, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)",
+    "Area KM2": 28748
   },
   {
-    "target": "DZA",
+    "target": "DZ",
     "ICO2": "DZ",
     "Wiki": "/wiki/Algeria",
-    "Name": "Algeria"
+    "Name": "Algeria",
+    "ICO3": "DZA",
+    "Top Level Domain": "dz",
+    "Capital": "Algiers",
+    "Time Zone in Capital": "Africa/Algiers",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), French (lingua franca), Berber dialects: Kabylie Berber (Tamazight), Chaouia Berber (Tachawit), Mzab Berber, Tuareg Berber (Tamahaq)",
+    "Area KM2": 2381740
   },
   {
-    "target": "ASM",
+    "target": "AS",
     "ICO2": "AS",
     "Wiki": "/wiki/American_Samoa",
-    "Name": "American Samoa"
+    "Name": "American Samoa",
+    "ICO3": "ASM",
+    "Top Level Domain": "as",
+    "Capital": "Pago Pago",
+    "Time Zone in Capital": "Pacific/Pago_Pago",
+    "Currency": "Dollar",
+    "Languages": "Samoan 90.6% (closely related to Hawaiian and other Polynesian languages), English 2.9%, Tongan 2.4%, other Pacific islander 2.1%, other 2%",
+    "Area KM2": 199
   },
   {
-    "target": "ADO"
+    "ICO3": "ADO"
   },
   {
-    "target": "AGO",
+    "target": "AO",
     "ICO2": "AO",
     "Wiki": "/wiki/Angola",
-    "Name": "Angola"
+    "Name": "Angola",
+    "ICO3": "AGO",
+    "Top Level Domain": "ao",
+    "Capital": "Luanda",
+    "Time Zone in Capital": "Africa/Luanda",
+    "Currency": "Kwanza",
+    "Languages": "Portuguese (official), Bantu and other African languages",
+    "Area KM2": 1246700
   },
   {
-    "target": "ATG",
+    "target": "AG",
     "ICO2": "AG",
     "Wiki": "/wiki/Antigua_and_Barbuda",
-    "Name": "Antigua and Barbuda"
+    "Name": "Antigua and Barbuda",
+    "ICO3": "ATG",
+    "Top Level Domain": "ag",
+    "Capital": "St. John's",
+    "Time Zone in Capital": "America/Antigua",
+    "Currency": "Dollar",
+    "Languages": "English (official), local dialects",
+    "Area KM2": 443
   },
   {
-    "target": "ARB"
+    "ICO3": "ARB"
   },
   {
-    "target": "ARG",
+    "target": "AR",
     "ICO2": "AR",
     "Wiki": "/wiki/Argentina",
-    "Name": "Argentina"
+    "Name": "Argentina",
+    "ICO3": "ARG",
+    "Top Level Domain": "ar",
+    "Capital": "Buenos Aires",
+    "Time Zone in Capital": "America/Argentina/Buenos_Aires",
+    "Currency": "Peso",
+    "Languages": "Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)",
+    "Area KM2": 2766890
   },
   {
-    "target": "ABW",
+    "target": "AW",
     "ICO2": "AW",
     "Wiki": "/wiki/Aruba",
-    "Name": "Aruba"
+    "Name": "Aruba",
+    "ICO3": "ABW",
+    "Top Level Domain": "aw",
+    "Capital": "Oranjestad",
+    "Time Zone in Capital": "America/Aruba",
+    "Currency": "Guilder",
+    "Languages": "Papiamento (a Spanish-Portuguese-Dutch-English dialect) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)",
+    "Area KM2": 193
   },
   {
-    "target": "AUS",
+    "target": "AU",
     "ICO2": "AU",
     "Wiki": "/wiki/Australia",
-    "Name": "Australia"
+    "Name": "Australia",
+    "ICO3": "AUS",
+    "Top Level Domain": "au",
+    "Capital": "Canberra",
+    "Time Zone in Capital": "Australia/Sydney",
+    "Currency": "Dollar",
+    "Languages": "English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.)",
+    "Area KM2": 7686850
   },
   {
-    "target": "AUT",
+    "target": "AT",
     "ICO2": "AT",
     "Wiki": "/wiki/Austria",
-    "Name": "Austria"
+    "Name": "Austria",
+    "ICO3": "AUT",
+    "Top Level Domain": "at",
+    "Capital": "Vienna",
+    "Time Zone in Capital": "Europe/Vienna",
+    "Currency": "Euro",
+    "Languages": "German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census)",
+    "Area KM2": 83858
   },
   {
-    "target": "BHS",
+    "target": "BS",
     "ICO2": "BS",
     "Wiki": "/wiki/Bahamas",
-    "Name": "Bahamas"
+    "Name": "Bahamas",
+    "ICO3": "BHS",
+    "Top Level Domain": "bs",
+    "Capital": "Nassau",
+    "Time Zone in Capital": "America/Nassau",
+    "Currency": "Dollar",
+    "Languages": "English (official), Creole (among Haitian immigrants)",
+    "Area KM2": 13940
   },
   {
-    "target": "BHR",
+    "target": "BH",
     "ICO2": "BH",
     "Wiki": "/wiki/Bahrain",
-    "Name": "Bahrain"
+    "Name": "Bahrain",
+    "ICO3": "BHR",
+    "Top Level Domain": "bh",
+    "Capital": "Manama",
+    "Time Zone in Capital": "Asia/Bahrain",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), English, Farsi, Urdu",
+    "Area KM2": 665
   },
   {
-    "target": "BRB",
+    "target": "BB",
     "ICO2": "BB",
     "Wiki": "/wiki/Barbados",
-    "Name": "Barbados"
+    "Name": "Barbados",
+    "ICO3": "BRB",
+    "Top Level Domain": "bb",
+    "Capital": "Bridgetown",
+    "Time Zone in Capital": "America/Barbados",
+    "Currency": "Dollar",
+    "Languages": "English (official), Bajan (English-based creole language, widely spoken in informal settings)",
+    "Area KM2": 431
   },
   {
-    "target": "BLR",
+    "target": "BY",
     "ICO2": "BY",
     "Wiki": "/wiki/Belarus",
-    "Name": "Belarus"
+    "Name": "Belarus",
+    "ICO3": "BLR",
+    "Top Level Domain": "by",
+    "Capital": "Minsk",
+    "Time Zone in Capital": "Europe/Minsk",
+    "Currency": "Ruble",
+    "Languages": "Belarusian (official) 23.4%, Russian (official) 70.2%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)",
+    "Area KM2": 207600
   },
   {
-    "target": "BEL",
+    "target": "BE",
     "ICO2": "BE",
     "Wiki": "/wiki/Belgium",
-    "Name": "Belgium"
+    "Name": "Belgium",
+    "ICO3": "BEL",
+    "Top Level Domain": "be",
+    "Capital": "Brussels",
+    "Time Zone in Capital": "Europe/Brussels",
+    "Currency": "Euro",
+    "Languages": "Dutch (official) 60%, French (official) 40%, German (official) less than 1%, legally bilingual (Dutch and French)",
+    "Area KM2": 30510
   },
   {
-    "target": "BLZ",
+    "target": "BZ",
     "ICO2": "BZ",
     "Wiki": "/wiki/Belize",
-    "Name": "Belize"
+    "Name": "Belize",
+    "ICO3": "BLZ",
+    "Top Level Domain": "bz",
+    "Capital": "Belmopan",
+    "Time Zone in Capital": "America/Belize",
+    "Currency": "Dollar",
+    "Languages": "Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)",
+    "Area KM2": 22966
   },
   {
-    "target": "BMU",
+    "target": "BM",
     "ICO2": "BM",
     "Wiki": "/wiki/Bermuda",
-    "Name": "Bermuda"
+    "Name": "Bermuda",
+    "ICO3": "BMU",
+    "Top Level Domain": "bm",
+    "Capital": "Hamilton",
+    "Time Zone in Capital": "Atlantic/Bermuda",
+    "Currency": "Dollar",
+    "Languages": "English (official), Portuguese",
+    "Area KM2": 53
   },
   {
-    "target": "BIH",
+    "target": "BA",
     "ICO2": "BA",
     "Wiki": "/wiki/Bosnia_and_Herzegovina",
-    "Name": "Bosnia and Herzegovina"
+    "Name": "Bosnia and Herzegovina",
+    "ICO3": "BIH",
+    "Top Level Domain": "ba",
+    "Capital": "Sarajevo",
+    "Time Zone in Capital": "Europe/Sarajevo",
+    "Currency": "Marka",
+    "Languages": "Bosnian (official), Croatian (official), Serbian (official)",
+    "Area KM2": 51129
   },
   {
-    "target": "BWA",
+    "target": "BW",
     "ICO2": "BW",
     "Wiki": "/wiki/Botswana",
-    "Name": "Botswana"
+    "Name": "Botswana",
+    "ICO3": "BWA",
+    "Top Level Domain": "bw",
+    "Capital": "Gaborone",
+    "Time Zone in Capital": "Africa/Gaborone",
+    "Currency": "Pula",
+    "Languages": "Setswana 78.2%, Kalanga 7.9%, Sekgalagadi 2.8%, English (official) 2.1%, other 8.6%, unspecified 0.4% (2001 census)",
+    "Area KM2": 600370
   },
   {
-    "target": "VGB",
+    "target": "VG",
     "ICO2": "VG",
     "Wiki": "/wiki/British_Virgin_Islands",
-    "Name": "British Virgin Islands"
+    "Name": "British Virgin Islands",
+    "ICO3": "VGB",
+    "Top Level Domain": "vg",
+    "Capital": "Road Town",
+    "Time Zone in Capital": "America/Tortola",
+    "Currency": "Dollar",
+    "Languages": "English (official)",
+    "Area KM2": 153
   },
   {
-    "target": "BRN",
+    "target": "BN",
     "ICO2": "BN",
     "Wiki": "/wiki/Brunei_Darussalam",
-    "Name": "Brunei Darussalam"
+    "Name": "Brunei Darussalam",
+    "ICO3": "BRN",
+    "Top Level Domain": "bn",
+    "Capital": "Bandar Seri Begawan",
+    "Time Zone in Capital": "Asia/Brunei",
+    "Currency": "Dollar",
+    "Languages": "Malay (official), English, Chinese",
+    "Area KM2": 5770
   },
   {
-    "target": "BGR",
+    "target": "BG",
     "ICO2": "BG",
     "Wiki": "/wiki/Bulgaria",
-    "Name": "Bulgaria"
+    "Name": "Bulgaria",
+    "ICO3": "BGR",
+    "Top Level Domain": "bg",
+    "Capital": "Sofia",
+    "Time Zone in Capital": "Europe/Sofia",
+    "Currency": "Lev",
+    "Languages": "Bulgarian (official) 76.8%, Turkish 8.2%, Roma 3.8%, other 0.7%, unspecified 10.5% (2011 est.)",
+    "Area KM2": 110910
   },
   {
-    "target": "BDI",
+    "target": "BI",
     "ICO2": "BI",
     "Wiki": "/wiki/Burundi",
-    "Name": "Burundi"
+    "Name": "Burundi",
+    "ICO3": "BDI",
+    "Top Level Domain": "bi",
+    "Capital": "Bujumbura",
+    "Time Zone in Capital": "Africa/Bujumbura",
+    "Currency": "Franc",
+    "Languages": "Kirundi 29.7% (official), Kirundi and other language 9.1%, French (official) and French and other language 0.3%, Swahili and Swahili and other language 0.2% (along Lake Tanganyika and in the Bujumbura area), English and English and other language 0.06%, more than 2 languages 3.7%, unspecified 56.9% (2008 est.)",
+    "Area KM2": 27830
   },
   {
-    "target": "CPV",
+    "target": "CV",
     "ICO2": "CV",
     "Wiki": "/wiki/Cabo_Verde",
-    "Name": "Cabo Verde"
+    "Name": "Cabo Verde",
+    "ICO3": "CPV",
+    "Top Level Domain": "cv",
+    "Capital": "Praia",
+    "Time Zone in Capital": "Atlantic/Cape_Verde",
+    "Currency": "Escudo",
+    "Languages": "Portuguese (official), Crioulo (a blend of Portuguese and West African words)",
+    "Area KM2": 4033
   },
   {
-    "target": "CAN",
+    "target": "CA",
     "ICO2": "CA",
     "Wiki": "/wiki/Canada",
-    "Name": "Canada"
+    "Name": "Canada",
+    "ICO3": "CAN",
+    "Top Level Domain": "ca",
+    "Capital": "Ottawa",
+    "Time Zone in Capital": "America/Toronto",
+    "Currency": "Dollar",
+    "Languages": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)",
+    "Area KM2": 9984670
   },
   {
-    "target": "CSS"
+    "ICO3": "CSS"
   },
   {
-    "target": "CYM",
+    "target": "KY",
     "ICO2": "KY",
     "Wiki": "/wiki/Cayman_Islands",
-    "Name": "Cayman Islands"
+    "Name": "Cayman Islands",
+    "ICO3": "CYM",
+    "Top Level Domain": "ky",
+    "Capital": "George Town",
+    "Time Zone in Capital": "America/Cayman",
+    "Currency": "Dollar",
+    "Languages": "English (official) 90.9%, Spanish 4%, Filipino 3.3%, other 1.7%, unspecified 0.1% (2010 est.)",
+    "Area KM2": 262
   },
   {
-    "target": "CAF",
+    "target": "CF",
     "ICO2": "CF",
     "Wiki": "/wiki/Central_African_Republic",
-    "Name": "Central African Republic"
+    "Name": "Central African Republic",
+    "ICO3": "CAF",
+    "Top Level Domain": "cf",
+    "Capital": "Bangui",
+    "Time Zone in Capital": "Africa/Bangui",
+    "Currency": "Franc",
+    "Languages": "French (official), Sangho (lingua franca and national language), tribal languages",
+    "Area KM2": 622984
   },
   {
-    "target": "CEB"
+    "ICO3": "CEB"
   },
   {
-    "target": "TCD",
+    "target": "TD",
     "ICO2": "TD",
     "Wiki": "/wiki/Chad",
-    "Name": "Chad"
+    "Name": "Chad",
+    "ICO3": "TCD",
+    "Top Level Domain": "td",
+    "Capital": "N'Djamena",
+    "Time Zone in Capital": "Africa/Ndjamena",
+    "Currency": "Franc",
+    "Languages": "French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects",
+    "Area KM2": 1284000
   },
   {
-    "target": "CHI"
+    "ICO3": "CHI"
   },
   {
-    "target": "COM",
+    "target": "KM",
     "ICO2": "KM",
     "Wiki": "/wiki/Comoros",
-    "Name": "Comoros"
+    "Name": "Comoros",
+    "ICO3": "COM",
+    "Top Level Domain": "km",
+    "Capital": "Moroni",
+    "Time Zone in Capital": "Indian/Comoro",
+    "Currency": "Franc",
+    "Languages": "Arabic (official), French (official), Shikomoro (a blend of Swahili and Arabic)",
+    "Area KM2": 2170
   },
   {
-    "target": "COG",
+    "target": "CG",
     "ICO2": "CG",
     "Wiki": "/wiki/Republic_of_the_Congo",
-    "Name": "Republic of the Congo"
+    "Name": "Republic of the Congo",
+    "ICO3": "COG",
+    "Top Level Domain": "cg",
+    "Capital": "Brazzaville",
+    "Time Zone in Capital": "Africa/Brazzaville",
+    "Currency": "Franc",
+    "Languages": "French (official), Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)",
+    "Area KM2": 342000
   },
   {
-    "target": "CRI",
+    "target": "CR",
     "ICO2": "CR",
     "Wiki": "/wiki/Costa_Rica",
-    "Name": "Costa Rica"
+    "Name": "Costa Rica",
+    "ICO3": "CRI",
+    "Top Level Domain": "cr",
+    "Capital": "San Jose",
+    "Time Zone in Capital": "America/Costa_Rica",
+    "Currency": "Colon",
+    "Languages": "Spanish (official), English",
+    "Area KM2": 51100
   },
   {
-    "target": "CIV",
+    "target": "CI",
     "ICO2": "CI",
     "Wiki": "/wiki/C%C3%B4te_d%27Ivoire",
-    "Name": "Côte d'Ivoire"
+    "Name": "Côte d'Ivoire",
+    "ICO3": "CIV",
+    "Top Level Domain": "ci",
+    "Capital": "Yamoussoukro",
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc",
+    "Languages": "French (official), 60 native dialects of which Dioula is the most widely spoken",
+    "Area KM2": 322460
   },
   {
-    "target": "HRV",
+    "target": "HR",
     "ICO2": "HR",
     "Wiki": "/wiki/Croatia",
-    "Name": "Croatia"
+    "Name": "Croatia",
+    "ICO3": "HRV",
+    "Top Level Domain": "hr",
+    "Capital": "Zagreb",
+    "Time Zone in Capital": "Europe/Zagreb",
+    "Currency": "Kuna",
+    "Languages": "Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)",
+    "Area KM2": 56542
   },
   {
-    "target": "CUB",
+    "target": "CU",
     "ICO2": "CU",
     "Wiki": "/wiki/Cuba",
-    "Name": "Cuba"
+    "Name": "Cuba",
+    "ICO3": "CUB",
+    "Top Level Domain": "cu",
+    "Capital": "Havana",
+    "Time Zone in Capital": "America/Havana",
+    "Currency": "Peso",
+    "Languages": "Spanish (official)",
+    "Area KM2": 110860
   },
   {
-    "target": "CUW",
+    "target": "CW",
     "ICO2": "CW",
     "Wiki": "/wiki/Cura%C3%A7ao",
-    "Name": "Curaçao"
+    "Name": "Curaçao",
+    "ICO3": "CUW",
+    "Top Level Domain": "cw",
+    "Capital": "Willemstad",
+    "Time Zone in Capital": "America/Curacao",
+    "Currency": "Guilder",
+    "Languages": "Papiamentu (a Spanish-Portuguese-Dutch-English dialect) 81.2%, Dutch (official) 8%, Spanish 4%, English 2.9%, other 3.9% (2001 census)",
+    "Area KM2": 444
   },
   {
-    "target": "CYP",
+    "target": "CY",
     "ICO2": "CY",
     "Wiki": "/wiki/Cyprus",
-    "Name": "Cyprus"
+    "Name": "Cyprus",
+    "ICO3": "CYP",
+    "Top Level Domain": "cy",
+    "Capital": "Nicosia",
+    "Time Zone in Capital": "Asia/Nicosia",
+    "Currency": "Euro",
+    "Languages": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filippino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)",
+    "Area KM2": 9250
   },
   {
-    "target": "CZE",
+    "target": "CZ",
     "ICO2": "CZ",
     "Wiki": "/wiki/Czech_Republic",
-    "Name": "Czech Republic"
+    "Name": "Czech Republic",
+    "ICO3": "CZE",
+    "Top Level Domain": "cz",
+    "Capital": "Prague",
+    "Time Zone in Capital": "Europe/Prague",
+    "Currency": "Koruna",
+    "Languages": "Czech 95.4%, Slovak 1.6%, other 3% (2011 census)",
+    "Area KM2": 78866
   },
   {
-    "target": "DNK",
+    "target": "DK",
     "ICO2": "DK",
     "Wiki": "/wiki/Denmark",
-    "Name": "Denmark"
+    "Name": "Denmark",
+    "ICO3": "DNK",
+    "Top Level Domain": "dk",
+    "Capital": "Copenhagen",
+    "Time Zone in Capital": "Europe/Copenhagen",
+    "Currency": "Krone",
+    "Languages": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
+    "Area KM2": 43094
   },
   {
-    "target": "DJI",
+    "target": "DJ",
     "ICO2": "DJ",
     "Wiki": "/wiki/Djibouti",
-    "Name": "Djibouti"
+    "Name": "Djibouti",
+    "ICO3": "DJI",
+    "Top Level Domain": "dj",
+    "Capital": "Djibouti",
+    "Time Zone in Capital": "Africa/Djibouti",
+    "Currency": "Franc",
+    "Languages": "French (official), Arabic (official), Somali, Afar",
+    "Area KM2": 23000
   },
   {
-    "target": "DMA",
+    "target": "DM",
     "ICO2": "DM",
     "Wiki": "/wiki/Dominica",
-    "Name": "Dominica"
+    "Name": "Dominica",
+    "ICO3": "DMA",
+    "Top Level Domain": "dm",
+    "Capital": "Roseau",
+    "Time Zone in Capital": "America/Dominica",
+    "Currency": "Dollar",
+    "Languages": "English (official), French patois",
+    "Area KM2": 754
   },
   {
-    "target": "EAR"
+    "ICO3": "EAR"
   },
   {
-    "target": "EAS"
+    "ICO3": "EAS"
   },
   {
-    "target": "EAP"
+    "ICO3": "EAP"
   },
   {
-    "target": "TEA"
+    "ICO3": "TEA"
   },
   {
-    "target": "GNQ",
+    "target": "GQ",
     "ICO2": "GQ",
     "Wiki": "/wiki/Equatorial_Guinea",
-    "Name": "Equatorial Guinea"
+    "Name": "Equatorial Guinea",
+    "ICO3": "GNQ",
+    "Top Level Domain": "gq",
+    "Capital": "Malabo",
+    "Time Zone in Capital": "Africa/Malabo",
+    "Currency": "Franc",
+    "Languages": "Spanish (official) 67.6%, other (includes French (official), Fang, Bubi) 32.4% (1994 census)",
+    "Area KM2": 28051
   },
   {
-    "target": "ERI",
+    "target": "ER",
     "ICO2": "ER",
     "Wiki": "/wiki/Eritrea",
-    "Name": "Eritrea"
+    "Name": "Eritrea",
+    "ICO3": "ERI",
+    "Top Level Domain": "er",
+    "Capital": "Asmara",
+    "Time Zone in Capital": "Africa/Asmara",
+    "Currency": "Nakfa",
+    "Languages": "Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar, other Cushitic languages",
+    "Area KM2": 121320
   },
   {
-    "target": "EST",
+    "target": "EE",
     "ICO2": "EE",
     "Wiki": "/wiki/Estonia",
-    "Name": "Estonia"
+    "Name": "Estonia",
+    "ICO3": "EST",
+    "Top Level Domain": "ee",
+    "Capital": "Tallinn",
+    "Time Zone in Capital": "Europe/Tallinn",
+    "Currency": "Euro",
+    "Languages": "Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecified 0.1% (2011 est.)",
+    "Area KM2": 45226
   },
   {
-    "target": "EMU"
+    "ICO3": "EMU"
   },
   {
-    "target": "ECS"
+    "ICO3": "ECS"
   },
   {
-    "target": "ECA"
+    "ICO3": "ECA"
   },
   {
-    "target": "TEC"
+    "ICO3": "TEC"
   },
   {
-    "target": "EUU"
+    "ICO3": "EUU"
   },
   {
-    "target": "FRO",
+    "target": "FO",
     "ICO2": "FO",
     "Wiki": "/wiki/Faroe_Islands",
-    "Name": "Faroe Islands"
+    "Name": "Faroe Islands",
+    "ICO3": "FRO",
+    "Top Level Domain": "fo",
+    "Capital": "Torshavn",
+    "Time Zone in Capital": "Atlantic/Faroe",
+    "Currency": "Krone",
+    "Languages": "Faroese (derived from Old Norse), Danish",
+    "Area KM2": 1399
   },
   {
-    "target": "FJI",
+    "target": "FJ",
     "ICO2": "FJ",
     "Wiki": "/wiki/Fiji",
-    "Name": "Fiji"
+    "Name": "Fiji",
+    "ICO3": "FJI",
+    "Top Level Domain": "fj",
+    "Capital": "Suva",
+    "Time Zone in Capital": "Pacific/Fiji",
+    "Currency": "Dollar",
+    "Languages": "English (official), Fijian (official), Hindustani",
+    "Area KM2": 18270
   },
   {
-    "target": "FIN",
+    "target": "FI",
     "ICO2": "FI",
     "Wiki": "/wiki/Finland",
-    "Name": "Finland"
+    "Name": "Finland",
+    "ICO3": "FIN",
+    "Top Level Domain": "fi",
+    "Capital": "Helsinki",
+    "Time Zone in Capital": "Europe/Helsinki",
+    "Currency": "Euro",
+    "Languages": "Finnish (official) 94.2%, Swedish (official) 5.5%, other (small Sami- and Russian-speaking minorities) 0.2% (2012 est.)",
+    "Area KM2": 337030
   },
   {
-    "target": "FCS"
+    "ICO3": "FCS"
   },
   {
-    "target": "FRA",
+    "target": "FR",
     "ICO2": "FR",
     "Wiki": "/wiki/France",
-    "Name": "France"
+    "Name": "France",
+    "ICO3": "FRA",
+    "Top Level Domain": "fr",
+    "Capital": "Paris",
+    "Time Zone in Capital": "Europe/Paris",
+    "Currency": "Euro",
+    "Languages": "French (official) 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",
+    "Area KM2": 547030
   },
   {
-    "target": "PYF",
+    "target": "PF",
     "ICO2": "PF",
     "Wiki": "/wiki/French_Polynesia",
-    "Name": "French Polynesia"
+    "Name": "French Polynesia",
+    "ICO3": "PYF",
+    "Top Level Domain": "pf",
+    "Capital": "Papeete",
+    "Time Zone in Capital": "Pacific/Tahiti",
+    "Currency": "Franc",
+    "Languages": "French (official) 61.1%, Polynesian (official) 31.4%, Asian languages 1.2%, other 0.3%, unspecified 6% (2002 census)",
+    "Area KM2": 4167
   },
   {
-    "target": "GAB",
+    "target": "GA",
     "ICO2": "GA",
     "Wiki": "/wiki/Gabon",
-    "Name": "Gabon"
+    "Name": "Gabon",
+    "ICO3": "GAB",
+    "Top Level Domain": "ga",
+    "Capital": "Libreville",
+    "Time Zone in Capital": "Africa/Libreville",
+    "Currency": "Franc",
+    "Languages": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",
+    "Area KM2": 267667
   },
   {
-    "target": "GMB",
+    "target": "GM",
     "ICO2": "GM",
     "Wiki": "/wiki/Gambia",
-    "Name": "Gambia"
+    "Name": "Gambia",
+    "ICO3": "GMB",
+    "Top Level Domain": "gm",
+    "Capital": "Banjul",
+    "Time Zone in Capital": "Africa/Banjul",
+    "Currency": "Dalasi",
+    "Languages": "English (official), Mandinka, Wolof, Fula, other indigenous vernaculars",
+    "Area KM2": 11300
   },
   {
-    "target": "GEO",
+    "target": "GE",
     "ICO2": "GE",
     "Wiki": "/wiki/Georgia_(country)",
-    "Name": "Georgia (country)"
+    "Name": "Georgia (country)",
+    "ICO3": "GEO",
+    "Top Level Domain": "ge",
+    "Capital": "Tbilisi",
+    "Time Zone in Capital": "Asia/Tbilisi",
+    "Currency": "Lari",
+    "Languages": "Georgian (official) 71%, Russian 9%, Armenian 7%, Azeri 6%, other 7%",
+    "Area KM2": 69700
   },
   {
-    "target": "DEU",
+    "target": "DE",
     "ICO2": "DE",
     "Wiki": "/wiki/Germany",
-    "Name": "Germany"
+    "Name": "Germany",
+    "ICO3": "DEU",
+    "Top Level Domain": "de",
+    "Capital": "Berlin",
+    "Time Zone in Capital": "Europe/Berlin",
+    "Currency": "Euro",
+    "Languages": "German (official)",
+    "Area KM2": 357021
   },
   {
-    "target": "GIB",
+    "target": "GI",
     "ICO2": "GI",
     "Wiki": "/wiki/Gibraltar",
-    "Name": "Gibraltar"
+    "Name": "Gibraltar",
+    "ICO3": "GIB",
+    "Top Level Domain": "gi",
+    "Capital": "Gibraltar",
+    "Time Zone in Capital": "Europe/Gibraltar",
+    "Currency": "Pound",
+    "Languages": "English (used in schools and for official purposes), Spanish, Italian, Portuguese",
+    "Area KM2": 7
   },
   {
-    "target": "GRC",
+    "target": "GR",
     "ICO2": "GR",
     "Wiki": "/wiki/Greece",
-    "Name": "Greece"
+    "Name": "Greece",
+    "ICO3": "GRC",
+    "Top Level Domain": "gr",
+    "Capital": "Athens",
+    "Time Zone in Capital": "Europe/Athens",
+    "Currency": "Euro",
+    "Languages": "Greek (official) 99%, other (includes English and French) 1%",
+    "Area KM2": 131940
   },
   {
-    "target": "GRL",
+    "target": "GL",
     "ICO2": "GL",
     "Wiki": "/wiki/Greenland",
-    "Name": "Greenland"
+    "Name": "Greenland",
+    "ICO3": "GRL",
+    "Top Level Domain": "gl",
+    "Capital": "Nuuk",
+    "Time Zone in Capital": "America/Godthab",
+    "Currency": "Krone",
+    "Languages": "Greenlandic (East Inuit) (official), Danish (official), English",
+    "Area KM2": 2166086
   },
   {
-    "target": "GRD",
+    "target": "GD",
     "ICO2": "GD",
     "Wiki": "/wiki/Grenada",
-    "Name": "Grenada"
+    "Name": "Grenada",
+    "ICO3": "GRD",
+    "Top Level Domain": "gd",
+    "Capital": "St. George's",
+    "Time Zone in Capital": "America/Grenada",
+    "Currency": "Dollar",
+    "Languages": "English (official), French patois",
+    "Area KM2": 344
   },
   {
-    "target": "GUM",
+    "target": "GU",
     "ICO2": "GU",
     "Wiki": "/wiki/Guam",
-    "Name": "Guam"
+    "Name": "Guam",
+    "ICO3": "GUM",
+    "Top Level Domain": "gu",
+    "Capital": "Hagatna",
+    "Time Zone in Capital": "Pacific/Guam",
+    "Currency": "Dollar",
+    "Languages": "English 43.6%, Filipino 21.2%, Chamorro 17.8%, other Pacific island languages 10%, Asian languages 6.3%, other 1.1% (2010 est.)",
+    "Area KM2": 549
   },
   {
-    "target": "GIN",
+    "target": "GN",
     "ICO2": "GN",
     "Wiki": "/wiki/Guinea",
-    "Name": "Guinea"
+    "Name": "Guinea",
+    "ICO3": "GIN",
+    "Top Level Domain": "gn",
+    "Capital": "Conakry",
+    "Time Zone in Capital": "Africa/Conakry",
+    "Currency": "Franc",
+    "Languages": "French (official)",
+    "Area KM2": 245857
   },
   {
-    "target": "GNB",
+    "target": "GW",
     "ICO2": "GW",
     "Wiki": "/wiki/Guinea-Bissau",
-    "Name": "Guinea-Bissau"
+    "Name": "Guinea-Bissau",
+    "ICO3": "GNB",
+    "Top Level Domain": "gw",
+    "Capital": "Bissau",
+    "Time Zone in Capital": "Africa/Bissau",
+    "Currency": "Franc",
+    "Languages": "Portuguese (official), Crioulo, African languages",
+    "Area KM2": 36120
   },
   {
-    "target": "GUY",
+    "target": "GY",
     "ICO2": "GY",
     "Wiki": "/wiki/Guyana",
-    "Name": "Guyana"
+    "Name": "Guyana",
+    "ICO3": "GUY",
+    "Top Level Domain": "gy",
+    "Capital": "Georgetown",
+    "Time Zone in Capital": "America/Guyana",
+    "Currency": "Dollar",
+    "Languages": "English, Amerindian dialects, Creole, Caribbean Hindustani (a dialect of Hindi), Urdu",
+    "Area KM2": 214970
   },
   {
-    "target": "HPC"
+    "ICO3": "HPC"
   },
   {
-    "target": "HIC"
+    "ICO3": "HIC"
   },
   {
-    "target": "HKG",
+    "target": "HK",
     "ICO2": "HK",
     "Wiki": "/wiki/Hong_Kong",
-    "Name": "Hong Kong"
+    "Name": "Hong Kong",
+    "ICO3": "HKG",
+    "Top Level Domain": "hk",
+    "Capital": "Hong Kong",
+    "Time Zone in Capital": "Asia/Hong_Kong",
+    "Currency": "Dollar",
+    "Languages": "Cantonese (official) 89.5%, English (official) 3.5%, Putonghua (Mandarin) 1.4%, other Chinese dialects 4%, other 1.6% (2011 est.)",
+    "Area KM2": 1092
   },
   {
-    "target": "HUN",
+    "target": "HU",
     "ICO2": "HU",
     "Wiki": "/wiki/Hungary",
-    "Name": "Hungary"
+    "Name": "Hungary",
+    "ICO3": "HUN",
+    "Top Level Domain": "hu",
+    "Capital": "Budapest",
+    "Time Zone in Capital": "Europe/Budapest",
+    "Currency": "Forint",
+    "Languages": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%",
+    "Area KM2": 93030
   },
   {
-    "target": "IBD"
+    "ICO3": "IBD"
   },
   {
-    "target": "ISL",
+    "target": "IS",
     "ICO2": "IS",
     "Wiki": "/wiki/Iceland",
-    "Name": "Iceland"
+    "Name": "Iceland",
+    "ICO3": "ISL",
+    "Top Level Domain": "is",
+    "Capital": "Reykjavik",
+    "Time Zone in Capital": "Atlantic/Reykjavik",
+    "Currency": "Krona",
+    "Languages": "Icelandic, English, Nordic languages, German widely spoken",
+    "Area KM2": 103000
   },
   {
-    "target": "IBT"
+    "ICO3": "IBT"
   },
   {
-    "target": "IDB"
+    "ICO3": "IDB"
   },
   {
-    "target": "IDX"
+    "ICO3": "IDX"
   },
   {
-    "target": "IDA"
+    "ICO3": "IDA"
   },
   {
-    "target": "IRN",
+    "target": "IR",
     "ICO2": "IR",
     "Wiki": "/wiki/Iran_(Islamic_Republic_of)",
-    "Name": "Iran (Islamic Republic of)"
+    "Name": "Iran (Islamic Republic of)",
+    "ICO3": "IRN",
+    "Top Level Domain": "ir",
+    "Capital": "Tehran",
+    "Time Zone in Capital": "Asia/Tehran",
+    "Currency": "Rial",
+    "Languages": "Persian (official) 53%, Azeri Turkic and Turkic dialects 18%, Kurdish 10%, Gilaki and Mazandarani 7%, Luri 6%, Balochi 2%, Arabic 2%, other 2%",
+    "Area KM2": 1648000
   },
   {
-    "target": "IRQ",
+    "target": "IQ",
     "ICO2": "IQ",
     "Wiki": "/wiki/Iraq",
-    "Name": "Iraq"
+    "Name": "Iraq",
+    "ICO3": "IRQ",
+    "Top Level Domain": "iq",
+    "Capital": "Baghdad",
+    "Time Zone in Capital": "Asia/Baghdad",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), Kurdish (official), Turkmen (a Turkish dialect) and Assyrian (Neo-Aramaic) are official in areas where they constitute a majority of the population), Armenian",
+    "Area KM2": 437072
   },
   {
-    "target": "IRL",
+    "target": "IE",
     "ICO2": "IE",
     "Wiki": "/wiki/Republic_of_Ireland",
-    "Name": "Republic of Ireland"
+    "Name": "Republic of Ireland",
+    "ICO3": "IRL",
+    "Top Level Domain": "ie",
+    "Capital": "Dublin",
+    "Time Zone in Capital": "Europe/Dublin",
+    "Currency": "Euro",
+    "Languages": "English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken mainly in areas along the western coast)",
+    "Area KM2": 70280
   },
   {
-    "target": "IMY"
+    "ICO3": "IMY"
   },
   {
-    "target": "ISR",
+    "target": "IL",
     "ICO2": "IL",
     "Wiki": "/wiki/Israel",
-    "Name": "Israel"
+    "Name": "Israel",
+    "ICO3": "ISR",
+    "Top Level Domain": "il",
+    "Capital": "Jerusalem",
+    "Time Zone in Capital": "Asia/Jerusalem",
+    "Currency": "Shekel",
+    "Languages": "Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)",
+    "Area KM2": 20770
   },
   {
-    "target": "ITA",
+    "target": "IT",
     "ICO2": "IT",
     "Wiki": "/wiki/Italy",
-    "Name": "Italy"
+    "Name": "Italy",
+    "ICO3": "ITA",
+    "Top Level Domain": "it",
+    "Capital": "Rome",
+    "Time Zone in Capital": "Europe/Rome",
+    "Currency": "Euro",
+    "Languages": "Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)",
+    "Area KM2": 301230
   },
   {
-    "target": "JAM",
+    "target": "JM",
     "ICO2": "JM",
     "Wiki": "/wiki/Jamaica",
-    "Name": "Jamaica"
+    "Name": "Jamaica",
+    "ICO3": "JAM",
+    "Top Level Domain": "jm",
+    "Capital": "Kingston",
+    "Time Zone in Capital": "America/Jamaica",
+    "Currency": "Dollar",
+    "Languages": "English, English patois",
+    "Area KM2": 10991
   },
   {
-    "target": "JPN",
+    "target": "JP",
     "ICO2": "JP",
     "Wiki": "/wiki/Japan",
-    "Name": "Japan"
+    "Name": "Japan",
+    "ICO3": "JPN",
+    "Top Level Domain": "jp",
+    "Capital": "Tokyo",
+    "Time Zone in Capital": "Asia/Tokyo",
+    "Currency": "Yen",
+    "Languages": "Japanese",
+    "Area KM2": 377835
   },
   {
-    "target": "JOR",
+    "target": "JO",
     "ICO2": "JO",
     "Wiki": "/wiki/Jordan",
-    "Name": "Jordan"
+    "Name": "Jordan",
+    "ICO3": "JOR",
+    "Top Level Domain": "jo",
+    "Capital": "Amman",
+    "Time Zone in Capital": "Asia/Amman",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), English (widely understood among upper and middle classes)",
+    "Area KM2": 92300
   },
   {
-    "target": "KAZ",
+    "target": "KZ",
     "ICO2": "KZ",
     "Wiki": "/wiki/Kazakhstan",
-    "Name": "Kazakhstan"
+    "Name": "Kazakhstan",
+    "ICO3": "KAZ",
+    "Top Level Domain": "kz",
+    "Capital": "Astana",
+    "Time Zone in Capital": "Asia/Almaty",
+    "Currency": "Tenge",
+    "Languages": "Kazakh (official, Qazaq) 64.4%, Russian (official, used in everyday business, designated the \"language of interethnic communication\") 95% (2001 est.)",
+    "Area KM2": 2717300
   },
   {
-    "target": "KIR",
+    "target": "KI",
     "ICO2": "KI",
     "Wiki": "/wiki/Kiribati",
-    "Name": "Kiribati"
+    "Name": "Kiribati",
+    "ICO3": "KIR",
+    "Top Level Domain": "ki",
+    "Capital": "Tarawa",
+    "Time Zone in Capital": "Pacific/Tarawa",
+    "Currency": "Dollar",
+    "Languages": "I-Kiribati, English (official)",
+    "Area KM2": 811
   },
   {
-    "target": "PRK",
+    "target": "KP",
     "ICO2": "KP",
     "Wiki": "/wiki/North_Korea",
-    "Name": "North Korea"
+    "Name": "North Korea",
+    "ICO3": "PRK",
+    "Top Level Domain": "kp",
+    "Capital": "Pyongyang",
+    "Time Zone in Capital": "Asia/Pyongyang",
+    "Currency": "Won",
+    "Languages": "Korean",
+    "Area KM2": 120540
   },
   {
-    "target": "KOR",
+    "target": "KR",
     "ICO2": "KR",
     "Wiki": "/wiki/Korea_(Republic_of)",
-    "Name": "Korea (Republic of)"
+    "Name": "Korea (Republic of)",
+    "ICO3": "KOR",
+    "Top Level Domain": "kr",
+    "Capital": "Seoul",
+    "Time Zone in Capital": "Asia/Seoul",
+    "Currency": "Won",
+    "Languages": "Korean, English (widely taught in junior high and high school)",
+    "Area KM2": 98480
   },
   {
-    "target": "KSV"
+    "ICO3": "KSV"
   },
   {
-    "target": "KWT",
+    "target": "KW",
     "ICO2": "KW",
     "Wiki": "/wiki/Kuwait",
-    "Name": "Kuwait"
+    "Name": "Kuwait",
+    "ICO3": "KWT",
+    "Top Level Domain": "kw",
+    "Capital": "Kuwait City",
+    "Time Zone in Capital": "Asia/Kuwait",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), English widely spoken",
+    "Area KM2": 17820
   },
   {
-    "target": "LAO",
+    "target": "LA",
     "ICO2": "LA",
     "Wiki": "/wiki/Lao_People%27s_Democratic_Republic",
-    "Name": "Lao People's Democratic Republic"
+    "Name": "Lao People's Democratic Republic",
+    "ICO3": "LAO",
+    "Top Level Domain": "la",
+    "Capital": "Vientiane",
+    "Time Zone in Capital": "Asia/Vientiane",
+    "Currency": "Kip",
+    "Languages": "Lao (official), French, English, various ethnic languages",
+    "Area KM2": 236800
   },
   {
-    "target": "LTE"
+    "ICO3": "LTE"
   },
   {
-    "target": "LCN"
+    "ICO3": "LCN"
   },
   {
-    "target": "LAC"
+    "ICO3": "LAC"
   },
   {
-    "target": "TLA"
+    "ICO3": "TLA"
   },
   {
-    "target": "LVA",
+    "target": "LV",
     "ICO2": "LV",
     "Wiki": "/wiki/Latvia",
-    "Name": "Latvia"
+    "Name": "Latvia",
+    "ICO3": "LVA",
+    "Top Level Domain": "lv",
+    "Capital": "Riga",
+    "Time Zone in Capital": "Europe/Riga",
+    "Currency": "Euro",
+    "Languages": "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)",
+    "Area KM2": 64589
   },
   {
-    "target": "LDC"
+    "ICO3": "LDC"
   },
   {
-    "target": "LBN",
+    "target": "LB",
     "ICO2": "LB",
     "Wiki": "/wiki/Lebanon",
-    "Name": "Lebanon"
+    "Name": "Lebanon",
+    "ICO3": "LBN",
+    "Top Level Domain": "lb",
+    "Capital": "Beirut",
+    "Time Zone in Capital": "Asia/Beirut",
+    "Currency": "Pound",
+    "Languages": "Arabic (official), French, English, Armenian",
+    "Area KM2": 10400
   },
   {
-    "target": "LSO",
+    "target": "LS",
     "ICO2": "LS",
     "Wiki": "/wiki/Lesotho",
-    "Name": "Lesotho"
+    "Name": "Lesotho",
+    "ICO3": "LSO",
+    "Top Level Domain": "ls",
+    "Capital": "Maseru",
+    "Time Zone in Capital": "Africa/Maseru",
+    "Currency": "Loti",
+    "Languages": "Sesotho (official) (southern Sotho), English (official), Zulu, Xhosa",
+    "Area KM2": 30355
   },
   {
-    "target": "LBR",
+    "target": "LR",
     "ICO2": "LR",
     "Wiki": "/wiki/Liberia",
-    "Name": "Liberia"
+    "Name": "Liberia",
+    "ICO3": "LBR",
+    "Top Level Domain": "lr",
+    "Capital": "Monrovia",
+    "Time Zone in Capital": "Africa/Monrovia",
+    "Currency": "Dollar",
+    "Languages": "English 20% (official), some 20 ethnic group languages few of which can be written or used in correspondence",
+    "Area KM2": 111370
   },
   {
-    "target": "LBY",
+    "target": "LY",
     "ICO2": "LY",
     "Wiki": "/wiki/Libya",
-    "Name": "Libya"
+    "Name": "Libya",
+    "ICO3": "LBY",
+    "Top Level Domain": "ly",
+    "Capital": "Tripolis",
+    "Time Zone in Capital": "Africa/Tripoli",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)",
+    "Area KM2": 1759540
   },
   {
-    "target": "LIE",
+    "target": "LI",
     "ICO2": "LI",
     "Wiki": "/wiki/Liechtenstein",
-    "Name": "Liechtenstein"
+    "Name": "Liechtenstein",
+    "ICO3": "LIE",
+    "Top Level Domain": "li",
+    "Capital": "Vaduz",
+    "Time Zone in Capital": "Europe/Vaduz",
+    "Currency": "Franc",
+    "Languages": "German 94.5% (official) (Alemannic is the main dialect), Italian 1.1%, other 4.3% (2010 est.)",
+    "Area KM2": 160
   },
   {
-    "target": "LTU",
+    "target": "LT",
     "ICO2": "LT",
     "Wiki": "/wiki/Lithuania",
-    "Name": "Lithuania"
+    "Name": "Lithuania",
+    "ICO3": "LTU",
+    "Top Level Domain": "lt",
+    "Capital": "Vilnius",
+    "Time Zone in Capital": "Europe/Vilnius",
+    "Currency": "Euro",
+    "Languages": "Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.)",
+    "Area KM2": 65200
   },
   {
-    "target": "LMY"
+    "ICO3": "LMY"
   },
   {
-    "target": "LIC"
+    "ICO3": "LIC"
   },
   {
-    "target": "LMC"
+    "ICO3": "LMC"
   },
   {
-    "target": "LUX",
+    "target": "LU",
     "ICO2": "LU",
     "Wiki": "/wiki/Luxembourg",
-    "Name": "Luxembourg"
+    "Name": "Luxembourg",
+    "ICO3": "LUX",
+    "Top Level Domain": "lu",
+    "Capital": "Luxembourg",
+    "Time Zone in Capital": "Europe/Luxembourg",
+    "Currency": "Euro",
+    "Languages": "Luxembourgish (official administrative language and national language (spoken vernacular)), French (official administrative language), German (official administrative language)",
+    "Area KM2": 2586
   },
   {
-    "target": "MAC",
+    "target": "MO",
     "ICO2": "MO",
     "Wiki": "/wiki/Macao",
-    "Name": "Macao"
+    "Name": "Macao",
+    "ICO3": "MAC",
+    "Top Level Domain": "mo",
+    "Capital": "Macao",
+    "Time Zone in Capital": "Asia/Macau",
+    "Currency": "Pataca",
+    "Languages": "Cantonese 83.3%, Mandarin 5%, Hokkien 3.7%, English 2.3%, other Chinese dialects 2%, Tagalog 1.7%, Portuguese 0.7%, other 1.3%",
+    "Area KM2": 254
   },
   {
-    "target": "MKD",
+    "target": "MK",
     "ICO2": "MK",
     "Wiki": "/wiki/Republic_of_Macedonia",
-    "Name": "Republic of Macedonia"
+    "Name": "Republic of Macedonia",
+    "ICO3": "MKD",
+    "Top Level Domain": "mk",
+    "Capital": "Skopje",
+    "Time Zone in Capital": "Europe/Skopje",
+    "Currency": "Denar",
+    "Languages": "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Roma 1.9%, Serbian 1.2%, other 1.8% (2002 census)",
+    "Area KM2": 25333
   },
   {
-    "target": "MWI",
+    "target": "MW",
     "ICO2": "MW",
     "Wiki": "/wiki/Malawi",
-    "Name": "Malawi"
+    "Name": "Malawi",
+    "ICO3": "MWI",
+    "Top Level Domain": "mw",
+    "Capital": "Lilongwe",
+    "Time Zone in Capital": "Africa/Blantyre",
+    "Currency": "Kwacha",
+    "Languages": "English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya",
+    "Area KM2": 118480
   },
   {
-    "target": "MYS",
+    "target": "MY",
     "ICO2": "MY",
     "Wiki": "/wiki/Malaysia",
-    "Name": "Malaysia"
+    "Name": "Malaysia",
+    "ICO3": "MYS",
+    "Top Level Domain": "my",
+    "Capital": "Kuala Lumpur",
+    "Time Zone in Capital": "Asia/Kuala_Lumpur",
+    "Currency": "Ringgit",
+    "Languages": "Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai",
+    "Area KM2": 329750
   },
   {
-    "target": "MDV",
+    "target": "MV",
     "ICO2": "MV",
     "Wiki": "/wiki/Maldives",
-    "Name": "Maldives"
+    "Name": "Maldives",
+    "ICO3": "MDV",
+    "Top Level Domain": "mv",
+    "Capital": "Male",
+    "Time Zone in Capital": "Indian/Maldives",
+    "Currency": "Rufiyaa",
+    "Languages": "Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials)",
+    "Area KM2": 300
   },
   {
-    "target": "MLI",
+    "target": "ML",
     "ICO2": "ML",
     "Wiki": "/wiki/Mali",
-    "Name": "Mali"
+    "Name": "Mali",
+    "ICO3": "MLI",
+    "Top Level Domain": "ml",
+    "Capital": "Bamako",
+    "Time Zone in Capital": "Africa/Bamako",
+    "Currency": "Franc",
+    "Languages": "French (official), Bambara 46.3%, Peul/foulfoulbe 9.4%, Dogon 7.2%, Maraka/soninke 6.4%, Malinke 5.6%, Sonrhai/djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, unspecified 0.6%, other 8.5%",
+    "Area KM2": 1240000
   },
   {
-    "target": "MLT",
+    "target": "MT",
     "ICO2": "MT",
     "Wiki": "/wiki/Malta",
-    "Name": "Malta"
+    "Name": "Malta",
+    "ICO3": "MLT",
+    "Top Level Domain": "mt",
+    "Capital": "Valletta",
+    "Time Zone in Capital": "Europe/Malta",
+    "Currency": "Euro",
+    "Languages": "Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.)",
+    "Area KM2": 316
   },
   {
-    "target": "MHL",
+    "target": "MH",
     "ICO2": "MH",
     "Wiki": "/wiki/Marshall_Islands",
-    "Name": "Marshall Islands"
+    "Name": "Marshall Islands",
+    "ICO3": "MHL",
+    "Top Level Domain": "mh",
+    "Capital": "Majuro",
+    "Time Zone in Capital": "Pacific/Majuro",
+    "Currency": "Dollar",
+    "Languages": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
+    "Area KM2": 181
   },
   {
-    "target": "MRT",
+    "target": "MR",
     "ICO2": "MR",
     "Wiki": "/wiki/Mauritania",
-    "Name": "Mauritania"
+    "Name": "Mauritania",
+    "ICO3": "MRT",
+    "Top Level Domain": "mr",
+    "Capital": "Nouakchott",
+    "Time Zone in Capital": "Africa/Nouakchott",
+    "Currency": "Ouguiya",
+    "Languages": "Arabic (official and national), Pulaar, Soninke, Wolof (all national languages), French, Hassaniya (a variety of Arabic)",
+    "Area KM2": 1030700
   },
   {
-    "target": "MUS",
+    "target": "MU",
     "ICO2": "MU",
     "Wiki": "/wiki/Mauritius",
-    "Name": "Mauritius"
+    "Name": "Mauritius",
+    "ICO3": "MUS",
+    "Top Level Domain": "mu",
+    "Capital": "Port Louis",
+    "Time Zone in Capital": "Indian/Mauritius",
+    "Currency": "Rupee",
+    "Languages": "Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)",
+    "Area KM2": 2040
   },
   {
-    "target": "FSM",
+    "target": "FM",
     "ICO2": "FM",
     "Wiki": "/wiki/Micronesia_(Federated_States_of)",
-    "Name": "Micronesia (Federated States of)"
+    "Name": "Micronesia (Federated States of)",
+    "ICO3": "FSM",
+    "Top Level Domain": "fm",
+    "Capital": "Palikir",
+    "Time Zone in Capital": "Pacific/Pohnpei",
+    "Currency": "Dollar",
+    "Languages": "English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi",
+    "Area KM2": 702
   },
   {
-    "target": "MEA"
+    "ICO3": "MEA"
   },
   {
-    "target": "MNA"
+    "ICO3": "MNA"
   },
   {
-    "target": "TMN"
+    "ICO3": "TMN"
   },
   {
-    "target": "MIC"
+    "ICO3": "MIC"
   },
   {
-    "target": "MDA",
+    "target": "MD",
     "ICO2": "MD",
     "Wiki": "/wiki/Moldova_(Republic_of)",
-    "Name": "Moldova (Republic of)"
+    "Name": "Moldova (Republic of)",
+    "ICO3": "MDA",
+    "Top Level Domain": "md",
+    "Capital": "Chisinau",
+    "Time Zone in Capital": "Europe/Chisinau",
+    "Currency": "Leu",
+    "Languages": "Moldovan 58.8% (official; virtually the same as the Romanian language), Romanian 16.4%, Russian 16%, Ukrainian 3.8%, Gagauz 3.1% (a Turkish language), Bulgarian 1.1%, other 0.3%, unspecified 0.4%",
+    "Area KM2": 33843
   },
   {
-    "target": "MCO",
+    "target": "MC",
     "ICO2": "MC",
     "Wiki": "/wiki/Monaco",
-    "Name": "Monaco"
+    "Name": "Monaco",
+    "ICO3": "MCO",
+    "Top Level Domain": "mc",
+    "Capital": "Monaco",
+    "Time Zone in Capital": "Europe/Monaco",
+    "Currency": "Euro",
+    "Languages": "French (official), English, Italian, Monegasque",
+    "Area KM2": 2
   },
   {
-    "target": "MNE",
+    "target": "ME",
     "ICO2": "ME",
     "Wiki": "/wiki/Montenegro",
-    "Name": "Montenegro"
+    "Name": "Montenegro",
+    "ICO3": "MNE",
+    "Top Level Domain": "me",
+    "Capital": "Podgorica",
+    "Time Zone in Capital": "Europe/Podgorica",
+    "Currency": "Euro",
+    "Languages": "Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)",
+    "Area KM2": 14026
   },
   {
-    "target": "MOZ",
+    "target": "MZ",
     "ICO2": "MZ",
     "Wiki": "/wiki/Mozambique",
-    "Name": "Mozambique"
+    "Name": "Mozambique",
+    "ICO3": "MOZ",
+    "Top Level Domain": "mz",
+    "Capital": "Maputo",
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Metical",
+    "Languages": "Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census)",
+    "Area KM2": 801590
   },
   {
-    "target": "NAM",
+    "target": "NA",
     "ICO2": "NA",
     "Wiki": "/wiki/Namibia",
-    "Name": "Namibia"
+    "Name": "Namibia",
+    "ICO3": "NAM",
+    "Top Level Domain": "na",
+    "Capital": "Windhoek",
+    "Time Zone in Capital": "Africa/Windhoek",
+    "Currency": "Dollar",
+    "Languages": "Oshiwambo languages 48.9%, Nama/Damara 11.3%, Afrikaans 10.4% (common language of most of the population and about 60% of the white population), Otjiherero languages 8.6%, Kavango languages 8.5%, Caprivi languages 4.8%, English (official) 3.4%, other African languages 2.3%, other 1.7%",
+    "Area KM2": 825418
   },
   {
-    "target": "NRU",
+    "target": "NR",
     "ICO2": "NR",
     "Wiki": "/wiki/Nauru",
-    "Name": "Nauru"
+    "Name": "Nauru",
+    "ICO3": "NRU",
+    "Top Level Domain": "nr",
+    "Capital": "Yaren",
+    "Time Zone in Capital": "Pacific/Nauru",
+    "Currency": "Dollar",
+    "Languages": "Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes I-Kiribati 2% and Chinese 2%)",
+    "Area KM2": 21
   },
   {
-    "target": "NLD",
+    "target": "NL",
     "ICO2": "NL",
     "Wiki": "/wiki/Netherlands",
-    "Name": "Netherlands"
+    "Name": "Netherlands",
+    "ICO3": "NLD",
+    "Top Level Domain": "nl",
+    "Capital": "Amsterdam",
+    "Time Zone in Capital": "Europe/Amsterdam",
+    "Currency": "Euro",
+    "Languages": "Dutch (official)",
+    "Area KM2": 41526
   },
   {
-    "target": "NCL",
+    "target": "NC",
     "ICO2": "NC",
     "Wiki": "/wiki/New_Caledonia",
-    "Name": "New Caledonia"
+    "Name": "New Caledonia",
+    "ICO3": "NCL",
+    "Top Level Domain": "nc",
+    "Capital": "Noumea",
+    "Time Zone in Capital": "Pacific/Noumea",
+    "Currency": "Franc",
+    "Languages": "French (official), 33 Melanesian-Polynesian dialects",
+    "Area KM2": 19060
   },
   {
-    "target": "NZL",
+    "target": "NZ",
     "ICO2": "NZ",
     "Wiki": "/wiki/New_Zealand",
-    "Name": "New Zealand"
+    "Name": "New Zealand",
+    "ICO3": "NZL",
+    "Top Level Domain": "nz",
+    "Capital": "Wellington",
+    "Time Zone in Capital": "Pacific/Auckland",
+    "Currency": "Dollar",
+    "Languages": "English (de facto official) 89.8%, Maori (de jure official) 3.5%, Samoan 2%, Hindi 1.6%, French 1.2%, Northern Chinese 1.2%, Yue 1%, Other or not stated 20.5%, New Zealand Sign Language (de jure official)",
+    "Area KM2": 268680
   },
   {
-    "target": "NAC"
+    "ICO3": "NAC"
   },
   {
-    "target": "MNP",
+    "target": "MP",
     "ICO2": "MP",
     "Wiki": "/wiki/Northern_Mariana_Islands",
-    "Name": "Northern Mariana Islands"
+    "Name": "Northern Mariana Islands",
+    "ICO3": "MNP",
+    "Top Level Domain": "mp",
+    "Capital": "Saipan",
+    "Time Zone in Capital": "Pacific/Saipan",
+    "Currency": "Dollar",
+    "Languages": "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)",
+    "Area KM2": 477
   },
   {
-    "target": "NOR",
+    "target": "NO",
     "ICO2": "NO",
     "Wiki": "/wiki/Norway",
-    "Name": "Norway"
+    "Name": "Norway",
+    "ICO3": "NOR",
+    "Top Level Domain": "no",
+    "Capital": "Oslo",
+    "Time Zone in Capital": "Europe/Oslo",
+    "Currency": "Krone",
+    "Languages": "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities",
+    "Area KM2": 324220
   },
   {
-    "target": "INX"
+    "ICO3": "INX"
   },
   {
-    "target": "OED"
+    "ICO3": "OED"
   },
   {
-    "target": "OMN",
+    "target": "OM",
     "ICO2": "OM",
     "Wiki": "/wiki/Oman",
-    "Name": "Oman"
+    "Name": "Oman",
+    "ICO3": "OMN",
+    "Top Level Domain": "om",
+    "Capital": "Muscat",
+    "Time Zone in Capital": "Asia/Muscat",
+    "Currency": "Rial",
+    "Languages": "Arabic (official), English, Baluchi, Urdu, Indian dialects",
+    "Area KM2": 212460
   },
   {
-    "target": "OSS"
+    "ICO3": "OSS"
   },
   {
-    "target": "PSS"
+    "ICO3": "PSS"
   },
   {
-    "target": "PLW",
+    "target": "PW",
     "ICO2": "PW",
     "Wiki": "/wiki/Palau",
-    "Name": "Palau"
+    "Name": "Palau",
+    "ICO3": "PLW",
+    "Top Level Domain": "pw",
+    "Capital": "Melekeok",
+    "Time Zone in Capital": "Pacific/Palau",
+    "Currency": "Dollar",
+    "Languages": "Palauan (official on most islands) 66.6%, Carolinian 0.7%, other Micronesian 0.7%, English (official) 15.5%, Filipino 10.8%, Chinese 1.8%, other Asian 2.6%, other 1.3%",
+    "Area KM2": 458
   },
   {
-    "target": "PAN",
+    "target": "PA",
     "ICO2": "PA",
     "Wiki": "/wiki/Panama",
-    "Name": "Panama"
+    "Name": "Panama",
+    "ICO3": "PAN",
+    "Top Level Domain": "pa",
+    "Capital": "Panama City",
+    "Time Zone in Capital": "America/Panama",
+    "Currency": "Balboa",
+    "Languages": "Spanish (official), English 14%",
+    "Area KM2": 78200
   },
   {
-    "target": "PNG",
+    "target": "PG",
     "ICO2": "PG",
     "Wiki": "/wiki/Papua_New_Guinea",
-    "Name": "Papua New Guinea"
+    "Name": "Papua New Guinea",
+    "ICO3": "PNG",
+    "Top Level Domain": "pg",
+    "Capital": "Port Moresby",
+    "Time Zone in Capital": "Pacific/Port_Moresby",
+    "Currency": "Kina",
+    "Languages": "Tok Pisin (official), English (official), Hiri Motu (official), some 836 indigenous languages spoken (about 12% of the world's total); most languages have fewer than 1,000 speakers",
+    "Area KM2": 462840
   },
   {
-    "target": "POL",
+    "target": "PL",
     "ICO2": "PL",
     "Wiki": "/wiki/Poland",
-    "Name": "Poland"
+    "Name": "Poland",
+    "ICO3": "POL",
+    "Top Level Domain": "pl",
+    "Capital": "Warsaw",
+    "Time Zone in Capital": "Europe/Warsaw",
+    "Currency": "Zloty",
+    "Languages": "Polish (official) 96.2%, Polish and non-Polish 2%, non-Polish 0.5%, unspecified 1.3%",
+    "Area KM2": 312685
   },
   {
-    "target": "PRT",
+    "target": "PT",
     "ICO2": "PT",
     "Wiki": "/wiki/Portugal",
-    "Name": "Portugal"
+    "Name": "Portugal",
+    "ICO3": "PRT",
+    "Top Level Domain": "pt",
+    "Capital": "Lisbon",
+    "Time Zone in Capital": "Europe/Lisbon",
+    "Currency": "Euro",
+    "Languages": "Portuguese (official), Mirandese (official, but locally used)",
+    "Area KM2": 92391
   },
   {
-    "target": "PST"
+    "ICO3": "PST"
   },
   {
-    "target": "PRE"
+    "ICO3": "PRE"
   },
   {
-    "target": "PRI",
+    "target": "PR",
     "ICO2": "PR",
     "Wiki": "/wiki/Puerto_Rico",
-    "Name": "Puerto Rico"
+    "Name": "Puerto Rico",
+    "ICO3": "PRI",
+    "Top Level Domain": "pr",
+    "Capital": "San Juan",
+    "Time Zone in Capital": "America/Puerto_Rico",
+    "Currency": "Dollar",
+    "Languages": "Spanish, English",
+    "Area KM2": 9104
   },
   {
-    "target": "QAT",
+    "target": "QA",
     "ICO2": "QA",
     "Wiki": "/wiki/Qatar",
-    "Name": "Qatar"
+    "Name": "Qatar",
+    "ICO3": "QAT",
+    "Top Level Domain": "qa",
+    "Capital": "Doha",
+    "Time Zone in Capital": "Asia/Qatar",
+    "Currency": "Rial",
+    "Languages": "Arabic (official), English commonly used as a second language",
+    "Area KM2": 11437
   },
   {
-    "target": "ROM"
+    "ICO3": "ROM"
   },
   {
-    "target": "RUS",
+    "target": "RU",
     "ICO2": "RU",
     "Wiki": "/wiki/Russian_Federation",
-    "Name": "Russian Federation"
+    "Name": "Russian Federation",
+    "ICO3": "RUS",
+    "Top Level Domain": "ru",
+    "Capital": "Moscow",
+    "Time Zone in Capital": "Europe/Moscow",
+    "Currency": "Ruble",
+    "Languages": "Russian (official) 96.3%, Dolgang 5.3%, German 1.5%, Chechen 1%, Tatar 3%, other 10.3%",
+    "Area KM2": 17100000
   },
   {
-    "target": "WSM",
+    "target": "WS",
     "ICO2": "WS",
     "Wiki": "/wiki/Samoa",
-    "Name": "Samoa"
+    "Name": "Samoa",
+    "ICO3": "WSM",
+    "Top Level Domain": "ws",
+    "Capital": "Apia",
+    "Time Zone in Capital": "Pacific/Apia",
+    "Currency": "Tala",
+    "Languages": "Samoan (Polynesian) (official), English",
+    "Area KM2": 2944
   },
   {
-    "target": "SMR",
+    "target": "SM",
     "ICO2": "SM",
     "Wiki": "/wiki/San_Marino",
-    "Name": "San Marino"
+    "Name": "San Marino",
+    "ICO3": "SMR",
+    "Top Level Domain": "sm",
+    "Capital": "San Marino",
+    "Time Zone in Capital": "Europe/San_Marino",
+    "Currency": "Euro",
+    "Languages": "Italian",
+    "Area KM2": 61
   },
   {
-    "target": "STP",
+    "target": "ST",
     "ICO2": "ST",
     "Wiki": "/wiki/Sao_Tome_and_Principe",
-    "Name": "Sao Tome and Principe"
+    "Name": "Sao Tome and Principe",
+    "ICO3": "STP",
+    "Top Level Domain": "st",
+    "Capital": "Sao Tome",
+    "Time Zone in Capital": "Africa/Sao_Tome",
+    "Currency": "Dobra",
+    "Languages": "Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%",
+    "Area KM2": 1001
   },
   {
-    "target": "SAU",
+    "target": "SA",
     "ICO2": "SA",
     "Wiki": "/wiki/Saudi_Arabia",
-    "Name": "Saudi Arabia"
+    "Name": "Saudi Arabia",
+    "ICO3": "SAU",
+    "Top Level Domain": "sa",
+    "Capital": "Riyadh",
+    "Time Zone in Capital": "Asia/Riyadh",
+    "Currency": "Rial",
+    "Languages": "Arabic (official)",
+    "Area KM2": 1960582
   },
   {
-    "target": "SRB",
+    "target": "RS",
     "ICO2": "RS",
     "Wiki": "/wiki/Serbia",
-    "Name": "Serbia"
+    "Name": "Serbia",
+    "ICO3": "SRB",
+    "Top Level Domain": "rs",
+    "Capital": "Belgrade",
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Dinar",
+    "Languages": "Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romany 1.4%, other 3.4%, undeclared or unknown 1.8%",
+    "Area KM2": 88361
   },
   {
-    "target": "SYC",
+    "target": "SC",
     "ICO2": "SC",
     "Wiki": "/wiki/Seychelles",
-    "Name": "Seychelles"
+    "Name": "Seychelles",
+    "ICO3": "SYC",
+    "Top Level Domain": "sc",
+    "Capital": "Victoria",
+    "Time Zone in Capital": "Indian/Mahe",
+    "Currency": "Rupee",
+    "Languages": "Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 0.7%, other 3.8%, unspecified 1.4% (2010 est.)",
+    "Area KM2": 455
   },
   {
-    "target": "SLE",
+    "target": "SL",
     "ICO2": "SL",
     "Wiki": "/wiki/Sierra_Leone",
-    "Name": "Sierra Leone"
+    "Name": "Sierra Leone",
+    "ICO3": "SLE",
+    "Top Level Domain": "sl",
+    "Capital": "Freetown",
+    "Time Zone in Capital": "Africa/Freetown",
+    "Currency": "Leone",
+    "Languages": "English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)",
+    "Area KM2": 71740
   },
   {
-    "target": "SGP",
+    "target": "SG",
     "ICO2": "SG",
     "Wiki": "/wiki/Singapore",
-    "Name": "Singapore"
+    "Name": "Singapore",
+    "ICO3": "SGP",
+    "Top Level Domain": "sg",
+    "Capital": "Singapore",
+    "Time Zone in Capital": "Asia/Singapore",
+    "Currency": "Dollar",
+    "Languages": "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Tamil (official) 4.4%, Cantonese 4.1%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)",
+    "Area KM2": 693
   },
   {
-    "target": "SXM",
+    "target": "SX",
     "ICO2": "SX",
     "Wiki": "/wiki/Sint_Maarten_(Dutch_part)",
-    "Name": "Sint Maarten (Dutch part)"
+    "Name": "Sint Maarten (Dutch part)",
+    "ICO3": "SXM",
+    "Top Level Domain": "sx",
+    "Capital": "Philipsburg",
+    "Time Zone in Capital": "America/Lower_Princes",
+    "Currency": "Guilder",
+    "Languages": "English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Papiamento (a Spanish-Portuguese-Dutch-English dialect) 2.2%, French 1.5%, other 3.5% (2001 census)",
+    "Area KM2": 34
   },
   {
-    "target": "SVK",
+    "target": "SK",
     "ICO2": "SK",
     "Wiki": "/wiki/Slovakia",
-    "Name": "Slovakia"
+    "Name": "Slovakia",
+    "ICO3": "SVK",
+    "Top Level Domain": "sk",
+    "Capital": "Bratislava",
+    "Time Zone in Capital": "Europe/Bratislava",
+    "Currency": "Euro",
+    "Languages": "Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)",
+    "Area KM2": 48845
   },
   {
-    "target": "SVN",
+    "target": "SI",
     "ICO2": "SI",
     "Wiki": "/wiki/Slovenia",
-    "Name": "Slovenia"
+    "Name": "Slovenia",
+    "ICO3": "SVN",
+    "Top Level Domain": "si",
+    "Capital": "Ljubljana",
+    "Time Zone in Capital": "Europe/Ljubljana",
+    "Currency": "Euro",
+    "Languages": "Slovenian (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 census)",
+    "Area KM2": 20273
   },
   {
-    "target": "SST"
+    "ICO3": "SST"
   },
   {
-    "target": "SLB",
+    "target": "SB",
     "ICO2": "SB",
     "Wiki": "/wiki/Solomon_Islands",
-    "Name": "Solomon Islands"
+    "Name": "Solomon Islands",
+    "ICO3": "SLB",
+    "Top Level Domain": "sb",
+    "Capital": "Honiara",
+    "Time Zone in Capital": "Pacific/Guadalcanal",
+    "Currency": "Dollar",
+    "Languages": "Melanesian pidgin (in much of the country is lingua franca), English (official but spoken by only 1%-2% of the population), 120 indigenous languages",
+    "Area KM2": 28450
   },
   {
-    "target": "SOM",
+    "target": "SO",
     "ICO2": "SO",
     "Wiki": "/wiki/Somalia",
-    "Name": "Somalia"
+    "Name": "Somalia",
+    "ICO3": "SOM",
+    "Top Level Domain": "so",
+    "Capital": "Mogadishu",
+    "Time Zone in Capital": "Africa/Mogadishu",
+    "Currency": "Shilling",
+    "Languages": "Somali (official), Arabic (official, according to the Transitional Federal Charter), Italian, English",
+    "Area KM2": 637657
   },
   {
-    "target": "ZAF",
+    "target": "ZA",
     "ICO2": "ZA",
     "Wiki": "/wiki/South_Africa",
-    "Name": "South Africa"
+    "Name": "South Africa",
+    "ICO3": "ZAF",
+    "Top Level Domain": "za",
+    "Capital": "Pretoria",
+    "Time Zone in Capital": "Africa/Johannesburg",
+    "Currency": "Rand",
+    "Languages": "IsiZulu (official) 22.7%, IsiXhosa (official) 16%, Afrikaans (official) 13.5%, English (official) 9.6%, Sepedi (official) 9.1%, Setswana (official) 8%, Sesotho (official) 7.6%, Xitsonga (official) 4.5%, siSwati (official) 2.5%, Tshivenda (official) 2.4%, isiNdebele (official) 2.1%, sign language 0.5%, other 1.6% (2011 est.)",
+    "Area KM2": 1219912
   },
   {
-    "target": "SAS"
+    "ICO3": "SAS"
   },
   {
-    "target": "TSA"
+    "ICO3": "TSA"
   },
   {
-    "target": "SSD",
+    "target": "SS",
     "ICO2": "SS",
     "Wiki": "/wiki/South_Sudan",
-    "Name": "South Sudan"
+    "Name": "South Sudan",
+    "ICO3": "SSD",
+    "Top Level Domain": "ss",
+    "Capital": "Juba",
+    "Time Zone in Capital": "Africa/Juba",
+    "Currency": "Pound",
+    "Languages": "English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",
+    "Area KM2": 644329
   },
   {
-    "target": "ESP",
+    "target": "ES",
     "ICO2": "ES",
     "Wiki": "/wiki/Spain",
-    "Name": "Spain"
+    "Name": "Spain",
+    "ICO3": "ESP",
+    "Top Level Domain": "es",
+    "Capital": "Madrid",
+    "Time Zone in Capital": "Europe/Madrid",
+    "Currency": "Euro",
+    "Languages": "Castilian Spanish (official) 74%, Catalan 17%, Galician 7%, and Basque 2%",
+    "Area KM2": 504782
   },
   {
-    "target": "KNA",
+    "target": "KN",
     "ICO2": "KN",
     "Wiki": "/wiki/Saint_Kitts_and_Nevis",
-    "Name": "Saint Kitts and Nevis"
+    "Name": "Saint Kitts and Nevis",
+    "ICO3": "KNA",
+    "Top Level Domain": "kn",
+    "Capital": "Basseterre",
+    "Time Zone in Capital": "America/St_Kitts",
+    "Currency": "Dollar",
+    "Languages": "English (official)",
+    "Area KM2": 261
   },
   {
-    "target": "LCA",
+    "target": "LC",
     "ICO2": "LC",
     "Wiki": "/wiki/Saint_Lucia",
-    "Name": "Saint Lucia"
+    "Name": "Saint Lucia",
+    "ICO3": "LCA",
+    "Top Level Domain": "lc",
+    "Capital": "Castries",
+    "Time Zone in Capital": "America/St_Lucia",
+    "Currency": "Dollar",
+    "Languages": "English (official), French patois",
+    "Area KM2": 616
   },
   {
-    "target": "MAF",
+    "target": "MF",
     "ICO2": "MF",
     "Wiki": "/wiki/Saint_Martin_(French_part)",
-    "Name": "Saint Martin (French part)"
+    "Name": "Saint Martin (French part)",
+    "ICO3": "MAF",
+    "Top Level Domain": "gp",
+    "Capital": "Marigot",
+    "Time Zone in Capital": "America/Marigot",
+    "Currency": "Euro",
+    "Languages": "French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)",
+    "Area KM2": 53
   },
   {
-    "target": "VCT",
+    "target": "VC",
     "ICO2": "VC",
     "Wiki": "/wiki/Saint_Vincent_and_the_Grenadines",
-    "Name": "Saint Vincent and the Grenadines"
+    "Name": "Saint Vincent and the Grenadines",
+    "ICO3": "VCT",
+    "Top Level Domain": "vc",
+    "Capital": "Kingstown",
+    "Time Zone in Capital": "America/St_Vincent",
+    "Currency": "Dollar",
+    "Languages": "English, French patois",
+    "Area KM2": 389
   },
   {
-    "target": "SSF"
+    "ICO3": "SSF"
   },
   {
-    "target": "SSA"
+    "ICO3": "SSA"
   },
   {
-    "target": "TSS"
+    "ICO3": "TSS"
   },
   {
-    "target": "SDN",
+    "target": "SD",
     "ICO2": "SD",
     "Wiki": "/wiki/Sudan",
-    "Name": "Sudan"
+    "Name": "Sudan",
+    "ICO3": "SDN",
+    "Top Level Domain": "sd",
+    "Capital": "Khartoum",
+    "Time Zone in Capital": "Africa/Khartoum",
+    "Currency": "Pound",
+    "Languages": "Arabic (official), English (official), Nubian, Ta Bedawie, Fur",
+    "Area KM2": 1861484
   },
   {
-    "target": "SUR",
+    "target": "SR",
     "ICO2": "SR",
     "Wiki": "/wiki/Suriname",
-    "Name": "Suriname"
+    "Name": "Suriname",
+    "ICO3": "SUR",
+    "Top Level Domain": "sr",
+    "Capital": "Paramaribo",
+    "Time Zone in Capital": "America/Paramaribo",
+    "Currency": "Dollar",
+    "Languages": "Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese",
+    "Area KM2": 163270
   },
   {
-    "target": "SWZ",
+    "target": "SZ",
     "ICO2": "SZ",
     "Wiki": "/wiki/Swaziland",
-    "Name": "Swaziland"
+    "Name": "Swaziland",
+    "ICO3": "SWZ",
+    "Top Level Domain": "sz",
+    "Capital": "Mbabane",
+    "Time Zone in Capital": "Africa/Mbabane",
+    "Currency": "Lilangeni",
+    "Languages": "English (official, used for government business), siSwati (official)",
+    "Area KM2": 17363
   },
   {
-    "target": "SWE",
+    "target": "SE",
     "ICO2": "SE",
     "Wiki": "/wiki/Sweden",
-    "Name": "Sweden"
+    "Name": "Sweden",
+    "ICO3": "SWE",
+    "Top Level Domain": "se",
+    "Capital": "Stockholm",
+    "Time Zone in Capital": "Europe/Stockholm",
+    "Currency": "Krona",
+    "Languages": "Swedish (official), small Sami- and Finnish-speaking minorities",
+    "Area KM2": 449964
   },
   {
-    "target": "CHE",
+    "target": "CH",
     "ICO2": "CH",
     "Wiki": "/wiki/Switzerland",
-    "Name": "Switzerland"
+    "Name": "Switzerland",
+    "ICO3": "CHE",
+    "Top Level Domain": "ch",
+    "Capital": "Berne",
+    "Time Zone in Capital": "Europe/Zurich",
+    "Currency": "Franc",
+    "Languages": "German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1%",
+    "Area KM2": 41290
   },
   {
-    "target": "SYR",
+    "target": "SY",
     "ICO2": "SY",
     "Wiki": "/wiki/Syrian_Arab_Republic",
-    "Name": "Syrian Arab Republic"
+    "Name": "Syrian Arab Republic",
+    "ICO3": "SYR",
+    "Top Level Domain": "sy",
+    "Capital": "Damascus",
+    "Time Zone in Capital": "Asia/Damascus",
+    "Currency": "Pound",
+    "Languages": "Arabic (official), Kurdish, Armenian, Aramaic, Circassian (widely understood); French, English (somewhat understood)",
+    "Area KM2": 185180
   },
   {
-    "target": "TJK",
+    "target": "TJ",
     "ICO2": "TJ",
     "Wiki": "/wiki/Tajikistan",
-    "Name": "Tajikistan"
+    "Name": "Tajikistan",
+    "ICO3": "TJK",
+    "Top Level Domain": "tj",
+    "Capital": "Dushanbe",
+    "Time Zone in Capital": "Asia/Dushanbe",
+    "Currency": "Somoni",
+    "Languages": "Tajik (official), Russian widely used in government and business",
+    "Area KM2": 143100
   },
   {
-    "target": "THA",
+    "target": "TH",
     "ICO2": "TH",
     "Wiki": "/wiki/Thailand",
-    "Name": "Thailand"
+    "Name": "Thailand",
+    "ICO3": "THA",
+    "Top Level Domain": "th",
+    "Capital": "Bangkok",
+    "Time Zone in Capital": "Asia/Bangkok",
+    "Currency": "Baht",
+    "Languages": "Thai (official) 90.7%, Burmese 1.3%, other 8%",
+    "Area KM2": 514000
   },
   {
-    "target": "TMP"
+    "ICO3": "TMP"
   },
   {
-    "target": "TON",
+    "target": "TO",
     "ICO2": "TO",
     "Wiki": "/wiki/Tonga",
-    "Name": "Tonga"
+    "Name": "Tonga",
+    "ICO3": "TON",
+    "Top Level Domain": "to",
+    "Capital": "Nuku'alofa",
+    "Time Zone in Capital": "Pacific/Tongatapu",
+    "Currency": "Pa'anga",
+    "Languages": "English and Tongan 87%, Tongan (official) 10.7%, English (official) 1.2%, other 1.1%, uspecified 0.03% (2006 est.)",
+    "Area KM2": 748
   },
   {
-    "target": "TTO",
+    "target": "TT",
     "ICO2": "TT",
     "Wiki": "/wiki/Trinidad_and_Tobago",
-    "Name": "Trinidad and Tobago"
+    "Name": "Trinidad and Tobago",
+    "ICO3": "TTO",
+    "Top Level Domain": "tt",
+    "Capital": "Port of Spain",
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar",
+    "Languages": "English (official), Caribbean Hindustani (a dialect of Hindi), French, Spanish, Chinese",
+    "Area KM2": 5128
   },
   {
-    "target": "TUN",
+    "target": "TN",
     "ICO2": "TN",
     "Wiki": "/wiki/Tunisia",
-    "Name": "Tunisia"
+    "Name": "Tunisia",
+    "ICO3": "TUN",
+    "Top Level Domain": "tn",
+    "Capital": "Tunis",
+    "Time Zone in Capital": "Africa/Tunis",
+    "Currency": "Dinar",
+    "Languages": "Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight)",
+    "Area KM2": 163610
   },
   {
-    "target": "TUR",
+    "target": "TR",
     "ICO2": "TR",
     "Wiki": "/wiki/Turkey",
-    "Name": "Turkey"
+    "Name": "Turkey",
+    "ICO3": "TUR",
+    "Top Level Domain": "tr",
+    "Capital": "Ankara",
+    "Time Zone in Capital": "Europe/Istanbul",
+    "Currency": "Lira",
+    "Languages": "Turkish (official), Kurdish, other minority languages",
+    "Area KM2": 780580
   },
   {
-    "target": "TKM",
+    "target": "TM",
     "ICO2": "TM",
     "Wiki": "/wiki/Turkmenistan",
-    "Name": "Turkmenistan"
+    "Name": "Turkmenistan",
+    "ICO3": "TKM",
+    "Top Level Domain": "tm",
+    "Capital": "Ashgabat",
+    "Time Zone in Capital": "Asia/Ashgabat",
+    "Currency": "Manat",
+    "Languages": "Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%",
+    "Area KM2": 488100
   },
   {
-    "target": "TCA",
+    "target": "TC",
     "ICO2": "TC",
     "Wiki": "/wiki/Turks_and_Caicos_Islands",
-    "Name": "Turks and Caicos Islands"
+    "Name": "Turks and Caicos Islands",
+    "ICO3": "TCA",
+    "Top Level Domain": "tc",
+    "Capital": "Cockburn Town",
+    "Time Zone in Capital": "America/Grand_Turk",
+    "Currency": "Dollar",
+    "Languages": "English (official)",
+    "Area KM2": 430
   },
   {
-    "target": "TUV",
+    "target": "TV",
     "ICO2": "TV",
     "Wiki": "/wiki/Tuvalu",
-    "Name": "Tuvalu"
+    "Name": "Tuvalu",
+    "ICO3": "TUV",
+    "Top Level Domain": "tv",
+    "Capital": "Funafuti",
+    "Time Zone in Capital": "Pacific/Funafuti",
+    "Currency": "Dollar",
+    "Languages": "Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)",
+    "Area KM2": 26
   },
   {
-    "target": "UKR",
+    "target": "UA",
     "ICO2": "UA",
     "Wiki": "/wiki/Ukraine",
-    "Name": "Ukraine"
+    "Name": "Ukraine",
+    "ICO3": "UKR",
+    "Top Level Domain": "ua",
+    "Capital": "Kiev",
+    "Time Zone in Capital": "Europe/Kiev",
+    "Currency": "Hryvnia",
+    "Languages": "Ukrainian (official) 67%, Russian (regional language) 24%, other (includes small Romanian-, Polish-, and Hungarian-speaking minorities) 9%",
+    "Area KM2": 603700
   },
   {
-    "target": "ARE",
+    "target": "AE",
     "ICO2": "AE",
     "Wiki": "/wiki/United_Arab_Emirates",
-    "Name": "United Arab Emirates"
+    "Name": "United Arab Emirates",
+    "ICO3": "ARE",
+    "Top Level Domain": "ae",
+    "Capital": "Abu Dhabi",
+    "Time Zone in Capital": "Asia/Dubai",
+    "Currency": "Dirham",
+    "Languages": "Arabic (official), Persian, English, Hindi, Urdu",
+    "Area KM2": 82880
   },
   {
-    "target": "GBR",
+    "target": "GB",
     "ICO2": "GB",
     "Wiki": "/wiki/United_Kingdom_of_Great_Britain_and_Northern_Ireland",
-    "Name": "United Kingdom of Great Britain and Northern Ireland"
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "ICO3": "GBR",
+    "Top Level Domain": "uk",
+    "Capital": "London",
+    "Time Zone in Capital": "Europe/London",
+    "Currency": "Pound",
+    "Languages": "English",
+    "Area KM2": 244820
   },
   {
-    "target": "USA",
+    "target": "US",
     "ICO2": "US",
     "Wiki": "/wiki/United_States_of_America",
-    "Name": "United States of America"
+    "Name": "United States of America",
+    "ICO3": "USA",
+    "Top Level Domain": "us",
+    "Capital": "Washington",
+    "Time Zone in Capital": "America/New_York",
+    "Currency": "Dollar",
+    "Languages": "English 82.1%, Spanish 10.7%, other Indo-European 3.8%, Asian and Pacific island 2.7%, other 0.7% (2000 census)",
+    "Area KM2": 9629091
   },
   {
-    "target": "UMC"
+    "ICO3": "UMC"
   },
   {
-    "target": "URY",
+    "target": "UY",
     "ICO2": "UY",
     "Wiki": "/wiki/Uruguay",
-    "Name": "Uruguay"
+    "Name": "Uruguay",
+    "ICO3": "URY",
+    "Top Level Domain": "uy",
+    "Capital": "Montevideo",
+    "Time Zone in Capital": "America/Montevideo",
+    "Currency": "Peso",
+    "Languages": "Spanish (official), Portunol, Brazilero (Portuguese-Spanish mix on the Brazilian frontier)",
+    "Area KM2": 176220
   },
   {
-    "target": "UZB",
+    "target": "UZ",
     "ICO2": "UZ",
     "Wiki": "/wiki/Uzbekistan",
-    "Name": "Uzbekistan"
+    "Name": "Uzbekistan",
+    "ICO3": "UZB",
+    "Top Level Domain": "uz",
+    "Capital": "Tashkent",
+    "Time Zone in Capital": "Asia/Tashkent",
+    "Currency": "Som",
+    "Languages": "Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%",
+    "Area KM2": 447400
   },
   {
-    "target": "VUT",
+    "target": "VU",
     "ICO2": "VU",
     "Wiki": "/wiki/Vanuatu",
-    "Name": "Vanuatu"
+    "Name": "Vanuatu",
+    "ICO3": "VUT",
+    "Top Level Domain": "vu",
+    "Capital": "Port Vila",
+    "Time Zone in Capital": "Pacific/Efate",
+    "Currency": "Vatu",
+    "Languages": "local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)",
+    "Area KM2": 12200
   },
   {
-    "target": "VEN",
+    "target": "VE",
     "ICO2": "VE",
     "Wiki": "/wiki/Venezuela_(Bolivarian_Republic_of)",
-    "Name": "Venezuela (Bolivarian Republic of)"
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "ICO3": "VEN",
+    "Top Level Domain": "ve",
+    "Capital": "Caracas",
+    "Time Zone in Capital": "America/Caracas",
+    "Currency": "Bolivar",
+    "Languages": "Spanish (official), numerous indigenous dialects",
+    "Area KM2": 912050
   },
   {
-    "target": "VIR",
+    "target": "VI",
     "ICO2": "VI",
     "Wiki": "/wiki/United_States_Virgin_Islands",
-    "Name": "United States Virgin Islands"
+    "Name": "United States Virgin Islands",
+    "ICO3": "VIR",
+    "Top Level Domain": "vi",
+    "Capital": "Charlotte Amalie",
+    "Time Zone in Capital": "America/St_Thomas",
+    "Currency": "Dollar",
+    "Languages": "English 74.7%, Spanish or Spanish Creole 16.8%, French or French Creole 6.6%, other 1.9% (2000 census)",
+    "Area KM2": 352
   },
   {
-    "target": "WBG"
+    "ICO3": "WBG"
   },
   {
-    "target": "WLD"
+    "ICO3": "WLD"
   },
   {
-    "target": "YEM",
+    "target": "YE",
     "ICO2": "YE",
     "Wiki": "/wiki/Yemen",
-    "Name": "Yemen"
+    "Name": "Yemen",
+    "ICO3": "YEM",
+    "Top Level Domain": "ye",
+    "Capital": "Sanaa",
+    "Time Zone in Capital": "Asia/Aden",
+    "Currency": "Rial",
+    "Languages": "Arabic (official)",
+    "Area KM2": 527970
   },
   {
-    "target": "ZMB",
+    "target": "ZM",
     "ICO2": "ZM",
     "Wiki": "/wiki/Zambia",
-    "Name": "Zambia"
+    "Name": "Zambia",
+    "ICO3": "ZMB",
+    "Top Level Domain": "zm",
+    "Capital": "Lusaka",
+    "Time Zone in Capital": "Africa/Lusaka",
+    "Currency": "Kwacha",
+    "Languages": "Bembe 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.2%, unspecified 0.4%",
+    "Area KM2": 752614
   },
   {
-    "target": "ZWE",
+    "target": "ZW",
     "ICO2": "ZW",
     "Wiki": "/wiki/Zimbabwe",
-    "Name": "Zimbabwe"
+    "Name": "Zimbabwe",
+    "ICO3": "ZWE",
+    "Top Level Domain": "zw",
+    "Capital": "Harare",
+    "Time Zone in Capital": "Africa/Harare",
+    "Currency": "Dollar",
+    "Languages": "English (official), Shona, Sindebele (the language of the Ndebele, sometimes called Ndebele), numerous but minor tribal dialects",
+    "Area KM2": 390580
   }
 ]
