@@ -10,7 +10,8 @@
     "Time Zone in Capital": "Asia/Kolkata",
     "Currency": "Rupee",
     "Languages": "Hindi 41%, Bengali 8.1%, Telugu 7.2%, Marathi 7%, Tamil 5.9%, Urdu 5%, Gujarati 4.5%, Kannada 3.7%, Malayalam 3.2%, Oriya 3.2%, Punjabi 2.8%, Assamese 1.3%, Maithili 1.2%, other 5.9%",
-    "Area KM2": 3287590
+    "Area KM2": 3287590,
+    "CurrencyCode": "INR"
   },
   {
     "target": "BD",
@@ -23,7 +24,8 @@
     "Time Zone in Capital": "Asia/Dhaka",
     "Currency": "Taka",
     "Languages": "Bangla (official, also known as Bengali), English",
-    "Area KM2": 144000
+    "Area KM2": 144000,
+    "CurrencyCode": "BDT"
   },
   {
     "target": "PK",
@@ -36,7 +38,8 @@
     "Time Zone in Capital": "Asia/Karachi",
     "Currency": "Rupee",
     "Languages": "Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%",
-    "Area KM2": 803940
+    "Area KM2": 803940,
+    "CurrencyCode": "PKR"
   },
   {
     "target": "MX",
@@ -49,7 +52,8 @@
     "Time Zone in Capital": "America/Mexico_City",
     "Currency": "Peso",
     "Languages": "Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%",
-    "Area KM2": 1972550
+    "Area KM2": 1972550,
+    "CurrencyCode": "MXN"
   },
   {
     "target": "VN",
@@ -62,7 +66,8 @@
     "Time Zone in Capital": "Asia/Ho_Chi_Minh",
     "Currency": "Dong",
     "Languages": "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)",
-    "Area KM2": 329560
+    "Area KM2": 329560,
+    "CurrencyCode": "VND"
   },
   {
     "target": "PE",
@@ -75,7 +80,8 @@
     "Time Zone in Capital": "America/Lima",
     "Currency": "Sol",
     "Languages": "Spanish (official) 84.1%, Quechua (official) 13%, Aymara (official) 1.7%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.7%, other (includes foreign languages and sign language) 0.2% (2007 est.)",
-    "Area KM2": 1285220
+    "Area KM2": 1285220,
+    "CurrencyCode": "PEN"
   },
   {
     "target": "CO",
@@ -88,7 +94,8 @@
     "Time Zone in Capital": "America/Bogota",
     "Currency": "Peso",
     "Languages": "Spanish (official)",
-    "Area KM2": 1138910
+    "Area KM2": 1138910,
+    "CurrencyCode": "COP"
   },
   {
     "target": "PH",
@@ -101,7 +108,8 @@
     "Time Zone in Capital": "Asia/Manila",
     "Currency": "Peso",
     "Languages": "Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan",
-    "Area KM2": 300000
+    "Area KM2": 300000,
+    "CurrencyCode": "PHP"
   },
   {
     "target": "NP",
@@ -114,7 +122,8 @@
     "Time Zone in Capital": "Asia/Kathmandu",
     "Currency": "Rupee",
     "Languages": "Nepali (official) 44.6%, Maithali 11.7%, Bhojpuri 6%, Tharu 5.8%, Tamang 5.1%, Newar 3.2%, Magar 3%, Bajjika 3%, Urdu 2.6%, Avadhi 1.9%, Limbu 1.3%, Gurung 1.2%, other 10.4%, unspecified 0.2%",
-    "Area KM2": 140800
+    "Area KM2": 140800,
+    "CurrencyCode": "NPR"
   },
   {
     "target": "BR",
@@ -127,7 +136,8 @@
     "Time Zone in Capital": "America/Sao_Paulo",
     "Currency": "Real",
     "Languages": "Portuguese (official and most widely spoken language)",
-    "Area KM2": 8511965
+    "Area KM2": 8511965,
+    "CurrencyCode": "BRL"
   },
   {
     "target": "KH",
@@ -140,7 +150,8 @@
     "Time Zone in Capital": "Asia/Phnom_Penh",
     "Currency": "Riels",
     "Languages": "Khmer (official) 96.3%, other 3.7% (2008 est.)",
-    "Area KM2": 181040
+    "Area KM2": 181040,
+    "CurrencyCode": "KHR"
   },
   {
     "target": "EC",
@@ -153,7 +164,8 @@
     "Time Zone in Capital": "America/Guayaquil",
     "Currency": "Dollar",
     "Languages": "Spanish (Castillian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%",
-    "Area KM2": 283560
+    "Area KM2": 283560,
+    "CurrencyCode": "USD"
   },
   {
     "target": "BO",
@@ -166,7 +178,8 @@
     "Time Zone in Capital": "America/La_Paz",
     "Currency": "Boliviano",
     "Languages": "Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official), foreign languages 2.4%, other 1.2%",
-    "Area KM2": 1098580
+    "Area KM2": 1098580,
+    "CurrencyCode": "BOB"
   },
   {
     "target": "ET",
@@ -179,7 +192,8 @@
     "Time Zone in Capital": "Africa/Addis_Ababa",
     "Currency": "Birr",
     "Languages": "Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)",
-    "Area KM2": 1127127
+    "Area KM2": 1127127,
+    "CurrencyCode": "ETB"
   },
   {
     "target": "PY",
@@ -192,7 +206,8 @@
     "Time Zone in Capital": "America/Asuncion",
     "Currency": "Guarani",
     "Languages": "Spanish (official), Guarani (official)",
-    "Area KM2": 406750
+    "Area KM2": 406750,
+    "CurrencyCode": "PYG"
   },
   {
     "target": "NG",
@@ -205,7 +220,8 @@
     "Time Zone in Capital": "Africa/Lagos",
     "Currency": "Naira",
     "Languages": "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages",
-    "Area KM2": 923768
+    "Area KM2": 923768,
+    "CurrencyCode": "NGN"
   },
   {
     "target": "ID",
@@ -218,7 +234,8 @@
     "Time Zone in Capital": "Asia/Jakarta",
     "Currency": "Rupiah",
     "Languages": "Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese)",
-    "Area KM2": 1919440
+    "Area KM2": 1919440,
+    "CurrencyCode": "IDR"
   },
   {
     "target": "LK",
@@ -231,7 +248,8 @@
     "Time Zone in Capital": "Asia/Colombo",
     "Currency": "Rupee",
     "Languages": "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
-    "Area KM2": 65610
+    "Area KM2": 65610,
+    "CurrencyCode": "LKR"
   },
   {
     "target": "AF",
@@ -244,7 +262,8 @@
     "Time Zone in Capital": "Asia/Kabul",
     "Currency": "Afghani",
     "Languages": "Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism, but Dari functions as the lingua franca",
-    "Area KM2": 647500
+    "Area KM2": 647500,
+    "CurrencyCode": "AFN"
   },
   {
     "target": "MM",
@@ -257,7 +276,8 @@
     "Time Zone in Capital": "Asia/Rangoon",
     "Currency": "Kyat",
     "Languages": "Burmese (official)",
-    "Area KM2": 678500
+    "Area KM2": 678500,
+    "CurrencyCode": "MMK"
   },
   {
     "target": "DO",
@@ -270,7 +290,8 @@
     "Time Zone in Capital": "America/Santo_Domingo",
     "Currency": "Peso",
     "Languages": "Spanish (official)",
-    "Area KM2": 48730
+    "Area KM2": 48730,
+    "CurrencyCode": "DOP"
   },
   {
     "target": "CN",
@@ -283,7 +304,8 @@
     "Time Zone in Capital": "Asia/Shanghai",
     "Currency": "Yuan Renminbi",
     "Languages": "Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages",
-    "Area KM2": 9596960
+    "Area KM2": 9596960,
+    "CurrencyCode": "CNY"
   },
   {
     "target": "BT",
@@ -296,7 +318,8 @@
     "Time Zone in Capital": "Asia/Thimphu",
     "Currency": "Ngultrum",
     "Languages": "Sharchhopka 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes foreign languages) (2005 est.)",
-    "Area KM2": 47000
+    "Area KM2": 47000,
+    "CurrencyCode": "BTN"
   },
   {
     "target": "GT",
@@ -309,7 +332,8 @@
     "Time Zone in Capital": "America/Guatemala",
     "Currency": "Quetzal",
     "Languages": "Spanish (official) 60%, Amerindian languages 40%",
-    "Area KM2": 108890
+    "Area KM2": 108890,
+    "CurrencyCode": "GTQ"
   },
   {
     "target": "NI",
@@ -322,7 +346,8 @@
     "Time Zone in Capital": "America/Managua",
     "Currency": "Cordoba",
     "Languages": "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%",
-    "Area KM2": 129494
+    "Area KM2": 129494,
+    "CurrencyCode": "NIO"
   },
   {
     "target": "CL",
@@ -335,7 +360,8 @@
     "Time Zone in Capital": "America/Santiago",
     "Currency": "Peso",
     "Languages": "Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%",
-    "Area KM2": 756950
+    "Area KM2": 756950,
+    "CurrencyCode": "CLP"
   },
   {
     "target": "KE",
@@ -348,7 +374,8 @@
     "Time Zone in Capital": "Africa/Nairobi",
     "Currency": "Shilling",
     "Languages": "English (official), Kiswahili (official), numerous indigenous languages",
-    "Area KM2": 582650
+    "Area KM2": 582650,
+    "CurrencyCode": "KES"
   },
   {
     "target": "HN",
@@ -361,7 +388,8 @@
     "Time Zone in Capital": "America/Tegucigalpa",
     "Currency": "Lempira",
     "Languages": "Spanish (official), Amerindian dialects",
-    "Area KM2": 112090
+    "Area KM2": 112090,
+    "CurrencyCode": "HNL"
   },
   {
     "target": "BJ",
@@ -374,7 +402,8 @@
     "Time Zone in Capital": "Africa/Porto-Novo",
     "Currency": "Franc",
     "Languages": "French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)",
-    "Area KM2": 112620
+    "Area KM2": 112620,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "AZ",
@@ -387,7 +416,8 @@
     "Time Zone in Capital": "Asia/Baku",
     "Currency": "Manat",
     "Languages": "Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)",
-    "Area KM2": 86600
+    "Area KM2": 86600,
+    "CurrencyCode": "AZN"
   },
   {
     "target": "GH",
@@ -400,7 +430,8 @@
     "Time Zone in Capital": "Africa/Accra",
     "Currency": "Cedi",
     "Languages": "Asante 14.8%, Ewe 12.7%, Fante 9.9%, Boron (Brong) 4.6%, Dagomba 4.3%, Dangme 4.3%, Dagarte (Dagaba) 3.7%, Akyem 3.4%, Ga 3.4%, Akuapem 2.9%, other (includes English (official)) 36.1% (2000 census)",
-    "Area KM2": 239460
+    "Area KM2": 239460,
+    "CurrencyCode": "GHS"
   },
   {
     "target": "SV",
@@ -413,7 +444,8 @@
     "Time Zone in Capital": "America/El_Salvador",
     "Currency": "Dollar",
     "Languages": "Spanish (official), Nahua (among some Amerindians)",
-    "Area KM2": 21040
+    "Area KM2": 21040,
+    "CurrencyCode": "USD"
   },
   {
     "target": "UG",
@@ -426,7 +458,8 @@
     "Time Zone in Capital": "Africa/Kampala",
     "Currency": "Shilling",
     "Languages": "English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",
-    "Area KM2": 236040
+    "Area KM2": 236040,
+    "CurrencyCode": "UGX"
   },
   {
     "target": "TZ",
@@ -439,7 +472,8 @@
     "Time Zone in Capital": "Africa/Dar_es_Salaam",
     "Currency": "Shilling",
     "Languages": "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
-    "Area KM2": 945087
+    "Area KM2": 945087,
+    "CurrencyCode": "TZS"
   },
   {
     "target": "HT",
@@ -452,7 +486,8 @@
     "Time Zone in Capital": "America/Port-au-Prince",
     "Currency": "Gourde",
     "Languages": "French (official), Creole (official)",
-    "Area KM2": 27750
+    "Area KM2": 27750,
+    "CurrencyCode": "HTG"
   },
   {
     "target": "TG",
@@ -465,7 +500,8 @@
     "Time Zone in Capital": "Africa/Lome",
     "Currency": "Franc",
     "Languages": "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)",
-    "Area KM2": 56785
+    "Area KM2": 56785,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "SN",
@@ -478,7 +514,8 @@
     "Time Zone in Capital": "Africa/Dakar",
     "Currency": "Franc",
     "Languages": "French (official), Wolof, Pulaar, Jola, Mandinka",
-    "Area KM2": 196190
+    "Area KM2": 196190,
+    "CurrencyCode": "XOF"
   },
   {
     "ICO3": "ZAR"
@@ -494,7 +531,8 @@
     "Time Zone in Capital": "Indian/Antananarivo",
     "Currency": "Ariary",
     "Languages": "French (official), Malagasy (official), English",
-    "Area KM2": 587040
+    "Area KM2": 587040,
+    "CurrencyCode": "MGA"
   },
   {
     "target": "MN",
@@ -507,7 +545,8 @@
     "Time Zone in Capital": "Asia/Ulaanbaatar",
     "Currency": "Tugrik",
     "Languages": "Khalkha Mongol 90% (official), Turkic, Russian (1999)",
-    "Area KM2": 1565000
+    "Area KM2": 1565000,
+    "CurrencyCode": "MNT"
   },
   {
     "target": "NE",
@@ -520,7 +559,8 @@
     "Time Zone in Capital": "Africa/Niamey",
     "Currency": "Franc",
     "Languages": "French (official), Hausa, Djerma",
-    "Area KM2": 1267000
+    "Area KM2": 1267000,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "MA",
@@ -533,7 +573,8 @@
     "Time Zone in Capital": "Africa/Casablanca",
     "Currency": "Dirham",
     "Languages": "Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy)",
-    "Area KM2": 446550
+    "Area KM2": 446550,
+    "CurrencyCode": "MAD"
   },
   {
     "target": "CM",
@@ -546,7 +587,8 @@
     "Time Zone in Capital": "Africa/Douala",
     "Currency": "Franc",
     "Languages": "24 major African language groups, English (official), French (official)",
-    "Area KM2": 475440
+    "Area KM2": 475440,
+    "CurrencyCode": "XAF"
   },
   {
     "target": "BF",
@@ -559,7 +601,8 @@
     "Time Zone in Capital": "Africa/Ouagadougou",
     "Currency": "Franc",
     "Languages": "French (official), native African languages belonging to Sudanic family spoken by 90% of the population",
-    "Area KM2": 274200
+    "Area KM2": 274200,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "KG",
@@ -572,7 +615,8 @@
     "Time Zone in Capital": "Asia/Bishkek",
     "Currency": "Som",
     "Languages": "Kyrgyz (official) 64.7%, Uzbek 13.6%, Russian (official) 12.5%, Dungun 1%, other 8.2% (1999 census)",
-    "Area KM2": 198500
+    "Area KM2": 198500,
+    "CurrencyCode": "KGS"
   },
   {
     "target": "EG",
@@ -585,7 +629,8 @@
     "Time Zone in Capital": "Africa/Cairo",
     "Currency": "Pound",
     "Languages": "Arabic (official), English and French widely understood by educated classes",
-    "Area KM2": 1001450
+    "Area KM2": 1001450,
+    "CurrencyCode": "EGP"
   },
   {
     "target": "AM",
@@ -598,7 +643,8 @@
     "Time Zone in Capital": "Asia/Yerevan",
     "Currency": "Dram",
     "Languages": "Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1% (2011 est.)",
-    "Area KM2": 29800
+    "Area KM2": 29800,
+    "CurrencyCode": "AMD"
   },
   {
     "target": "RW",
@@ -611,7 +657,8 @@
     "Time Zone in Capital": "Africa/Kigali",
     "Currency": "Franc",
     "Languages": "Kinyarwanda only (official, universal Bantu vernacular) 93.2%, Kinyarwanda and other language(s) 6.2%, French (official) and other language(s) 0.1%, English (official) and other language(s) 0.1%, Swahili (or Kiswahili, used in commercial centers) 0.02%, other 0.03%, unspecified 0.3% (2002 est.)",
-    "Area KM2": 26338
+    "Area KM2": 26338,
+    "CurrencyCode": "RWF"
   },
   {
     "target": "AL",
@@ -624,7 +671,8 @@
     "Time Zone in Capital": "Europe/Tirane",
     "Currency": "Lek",
     "Languages": "Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Roma, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)",
-    "Area KM2": 28748
+    "Area KM2": 28748,
+    "CurrencyCode": "ALL"
   },
   {
     "target": "DZ",
@@ -637,7 +685,8 @@
     "Time Zone in Capital": "Africa/Algiers",
     "Currency": "Dinar",
     "Languages": "Arabic (official), French (lingua franca), Berber dialects: Kabylie Berber (Tamazight), Chaouia Berber (Tachawit), Mzab Berber, Tuareg Berber (Tamahaq)",
-    "Area KM2": 2381740
+    "Area KM2": 2381740,
+    "CurrencyCode": "DZD"
   },
   {
     "target": "AS",
@@ -650,7 +699,8 @@
     "Time Zone in Capital": "Pacific/Pago_Pago",
     "Currency": "Dollar",
     "Languages": "Samoan 90.6% (closely related to Hawaiian and other Polynesian languages), English 2.9%, Tongan 2.4%, other Pacific islander 2.1%, other 2%",
-    "Area KM2": 199
+    "Area KM2": 199,
+    "CurrencyCode": "USD"
   },
   {
     "ICO3": "ADO"
@@ -666,7 +716,8 @@
     "Time Zone in Capital": "Africa/Luanda",
     "Currency": "Kwanza",
     "Languages": "Portuguese (official), Bantu and other African languages",
-    "Area KM2": 1246700
+    "Area KM2": 1246700,
+    "CurrencyCode": "AOA"
   },
   {
     "target": "AG",
@@ -679,7 +730,8 @@
     "Time Zone in Capital": "America/Antigua",
     "Currency": "Dollar",
     "Languages": "English (official), local dialects",
-    "Area KM2": 443
+    "Area KM2": 443,
+    "CurrencyCode": "XCD"
   },
   {
     "ICO3": "ARB"
@@ -695,7 +747,8 @@
     "Time Zone in Capital": "America/Argentina/Buenos_Aires",
     "Currency": "Peso",
     "Languages": "Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)",
-    "Area KM2": 2766890
+    "Area KM2": 2766890,
+    "CurrencyCode": "ARS"
   },
   {
     "target": "AW",
@@ -708,7 +761,8 @@
     "Time Zone in Capital": "America/Aruba",
     "Currency": "Guilder",
     "Languages": "Papiamento (a Spanish-Portuguese-Dutch-English dialect) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)",
-    "Area KM2": 193
+    "Area KM2": 193,
+    "CurrencyCode": "AWG"
   },
   {
     "target": "AU",
@@ -721,7 +775,8 @@
     "Time Zone in Capital": "Australia/Sydney",
     "Currency": "Dollar",
     "Languages": "English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.)",
-    "Area KM2": 7686850
+    "Area KM2": 7686850,
+    "CurrencyCode": "AUD"
   },
   {
     "target": "AT",
@@ -734,7 +789,8 @@
     "Time Zone in Capital": "Europe/Vienna",
     "Currency": "Euro",
     "Languages": "German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census)",
-    "Area KM2": 83858
+    "Area KM2": 83858,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "BS",
@@ -747,7 +803,8 @@
     "Time Zone in Capital": "America/Nassau",
     "Currency": "Dollar",
     "Languages": "English (official), Creole (among Haitian immigrants)",
-    "Area KM2": 13940
+    "Area KM2": 13940,
+    "CurrencyCode": "BSD"
   },
   {
     "target": "BH",
@@ -760,7 +817,8 @@
     "Time Zone in Capital": "Asia/Bahrain",
     "Currency": "Dinar",
     "Languages": "Arabic (official), English, Farsi, Urdu",
-    "Area KM2": 665
+    "Area KM2": 665,
+    "CurrencyCode": "BHD"
   },
   {
     "target": "BB",
@@ -773,7 +831,8 @@
     "Time Zone in Capital": "America/Barbados",
     "Currency": "Dollar",
     "Languages": "English (official), Bajan (English-based creole language, widely spoken in informal settings)",
-    "Area KM2": 431
+    "Area KM2": 431,
+    "CurrencyCode": "BBD"
   },
   {
     "target": "BY",
@@ -786,7 +845,8 @@
     "Time Zone in Capital": "Europe/Minsk",
     "Currency": "Ruble",
     "Languages": "Belarusian (official) 23.4%, Russian (official) 70.2%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)",
-    "Area KM2": 207600
+    "Area KM2": 207600,
+    "CurrencyCode": "BYR"
   },
   {
     "target": "BE",
@@ -799,7 +859,8 @@
     "Time Zone in Capital": "Europe/Brussels",
     "Currency": "Euro",
     "Languages": "Dutch (official) 60%, French (official) 40%, German (official) less than 1%, legally bilingual (Dutch and French)",
-    "Area KM2": 30510
+    "Area KM2": 30510,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "BZ",
@@ -812,7 +873,8 @@
     "Time Zone in Capital": "America/Belize",
     "Currency": "Dollar",
     "Languages": "Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)",
-    "Area KM2": 22966
+    "Area KM2": 22966,
+    "CurrencyCode": "BZD"
   },
   {
     "target": "BM",
@@ -825,7 +887,8 @@
     "Time Zone in Capital": "Atlantic/Bermuda",
     "Currency": "Dollar",
     "Languages": "English (official), Portuguese",
-    "Area KM2": 53
+    "Area KM2": 53,
+    "CurrencyCode": "BMD"
   },
   {
     "target": "BA",
@@ -838,7 +901,8 @@
     "Time Zone in Capital": "Europe/Sarajevo",
     "Currency": "Marka",
     "Languages": "Bosnian (official), Croatian (official), Serbian (official)",
-    "Area KM2": 51129
+    "Area KM2": 51129,
+    "CurrencyCode": "BAM"
   },
   {
     "target": "BW",
@@ -851,7 +915,8 @@
     "Time Zone in Capital": "Africa/Gaborone",
     "Currency": "Pula",
     "Languages": "Setswana 78.2%, Kalanga 7.9%, Sekgalagadi 2.8%, English (official) 2.1%, other 8.6%, unspecified 0.4% (2001 census)",
-    "Area KM2": 600370
+    "Area KM2": 600370,
+    "CurrencyCode": "BWP"
   },
   {
     "target": "VG",
@@ -864,7 +929,8 @@
     "Time Zone in Capital": "America/Tortola",
     "Currency": "Dollar",
     "Languages": "English (official)",
-    "Area KM2": 153
+    "Area KM2": 153,
+    "CurrencyCode": "USD"
   },
   {
     "target": "BN",
@@ -877,7 +943,8 @@
     "Time Zone in Capital": "Asia/Brunei",
     "Currency": "Dollar",
     "Languages": "Malay (official), English, Chinese",
-    "Area KM2": 5770
+    "Area KM2": 5770,
+    "CurrencyCode": "BND"
   },
   {
     "target": "BG",
@@ -890,7 +957,8 @@
     "Time Zone in Capital": "Europe/Sofia",
     "Currency": "Lev",
     "Languages": "Bulgarian (official) 76.8%, Turkish 8.2%, Roma 3.8%, other 0.7%, unspecified 10.5% (2011 est.)",
-    "Area KM2": 110910
+    "Area KM2": 110910,
+    "CurrencyCode": "BGN"
   },
   {
     "target": "BI",
@@ -903,7 +971,8 @@
     "Time Zone in Capital": "Africa/Bujumbura",
     "Currency": "Franc",
     "Languages": "Kirundi 29.7% (official), Kirundi and other language 9.1%, French (official) and French and other language 0.3%, Swahili and Swahili and other language 0.2% (along Lake Tanganyika and in the Bujumbura area), English and English and other language 0.06%, more than 2 languages 3.7%, unspecified 56.9% (2008 est.)",
-    "Area KM2": 27830
+    "Area KM2": 27830,
+    "CurrencyCode": "BIF"
   },
   {
     "target": "CV",
@@ -916,7 +985,8 @@
     "Time Zone in Capital": "Atlantic/Cape_Verde",
     "Currency": "Escudo",
     "Languages": "Portuguese (official), Crioulo (a blend of Portuguese and West African words)",
-    "Area KM2": 4033
+    "Area KM2": 4033,
+    "CurrencyCode": "CVE"
   },
   {
     "target": "CA",
@@ -929,7 +999,8 @@
     "Time Zone in Capital": "America/Toronto",
     "Currency": "Dollar",
     "Languages": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)",
-    "Area KM2": 9984670
+    "Area KM2": 9984670,
+    "CurrencyCode": "CAD"
   },
   {
     "ICO3": "CSS"
@@ -945,7 +1016,8 @@
     "Time Zone in Capital": "America/Cayman",
     "Currency": "Dollar",
     "Languages": "English (official) 90.9%, Spanish 4%, Filipino 3.3%, other 1.7%, unspecified 0.1% (2010 est.)",
-    "Area KM2": 262
+    "Area KM2": 262,
+    "CurrencyCode": "KYD"
   },
   {
     "target": "CF",
@@ -958,7 +1030,8 @@
     "Time Zone in Capital": "Africa/Bangui",
     "Currency": "Franc",
     "Languages": "French (official), Sangho (lingua franca and national language), tribal languages",
-    "Area KM2": 622984
+    "Area KM2": 622984,
+    "CurrencyCode": "XAF"
   },
   {
     "ICO3": "CEB"
@@ -974,7 +1047,8 @@
     "Time Zone in Capital": "Africa/Ndjamena",
     "Currency": "Franc",
     "Languages": "French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects",
-    "Area KM2": 1284000
+    "Area KM2": 1284000,
+    "CurrencyCode": "XAF"
   },
   {
     "ICO3": "CHI"
@@ -990,7 +1064,8 @@
     "Time Zone in Capital": "Indian/Comoro",
     "Currency": "Franc",
     "Languages": "Arabic (official), French (official), Shikomoro (a blend of Swahili and Arabic)",
-    "Area KM2": 2170
+    "Area KM2": 2170,
+    "CurrencyCode": "KMF"
   },
   {
     "target": "CG",
@@ -1003,7 +1078,8 @@
     "Time Zone in Capital": "Africa/Brazzaville",
     "Currency": "Franc",
     "Languages": "French (official), Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)",
-    "Area KM2": 342000
+    "Area KM2": 342000,
+    "CurrencyCode": "XAF"
   },
   {
     "target": "CR",
@@ -1016,7 +1092,8 @@
     "Time Zone in Capital": "America/Costa_Rica",
     "Currency": "Colon",
     "Languages": "Spanish (official), English",
-    "Area KM2": 51100
+    "Area KM2": 51100,
+    "CurrencyCode": "CRC"
   },
   {
     "target": "CI",
@@ -1029,7 +1106,8 @@
     "Time Zone in Capital": "Africa/Abidjan",
     "Currency": "Franc",
     "Languages": "French (official), 60 native dialects of which Dioula is the most widely spoken",
-    "Area KM2": 322460
+    "Area KM2": 322460,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "HR",
@@ -1042,7 +1120,8 @@
     "Time Zone in Capital": "Europe/Zagreb",
     "Currency": "Kuna",
     "Languages": "Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)",
-    "Area KM2": 56542
+    "Area KM2": 56542,
+    "CurrencyCode": "HRK"
   },
   {
     "target": "CU",
@@ -1055,7 +1134,8 @@
     "Time Zone in Capital": "America/Havana",
     "Currency": "Peso",
     "Languages": "Spanish (official)",
-    "Area KM2": 110860
+    "Area KM2": 110860,
+    "CurrencyCode": "CUP"
   },
   {
     "target": "CW",
@@ -1068,7 +1148,8 @@
     "Time Zone in Capital": "America/Curacao",
     "Currency": "Guilder",
     "Languages": "Papiamentu (a Spanish-Portuguese-Dutch-English dialect) 81.2%, Dutch (official) 8%, Spanish 4%, English 2.9%, other 3.9% (2001 census)",
-    "Area KM2": 444
+    "Area KM2": 444,
+    "CurrencyCode": "ANG"
   },
   {
     "target": "CY",
@@ -1081,7 +1162,8 @@
     "Time Zone in Capital": "Asia/Nicosia",
     "Currency": "Euro",
     "Languages": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filippino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)",
-    "Area KM2": 9250
+    "Area KM2": 9250,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "CZ",
@@ -1094,7 +1176,8 @@
     "Time Zone in Capital": "Europe/Prague",
     "Currency": "Koruna",
     "Languages": "Czech 95.4%, Slovak 1.6%, other 3% (2011 census)",
-    "Area KM2": 78866
+    "Area KM2": 78866,
+    "CurrencyCode": "CZK"
   },
   {
     "target": "DK",
@@ -1107,7 +1190,8 @@
     "Time Zone in Capital": "Europe/Copenhagen",
     "Currency": "Krone",
     "Languages": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
-    "Area KM2": 43094
+    "Area KM2": 43094,
+    "CurrencyCode": "DKK"
   },
   {
     "target": "DJ",
@@ -1120,7 +1204,8 @@
     "Time Zone in Capital": "Africa/Djibouti",
     "Currency": "Franc",
     "Languages": "French (official), Arabic (official), Somali, Afar",
-    "Area KM2": 23000
+    "Area KM2": 23000,
+    "CurrencyCode": "DJF"
   },
   {
     "target": "DM",
@@ -1133,7 +1218,8 @@
     "Time Zone in Capital": "America/Dominica",
     "Currency": "Dollar",
     "Languages": "English (official), French patois",
-    "Area KM2": 754
+    "Area KM2": 754,
+    "CurrencyCode": "XCD"
   },
   {
     "ICO3": "EAR"
@@ -1158,7 +1244,8 @@
     "Time Zone in Capital": "Africa/Malabo",
     "Currency": "Franc",
     "Languages": "Spanish (official) 67.6%, other (includes French (official), Fang, Bubi) 32.4% (1994 census)",
-    "Area KM2": 28051
+    "Area KM2": 28051,
+    "CurrencyCode": "XAF"
   },
   {
     "target": "ER",
@@ -1171,7 +1258,8 @@
     "Time Zone in Capital": "Africa/Asmara",
     "Currency": "Nakfa",
     "Languages": "Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar, other Cushitic languages",
-    "Area KM2": 121320
+    "Area KM2": 121320,
+    "CurrencyCode": "ERN"
   },
   {
     "target": "EE",
@@ -1184,7 +1272,8 @@
     "Time Zone in Capital": "Europe/Tallinn",
     "Currency": "Euro",
     "Languages": "Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecified 0.1% (2011 est.)",
-    "Area KM2": 45226
+    "Area KM2": 45226,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "EMU"
@@ -1212,7 +1301,8 @@
     "Time Zone in Capital": "Atlantic/Faroe",
     "Currency": "Krone",
     "Languages": "Faroese (derived from Old Norse), Danish",
-    "Area KM2": 1399
+    "Area KM2": 1399,
+    "CurrencyCode": "DKK"
   },
   {
     "target": "FJ",
@@ -1225,7 +1315,8 @@
     "Time Zone in Capital": "Pacific/Fiji",
     "Currency": "Dollar",
     "Languages": "English (official), Fijian (official), Hindustani",
-    "Area KM2": 18270
+    "Area KM2": 18270,
+    "CurrencyCode": "FJD"
   },
   {
     "target": "FI",
@@ -1238,7 +1329,8 @@
     "Time Zone in Capital": "Europe/Helsinki",
     "Currency": "Euro",
     "Languages": "Finnish (official) 94.2%, Swedish (official) 5.5%, other (small Sami- and Russian-speaking minorities) 0.2% (2012 est.)",
-    "Area KM2": 337030
+    "Area KM2": 337030,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "FCS"
@@ -1254,7 +1346,8 @@
     "Time Zone in Capital": "Europe/Paris",
     "Currency": "Euro",
     "Languages": "French (official) 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",
-    "Area KM2": 547030
+    "Area KM2": 547030,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "PF",
@@ -1267,7 +1360,8 @@
     "Time Zone in Capital": "Pacific/Tahiti",
     "Currency": "Franc",
     "Languages": "French (official) 61.1%, Polynesian (official) 31.4%, Asian languages 1.2%, other 0.3%, unspecified 6% (2002 census)",
-    "Area KM2": 4167
+    "Area KM2": 4167,
+    "CurrencyCode": "XPF"
   },
   {
     "target": "GA",
@@ -1280,7 +1374,8 @@
     "Time Zone in Capital": "Africa/Libreville",
     "Currency": "Franc",
     "Languages": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",
-    "Area KM2": 267667
+    "Area KM2": 267667,
+    "CurrencyCode": "XAF"
   },
   {
     "target": "GM",
@@ -1293,7 +1388,8 @@
     "Time Zone in Capital": "Africa/Banjul",
     "Currency": "Dalasi",
     "Languages": "English (official), Mandinka, Wolof, Fula, other indigenous vernaculars",
-    "Area KM2": 11300
+    "Area KM2": 11300,
+    "CurrencyCode": "GMD"
   },
   {
     "target": "GE",
@@ -1306,7 +1402,8 @@
     "Time Zone in Capital": "Asia/Tbilisi",
     "Currency": "Lari",
     "Languages": "Georgian (official) 71%, Russian 9%, Armenian 7%, Azeri 6%, other 7%",
-    "Area KM2": 69700
+    "Area KM2": 69700,
+    "CurrencyCode": "GEL"
   },
   {
     "target": "DE",
@@ -1319,7 +1416,8 @@
     "Time Zone in Capital": "Europe/Berlin",
     "Currency": "Euro",
     "Languages": "German (official)",
-    "Area KM2": 357021
+    "Area KM2": 357021,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "GI",
@@ -1332,7 +1430,8 @@
     "Time Zone in Capital": "Europe/Gibraltar",
     "Currency": "Pound",
     "Languages": "English (used in schools and for official purposes), Spanish, Italian, Portuguese",
-    "Area KM2": 7
+    "Area KM2": 7,
+    "CurrencyCode": "GIP"
   },
   {
     "target": "GR",
@@ -1345,7 +1444,8 @@
     "Time Zone in Capital": "Europe/Athens",
     "Currency": "Euro",
     "Languages": "Greek (official) 99%, other (includes English and French) 1%",
-    "Area KM2": 131940
+    "Area KM2": 131940,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "GL",
@@ -1358,7 +1458,8 @@
     "Time Zone in Capital": "America/Godthab",
     "Currency": "Krone",
     "Languages": "Greenlandic (East Inuit) (official), Danish (official), English",
-    "Area KM2": 2166086
+    "Area KM2": 2166086,
+    "CurrencyCode": "DKK"
   },
   {
     "target": "GD",
@@ -1371,7 +1472,8 @@
     "Time Zone in Capital": "America/Grenada",
     "Currency": "Dollar",
     "Languages": "English (official), French patois",
-    "Area KM2": 344
+    "Area KM2": 344,
+    "CurrencyCode": "XCD"
   },
   {
     "target": "GU",
@@ -1384,7 +1486,8 @@
     "Time Zone in Capital": "Pacific/Guam",
     "Currency": "Dollar",
     "Languages": "English 43.6%, Filipino 21.2%, Chamorro 17.8%, other Pacific island languages 10%, Asian languages 6.3%, other 1.1% (2010 est.)",
-    "Area KM2": 549
+    "Area KM2": 549,
+    "CurrencyCode": "USD"
   },
   {
     "target": "GN",
@@ -1397,7 +1500,8 @@
     "Time Zone in Capital": "Africa/Conakry",
     "Currency": "Franc",
     "Languages": "French (official)",
-    "Area KM2": 245857
+    "Area KM2": 245857,
+    "CurrencyCode": "GNF"
   },
   {
     "target": "GW",
@@ -1410,7 +1514,8 @@
     "Time Zone in Capital": "Africa/Bissau",
     "Currency": "Franc",
     "Languages": "Portuguese (official), Crioulo, African languages",
-    "Area KM2": 36120
+    "Area KM2": 36120,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "GY",
@@ -1423,7 +1528,8 @@
     "Time Zone in Capital": "America/Guyana",
     "Currency": "Dollar",
     "Languages": "English, Amerindian dialects, Creole, Caribbean Hindustani (a dialect of Hindi), Urdu",
-    "Area KM2": 214970
+    "Area KM2": 214970,
+    "CurrencyCode": "GYD"
   },
   {
     "ICO3": "HPC"
@@ -1442,7 +1548,8 @@
     "Time Zone in Capital": "Asia/Hong_Kong",
     "Currency": "Dollar",
     "Languages": "Cantonese (official) 89.5%, English (official) 3.5%, Putonghua (Mandarin) 1.4%, other Chinese dialects 4%, other 1.6% (2011 est.)",
-    "Area KM2": 1092
+    "Area KM2": 1092,
+    "CurrencyCode": "HKD"
   },
   {
     "target": "HU",
@@ -1455,7 +1562,8 @@
     "Time Zone in Capital": "Europe/Budapest",
     "Currency": "Forint",
     "Languages": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%",
-    "Area KM2": 93030
+    "Area KM2": 93030,
+    "CurrencyCode": "HUF"
   },
   {
     "ICO3": "IBD"
@@ -1471,7 +1579,8 @@
     "Time Zone in Capital": "Atlantic/Reykjavik",
     "Currency": "Krona",
     "Languages": "Icelandic, English, Nordic languages, German widely spoken",
-    "Area KM2": 103000
+    "Area KM2": 103000,
+    "CurrencyCode": "ISK"
   },
   {
     "ICO3": "IBT"
@@ -1496,7 +1605,8 @@
     "Time Zone in Capital": "Asia/Tehran",
     "Currency": "Rial",
     "Languages": "Persian (official) 53%, Azeri Turkic and Turkic dialects 18%, Kurdish 10%, Gilaki and Mazandarani 7%, Luri 6%, Balochi 2%, Arabic 2%, other 2%",
-    "Area KM2": 1648000
+    "Area KM2": 1648000,
+    "CurrencyCode": "IRR"
   },
   {
     "target": "IQ",
@@ -1509,7 +1619,8 @@
     "Time Zone in Capital": "Asia/Baghdad",
     "Currency": "Dinar",
     "Languages": "Arabic (official), Kurdish (official), Turkmen (a Turkish dialect) and Assyrian (Neo-Aramaic) are official in areas where they constitute a majority of the population), Armenian",
-    "Area KM2": 437072
+    "Area KM2": 437072,
+    "CurrencyCode": "IQD"
   },
   {
     "target": "IE",
@@ -1522,7 +1633,8 @@
     "Time Zone in Capital": "Europe/Dublin",
     "Currency": "Euro",
     "Languages": "English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken mainly in areas along the western coast)",
-    "Area KM2": 70280
+    "Area KM2": 70280,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "IMY"
@@ -1538,7 +1650,8 @@
     "Time Zone in Capital": "Asia/Jerusalem",
     "Currency": "Shekel",
     "Languages": "Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)",
-    "Area KM2": 20770
+    "Area KM2": 20770,
+    "CurrencyCode": "ILS"
   },
   {
     "target": "IT",
@@ -1551,7 +1664,8 @@
     "Time Zone in Capital": "Europe/Rome",
     "Currency": "Euro",
     "Languages": "Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)",
-    "Area KM2": 301230
+    "Area KM2": 301230,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "JM",
@@ -1564,7 +1678,8 @@
     "Time Zone in Capital": "America/Jamaica",
     "Currency": "Dollar",
     "Languages": "English, English patois",
-    "Area KM2": 10991
+    "Area KM2": 10991,
+    "CurrencyCode": "JMD"
   },
   {
     "target": "JP",
@@ -1577,7 +1692,8 @@
     "Time Zone in Capital": "Asia/Tokyo",
     "Currency": "Yen",
     "Languages": "Japanese",
-    "Area KM2": 377835
+    "Area KM2": 377835,
+    "CurrencyCode": "JPY"
   },
   {
     "target": "JO",
@@ -1590,7 +1706,8 @@
     "Time Zone in Capital": "Asia/Amman",
     "Currency": "Dinar",
     "Languages": "Arabic (official), English (widely understood among upper and middle classes)",
-    "Area KM2": 92300
+    "Area KM2": 92300,
+    "CurrencyCode": "JOD"
   },
   {
     "target": "KZ",
@@ -1603,7 +1720,8 @@
     "Time Zone in Capital": "Asia/Almaty",
     "Currency": "Tenge",
     "Languages": "Kazakh (official, Qazaq) 64.4%, Russian (official, used in everyday business, designated the \"language of interethnic communication\") 95% (2001 est.)",
-    "Area KM2": 2717300
+    "Area KM2": 2717300,
+    "CurrencyCode": "KZT"
   },
   {
     "target": "KI",
@@ -1616,7 +1734,8 @@
     "Time Zone in Capital": "Pacific/Tarawa",
     "Currency": "Dollar",
     "Languages": "I-Kiribati, English (official)",
-    "Area KM2": 811
+    "Area KM2": 811,
+    "CurrencyCode": "AUD"
   },
   {
     "target": "KP",
@@ -1629,7 +1748,8 @@
     "Time Zone in Capital": "Asia/Pyongyang",
     "Currency": "Won",
     "Languages": "Korean",
-    "Area KM2": 120540
+    "Area KM2": 120540,
+    "CurrencyCode": "KPW"
   },
   {
     "target": "KR",
@@ -1642,7 +1762,8 @@
     "Time Zone in Capital": "Asia/Seoul",
     "Currency": "Won",
     "Languages": "Korean, English (widely taught in junior high and high school)",
-    "Area KM2": 98480
+    "Area KM2": 98480,
+    "CurrencyCode": "KRW"
   },
   {
     "ICO3": "KSV"
@@ -1658,7 +1779,8 @@
     "Time Zone in Capital": "Asia/Kuwait",
     "Currency": "Dinar",
     "Languages": "Arabic (official), English widely spoken",
-    "Area KM2": 17820
+    "Area KM2": 17820,
+    "CurrencyCode": "KWD"
   },
   {
     "target": "LA",
@@ -1671,7 +1793,8 @@
     "Time Zone in Capital": "Asia/Vientiane",
     "Currency": "Kip",
     "Languages": "Lao (official), French, English, various ethnic languages",
-    "Area KM2": 236800
+    "Area KM2": 236800,
+    "CurrencyCode": "LAK"
   },
   {
     "ICO3": "LTE"
@@ -1696,7 +1819,8 @@
     "Time Zone in Capital": "Europe/Riga",
     "Currency": "Euro",
     "Languages": "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)",
-    "Area KM2": 64589
+    "Area KM2": 64589,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "LDC"
@@ -1712,7 +1836,8 @@
     "Time Zone in Capital": "Asia/Beirut",
     "Currency": "Pound",
     "Languages": "Arabic (official), French, English, Armenian",
-    "Area KM2": 10400
+    "Area KM2": 10400,
+    "CurrencyCode": "LBP"
   },
   {
     "target": "LS",
@@ -1725,7 +1850,8 @@
     "Time Zone in Capital": "Africa/Maseru",
     "Currency": "Loti",
     "Languages": "Sesotho (official) (southern Sotho), English (official), Zulu, Xhosa",
-    "Area KM2": 30355
+    "Area KM2": 30355,
+    "CurrencyCode": "LSL"
   },
   {
     "target": "LR",
@@ -1738,7 +1864,8 @@
     "Time Zone in Capital": "Africa/Monrovia",
     "Currency": "Dollar",
     "Languages": "English 20% (official), some 20 ethnic group languages few of which can be written or used in correspondence",
-    "Area KM2": 111370
+    "Area KM2": 111370,
+    "CurrencyCode": "LRD"
   },
   {
     "target": "LY",
@@ -1751,7 +1878,8 @@
     "Time Zone in Capital": "Africa/Tripoli",
     "Currency": "Dinar",
     "Languages": "Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)",
-    "Area KM2": 1759540
+    "Area KM2": 1759540,
+    "CurrencyCode": "LYD"
   },
   {
     "target": "LI",
@@ -1764,7 +1892,8 @@
     "Time Zone in Capital": "Europe/Vaduz",
     "Currency": "Franc",
     "Languages": "German 94.5% (official) (Alemannic is the main dialect), Italian 1.1%, other 4.3% (2010 est.)",
-    "Area KM2": 160
+    "Area KM2": 160,
+    "CurrencyCode": "CHF"
   },
   {
     "target": "LT",
@@ -1777,7 +1906,8 @@
     "Time Zone in Capital": "Europe/Vilnius",
     "Currency": "Euro",
     "Languages": "Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.)",
-    "Area KM2": 65200
+    "Area KM2": 65200,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "LMY"
@@ -1799,7 +1929,8 @@
     "Time Zone in Capital": "Europe/Luxembourg",
     "Currency": "Euro",
     "Languages": "Luxembourgish (official administrative language and national language (spoken vernacular)), French (official administrative language), German (official administrative language)",
-    "Area KM2": 2586
+    "Area KM2": 2586,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "MO",
@@ -1812,7 +1943,8 @@
     "Time Zone in Capital": "Asia/Macau",
     "Currency": "Pataca",
     "Languages": "Cantonese 83.3%, Mandarin 5%, Hokkien 3.7%, English 2.3%, other Chinese dialects 2%, Tagalog 1.7%, Portuguese 0.7%, other 1.3%",
-    "Area KM2": 254
+    "Area KM2": 254,
+    "CurrencyCode": "MOP"
   },
   {
     "target": "MK",
@@ -1825,7 +1957,8 @@
     "Time Zone in Capital": "Europe/Skopje",
     "Currency": "Denar",
     "Languages": "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Roma 1.9%, Serbian 1.2%, other 1.8% (2002 census)",
-    "Area KM2": 25333
+    "Area KM2": 25333,
+    "CurrencyCode": "MKD"
   },
   {
     "target": "MW",
@@ -1838,7 +1971,8 @@
     "Time Zone in Capital": "Africa/Blantyre",
     "Currency": "Kwacha",
     "Languages": "English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya",
-    "Area KM2": 118480
+    "Area KM2": 118480,
+    "CurrencyCode": "MWK"
   },
   {
     "target": "MY",
@@ -1851,7 +1985,8 @@
     "Time Zone in Capital": "Asia/Kuala_Lumpur",
     "Currency": "Ringgit",
     "Languages": "Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai",
-    "Area KM2": 329750
+    "Area KM2": 329750,
+    "CurrencyCode": "MYR"
   },
   {
     "target": "MV",
@@ -1864,7 +1999,8 @@
     "Time Zone in Capital": "Indian/Maldives",
     "Currency": "Rufiyaa",
     "Languages": "Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials)",
-    "Area KM2": 300
+    "Area KM2": 300,
+    "CurrencyCode": "MVR"
   },
   {
     "target": "ML",
@@ -1877,7 +2013,8 @@
     "Time Zone in Capital": "Africa/Bamako",
     "Currency": "Franc",
     "Languages": "French (official), Bambara 46.3%, Peul/foulfoulbe 9.4%, Dogon 7.2%, Maraka/soninke 6.4%, Malinke 5.6%, Sonrhai/djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, unspecified 0.6%, other 8.5%",
-    "Area KM2": 1240000
+    "Area KM2": 1240000,
+    "CurrencyCode": "XOF"
   },
   {
     "target": "MT",
@@ -1890,7 +2027,8 @@
     "Time Zone in Capital": "Europe/Malta",
     "Currency": "Euro",
     "Languages": "Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.)",
-    "Area KM2": 316
+    "Area KM2": 316,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "MH",
@@ -1903,7 +2041,8 @@
     "Time Zone in Capital": "Pacific/Majuro",
     "Currency": "Dollar",
     "Languages": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
-    "Area KM2": 181
+    "Area KM2": 181,
+    "CurrencyCode": "USD"
   },
   {
     "target": "MR",
@@ -1916,7 +2055,8 @@
     "Time Zone in Capital": "Africa/Nouakchott",
     "Currency": "Ouguiya",
     "Languages": "Arabic (official and national), Pulaar, Soninke, Wolof (all national languages), French, Hassaniya (a variety of Arabic)",
-    "Area KM2": 1030700
+    "Area KM2": 1030700,
+    "CurrencyCode": "MRO"
   },
   {
     "target": "MU",
@@ -1929,7 +2069,8 @@
     "Time Zone in Capital": "Indian/Mauritius",
     "Currency": "Rupee",
     "Languages": "Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)",
-    "Area KM2": 2040
+    "Area KM2": 2040,
+    "CurrencyCode": "MUR"
   },
   {
     "target": "FM",
@@ -1942,7 +2083,8 @@
     "Time Zone in Capital": "Pacific/Pohnpei",
     "Currency": "Dollar",
     "Languages": "English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi",
-    "Area KM2": 702
+    "Area KM2": 702,
+    "CurrencyCode": "USD"
   },
   {
     "ICO3": "MEA"
@@ -1967,7 +2109,8 @@
     "Time Zone in Capital": "Europe/Chisinau",
     "Currency": "Leu",
     "Languages": "Moldovan 58.8% (official; virtually the same as the Romanian language), Romanian 16.4%, Russian 16%, Ukrainian 3.8%, Gagauz 3.1% (a Turkish language), Bulgarian 1.1%, other 0.3%, unspecified 0.4%",
-    "Area KM2": 33843
+    "Area KM2": 33843,
+    "CurrencyCode": "MDL"
   },
   {
     "target": "MC",
@@ -1980,7 +2123,8 @@
     "Time Zone in Capital": "Europe/Monaco",
     "Currency": "Euro",
     "Languages": "French (official), English, Italian, Monegasque",
-    "Area KM2": 2
+    "Area KM2": 2,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "ME",
@@ -1993,7 +2137,8 @@
     "Time Zone in Capital": "Europe/Podgorica",
     "Currency": "Euro",
     "Languages": "Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)",
-    "Area KM2": 14026
+    "Area KM2": 14026,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "MZ",
@@ -2006,7 +2151,8 @@
     "Time Zone in Capital": "Africa/Maputo",
     "Currency": "Metical",
     "Languages": "Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census)",
-    "Area KM2": 801590
+    "Area KM2": 801590,
+    "CurrencyCode": "MZN"
   },
   {
     "target": "NA",
@@ -2019,7 +2165,8 @@
     "Time Zone in Capital": "Africa/Windhoek",
     "Currency": "Dollar",
     "Languages": "Oshiwambo languages 48.9%, Nama/Damara 11.3%, Afrikaans 10.4% (common language of most of the population and about 60% of the white population), Otjiherero languages 8.6%, Kavango languages 8.5%, Caprivi languages 4.8%, English (official) 3.4%, other African languages 2.3%, other 1.7%",
-    "Area KM2": 825418
+    "Area KM2": 825418,
+    "CurrencyCode": "NAD"
   },
   {
     "target": "NR",
@@ -2032,7 +2179,8 @@
     "Time Zone in Capital": "Pacific/Nauru",
     "Currency": "Dollar",
     "Languages": "Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes I-Kiribati 2% and Chinese 2%)",
-    "Area KM2": 21
+    "Area KM2": 21,
+    "CurrencyCode": "AUD"
   },
   {
     "target": "NL",
@@ -2045,7 +2193,8 @@
     "Time Zone in Capital": "Europe/Amsterdam",
     "Currency": "Euro",
     "Languages": "Dutch (official)",
-    "Area KM2": 41526
+    "Area KM2": 41526,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "NC",
@@ -2058,7 +2207,8 @@
     "Time Zone in Capital": "Pacific/Noumea",
     "Currency": "Franc",
     "Languages": "French (official), 33 Melanesian-Polynesian dialects",
-    "Area KM2": 19060
+    "Area KM2": 19060,
+    "CurrencyCode": "XPF"
   },
   {
     "target": "NZ",
@@ -2071,7 +2221,8 @@
     "Time Zone in Capital": "Pacific/Auckland",
     "Currency": "Dollar",
     "Languages": "English (de facto official) 89.8%, Maori (de jure official) 3.5%, Samoan 2%, Hindi 1.6%, French 1.2%, Northern Chinese 1.2%, Yue 1%, Other or not stated 20.5%, New Zealand Sign Language (de jure official)",
-    "Area KM2": 268680
+    "Area KM2": 268680,
+    "CurrencyCode": "NZD"
   },
   {
     "ICO3": "NAC"
@@ -2087,7 +2238,8 @@
     "Time Zone in Capital": "Pacific/Saipan",
     "Currency": "Dollar",
     "Languages": "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)",
-    "Area KM2": 477
+    "Area KM2": 477,
+    "CurrencyCode": "USD"
   },
   {
     "target": "NO",
@@ -2100,7 +2252,8 @@
     "Time Zone in Capital": "Europe/Oslo",
     "Currency": "Krone",
     "Languages": "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities",
-    "Area KM2": 324220
+    "Area KM2": 324220,
+    "CurrencyCode": "NOK"
   },
   {
     "ICO3": "INX"
@@ -2119,7 +2272,8 @@
     "Time Zone in Capital": "Asia/Muscat",
     "Currency": "Rial",
     "Languages": "Arabic (official), English, Baluchi, Urdu, Indian dialects",
-    "Area KM2": 212460
+    "Area KM2": 212460,
+    "CurrencyCode": "OMR"
   },
   {
     "ICO3": "OSS"
@@ -2138,7 +2292,8 @@
     "Time Zone in Capital": "Pacific/Palau",
     "Currency": "Dollar",
     "Languages": "Palauan (official on most islands) 66.6%, Carolinian 0.7%, other Micronesian 0.7%, English (official) 15.5%, Filipino 10.8%, Chinese 1.8%, other Asian 2.6%, other 1.3%",
-    "Area KM2": 458
+    "Area KM2": 458,
+    "CurrencyCode": "USD"
   },
   {
     "target": "PA",
@@ -2151,7 +2306,8 @@
     "Time Zone in Capital": "America/Panama",
     "Currency": "Balboa",
     "Languages": "Spanish (official), English 14%",
-    "Area KM2": 78200
+    "Area KM2": 78200,
+    "CurrencyCode": "PAB"
   },
   {
     "target": "PG",
@@ -2164,7 +2320,8 @@
     "Time Zone in Capital": "Pacific/Port_Moresby",
     "Currency": "Kina",
     "Languages": "Tok Pisin (official), English (official), Hiri Motu (official), some 836 indigenous languages spoken (about 12% of the world's total); most languages have fewer than 1,000 speakers",
-    "Area KM2": 462840
+    "Area KM2": 462840,
+    "CurrencyCode": "PGK"
   },
   {
     "target": "PL",
@@ -2177,7 +2334,8 @@
     "Time Zone in Capital": "Europe/Warsaw",
     "Currency": "Zloty",
     "Languages": "Polish (official) 96.2%, Polish and non-Polish 2%, non-Polish 0.5%, unspecified 1.3%",
-    "Area KM2": 312685
+    "Area KM2": 312685,
+    "CurrencyCode": "PLN"
   },
   {
     "target": "PT",
@@ -2190,7 +2348,8 @@
     "Time Zone in Capital": "Europe/Lisbon",
     "Currency": "Euro",
     "Languages": "Portuguese (official), Mirandese (official, but locally used)",
-    "Area KM2": 92391
+    "Area KM2": 92391,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "PST"
@@ -2209,7 +2368,8 @@
     "Time Zone in Capital": "America/Puerto_Rico",
     "Currency": "Dollar",
     "Languages": "Spanish, English",
-    "Area KM2": 9104
+    "Area KM2": 9104,
+    "CurrencyCode": "USD"
   },
   {
     "target": "QA",
@@ -2222,7 +2382,8 @@
     "Time Zone in Capital": "Asia/Qatar",
     "Currency": "Rial",
     "Languages": "Arabic (official), English commonly used as a second language",
-    "Area KM2": 11437
+    "Area KM2": 11437,
+    "CurrencyCode": "QAR"
   },
   {
     "ICO3": "ROM"
@@ -2238,7 +2399,8 @@
     "Time Zone in Capital": "Europe/Moscow",
     "Currency": "Ruble",
     "Languages": "Russian (official) 96.3%, Dolgang 5.3%, German 1.5%, Chechen 1%, Tatar 3%, other 10.3%",
-    "Area KM2": 17100000
+    "Area KM2": 17100000,
+    "CurrencyCode": "RUB"
   },
   {
     "target": "WS",
@@ -2251,7 +2413,8 @@
     "Time Zone in Capital": "Pacific/Apia",
     "Currency": "Tala",
     "Languages": "Samoan (Polynesian) (official), English",
-    "Area KM2": 2944
+    "Area KM2": 2944,
+    "CurrencyCode": "WST"
   },
   {
     "target": "SM",
@@ -2264,7 +2427,8 @@
     "Time Zone in Capital": "Europe/San_Marino",
     "Currency": "Euro",
     "Languages": "Italian",
-    "Area KM2": 61
+    "Area KM2": 61,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "ST",
@@ -2277,7 +2441,8 @@
     "Time Zone in Capital": "Africa/Sao_Tome",
     "Currency": "Dobra",
     "Languages": "Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%",
-    "Area KM2": 1001
+    "Area KM2": 1001,
+    "CurrencyCode": "STD"
   },
   {
     "target": "SA",
@@ -2290,7 +2455,8 @@
     "Time Zone in Capital": "Asia/Riyadh",
     "Currency": "Rial",
     "Languages": "Arabic (official)",
-    "Area KM2": 1960582
+    "Area KM2": 1960582,
+    "CurrencyCode": "SAR"
   },
   {
     "target": "RS",
@@ -2303,7 +2469,8 @@
     "Time Zone in Capital": "Europe/Belgrade",
     "Currency": "Dinar",
     "Languages": "Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romany 1.4%, other 3.4%, undeclared or unknown 1.8%",
-    "Area KM2": 88361
+    "Area KM2": 88361,
+    "CurrencyCode": "RSD"
   },
   {
     "target": "SC",
@@ -2316,7 +2483,8 @@
     "Time Zone in Capital": "Indian/Mahe",
     "Currency": "Rupee",
     "Languages": "Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 0.7%, other 3.8%, unspecified 1.4% (2010 est.)",
-    "Area KM2": 455
+    "Area KM2": 455,
+    "CurrencyCode": "SCR"
   },
   {
     "target": "SL",
@@ -2329,7 +2497,8 @@
     "Time Zone in Capital": "Africa/Freetown",
     "Currency": "Leone",
     "Languages": "English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)",
-    "Area KM2": 71740
+    "Area KM2": 71740,
+    "CurrencyCode": "SLL"
   },
   {
     "target": "SG",
@@ -2342,7 +2511,8 @@
     "Time Zone in Capital": "Asia/Singapore",
     "Currency": "Dollar",
     "Languages": "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Tamil (official) 4.4%, Cantonese 4.1%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)",
-    "Area KM2": 693
+    "Area KM2": 693,
+    "CurrencyCode": "SGD"
   },
   {
     "target": "SX",
@@ -2355,7 +2525,8 @@
     "Time Zone in Capital": "America/Lower_Princes",
     "Currency": "Guilder",
     "Languages": "English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Papiamento (a Spanish-Portuguese-Dutch-English dialect) 2.2%, French 1.5%, other 3.5% (2001 census)",
-    "Area KM2": 34
+    "Area KM2": 34,
+    "CurrencyCode": "ANG"
   },
   {
     "target": "SK",
@@ -2368,7 +2539,8 @@
     "Time Zone in Capital": "Europe/Bratislava",
     "Currency": "Euro",
     "Languages": "Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)",
-    "Area KM2": 48845
+    "Area KM2": 48845,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "SI",
@@ -2381,7 +2553,8 @@
     "Time Zone in Capital": "Europe/Ljubljana",
     "Currency": "Euro",
     "Languages": "Slovenian (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 census)",
-    "Area KM2": 20273
+    "Area KM2": 20273,
+    "CurrencyCode": "EUR"
   },
   {
     "ICO3": "SST"
@@ -2397,7 +2570,8 @@
     "Time Zone in Capital": "Pacific/Guadalcanal",
     "Currency": "Dollar",
     "Languages": "Melanesian pidgin (in much of the country is lingua franca), English (official but spoken by only 1%-2% of the population), 120 indigenous languages",
-    "Area KM2": 28450
+    "Area KM2": 28450,
+    "CurrencyCode": "SBD"
   },
   {
     "target": "SO",
@@ -2410,7 +2584,8 @@
     "Time Zone in Capital": "Africa/Mogadishu",
     "Currency": "Shilling",
     "Languages": "Somali (official), Arabic (official, according to the Transitional Federal Charter), Italian, English",
-    "Area KM2": 637657
+    "Area KM2": 637657,
+    "CurrencyCode": "SOS"
   },
   {
     "target": "ZA",
@@ -2423,7 +2598,8 @@
     "Time Zone in Capital": "Africa/Johannesburg",
     "Currency": "Rand",
     "Languages": "IsiZulu (official) 22.7%, IsiXhosa (official) 16%, Afrikaans (official) 13.5%, English (official) 9.6%, Sepedi (official) 9.1%, Setswana (official) 8%, Sesotho (official) 7.6%, Xitsonga (official) 4.5%, siSwati (official) 2.5%, Tshivenda (official) 2.4%, isiNdebele (official) 2.1%, sign language 0.5%, other 1.6% (2011 est.)",
-    "Area KM2": 1219912
+    "Area KM2": 1219912,
+    "CurrencyCode": "ZAR"
   },
   {
     "ICO3": "SAS"
@@ -2442,7 +2618,8 @@
     "Time Zone in Capital": "Africa/Juba",
     "Currency": "Pound",
     "Languages": "English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",
-    "Area KM2": 644329
+    "Area KM2": 644329,
+    "CurrencyCode": null
   },
   {
     "target": "ES",
@@ -2455,7 +2632,8 @@
     "Time Zone in Capital": "Europe/Madrid",
     "Currency": "Euro",
     "Languages": "Castilian Spanish (official) 74%, Catalan 17%, Galician 7%, and Basque 2%",
-    "Area KM2": 504782
+    "Area KM2": 504782,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "KN",
@@ -2468,7 +2646,8 @@
     "Time Zone in Capital": "America/St_Kitts",
     "Currency": "Dollar",
     "Languages": "English (official)",
-    "Area KM2": 261
+    "Area KM2": 261,
+    "CurrencyCode": "XCD"
   },
   {
     "target": "LC",
@@ -2481,7 +2660,8 @@
     "Time Zone in Capital": "America/St_Lucia",
     "Currency": "Dollar",
     "Languages": "English (official), French patois",
-    "Area KM2": 616
+    "Area KM2": 616,
+    "CurrencyCode": "XCD"
   },
   {
     "target": "MF",
@@ -2494,7 +2674,8 @@
     "Time Zone in Capital": "America/Marigot",
     "Currency": "Euro",
     "Languages": "French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)",
-    "Area KM2": 53
+    "Area KM2": 53,
+    "CurrencyCode": "EUR"
   },
   {
     "target": "VC",
@@ -2507,7 +2688,8 @@
     "Time Zone in Capital": "America/St_Vincent",
     "Currency": "Dollar",
     "Languages": "English, French patois",
-    "Area KM2": 389
+    "Area KM2": 389,
+    "CurrencyCode": "XCD"
   },
   {
     "ICO3": "SSF"
@@ -2529,7 +2711,8 @@
     "Time Zone in Capital": "Africa/Khartoum",
     "Currency": "Pound",
     "Languages": "Arabic (official), English (official), Nubian, Ta Bedawie, Fur",
-    "Area KM2": 1861484
+    "Area KM2": 1861484,
+    "CurrencyCode": "SDG"
   },
   {
     "target": "SR",
@@ -2542,7 +2725,8 @@
     "Time Zone in Capital": "America/Paramaribo",
     "Currency": "Dollar",
     "Languages": "Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese",
-    "Area KM2": 163270
+    "Area KM2": 163270,
+    "CurrencyCode": "SRD"
   },
   {
     "target": "SZ",
@@ -2555,7 +2739,8 @@
     "Time Zone in Capital": "Africa/Mbabane",
     "Currency": "Lilangeni",
     "Languages": "English (official, used for government business), siSwati (official)",
-    "Area KM2": 17363
+    "Area KM2": 17363,
+    "CurrencyCode": "SZL"
   },
   {
     "target": "SE",
@@ -2568,7 +2753,8 @@
     "Time Zone in Capital": "Europe/Stockholm",
     "Currency": "Krona",
     "Languages": "Swedish (official), small Sami- and Finnish-speaking minorities",
-    "Area KM2": 449964
+    "Area KM2": 449964,
+    "CurrencyCode": "SEK"
   },
   {
     "target": "CH",
@@ -2581,7 +2767,8 @@
     "Time Zone in Capital": "Europe/Zurich",
     "Currency": "Franc",
     "Languages": "German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1%",
-    "Area KM2": 41290
+    "Area KM2": 41290,
+    "CurrencyCode": "CHF"
   },
   {
     "target": "SY",
@@ -2594,7 +2781,8 @@
     "Time Zone in Capital": "Asia/Damascus",
     "Currency": "Pound",
     "Languages": "Arabic (official), Kurdish, Armenian, Aramaic, Circassian (widely understood); French, English (somewhat understood)",
-    "Area KM2": 185180
+    "Area KM2": 185180,
+    "CurrencyCode": "SYP"
   },
   {
     "target": "TJ",
@@ -2607,7 +2795,8 @@
     "Time Zone in Capital": "Asia/Dushanbe",
     "Currency": "Somoni",
     "Languages": "Tajik (official), Russian widely used in government and business",
-    "Area KM2": 143100
+    "Area KM2": 143100,
+    "CurrencyCode": "TJS"
   },
   {
     "target": "TH",
@@ -2620,7 +2809,8 @@
     "Time Zone in Capital": "Asia/Bangkok",
     "Currency": "Baht",
     "Languages": "Thai (official) 90.7%, Burmese 1.3%, other 8%",
-    "Area KM2": 514000
+    "Area KM2": 514000,
+    "CurrencyCode": "THB"
   },
   {
     "ICO3": "TMP"
@@ -2636,7 +2826,8 @@
     "Time Zone in Capital": "Pacific/Tongatapu",
     "Currency": "Pa'anga",
     "Languages": "English and Tongan 87%, Tongan (official) 10.7%, English (official) 1.2%, other 1.1%, uspecified 0.03% (2006 est.)",
-    "Area KM2": 748
+    "Area KM2": 748,
+    "CurrencyCode": "TOP"
   },
   {
     "target": "TT",
@@ -2649,7 +2840,8 @@
     "Time Zone in Capital": "America/Port_of_Spain",
     "Currency": "Dollar",
     "Languages": "English (official), Caribbean Hindustani (a dialect of Hindi), French, Spanish, Chinese",
-    "Area KM2": 5128
+    "Area KM2": 5128,
+    "CurrencyCode": "TTD"
   },
   {
     "target": "TN",
@@ -2662,7 +2854,8 @@
     "Time Zone in Capital": "Africa/Tunis",
     "Currency": "Dinar",
     "Languages": "Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight)",
-    "Area KM2": 163610
+    "Area KM2": 163610,
+    "CurrencyCode": "TND"
   },
   {
     "target": "TR",
@@ -2675,7 +2868,8 @@
     "Time Zone in Capital": "Europe/Istanbul",
     "Currency": "Lira",
     "Languages": "Turkish (official), Kurdish, other minority languages",
-    "Area KM2": 780580
+    "Area KM2": 780580,
+    "CurrencyCode": "TRY"
   },
   {
     "target": "TM",
@@ -2688,7 +2882,8 @@
     "Time Zone in Capital": "Asia/Ashgabat",
     "Currency": "Manat",
     "Languages": "Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%",
-    "Area KM2": 488100
+    "Area KM2": 488100,
+    "CurrencyCode": "TMT"
   },
   {
     "target": "TC",
@@ -2701,7 +2896,8 @@
     "Time Zone in Capital": "America/Grand_Turk",
     "Currency": "Dollar",
     "Languages": "English (official)",
-    "Area KM2": 430
+    "Area KM2": 430,
+    "CurrencyCode": "USD"
   },
   {
     "target": "TV",
@@ -2714,7 +2910,8 @@
     "Time Zone in Capital": "Pacific/Funafuti",
     "Currency": "Dollar",
     "Languages": "Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)",
-    "Area KM2": 26
+    "Area KM2": 26,
+    "CurrencyCode": "AUD"
   },
   {
     "target": "UA",
@@ -2727,7 +2924,8 @@
     "Time Zone in Capital": "Europe/Kiev",
     "Currency": "Hryvnia",
     "Languages": "Ukrainian (official) 67%, Russian (regional language) 24%, other (includes small Romanian-, Polish-, and Hungarian-speaking minorities) 9%",
-    "Area KM2": 603700
+    "Area KM2": 603700,
+    "CurrencyCode": "UAH"
   },
   {
     "target": "AE",
@@ -2740,7 +2938,8 @@
     "Time Zone in Capital": "Asia/Dubai",
     "Currency": "Dirham",
     "Languages": "Arabic (official), Persian, English, Hindi, Urdu",
-    "Area KM2": 82880
+    "Area KM2": 82880,
+    "CurrencyCode": "AED"
   },
   {
     "target": "GB",
@@ -2753,7 +2952,8 @@
     "Time Zone in Capital": "Europe/London",
     "Currency": "Pound",
     "Languages": "English",
-    "Area KM2": 244820
+    "Area KM2": 244820,
+    "CurrencyCode": "GBP"
   },
   {
     "target": "US",
@@ -2766,7 +2966,8 @@
     "Time Zone in Capital": "America/New_York",
     "Currency": "Dollar",
     "Languages": "English 82.1%, Spanish 10.7%, other Indo-European 3.8%, Asian and Pacific island 2.7%, other 0.7% (2000 census)",
-    "Area KM2": 9629091
+    "Area KM2": 9629091,
+    "CurrencyCode": "USD"
   },
   {
     "ICO3": "UMC"
@@ -2782,7 +2983,8 @@
     "Time Zone in Capital": "America/Montevideo",
     "Currency": "Peso",
     "Languages": "Spanish (official), Portunol, Brazilero (Portuguese-Spanish mix on the Brazilian frontier)",
-    "Area KM2": 176220
+    "Area KM2": 176220,
+    "CurrencyCode": "UYU"
   },
   {
     "target": "UZ",
@@ -2795,7 +2997,8 @@
     "Time Zone in Capital": "Asia/Tashkent",
     "Currency": "Som",
     "Languages": "Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%",
-    "Area KM2": 447400
+    "Area KM2": 447400,
+    "CurrencyCode": "UZS"
   },
   {
     "target": "VU",
@@ -2808,7 +3011,8 @@
     "Time Zone in Capital": "Pacific/Efate",
     "Currency": "Vatu",
     "Languages": "local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)",
-    "Area KM2": 12200
+    "Area KM2": 12200,
+    "CurrencyCode": "VUV"
   },
   {
     "target": "VE",
@@ -2821,7 +3025,8 @@
     "Time Zone in Capital": "America/Caracas",
     "Currency": "Bolivar",
     "Languages": "Spanish (official), numerous indigenous dialects",
-    "Area KM2": 912050
+    "Area KM2": 912050,
+    "CurrencyCode": "VEF"
   },
   {
     "target": "VI",
@@ -2834,7 +3039,8 @@
     "Time Zone in Capital": "America/St_Thomas",
     "Currency": "Dollar",
     "Languages": "English 74.7%, Spanish or Spanish Creole 16.8%, French or French Creole 6.6%, other 1.9% (2000 census)",
-    "Area KM2": 352
+    "Area KM2": 352,
+    "CurrencyCode": "USD"
   },
   {
     "ICO3": "WBG"
@@ -2853,7 +3059,8 @@
     "Time Zone in Capital": "Asia/Aden",
     "Currency": "Rial",
     "Languages": "Arabic (official)",
-    "Area KM2": 527970
+    "Area KM2": 527970,
+    "CurrencyCode": "YER"
   },
   {
     "target": "ZM",
@@ -2866,7 +3073,8 @@
     "Time Zone in Capital": "Africa/Lusaka",
     "Currency": "Kwacha",
     "Languages": "Bembe 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.2%, unspecified 0.4%",
-    "Area KM2": 752614
+    "Area KM2": 752614,
+    "CurrencyCode": "ZMW"
   },
   {
     "target": "ZW",
@@ -2879,6 +3087,7 @@
     "Time Zone in Capital": "Africa/Harare",
     "Currency": "Dollar",
     "Languages": "English (official), Shona, Sindebele (the language of the Ndebele, sometimes called Ndebele), numerous but minor tribal dialects",
-    "Area KM2": 390580
+    "Area KM2": 390580,
+    "CurrencyCode": "ZWL"
   }
 ]
