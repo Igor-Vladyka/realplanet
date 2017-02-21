@@ -7,7 +7,7 @@
 
         var self = this;
 
-        self._fileTemplate = "places/real.planet.places.json";
+        self._fileTemplate = "places/real.planet.unesco.json";
 
         self.markerClusterFunction = function(cluster) {
             return new L.DivIcon({
@@ -24,13 +24,18 @@
                 iconAnchor: [12, 41],
             });
 
-            return L.marker([datum.lat, datum.lng], {icon: styledIcon, title: datum.type + ": " + datum.name}).bindPopup(self.createPopupContent(datum), { keepInView:true });
+            return L.marker([datum.latitude, datum.longitude], {icon: styledIcon, title: datum.name_en}).bindPopup(self.createPopupContent(datum), { keepInView:true });
         }
 
         self.createPopupContent = function(datum){
-            return '<h4 class="text-center">' + datum.name + '</h4>' +
-                    '<img class="img-responsive" src="' + datum.image + '"></img>' +
-                    '<div><i>' + datum.shortInfo + '</i></div>';
+            var content = '<h4 class="text-center">' + datum.name_en + '</h4>';
+            if(datum.image){
+                content = content + '<img class="img-responsive" src="' + datum.image + '"></img>';
+            }
+
+            content = content + '<div><i>' + datum.short_description_en + '</i></div>';
+
+            return content;
         }
 
         self.createLayer = function(style){
@@ -38,9 +43,9 @@
         }
 
         self.mapper = function(data){
-            var natural = data.filter(function(f){ return f.type == "Natural"; });
-            var cultural = data.filter(function(f){ return f.type == "Cultural"; });
-            var mixed = data.filter(function(f){ return f.type == "Mixed"; });
+            var natural = data.filter(function(f){ return f.category == "Natural"; });
+            var cultural = data.filter(function(f){ return f.category == "Cultural"; });
+            var mixed = data.filter(function(f){ return f.category == "Mixed"; });
 
             var naturalLayer = self.createLayer("green");
             naturalLayer.addLayers(natural.map(function(m) { return self.createMarker(m, "green"); }));
