@@ -127,7 +127,7 @@
   {
     "target": "BWA",
     "population": 2262485,
-    "tourists": null
+    "tourists": 1544000
   },
   {
     "target": "BRA",
@@ -157,7 +157,7 @@
   {
     "target": "BDI",
     "population": 11178921,
-    "tourists": null
+    "tourists": 142000
   },
   {
     "target": "CPV",
@@ -567,7 +567,7 @@
   {
     "target": "LBY",
     "population": 6278438,
-    "tourists": null
+    "tourists": 34000
   },
   {
     "target": "LIE",
@@ -687,7 +687,7 @@
   {
     "target": "NAM",
     "population": 2458830,
-    "tourists": null
+    "tourists": 1176000
   },
   {
     "target": "NRU",
@@ -727,7 +727,7 @@
   {
     "target": "NGA",
     "population": 182201962,
-    "tourists": null
+    "tourists": 600000
   },
   {
     "target": "MNP",
@@ -747,7 +747,7 @@
   {
     "target": "PAK",
     "population": 188924874,
-    "tourists": null
+    "tourists": 966000
   },
   {
     "target": "PLW",
@@ -827,7 +827,7 @@
   {
     "target": "STP",
     "population": 190344,
-    "tourists": null
+    "tourists": 12000
   },
   {
     "target": "SAU",
