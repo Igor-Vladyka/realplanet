@@ -264,8 +264,9 @@
             if(self.moduleManager.country && self.moduleManager.country.getId() == active.getId())
             {
                 self.deactivateCountry();
-                self.boundsMap.setView(L.latLng(0, 0),3);
+                self.boundsMap.setView(self.lastPosition.center, self.lastPosition.zoom);
             } else {
+                self.lastPosition = { zoom: self.boundsMap.getZoom(), center: self.boundsMap.getCenter() };
                 self.moduleManager.country = active;
                 self.evaluateModules(active);
                 layer.setStyle(self.style.country_default);
