@@ -2386,7 +2386,18 @@
     "CurrencyCode": "QAR"
   },
   {
-    "ICO3": "ROM"
+    "target": "RO",
+    "ICO2": "RO",
+    "Wiki": "/wiki/Romania",
+    "Name": "Romania",
+    "ICO3": "ROU",
+    "Top Level Domain": "ro",
+    "Capital": "Bucharest",
+    "Time Zone in Capital": "Europe/Bucharest",
+    "Currency": "Leu",
+    "Languages": "Romanian (official) 85.4%, Hungarian 6.3%, Romany (Gypsy) 1.2%, other 1%, unspecified 6.1% (2011 est.)",
+    "Area KM2": 238391,
+    "CurrencyCode": "RON"
   },
   {
     "target": "RU",
