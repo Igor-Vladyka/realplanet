@@ -21,7 +21,7 @@
 				{alias:"yellow", text: "True rare", checked: false, icon: {i: true, class: "icon-weather-green-filter", cellWidth: "20%"}},
 				{alias:"green", text: "Sometimes", checked: false, icon: {i: true, class: "icon-weather-yellow-filter", cellWidth: "20%"}},
 				{alias:"blue", text: "Happens", checked: false, icon: {i: true, class: "icon-weather-orange-filter", cellWidth: "20%"}},
-                {alias:"purple", text: "Alwais rainy", checked: false, icon: {i: true, class: "icon-weather-red-filter", cellWidth: "20%"}},
+                {alias:"indigo", text: "Alwais rainy", checked: false, icon: {i: true, class: "icon-weather-red-filter", cellWidth: "20%"}},
 			];
 
 		self.months = [{index: 1, name: "Jan", class:"width-33 divider-border-vertical-right"},
@@ -50,7 +50,7 @@
             if(rainfall < 120) { return "green"; }
             if(rainfall < 200) { return "blue"; }
 
-            return "purple";
+            return "indigo";
         };
 
         self.mapper = function(data){

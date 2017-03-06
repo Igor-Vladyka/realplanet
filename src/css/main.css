@@ -102,8 +102,8 @@ body.footer{
     color: white!important;
 }
 
-.legend-purple{
-    color: purple!important;
+.legend-indigo{
+    color: indigo!important;
 }
 
 
@@ -166,8 +166,8 @@ body.footer{
     color: #fff;
 }
 
-.purple{
-	fill: purple!important;
+.indigo{
+	fill: indigo!important;
 }
 
 .land {
@@ -237,9 +237,9 @@ body.footer{
     background-color: white!important;
 }
 
-.legend-purple-active{
+.legend-indigo-active{
     color: white!important;
-    background-color: purple!important;
+    background-color: indigo!important;
 }
 
 .legend-orange-active{
@@ -275,8 +275,8 @@ input[type=checkbox]:checked + i.white:not(.multiple) {
   color: white!important;
 }
 
-input[type=checkbox]:checked + i.purple:not(.multiple) {
-  color: purple!important;
+input[type=checkbox]:checked + i.indigo:not(.multiple) {
+  color: indigo!important;
 }
 
 .force-blue {
@@ -303,8 +303,8 @@ input[type=checkbox]:checked + i.purple:not(.multiple) {
   color: white!important;
 }
 
-.force-purple {
-  color: purple!important;
+.force-indigo {
+  color: indigo!important;
 }
 
 .panel-collapse.scrollable{
@@ -485,10 +485,10 @@ input.search-input{
   }
 
 /* marker cluster*/
-.marker-cluster-purple {
+.marker-cluster-indigo {
   background-color: rgba(143, 85, 160, 0.3);
   }
-.marker-cluster-purple div {
+.marker-cluster-indigo div {
   background-color: rgba(143, 85, 160, 0.6);
   }
 

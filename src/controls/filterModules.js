@@ -204,6 +204,7 @@
                 weight: 0,
                 fillColor: colorSelector(color),
                 color: colorSelector(color),
+                fillOpacity: color == "indigo" ? 0.4 : 0.2, // Hardcoded for now;
                 opacity: 1,
             });
         };
