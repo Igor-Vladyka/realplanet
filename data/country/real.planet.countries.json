@@ -1082,6 +1082,20 @@
     "CurrencyCode": "XAF"
   },
   {
+    "target": "CD",
+    "ICO2": "CD",
+    "Wiki": "/wiki/Democratic_Republic_of_the_Congo",
+    "Name": "Democratic Republic of the Congo",
+    "ICO3": "COD",
+    "Top Level Domain": "cd",
+    "Capital": "Kinshasa",
+    "Time Zone in Capital": "Africa/Kinshasa",
+    "Currency": "Congolese franc",
+    "Languages": "French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba",
+    "Area KM2": 2345410,
+    "CurrencyCode": "CDF"
+  },
+  {
     "target": "CR",
     "ICO2": "CR",
     "Wiki": "/wiki/Costa_Rica",

@@ -102,6 +102,10 @@ body.footer{
     color: white!important;
 }
 
+.legend-purple{
+    color: purple!important;
+}
+
 
 #resultLoading {
     background: #000000;
@@ -160,6 +164,10 @@ body.footer{
 .white{
     fill: #fff!important;
     color: #fff;
+}
+
+.purple{
+	fill: purple!important;
 }
 
 .land {
@@ -229,6 +237,11 @@ body.footer{
     background-color: white!important;
 }
 
+.legend-purple-active{
+    color: white!important;
+    background-color: purple!important;
+}
+
 .legend-orange-active{
   color: white!important;
   background-color: #ca6531!important;
@@ -262,6 +275,10 @@ input[type=checkbox]:checked + i.white:not(.multiple) {
   color: white!important;
 }
 
+input[type=checkbox]:checked + i.purple:not(.multiple) {
+  color: purple!important;
+}
+
 .force-blue {
   color: #A4A5F9!important;
 }
@@ -284,6 +301,10 @@ input[type=checkbox]:checked + i.white:not(.multiple) {
 
 .force-white {
   color: white!important;
+}
+
+.force-purple {
+  color: purple!important;
 }
 
 .panel-collapse.scrollable{

@@ -1,1 +1,1237 @@
-[{"target":"ISL","index":1.189,"alias":"green"},{"target":"NZL","index":1.193,"alias":"green"},{"target":"CHE","index":1.2,"alias":"green"},{"target":"FIN","index":1.236,"alias":"green"},{"target":"AUT","index":1.258,"alias":"green"},{"target":"NOR","index":1.297,"alias":"green"},{"target":"BEL","index":1.306,"alias":"green"},{"target":"JPN","index":1.316,"alias":"green"},{"target":"CAN","index":1.354,"alias":"green"},{"target":"DNK","index":1.371,"alias":"green"},{"target":"SVK","index":1.381,"alias":"green"},{"target":"SWE","index":1.381,"alias":"green"},{"target":"IRL","index":1.384,"alias":"green"},{"target":"SVN","index":1.398,"alias":"green"},{"target":"AUS","index":1.414,"alias":"green"},{"target":"BTN","index":1.422,"alias":"green"},{"target":"NLD","index":1.423,"alias":"green"},{"target":"PRT","index":1.425,"alias":"green"},{"target":"HUN","index":1.467,"alias":"green"},{"target":"CZE","index":1.475,"alias":"green"},{"target":"DEU","index":1.482,"alias":"green"},{"target":"QAT","index":1.491,"alias":"green"},{"target":"POL","index":1.532,"alias":"green"},{"target":"MUS","index":1.544,"alias":"green"},{"target":"SGP","index":1.545,"alias":"green"},{"target":"HRV","index":1.548,"alias":"green"},{"target":"ESP","index":1.548,"alias":"green"},{"target":"TWN","index":1.558,"alias":"green"},{"target":"URY","index":1.565,"alias":"green"},{"target":"CHL","index":1.591,"alias":"green"},{"target":"EST","index":1.635,"alias":"green"},{"target":"BGR","index":1.637,"alias":"green"},{"target":"MYS","index":1.659,"alias":"green"},{"target":"ITA","index":1.675,"alias":"green"},{"target":"ROU","index":1.677,"alias":"green"},{"target":"BWA","index":1.678,"alias":"green"},{"target":"KWT","index":1.679,"alias":"green"},{"target":"LAO","index":1.723,"alias":"yellow"},{"target":"LTU","index":1.745,"alias":"yellow"},{"target":"ARE","index":1.748,"alias":"yellow"},{"target":"MNG","index":1.778,"alias":"yellow"},{"target":"GHA","index":1.781,"alias":"yellow"},{"target":"ARG","index":1.789,"alias":"yellow"},{"target":"ZMB","index":1.791,"alias":"yellow"},{"target":"VNM","index":1.792,"alias":"yellow"},{"target":"LVA","index":1.797,"alias":"yellow"},{"target":"FRA","index":1.798,"alias":"yellow"},{"target":"GBR","index":1.808,"alias":"yellow"},{"target":"NAM","index":1.808,"alias":"yellow"},{"target":"LSO","index":1.839,"alias":"yellow"},{"target":"CYP","index":1.844,"alias":"yellow"},{"target":"SRB","index":1.849,"alias":"yellow"},{"target":"PRK","index":1.849,"alias":"yellow"},{"target":"IDN","index":1.853,"alias":"yellow"},{"target":"MNE","index":1.86,"alias":"yellow"},{"target":"JOR","index":1.861,"alias":"yellow"},{"target":"PAN","index":1.877,"alias":"yellow"},{"target":"NIC","index":1.882,"alias":"yellow"},{"target":"OMN","index":1.889,"alias":"yellow"},{"target":"TZA","index":1.889,"alias":"yellow"},{"target":"BIH","index":1.902,"alias":"yellow"},{"target":"CRI","index":1.902,"alias":"yellow"},{"target":"MAR","index":1.915,"alias":"yellow"},{"target":"Kosovo","index":1.929,"alias":"yellow"},{"target":"ALB","index":1.939,"alias":"yellow"},{"target":"MDG","index":1.942,"alias":"yellow"},{"target":"SLE","index":1.942,"alias":"yellow"},{"target":"GAB","index":1.945,"alias":"yellow"},{"target":"TLS","index":1.947,"alias":"yellow"},{"target":"BOL","index":1.969,"alias":"yellow"},{"target":"MDA","index":1.971,"alias":"yellow"},{"target":"SEN","index":1.974,"alias":"yellow"},{"target":"PRY","index":1.976,"alias":"yellow"},{"target":"DJI","index":1.979,"alias":"yellow"},{"target":"CUB","index":1.986,"alias":"yellow"},{"target":"NPL","index":1.989,"alias":"yellow"},{"target":"MWI","index":1.995,"alias":"yellow"},{"target":"BFA","index":1.998,"alias":"yellow"},{"target":"TUN","index":2.001,"alias":"yellow"},{"target":"SAU","index":2.003,"alias":"yellow"},{"target":"TGO","index":2.003,"alias":"yellow"},{"target":"MOZ","index":2.004,"alias":"yellow"},{"target":"GUY","index":2.013,"alias":"yellow"},{"target":"LBR","index":2.014,"alias":"yellow"},{"target":"ECU","index":2.042,"alias":"yellow"},{"target":"MKD","index":2.052,"alias":"yellow"},{"target":"GRC","index":2.056,"alias":"yellow"},{"target":"SWZ","index":2.056,"alias":"yellow"},{"target":"TTO","index":2.065,"alias":"yellow"},{"target":"PNG","index":2.066,"alias":"yellow"},{"target":"BRA","index":2.073,"alias":"yellow"},{"target":"BLR","index":2.078,"alias":"yellow"},{"target":"GNQ","index":2.079,"alias":"yellow"},{"target":"GMB","index":2.085,"alias":"yellow"},{"target":"DOM","index":2.093,"alias":"yellow"},{"target":"TKM","index":2.093,"alias":"yellow"},{"target":"ARM","index":2.097,"alias":"yellow"},{"target":"BGD","index":2.106,"alias":"yellow"},{"target":"HTI","index":2.127,"alias":"yellow"},{"target":"BEN","index":2.129,"alias":"yellow"},{"target":"USA","index":2.137,"alias":"yellow"},{"target":"AGO","index":2.143,"alias":"yellow"},{"target":"KAZ","index":2.15,"alias":"yellow"},{"target":"UZB","index":2.179,"alias":"yellow"},{"target":"LKA","index":2.197,"alias":"yellow"},{"target":"KHM","index":2.201,"alias":"yellow"},{"target":"JAM","index":2.203,"alias":"yellow"},{"target":"CHN","index":2.207,"alias":"yellow"},{"target":"COG","index":2.211,"alias":"yellow"},{"target":"UGA","index":2.221,"alias":"yellow"},{"target":"BHR","index":2.225,"alias":"yellow"},{"target":"GEO","index":2.225,"alias":"yellow"},{"target":"CMR","index":2.235,"alias":"yellow"},{"target":"DZA","index":2.239,"alias":"yellow"},{"target":"GTM","index":2.248,"alias":"yellow"},{"target":"SLV","index":2.28,"alias":"yellow"},{"target":"HND","index":2.281,"alias":"yellow"},{"target":"GIN","index":2.296,"alias":"yellow"},{"target":"PER","index":2.304,"alias":"yellow"},{"target":"MRT","index":2.35,"alias":"yellow"},{"target":"NER","index":2.351,"alias":"yellow"},{"target":"ZAF","index":2.364,"alias":"yellow"},{"target":"AZE","index":2.365,"alias":"yellow"},{"target":"ERI","index":2.377,"alias":"yellow"},{"target":"KGZ","index":2.382,"alias":"yellow"},{"target":"TJK","index":2.395,"alias":"yellow"},{"target":"THA","index":2.395,"alias":"yellow"},{"target":"TUR","index":2.402,"alias":"red"},{"target":"VEN","index":2.41,"alias":"red"},{"target":"BDI","index":2.418,"alias":"red"},{"target":"KEN","index":2.437,"alias":"red"},{"target":"LBN","index":2.452,"alias":"red"},{"target":"IRN","index":2.453,"alias":"red"},{"target":"PHL","index":2.456,"alias":"red"},{"target":"MLI","index":2.465,"alias":"red"},{"target":"MMR","index":2.473,"alias":"red"},{"target":"RWA","index":2.494,"alias":"red"},{"target":"MEX","index":2.5,"alias":"red"},{"target":"ETH","index":2.502,"alias":"red"},{"target":"CIV","index":2.52,"alias":"red"},{"target":"UKR","index":2.546,"alias":"red"},{"target":"TCD","index":2.558,"alias":"red"},{"target":"LBY","index":2.571,"alias":"red"},{"target":"IND","index":2.571,"alias":"red"},{"target":"GNB","index":2.591,"alias":"red"},{"target":"SSD","index":2.62,"alias":"red"},{"target":"ZWE","index":2.629,"alias":"red"},{"target":"NGA","index":2.662,"alias":"red"},{"target":"EGY","index":2.689,"alias":"red"},{"target":"COL","index":2.701,"alias":"red"},{"target":"ISR","index":2.71,"alias":"red"},{"target":"RUS","index":3.039,"alias":"red"},{"target":"PAK","index":3.071,"alias":"red"},{"target":"KOR","index":3.107,"alias":"red"},{"target":"YEM","index":3.213,"alias":"red"},{"target":"CAF","index":3.331,"alias":"red"},{"target":"SOM","index":3.362,"alias":"red"},{"target":"SDN","index":3.368,"alias":"red"},{"target":"SYR","index":3.377,"alias":"red"},{"target":"COD","index":3.397,"alias":"red"},{"target":"AFG","index":3.416,"alias":"red"},{"target":"IRQ","index":3.65,"alias":"red"},{"target":"ABW","alias":"gray","index":0},{"target":"AIA","alias":"gray","index":0},{"target":"ALA","alias":"gray","index":0},{"target":"AND","alias":"gray","index":0},{"target":"ANT","alias":"gray","index":0},{"target":"ASM","alias":"gray","index":0},{"target":"ATF","alias":"gray","index":0},{"target":"ATG","alias":"gray","index":0},{"target":"BHS","alias":"gray","index":0},{"target":"BLM","alias":"gray","index":0},{"target":"BLZ","alias":"gray","index":0},{"target":"BMU","alias":"gray","index":0},{"target":"BRB","alias":"gray","index":0},{"target":"BRN","alias":"gray","index":0},{"target":"BVT","alias":"gray","index":0},{"target":"CCK","alias":"gray","index":0},{"target":"COK","alias":"gray","index":0},{"target":"COM","alias":"gray","index":0},{"target":"CPV","alias":"gray","index":0},{"target":"CXR","alias":"gray","index":0},{"target":"CYM","alias":"gray","index":0},{"target":"DMA","alias":"gray","index":0},{"target":"ESH","alias":"gray","index":0},{"target":"FJI","alias":"gray","index":0},{"target":"FLK","alias":"gray","index":0},{"target":"FRO","alias":"gray","index":0},{"target":"FSM","alias":"gray","index":0},{"target":"GGY","alias":"gray","index":0},{"target":"GIB","alias":"gray","index":0},{"target":"GLP","alias":"gray","index":0},{"target":"GRD","alias":"gray","index":0},{"target":"GRL","alias":"gray","index":0},{"target":"GUF","alias":"gray","index":0},{"target":"GUM","alias":"gray","index":0},{"target":"HKG","alias":"gray","index":0},{"target":"HMD","alias":"gray","index":0},{"target":"IMN","alias":"gray","index":0},{"target":"IOT","alias":"gray","index":0},{"target":"JEY","alias":"gray","index":0},{"target":"KIR","alias":"gray","index":0},{"target":"KNA","alias":"gray","index":0},{"target":"LCA","alias":"gray","index":0},{"target":"LIE","alias":"gray","index":0},{"target":"LUX","alias":"gray","index":0},{"target":"MAC","alias":"gray","index":0},{"target":"MAF","alias":"gray","index":0},{"target":"MCO","alias":"gray","index":0},{"target":"MDV","alias":"gray","index":0},{"target":"MHL","alias":"gray","index":0},{"target":"MLT","alias":"gray","index":0},{"target":"MNP","alias":"gray","index":0},{"target":"MSR","alias":"gray","index":0},{"target":"MTQ","alias":"gray","index":0},{"target":"MYT","alias":"gray","index":0},{"target":"NCL","alias":"gray","index":0},{"target":"NFK","alias":"gray","index":0},{"target":"NIU","alias":"gray","index":0},{"target":"NRU","alias":"gray","index":0},{"target":"PCN","alias":"gray","index":0},{"target":"PLW","alias":"gray","index":0},{"target":"PRI","alias":"gray","index":0},{"target":"PSE","alias":"gray","index":0},{"target":"PYF","alias":"gray","index":0},{"target":"REU","alias":"gray","index":0},{"target":"SGS","alias":"gray","index":0},{"target":"SHN","alias":"gray","index":0},{"target":"SJM","alias":"gray","index":0},{"target":"SLB","alias":"gray","index":0},{"target":"SMR","alias":"gray","index":0},{"target":"SPM","alias":"gray","index":0},{"target":"STP","alias":"gray","index":0},{"target":"SUR","alias":"gray","index":0},{"target":"SYC","alias":"gray","index":0},{"target":"TCA","alias":"gray","index":0},{"target":"TKL","alias":"gray","index":0},{"target":"TON","alias":"gray","index":0},{"target":"TUV","alias":"gray","index":0},{"target":"UMI","alias":"gray","index":0},{"target":"VAT","alias":"gray","index":0},{"target":"VCT","alias":"gray","index":0},{"target":"VGB","alias":"gray","index":0},{"target":"VIR","alias":"gray","index":0},{"target":"VUT","alias":"gray","index":0},{"target":"WLF","alias":"gray","index":0},{"target":"WSM","alias":"gray","index":0}]
+[
+  {
+    "target": "ISL",
+    "index": 1.189,
+    "alias": "green"
+  },
+  {
+    "target": "NZL",
+    "index": 1.193,
+    "alias": "green"
+  },
+  {
+    "target": "CHE",
+    "index": 1.2,
+    "alias": "green"
+  },
+  {
+    "target": "FIN",
+    "index": 1.236,
+    "alias": "green"
+  },
+  {
+    "target": "AUT",
+    "index": 1.258,
+    "alias": "green"
+  },
+  {
+    "target": "NOR",
+    "index": 1.297,
+    "alias": "green"
+  },
+  {
+    "target": "BEL",
+    "index": 1.306,
+    "alias": "green"
+  },
+  {
+    "target": "JPN",
+    "index": 1.316,
+    "alias": "green"
+  },
+  {
+    "target": "CAN",
+    "index": 1.354,
+    "alias": "green"
+  },
+  {
+    "target": "DNK",
+    "index": 1.371,
+    "alias": "green"
+  },
+  {
+    "target": "SVK",
+    "index": 1.381,
+    "alias": "green"
+  },
+  {
+    "target": "SWE",
+    "index": 1.381,
+    "alias": "green"
+  },
+  {
+    "target": "IRL",
+    "index": 1.384,
+    "alias": "green"
+  },
+  {
+    "target": "SVN",
+    "index": 1.398,
+    "alias": "green"
+  },
+  {
+    "target": "AUS",
+    "index": 1.414,
+    "alias": "green"
+  },
+  {
+    "target": "BTN",
+    "index": 1.422,
+    "alias": "green"
+  },
+  {
+    "target": "NLD",
+    "index": 1.423,
+    "alias": "green"
+  },
+  {
+    "target": "PRT",
+    "index": 1.425,
+    "alias": "green"
+  },
+  {
+    "target": "HUN",
+    "index": 1.467,
+    "alias": "green"
+  },
+  {
+    "target": "CZE",
+    "index": 1.475,
+    "alias": "green"
+  },
+  {
+    "target": "DEU",
+    "index": 1.482,
+    "alias": "green"
+  },
+  {
+    "target": "QAT",
+    "index": 1.491,
+    "alias": "green"
+  },
+  {
+    "target": "POL",
+    "index": 1.532,
+    "alias": "green"
+  },
+  {
+    "target": "MUS",
+    "index": 1.544,
+    "alias": "green"
+  },
+  {
+    "target": "SGP",
+    "index": 1.545,
+    "alias": "green"
+  },
+  {
+    "target": "HRV",
+    "index": 1.548,
+    "alias": "green"
+  },
+  {
+    "target": "ESP",
+    "index": 1.548,
+    "alias": "green"
+  },
+  {
+    "target": "TWN",
+    "index": 1.558,
+    "alias": "green"
+  },
+  {
+    "target": "URY",
+    "index": 1.565,
+    "alias": "green"
+  },
+  {
+    "target": "CHL",
+    "index": 1.591,
+    "alias": "green"
+  },
+  {
+    "target": "EST",
+    "index": 1.635,
+    "alias": "green"
+  },
+  {
+    "target": "BGR",
+    "index": 1.637,
+    "alias": "green"
+  },
+  {
+    "target": "MYS",
+    "index": 1.659,
+    "alias": "green"
+  },
+  {
+    "target": "ITA",
+    "index": 1.675,
+    "alias": "green"
+  },
+  {
+    "target": "ROU",
+    "index": 1.677,
+    "alias": "green"
+  },
+  {
+    "target": "BWA",
+    "index": 1.678,
+    "alias": "green"
+  },
+  {
+    "target": "KWT",
+    "index": 1.679,
+    "alias": "green"
+  },
+  {
+    "target": "LAO",
+    "index": 1.723,
+    "alias": "yellow"
+  },
+  {
+    "target": "LTU",
+    "index": 1.745,
+    "alias": "yellow"
+  },
+  {
+    "target": "ARE",
+    "index": 1.748,
+    "alias": "yellow"
+  },
+  {
+    "target": "MNG",
+    "index": 1.778,
+    "alias": "yellow"
+  },
+  {
+    "target": "GHA",
+    "index": 1.781,
+    "alias": "yellow"
+  },
+  {
+    "target": "ARG",
+    "index": 1.789,
+    "alias": "yellow"
+  },
+  {
+    "target": "ZMB",
+    "index": 1.791,
+    "alias": "yellow"
+  },
+  {
+    "target": "VNM",
+    "index": 1.792,
+    "alias": "yellow"
+  },
+  {
+    "target": "LVA",
+    "index": 1.797,
+    "alias": "yellow"
+  },
+  {
+    "target": "FRA",
+    "index": 1.798,
+    "alias": "yellow"
+  },
+  {
+    "target": "GBR",
+    "index": 1.808,
+    "alias": "yellow"
+  },
+  {
+    "target": "NAM",
+    "index": 1.808,
+    "alias": "yellow"
+  },
+  {
+    "target": "LSO",
+    "index": 1.839,
+    "alias": "yellow"
+  },
+  {
+    "target": "CYP",
+    "index": 1.844,
+    "alias": "yellow"
+  },
+  {
+    "target": "SRB",
+    "index": 1.849,
+    "alias": "yellow"
+  },
+  {
+    "target": "PRK",
+    "index": 1.849,
+    "alias": "yellow"
+  },
+  {
+    "target": "IDN",
+    "index": 1.853,
+    "alias": "yellow"
+  },
+  {
+    "target": "MNE",
+    "index": 1.86,
+    "alias": "yellow"
+  },
+  {
+    "target": "JOR",
+    "index": 1.861,
+    "alias": "yellow"
+  },
+  {
+    "target": "PAN",
+    "index": 1.877,
+    "alias": "yellow"
+  },
+  {
+    "target": "NIC",
+    "index": 1.882,
+    "alias": "yellow"
+  },
+  {
+    "target": "OMN",
+    "index": 1.889,
+    "alias": "yellow"
+  },
+  {
+    "target": "TZA",
+    "index": 1.889,
+    "alias": "yellow"
+  },
+  {
+    "target": "BIH",
+    "index": 1.902,
+    "alias": "yellow"
+  },
+  {
+    "target": "CRI",
+    "index": 1.902,
+    "alias": "yellow"
+  },
+  {
+    "target": "MAR",
+    "index": 1.915,
+    "alias": "yellow"
+  },
+  {
+    "target": "Kosovo",
+    "index": 1.929,
+    "alias": "yellow"
+  },
+  {
+    "target": "ALB",
+    "index": 1.939,
+    "alias": "yellow"
+  },
+  {
+    "target": "MDG",
+    "index": 1.942,
+    "alias": "yellow"
+  },
+  {
+    "target": "SLE",
+    "index": 1.942,
+    "alias": "yellow"
+  },
+  {
+    "target": "GAB",
+    "index": 1.945,
+    "alias": "yellow"
+  },
+  {
+    "target": "TLS",
+    "index": 1.947,
+    "alias": "yellow"
+  },
+  {
+    "target": "BOL",
+    "index": 1.969,
+    "alias": "yellow"
+  },
+  {
+    "target": "MDA",
+    "index": 1.971,
+    "alias": "yellow"
+  },
+  {
+    "target": "SEN",
+    "index": 1.974,
+    "alias": "yellow"
+  },
+  {
+    "target": "PRY",
+    "index": 1.976,
+    "alias": "yellow"
+  },
+  {
+    "target": "DJI",
+    "index": 1.979,
+    "alias": "yellow"
+  },
+  {
+    "target": "CUB",
+    "index": 1.986,
+    "alias": "yellow"
+  },
+  {
+    "target": "NPL",
+    "index": 1.989,
+    "alias": "yellow"
+  },
+  {
+    "target": "MWI",
+    "index": 1.995,
+    "alias": "yellow"
+  },
+  {
+    "target": "BFA",
+    "index": 1.998,
+    "alias": "yellow"
+  },
+  {
+    "target": "TUN",
+    "index": 2.001,
+    "alias": "yellow"
+  },
+  {
+    "target": "SAU",
+    "index": 2.003,
+    "alias": "yellow"
+  },
+  {
+    "target": "TGO",
+    "index": 2.003,
+    "alias": "yellow"
+  },
+  {
+    "target": "MOZ",
+    "index": 2.004,
+    "alias": "yellow"
+  },
+  {
+    "target": "GUY",
+    "index": 2.013,
+    "alias": "yellow"
+  },
+  {
+    "target": "LBR",
+    "index": 2.014,
+    "alias": "yellow"
+  },
+  {
+    "target": "ECU",
+    "index": 2.042,
+    "alias": "yellow"
+  },
+  {
+    "target": "MKD",
+    "index": 2.052,
+    "alias": "yellow"
+  },
+  {
+    "target": "GRC",
+    "index": 2.056,
+    "alias": "yellow"
+  },
+  {
+    "target": "SWZ",
+    "index": 2.056,
+    "alias": "yellow"
+  },
+  {
+    "target": "TTO",
+    "index": 2.065,
+    "alias": "yellow"
+  },
+  {
+    "target": "PNG",
+    "index": 2.066,
+    "alias": "yellow"
+  },
+  {
+    "target": "BRA",
+    "index": 2.073,
+    "alias": "yellow"
+  },
+  {
+    "target": "BLR",
+    "index": 2.078,
+    "alias": "yellow"
+  },
+  {
+    "target": "GNQ",
+    "index": 2.079,
+    "alias": "yellow"
+  },
+  {
+    "target": "GMB",
+    "index": 2.085,
+    "alias": "yellow"
+  },
+  {
+    "target": "DOM",
+    "index": 2.093,
+    "alias": "yellow"
+  },
+  {
+    "target": "TKM",
+    "index": 2.093,
+    "alias": "yellow"
+  },
+  {
+    "target": "ARM",
+    "index": 2.097,
+    "alias": "yellow"
+  },
+  {
+    "target": "BGD",
+    "index": 2.106,
+    "alias": "yellow"
+  },
+  {
+    "target": "HTI",
+    "index": 2.127,
+    "alias": "yellow"
+  },
+  {
+    "target": "BEN",
+    "index": 2.129,
+    "alias": "yellow"
+  },
+  {
+    "target": "USA",
+    "index": 2.137,
+    "alias": "yellow"
+  },
+  {
+    "target": "AGO",
+    "index": 2.143,
+    "alias": "yellow"
+  },
+  {
+    "target": "KAZ",
+    "index": 2.15,
+    "alias": "yellow"
+  },
+  {
+    "target": "UZB",
+    "index": 2.179,
+    "alias": "yellow"
+  },
+  {
+    "target": "LKA",
+    "index": 2.197,
+    "alias": "yellow"
+  },
+  {
+    "target": "KHM",
+    "index": 2.201,
+    "alias": "yellow"
+  },
+  {
+    "target": "JAM",
+    "index": 2.203,
+    "alias": "yellow"
+  },
+  {
+    "target": "CHN",
+    "index": 2.207,
+    "alias": "yellow"
+  },
+  {
+    "target": "COG",
+    "index": 2.211,
+    "alias": "yellow"
+  },
+  {
+    "target": "UGA",
+    "index": 2.221,
+    "alias": "yellow"
+  },
+  {
+    "target": "BHR",
+    "index": 2.225,
+    "alias": "yellow"
+  },
+  {
+    "target": "GEO",
+    "index": 2.225,
+    "alias": "yellow"
+  },
+  {
+    "target": "CMR",
+    "index": 2.235,
+    "alias": "yellow"
+  },
+  {
+    "target": "DZA",
+    "index": 2.239,
+    "alias": "yellow"
+  },
+  {
+    "target": "GTM",
+    "index": 2.248,
+    "alias": "yellow"
+  },
+  {
+    "target": "SLV",
+    "index": 2.28,
+    "alias": "yellow"
+  },
+  {
+    "target": "HND",
+    "index": 2.281,
+    "alias": "yellow"
+  },
+  {
+    "target": "GIN",
+    "index": 2.296,
+    "alias": "yellow"
+  },
+  {
+    "target": "PER",
+    "index": 2.304,
+    "alias": "yellow"
+  },
+  {
+    "target": "MRT",
+    "index": 2.35,
+    "alias": "yellow"
+  },
+  {
+    "target": "NER",
+    "index": 2.351,
+    "alias": "yellow"
+  },
+  {
+    "target": "ZAF",
+    "index": 2.364,
+    "alias": "yellow"
+  },
+  {
+    "target": "AZE",
+    "index": 2.365,
+    "alias": "yellow"
+  },
+  {
+    "target": "ERI",
+    "index": 2.377,
+    "alias": "yellow"
+  },
+  {
+    "target": "KGZ",
+    "index": 2.382,
+    "alias": "yellow"
+  },
+  {
+    "target": "TJK",
+    "index": 2.395,
+    "alias": "yellow"
+  },
+  {
+    "target": "THA",
+    "index": 2.395,
+    "alias": "yellow"
+  },
+  {
+    "target": "TUR",
+    "index": 2.402,
+    "alias": "red"
+  },
+  {
+    "target": "VEN",
+    "index": 2.41,
+    "alias": "red"
+  },
+  {
+    "target": "BDI",
+    "index": 2.418,
+    "alias": "red"
+  },
+  {
+    "target": "KEN",
+    "index": 2.437,
+    "alias": "red"
+  },
+  {
+    "target": "LBN",
+    "index": 2.452,
+    "alias": "red"
+  },
+  {
+    "target": "IRN",
+    "index": 2.453,
+    "alias": "red"
+  },
+  {
+    "target": "PHL",
+    "index": 2.456,
+    "alias": "red"
+  },
+  {
+    "target": "MLI",
+    "index": 2.465,
+    "alias": "red"
+  },
+  {
+    "target": "MMR",
+    "index": 2.473,
+    "alias": "red"
+  },
+  {
+    "target": "RWA",
+    "index": 2.494,
+    "alias": "red"
+  },
+  {
+    "target": "MEX",
+    "index": 2.5,
+    "alias": "red"
+  },
+  {
+    "target": "ETH",
+    "index": 2.502,
+    "alias": "red"
+  },
+  {
+    "target": "CIV",
+    "index": 2.52,
+    "alias": "red"
+  },
+  {
+    "target": "UKR",
+    "index": 2.546,
+    "alias": "red"
+  },
+  {
+    "target": "TCD",
+    "index": 2.558,
+    "alias": "red"
+  },
+  {
+    "target": "LBY",
+    "index": 2.571,
+    "alias": "red"
+  },
+  {
+    "target": "IND",
+    "index": 2.571,
+    "alias": "red"
+  },
+  {
+    "target": "GNB",
+    "index": 2.591,
+    "alias": "red"
+  },
+  {
+    "target": "SSD",
+    "index": 2.62,
+    "alias": "red"
+  },
+  {
+    "target": "ZWE",
+    "index": 2.629,
+    "alias": "red"
+  },
+  {
+    "target": "NGA",
+    "index": 2.662,
+    "alias": "red"
+  },
+  {
+    "target": "EGY",
+    "index": 2.689,
+    "alias": "red"
+  },
+  {
+    "target": "COL",
+    "index": 2.701,
+    "alias": "red"
+  },
+  {
+    "target": "ISR",
+    "index": 2.71,
+    "alias": "red"
+  },
+  {
+    "target": "RUS",
+    "index": 3.039,
+    "alias": "red"
+  },
+  {
+    "target": "PAK",
+    "index": 3.071,
+    "alias": "red"
+  },
+  {
+    "target": "KOR",
+    "index": 3.107,
+    "alias": "red"
+  },
+  {
+    "target": "YEM",
+    "index": 3.213,
+    "alias": "red"
+  },
+  {
+    "target": "CAF",
+    "index": 3.331,
+    "alias": "red"
+  },
+  {
+    "target": "SOM",
+    "index": 3.362,
+    "alias": "red"
+  },
+  {
+    "target": "SDN",
+    "index": 3.368,
+    "alias": "red"
+  },
+  {
+    "target": "SYR",
+    "index": 3.377,
+    "alias": "red"
+  },
+  {
+    "target": "COD",
+    "index": 3.397,
+    "alias": "red"
+  },
+  {
+    "target": "AFG",
+    "index": 3.416,
+    "alias": "red"
+  },
+  {
+    "target": "IRQ",
+    "index": 3.65,
+    "alias": "red"
+  },
+  {
+    "target": "ABW",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "AIA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ALA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "AND",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ANT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ASM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ATF",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ATG",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BHS",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BLM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BLZ",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BMU",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BRB",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BRN",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "BVT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "CCK",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "COK",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "COM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "CPV",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "CXR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "CYM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "DMA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "ESH",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "FJI",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "FLK",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "FRO",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "FSM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GGY",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GIB",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GLP",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GRD",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GRL",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GUF",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "GUM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "HKG",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "HMD",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "IMN",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "IOT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "JEY",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "KIR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "KNA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "LCA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "LIE",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "LUX",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MAC",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MAF",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MCO",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MDV",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MHL",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MLT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MNP",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MSR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MTQ",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "MYT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "NCL",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "NFK",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "NIU",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "NRU",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "PCN",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "PLW",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "PRI",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "PSE",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "PYF",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "REU",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SGS",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SHN",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SJM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SLB",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SMR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SPM",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "STP",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SUR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "SYC",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "TCA",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "TKL",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "TON",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "TUV",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "UMI",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "VAT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "VCT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "VGB",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "VIR",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "VUT",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "WLF",
+    "alias": "gray",
+    "index": 0
+  },
+  {
+    "target": "WSM",
+    "alias": "gray",
+    "index": 0
+  }
+]
