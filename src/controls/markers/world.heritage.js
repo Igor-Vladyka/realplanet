@@ -30,7 +30,7 @@
         self.createPopupContent = function(datum){
             var content = '<h4 class="text-center">' + datum.name_en + '</h4>';
             if(datum.image){
-                content = content + '<img class="img-responsive" src="' + datum.image + '"></img>';
+                content = content + '<img class="img-responsive xs-hide" src="' + datum.image + '"></img>';
             }
 
             content = content + '<div><i>' + datum.short_description_en + '</i></div>';

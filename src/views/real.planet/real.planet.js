@@ -5,6 +5,10 @@
 
     function filterController($scope, $stateParams, map, filterModules, leafletData, AuthService){
 
+        $scope.validateInitialWidth = function(){
+            return window.innerWidth < 768;
+        }
+
         map.initialize($scope, {
             canAddMarkers: false,
             placemarkControl: false,
@@ -49,16 +53,20 @@
                     return this.checked;
                 });
 
+                var panel = $("#" + targetModule.name + "Content");
+
                 $(targetModule.options).filter(function(){
                     this.checked = active.length == 0;
                     var current = $("#" + targetModule.name + " input[value='" + this.alias + "']");
                     if(this.checked){
                         if(!current.parent().is(".active")){
                             current.parent().button("toggle");
+                            panel.collapse("toggle");
                         }
                     }else{
                         if(current.parent().is(".active")){
                             current.parent().button("toggle");
+                            panel.collapse("toggle");
                         }
                     }
                     return false;

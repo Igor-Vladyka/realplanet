@@ -1,5 +1,5 @@
 <div ng-controller="filterController" class="fullheight main-background">
-	<div class="col-lg-2 col-md-3 col-sm-4 nopadding">
+	<div class="col-lg-2 col-md-3 col-sm-4 nopadding" id="filters" ng-class="::{'collapse': validateInitialWidth()}">
 		<div id="countryPanel" ng-if="moduleManager.country">
 			<div class="media">
 				<div class="media-left media-middle f32">
@@ -27,7 +27,7 @@
 				  </div>
 				</div>
 				<hr class="divider-shadow" ng-hide="module.activeCountry">
-				<div id="{{module.name}}Content" class="collapse in" aria-expanded="true"  ng-hide="module.activeCountry">
+				<div id="{{module.name}}Content" class="collapse" aria-expanded="true"  ng-hide="module.activeCountry" ng-class="::{'in' : module.name === 'visa'}">
 					<div class="btn-group" data-toggle="buttons" style="width: 100%;">
 				    	<label class="btn white cell-hover divider-border-vertical" style="width: {{option.icon.cellWidth}};" ng-repeat="option in module.options"  ng-click="checkFilter(option)">
 				    		<input type="checkbox" name="multifilter" value="{{option.alias}}" ng-checked="option.checked">
@@ -46,7 +46,7 @@
 	    	</div>
 		</div>
 	</div>
-	<div class="col-lg-10 col-md-9 col-sm-8 nopadding fullheight">
+	<div class="col-lg-10 col-md-9 col-sm-8 col-xs-12 nopadding fullheight">
 		<leaflet class="fullheight" center="center" maxbounds="maxbounds"></leaflet>
 		<footer/>
 	</div>
