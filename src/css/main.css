@@ -18,6 +18,10 @@ body.footer{
 	resize: none;
 }
 
+* {
+	outline-color: transparent!important;
+}
+
 .img-responsive {
     max-width: 100%;
     height: auto;
