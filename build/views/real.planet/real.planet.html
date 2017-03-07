@@ -29,7 +29,7 @@
 				<hr class="divider-shadow" ng-hide="module.activeCountry">
 				<div id="{{module.name}}Content" class="collapse" aria-expanded="true"  ng-hide="module.activeCountry" ng-class="::{'in' : module.name === 'visa'}">
 					<div class="btn-group" data-toggle="buttons" style="width: 100%;">
-				    	<label class="btn white cell-hover divider-border-vertical" style="width: {{option.icon.cellWidth}};" ng-repeat="option in module.options"  ng-click="checkFilter(option)">
+				    	<label class="btn slategray cell-hover divider-border-vertical" style="width: {{option.icon.cellWidth}};" ng-repeat="option in module.options"  ng-click="checkFilter(option)">
 				    		<input type="checkbox" name="multifilter" value="{{option.alias}}" ng-checked="option.checked">
 				  			<i class="{{option.icon.class}} icon icon-small {{option.alias}}" ng-if="option.icon.i" title="{{option.text}}"></i>
 				    	</label>

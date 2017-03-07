@@ -34,7 +34,7 @@ self.addEventListener('activate', function(event) {
 });
 
 self.addEventListener('fetch', function(event) {
-    if(event.request.url.indexOf("tile.openstreetmap.org") === -1 && event.request.url.indexOf("arcgisonline") === -1){
+    if(event.request.url.indexOf("tile.openstreetmap.org") === -1 && event.request.url.indexOf("arcgisonline") === -1 && event.request.url.indexOf("localhost") === -1){
           event.respondWith(
             caches.match(event.request)
               .then(function(response) {

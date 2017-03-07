@@ -170,6 +170,15 @@ body.footer{
     color: #fff;
 }
 
+.slategray{
+    fill: slategray!important;
+    color: slategray;
+}
+
+.slategray > .icon {
+	color: slategray!important;
+}
+
 .indigo{
 	fill: indigo!important;
 }
