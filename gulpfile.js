@@ -33,7 +33,7 @@ gulp.task('files', ["clean"], function ()
             "./src/fonts/*.*",
             "./src/favicon.ico",
             "./src/images/flags32.png",
-            "./src/images/planet.png",
+            "./src/images/earth.png",
             "./src/images/unesco.png",
             "./src/images/markers/*.png"
     ];

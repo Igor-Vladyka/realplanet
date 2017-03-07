@@ -1,6 +1,7 @@
 {
     "name": "Real Planet",
     "short_name": "Real Planet",
+    "description": "Easy to use service that allow you to choose best place to visit next and see public points of interest",
     "start_url": "/build/",
     "scope": "/build/",
     "display": "standalone",
@@ -8,7 +9,7 @@
     "background_color": "#222533",
     "icons": [
         {
-            "src": "images/planet.png",
+            "src": "images/earth.png",
             "sizes": "256x256",
             "type": "image/png"
         }
