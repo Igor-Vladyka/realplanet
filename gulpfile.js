@@ -33,6 +33,7 @@ gulp.task('files', ["clean"], function ()
             "./src/fonts/*.*",
             "./src/favicon.ico",
             "./src/images/flags32.png",
+            "./src/images/planet.png",
             "./src/images/unesco.png",
             "./src/images/markers/*.png"
     ];
@@ -41,13 +42,26 @@ gulp.task('files', ["clean"], function ()
                         .pipe(gulp.dest(paths.webroot));;
 });
 
-gulp.task('version', ["files"], function ()
+gulp.task('version', ["clean"], function ()
 {
     return gulp.src('./src/views/footer.html', { base: './src' })
                             .pipe(injectVersion({replace: "localhost"}))
                             .pipe(gulp.dest(paths.webroot));
 });
 
+gulp.task('manifest', ["clean"], function ()
+{
+    return gulp.src('./src/sw.js', { base: './src' })
+                            .pipe(injectVersion({replace: "{{localhost}}"}))
+                            .pipe(gulp.dest(paths.webroot));
+});
+
+gulp.task('serviceWorker', ["clean"], function ()
+{
+    return gulp.src('./src/manifest.json', { base: './src' })
+                            .pipe(gulpif(argv.build, replace('/build/', '/realplanet/build/')))
+                            .pipe(gulp.dest(paths.webroot));
+});
 
 var cssStream = gulp.src(
     [
@@ -86,7 +100,7 @@ var appStream = gulp.src(
         './src/controls/**/*.js'
     ]);
 
-gulp.task('app', ['version'], function ()
+gulp.task('app', ['serviceWorker', 'manifest', 'version', 'files'], function ()
 {
     var libsCss = cssStream
                 .pipe(cssmin())

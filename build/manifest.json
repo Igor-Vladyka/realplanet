@@ -1,0 +1,16 @@
+{
+    "name": "Real Planet",
+    "short_name": "Real Planet",
+    "start_url": "/realplanet/build/",
+    "scope": "/realplanet/build/",
+    "display": "standalone",
+    "theme_color": "#01AEB4",
+    "background_color": "#222533",
+    "icons": [
+        {
+            "src": "images/planet.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}

@@ -39,3 +39,13 @@ Array.prototype.removeAll = function(key){
 }
 
 L.Icon.Default.imagePath = "images/markers/";
+
+if(navigator.serviceWorker){
+    navigator.serviceWorker.register('sw.js').then(function(registration) {
+      $.get("images/markers/marker-icon-green.png");
+      $.get("images/markers/marker-icon-red.png");
+      $.get("images/markers/marker-icon-orange.png");
+    }).catch(function(err) {
+      console.info('ServiceWorker registration failed: ', err);
+    });
+}
