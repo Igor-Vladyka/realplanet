@@ -110,7 +110,7 @@
 					this.alias = self.setupMonth(feature, this.index);
 					var a = this.alias;
 					this.icon = self.getCountryOption(feature, self.options, function(){ return a; });
-                    this.title = (this.text + "(" + self.getIconTitle(feature, this.index) + ")") || this.text;
+                    this.title = (this.icon.text + "(" + self.getIconTitle(feature, this.index) + ")") || this.icon.text;
 					return true;
 				});
 				self.monthPanel().show();

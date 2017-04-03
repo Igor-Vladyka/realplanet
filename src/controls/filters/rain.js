@@ -17,7 +17,7 @@
 		self.order = 7;
 
 		self.options = [
-                {alias:"red", text: "No raint at all", checked: false, icon: {i: true, class: "icon-fire", cellWidth: "20%"}},
+                {alias:"red", text: "No rain at all", checked: false, icon: {i: true, class: "icon-fire", cellWidth: "20%"}},
 				{alias:"yellow", text: "True rare", checked: false, icon: {i: true, class: "icon-weather-green-filter", cellWidth: "20%"}},
 				{alias:"green", text: "Sometimes", checked: false, icon: {i: true, class: "icon-weather-yellow-filter", cellWidth: "20%"}},
 				{alias:"blue", text: "Happens", checked: false, icon: {i: true, class: "icon-weather-orange-filter", cellWidth: "20%"}},
@@ -111,7 +111,7 @@
 					this.alias = self.setupMonth(feature, this.index);
 					var a = this.alias;
 					this.icon = self.getCountryOption(feature, self.options, function(){return a;});
-                    this.title = (this.text + "(" + self.getIconTitle(feature, this.index) + ")") || this.text;
+                    this.title = (this.icon.text + "(" + self.getIconTitle(feature, this.index) + ")") || this.icon.text;
 					return true;
 				});
 				self.rainPanel().show();
