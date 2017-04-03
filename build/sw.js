@@ -1,4 +1,4 @@
-var CACHE_NAME = 'real.planet.v0.1.1';
+var CACHE_NAME = 'real.planet.v0.1.2';
 var imagesToCache = [
   'images/unesco.png',
   'images/flags32.png',

@@ -60,6 +60,7 @@
                         return {
                             number: m.number,
                             alias: self.calculate(m.index),
+                            title: Math.floor(m.index) + "°",
                             index: m.index
                         }
                     })
@@ -88,12 +89,28 @@
 			return color;
 		};
 
+        self.getIconTitle = function (feature, index) {
+			var title = null;
+
+			var weather = self.getDataItem(feature, self.data);
+
+			if (weather != null) {
+				var month = $.grep(weather.months, function (e) { return e.number === index; });
+                if(month.length) {
+                    title = month[0].title;
+                }
+			}
+
+			return title;
+		};
+
 		self.evaluateCountry = function(feature){
 			if(feature){
 				$(self.months).filter(function(){
 					this.alias = self.setupMonth(feature, this.index);
 					var a = this.alias;
-					this.icon = self.getCountryOption(feature, self.options, function(){return a;});
+					this.icon = self.getCountryOption(feature, self.options, function(){ return a; });
+                    this.title = (this.text + "(" + self.getIconTitle(feature, this.index) + ")") || this.text;
 					return true;
 				});
 				self.monthPanel().show();
@@ -102,6 +119,7 @@
 				$(self.months).filter(function(){
 					this.alias = null;
 					this.icon = null;
+                    this.title = null;
 					return true;
 				});
 				self.monthPanel().hide();
