@@ -1,13 +1,10 @@
-var CACHE_NAME = 'real.planet.v0.1.6';
+var CACHE_NAME = 'real.planet.v0.1.6.1';
 var toCache = [
   'images/unesco.png',
   'images/flags32.png',
   'images/markers/marker-icon-green.png',
   'images/markers/marker-icon-red.png',
   'images/markers/marker-icon-orange.png',
-  'css/libs.min.css',
-  'js/app.min.js',
-  'js/libs.min.js',
   'fonts/icomoon.ttf'
 ];
 

@@ -5,9 +5,6 @@ var toCache = [
   'images/markers/marker-icon-green.png',
   'images/markers/marker-icon-red.png',
   'images/markers/marker-icon-orange.png',
-  'css/libs.min.css',
-  'js/app.min.js',
-  'js/libs.min.js',
   'fonts/icomoon.ttf'
 ];
 
