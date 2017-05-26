@@ -1,4 +1,5 @@
 window.notifyUpdateAvailable = function () {
+    /*
     var options = {
       "closeButton": false,
       "debug": false,
@@ -13,7 +14,8 @@ window.notifyUpdateAvailable = function () {
       "extendedTimeOut": "0",
     };
 
-    toastr.success("Reload to update.", "New version available", options);
+    toastr.success("Reload to update.", "New version available", options);*/
+    window.location.reload();
 };
 
 if ('serviceWorker' in navigator) {
