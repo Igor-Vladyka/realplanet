@@ -57,7 +57,7 @@ L.Icon.Default.imagePath = "images/markers/";
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').then(function(sw) {
-        registration.onupdatefound = function(){
+        sw.onupdatefound = function(){
             var registration = sw.installing;
             registration.onstatechange = function () {
                 switch(registration.state){
