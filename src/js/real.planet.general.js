@@ -1,5 +1,20 @@
+window.notifyUpdateAvailable = function () {
+    var options = {
+      "closeButton": false,
+      "debug": false,
+      "newestOnTop": false,
+      "progressBar": false,
+      "positionClass": "toast-bottom-full-width",
+      "preventDuplicates": true,
+      "onclick": function () { window.location.reload(); },
+      "showDuration": "0",
+      "hideDuration": "0",
+      "timeOut": "0",
+      "extendedTimeOut": "0",
+    };
 
-function busyIndicator(show) {};
+    toastr.success("Reload to update.", "New version available", options);
+};
 
 String.prototype.hash = function() {
   var self = this, range = Array(this.length);
@@ -9,7 +24,7 @@ String.prototype.hash = function() {
   return Array.prototype.map.call(range, function(i) {
     return self.charCodeAt(i).toString(16);
   }).join('');
-}
+};
 
 toastr.options = {
   "closeButton": false,
@@ -27,7 +42,7 @@ toastr.options = {
   "hideEasing": "linear",
   "showMethod": "fadeIn",
   "hideMethod": "fadeOut"
-}
+};
 
 Array.prototype.removeAll = function(key){
     var index = this.indexOf(key);
@@ -36,16 +51,35 @@ Array.prototype.removeAll = function(key){
 
     this.splice(index, 1);
     this.removeAll(key);
-}
+};
 
 L.Icon.Default.imagePath = "images/markers/";
 
-if(navigator.serviceWorker){
-    navigator.serviceWorker.register('sw.js').then(function(registration) {
-      $.get("images/markers/marker-icon-green.png");
-      $.get("images/markers/marker-icon-red.png");
-      $.get("images/markers/marker-icon-orange.png");
-    }).catch(function(err) {
-      console.info('ServiceWorker registration failed: ', err);
-    });
-}
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js').then(function(sw) {
+        registration.onupdatefound = function(){
+            var registration = sw.installing;
+            registration.onstatechange = function () {
+                switch(registration.state){
+                    case"installed":
+                        if (navigator.serviceWorker.controller) {
+                            console.info("New version available");
+                            window.notifyUpdateAvailable();
+                        }
+                        break;
+                    case"redundant":
+                        console.error("The installing service worker became redundant.");
+                        break;
+                }
+            };
+        };
+
+        $.get("images/markers/marker-icon-green.png");
+        $.get("images/markers/marker-icon-red.png");
+        $.get("images/markers/marker-icon-orange.png");
+
+        }).catch(function(err) {
+            console.info('ServiceWorker registration failed: ', err);
+        });
+
+    }
