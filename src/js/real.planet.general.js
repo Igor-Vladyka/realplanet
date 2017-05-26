@@ -54,32 +54,3 @@ Array.prototype.removeAll = function(key){
 };
 
 L.Icon.Default.imagePath = "images/markers/";
-
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js').then(function(sw) {
-        sw.onupdatefound = function(){
-            var registration = sw.installing;
-            registration.onstatechange = function () {
-                switch(registration.state){
-                    case"installed":
-                        if (navigator.serviceWorker.controller) {
-                            console.info("New version available");
-                            window.notifyUpdateAvailable();
-                        }
-                        break;
-                    case"redundant":
-                        console.error("The installing service worker became redundant.");
-                        break;
-                }
-            };
-        };
-
-        $.get("images/markers/marker-icon-green.png");
-        $.get("images/markers/marker-icon-red.png");
-        $.get("images/markers/marker-icon-orange.png");
-
-        }).catch(function(err) {
-            console.info('ServiceWorker registration failed: ', err);
-        });
-
-    }
