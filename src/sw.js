@@ -1,5 +1,5 @@
 var CACHE_NAME = 'real.planet.{{localhost}}';
-var imagesToCache = [
+var toCache = [
   'images/unesco.png',
   'images/flags32.png',
   'images/markers/marker-icon-green.png',
@@ -15,22 +15,29 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open(CACHE_NAME)
         .then(function(cache) {
-          return cache.addAll(imagesToCache);
+            return cache.addAll(toCache);
+        })
+        .then(function() { // Force the SW to transition from installing -> active state
+            return self.skipWaiting();
         })
     );
 });
 
 self.addEventListener('activate', function(event) {
+
     // Delete all cache on new activation;
-  event.waitUntil(
-    caches.keys().then(function(cacheNames) {
-      return Promise.all(
-        cacheNames.map(function(cacheName) {
-          return caches.delete(cacheName);
+    event.waitUntil(
+        caches.keys().then(function(cacheNames) {
+            var oldCacheNames = cacheNames.filter(function(f) { return f !== CACHE_NAME; });
+            return Promise.all(
+                oldCacheNames.map(function(cacheName) {
+                    return caches.delete(cacheName);
+                })
+            );
+        }).then(function() {
+            return self.clients.claim();
         })
-      );
-    })
-  );
+    );
 });
 
 self.addEventListener('fetch', function(event) {
