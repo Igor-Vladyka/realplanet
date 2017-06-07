@@ -7,13 +7,12 @@
 
         $scope.validateInitialWidth = function(){
             return window.innerWidth < 768;
-        }
+        };
 
         map.initialize($scope, {
             canAddMarkers: false,
             placemarkControl: false,
             searchControl: false,
-            mapProvider: "Esri.OceanBasemap",//"Stamen.Watercolor",//"OpenMapSurfer.Grayscale",
             mapOpt:{
                 click: function(e){
                         //filterModules.deactivateCountry();
@@ -71,7 +70,7 @@
                 });
 
                 $(targetModule.options).filter(function(){
-                    this.checked = active.length == 0;
+                    this.checked = !active.length;
                     var current = $("#" + targetModule.name + " input[value='" + this.alias + "']");
                     if(this.checked){
                         if(!current.parent().is(".active")){
@@ -106,7 +105,7 @@
             return filterModules.canChangeFilters() && $(module.options).filter(function(){
                 return this.checked;
             }).length;
-        }
+        };
 
     }
 

@@ -1,10 +1,9 @@
 angular.module('real.planet', [
-  'ui.router',
-  'leaflet-directive'
+  'ui.router'
 ]).config(['$stateProvider','$httpProvider', '$urlRouterProvider', '$logProvider', function($stateProvider, $httpProvider, $urlRouterProvider, $logProvider) {
 
 	    //$httpProvider.interceptors.push('realPlanetHttpInterceptor');
-	    $urlRouterProvider.otherwise("/filter/")
+	    $urlRouterProvider.otherwise("/filter/");
         $logProvider.debugEnabled(false);
 
 	  	$stateProvider
@@ -17,20 +16,19 @@ angular.module('real.planet', [
 	            url: "/scraping",
 	            data: { isPublic: false },
 	            templateUrl: "views/scraping/main.html"
-	        })
+	        });
   	}])
     .directive("footer", function(){
         return {
           templateUrl: "views/footer.html"
-        }
+      };
     })
     .run(["$rootScope", '$state', 'AuthService', function ($rootScope, $state, AuthService) {
       $rootScope.$on('$stateChangeStart', function (event, toState, toParams, fromState, fromParams) {
         // if already authenticated...
         var isAuthenticated = AuthService.isAuthenticated();
         // any public action is allowed
-        var isPublicAction = angular.isObject(toState.data)
-                           && toState.data.isPublic === true;
+        var isPublicAction = angular.isObject(toState.data) && toState.data.isPublic === true;
 
         if (isPublicAction || isAuthenticated) {
           return;
@@ -46,7 +44,7 @@ angular.module('real.planet', [
 
                 if (isAuthenticated) {
                   // let's continue, use is allowed
-                  $state.go(toState, toParams)
+                  $state.go(toState, toParams);
                   $rootScope.currentUser = user;
                   return;
                 } else{
@@ -56,6 +54,6 @@ angular.module('real.planet', [
 
            }, function(){
               $state.go("login");
-           })
-        })
-    }]);
+          });
+      });
+  }]);

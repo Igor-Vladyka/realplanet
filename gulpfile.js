@@ -83,8 +83,6 @@ var libsStream = gulp.src(
       "./src/libs/ext/angular/angular.min.js",
       "./src/libs/ext/angular-ui-router/release/angular-ui-router.min.js",
       "./src/libs/ext/leaflet/dist/leaflet.js",
-      "./src/libs/ext/leaflet-providers/leaflet-providers.js",
-      "./src/libs/ext/angular-leaflet-directive/dist/angular-leaflet-directive.min.js",
       "./src/libs/ext/leaflet.markercluster/dist/leaflet.markercluster.js"
   ]);
 
@@ -97,7 +95,8 @@ var appStream = gulp.src(
         './src/services/*.js',
         './src/services/**/*.js',
         './src/controls/*.js',
-        './src/controls/**/*.js'
+        './src/controls/**/*.js',
+        './src/providers/*.js'
     ]);
 
 gulp.task('app', ['serviceWorker', 'manifest', 'version', 'files'], function ()

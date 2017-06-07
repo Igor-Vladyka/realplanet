@@ -2,9 +2,9 @@
 
 	var mapsMeIconTemplate = "http://mapswith.me/placemarks/placemark-{style}.png";
 
-    angular.module('real.planet').service('map',["$q", "leafletData", "MapControls", "AuthService", map]);
+    angular.module('real.planet').service('map',["$q", "MapControls", "AuthService", map]);
 
-    function map($q, leafletData, MapControls, AuthService){
+    function map($q, MapControls, AuthService){
 
         var self = this;
 
@@ -16,7 +16,7 @@
                 className: 'marker-cluster marker-cluster-' + this.style,
                 iconSize: new L.Point(40, 40)
             });
-        }
+        };
 
         self.createClusterLayer = function(style){
             var opt = {
@@ -25,12 +25,12 @@
                         style: style
                     };
 
-            if(AuthService.getUser() != null && !AuthService.getUser().clasterization){
+            if (AuthService.getUser() && !AuthService.getUser().clasterization){
                 opt.disableClusteringAtZoom = 1;
             }
 
             return new L.markerClusterGroup(opt);
-        }
+        };
 
         self.initialize = function($scope, options){
 
@@ -59,11 +59,9 @@
                         }
                     }
                 }
-            }
+            };
 
             self.options = angular.extend(defaultOptions, options || {});
-
-            self.mapId = self.options.mapId;
 
             angular.extend(self.scope, {
                 center: {
@@ -78,11 +76,9 @@
                 }
             });
 
-            leafletData.getMap(self.mapId).then(function(map){
+            self.getMap().then(function(map){
 
                 map.addLayer(self.newPlacemarkLayer);
-
-                L.tileLayer.provider(self.options.mapProvider).addTo(map);
 
                 if(self.options.placemarkControl)
                 {
@@ -110,15 +106,15 @@
                 }
 
                 map.on(self.options.mapOpt);
-            })
-        }
+            });
+        };
 
         self.resetMap = function(){
             self.getRouteControl().spliceWaypoints(0, self.getRouteControl().getWaypoints().length);
             self.routes = [];
             self.clearAllLayers();
             self.layerGroups = {};
-        }
+        };
 
         self.getRouteControl = function(array){
             if(array){
@@ -131,23 +127,23 @@
             } else {
                 return MapControls.route();
             }
-        }
+        };
 
         self.getMap = function (){
             var deferred = $q.defer();
-            leafletData.getMap(self.mapId).then(function(map){ deferred.resolve(map); });
+			deferred.resolve(MapControls.getMap());
             return deferred.promise;
-        }
+        };
 
         self.searchCallback = function(bounds, latLng, name){
             RW.map.fitBounds(bounds);
             self.addPlacemark(latLng, name);
-        }
+        };
 
         self.toggleLayerGroups = function(name, boolValue){
             var layer = self.layerGroups[name];
 
-            leafletData.getMap(self.mapId).then(function(map){
+            self.getMap().then(function(map){
 
                 if(boolValue){
 
@@ -163,7 +159,7 @@
 
                 }
             });
-        }
+        };
 
         self.clearAllLayers = function(){
             for (var l in self.layerGroups)
@@ -172,10 +168,10 @@
             }
 
             self.allLayerGroupsObjects = [];
-        }
+        };
 
         self.addLayerGroup = function(name, collection, style){
-            leafletData.getMap(self.mapId).then(function(map){
+            self.getMap().then(function(map){
                     var items = [];
                     $(collection).filter(function(){
                         var latLng = self.createLatLngFromStringCoordinates(this.coordinates);
@@ -192,10 +188,10 @@
 
                     self.layerGroups[name].addLayers(items);
             });
-        }
+        };
 
         self.addLayerGroupItem = function(name, item, style){
-            leafletData.getMap(self.mapId).then(function(map){
+            self.getMap().then(function(map){
                     var latLng = self.createLatLngFromStringCoordinates(item.coordinates);
                     item.latLng = latLng;
 
@@ -209,14 +205,14 @@
 
                     self.layerGroups[name].addLayer(obj);
             });
-        }
+        };
 
         self.createLatLngFromStringCoordinates = function(coordinates){
             var lat = coordinates.split(',')[0];
             var lng = coordinates.split(',')[1];
 
             return [lat, lng];
-        }
+        };
 
         self.createMarker = function(latLng, style){
             var icon = L.icon({iconUrl: mapsMeIconTemplate.replace("{style}", style), iconAnchor: [9,24]});
@@ -232,7 +228,7 @@
             self.scope.placemark = null;
 
             return marker;
-        }
+        };
 
         self.addPlacemark = function (latLng, name){
             if(self.options.canAddMarkers){
@@ -246,10 +242,10 @@
                     "name": name || "",
                     "coordinates": latLng.toString(),
                     "collection": {}
-                }
+                };
 
                 self.scope.$apply();
             }
-        }
+        };
     }
 })();

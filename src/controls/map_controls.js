@@ -1,11 +1,28 @@
 (function() {
 
     angular.module('real.planet')
-        .service('MapControls', ["$compile", MapControls]);
+        .service('MapControls', ["$compile", "mapProvider", MapControls]);
 
-        function MapControls($compile){
+        function MapControls($compile, mapProvider){
             var self = this;
+            
+            self.printControl = function (){
+                return L.browserPrint({printLayer: mapProvider.tiles.CartoDB.Positron});
+            };
 
+            self.getMap = function (defaultOptions) {
+                if (!mapProvider.map) {
+
+                    mapProvider.map = L.map('realplanetmap', defaultOptions);
+
+                    mapProvider.tiles.Esri.OceanBasemap.addTo(mapProvider.map);
+
+                    //self.printControl().addTo(mapProvider.map);
+                }
+
+                return mapProvider.map;
+            };
+                        
             self.placemark = function (scope){
                 self.scope = scope;
                 if(!self._placemark){
